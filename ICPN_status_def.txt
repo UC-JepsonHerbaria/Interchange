@@ -1,0 +1,45 @@
+Current Status: 1, accepted name for taxon native to CA
+Current Status: 1a, taxonomic or nomenclatural synonym for taxon native to CA
+Current Status: 1b, unpublished, invalidly published, illegitimate, or rejected name for taxon native to CA
+Current Status: 2, accepted name for taxon naturalized in CA
+Current Status: 2a, taxonomic or nomenclatural synonym for taxon naturalized in CA
+Current Status: 2b, unpublished, invalidly published, illegitimate, or rejected name for taxon naturalized in CA
+
+B. In CA but not in CA Flora (escaped from or persistent beyond cultivation but not naturalized in CA, or occurring in cultivation in CA but only as a weed, without deliberate human fostering)
+
+Current Status: 3, accepted name for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+Current Status: 3a, taxonomic or nomenclatural synonym for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+Current Status: 3b, unpublished, invalidly published, illegitimate, or rejected name for for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+Current Status: 4, accepted name for taxon occurring in CA only as an agricultural, garden, or urban weed
+Current Status: 4a, taxonomic or nomenclatural synonym for taxon occurring in CA only as an agricultural, garden, or urban weed - tr (no records)
+Current Status: 4b, unpublished, invalidly published, illegitimate, or rejected name for taxon occurring in CA only as an agricultural, garden, or urban weed
+Current Status: 5, accepted name for taxon occurring in CA only as greenhouse weed - tr (no records)
+Current Status: 5a, taxonomic or nomenclatural synonym for taxon occurring in CA only as greenhouse weed - tr (no records)
+
+C. Not in CA or in CA only in cultivation, under deliberate human fostering (extirpation intentional or not, of native or alien taxa)
+
+Current Status: 6, accepted name for taxon extirpated in CA
+Current Status: 6a, taxonomic or nomenclatural synonym for taxon extirpated in CA
+Current Status: 7, accepted name for taxon extinct
+Current Status: 7a, taxonomic or nomenclatural synonym for taxon extinct
+Current Status: 8, accepted name for taxon not occurring in CA (erroneous reports, misapplication of names, misidentifications, other exclusions)
+Current Status: 8a, taxonomic or nomenclatural synonym for taxon not occurring in CA (erroneous reports, misapplication of names, misidentifications, other exclusions)
+Current Status: 8b, unpublished, invalidly published, illegitimate, or rejected name for taxon not occurring in CA (erroneous reports, misapplication of names, misidentifications, other exclusions)
+Current Status: 9, accepted name for plant occurring in CA only under cultivation (e.g., as crop, ornamental, or experimental plant)
+Current Status: 9a, taxonomic or nomenclatural synonym for plant occurring in CA only under cultivation (e.g., as crop, ornamental, or experimental plant)
+
+D. Special Categories
+
+Current Status: 10, accepted name for taxonomically recognized and/or fertile hybrid; hybrid form of name
+Current Status: 10a, accepted name for taxonomically recognized and/or fertile hybrid; non-hybrid form of name
+Current Status: 10b, taxononomic or nomenclatural synonym for taxonomically recognized and/or fertile hybrid; hybrid form of name
+Current Status: 10bb, unpublished, invalidly published, illegitimate, or rejected name for taxonomically recognized and/or fertile hybrid; hybrid form of name
+Current Status: 10c, taxonomic or nomenclatural synonym for taxonomically recognized and/or fertile hybrid; non-hybrid form of name
+Current Status: 11, taxonomically not recognized and/or sterile hybrid; hybrid form of name
+Current Status: 11a, taxonomically not recognized and/or sterile hybrid; non-hybrid form of name
+Current Status: 12, quadrinomial treated as trinomial elsewhere in this checklist
+Current Status: 13, represents correction or possible correction only in spelling or rank and treated elsewhere in this checklist
+Current Status: 14, orthographic variant of name treated elsewhere in this checklist
+Current Status: 15, genus name
+Current Status: 16, family name
+Current Status: 17, unpublished, invalidly published, illegitimate, or rejected name for taxon of unknown or uncertain status with respect to the flora of California
