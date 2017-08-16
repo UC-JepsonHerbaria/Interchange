@@ -1,18 +1,21 @@
-$smasch_ID_file="../smasch_taxon_ids.txt";
-$ICPN_file="icpn_current.txt";
+use lib '/Users/davidbaxter/DATA';
+use CCH;
+
+$smasch_ID_file="/Users/davidbaxter/DATA/smasch_taxon_ids.txt";
+$ICPN_file="/Users/davidbaxter/DATA/Interchange/icpn_current.txt";
 open(IN, "$smasch_ID_file") || die;
 while(<IN>){
 	chomp;
 	($code,$name,@residue)=split(/\t/);
 	$TNOAN{$name}=$code;
 }
-open(ERR, ">check_sn_error.txt") || die;
-open(NOCODE, ">check_sn_no_code.txt") || die;
+open(ERR, ">output/check_sn_error.txt") || die;
+open(NOCODE, ">output/check_sn_no_code.txt") || die;
 
 {
 open(IN, "$ICPN_file") || die "Couldnt open ICPN_current.txt\n";
 local($/)="";
-open(OUT, ">CPN_out.txt") || die;
+open(OUT, ">/Users/davidbaxter/DATA/Interchange/CPN_out.txt") || die;
 while(<IN>){
 	#unless (1 .. /PTERIDO/){
 		#print " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
@@ -26,6 +29,12 @@ while(<IN>){
 	s/ $//;
 	s/ \n/\n/g;
 s/(...)Effort: @/$1\nEffort: @/;
+#get rid of lone lines that Tom has added for his own purposes
+	s/Mimulus end\n//;
+	s/Mimulus beginning\n//;
+	s/Problem:.*\n//;
+	s/&times;/X /g;
+	s/  +/ /g;
 	if(m/^(Admin|Family:)/){
 		next;
 	}
@@ -46,6 +55,12 @@ s/(...)Effort: @/$1\nEffort: @/;
 		#warn "skipping quadrinomial $name\n";
 		next;
 	}
+
+
+	if($name =~ m/^[xX] ([A-Z][a-z]+ [a-z]+).*/){
+		$name = $1;
+	}
+	
 	unless($TNOAN{&strip_name($name)}){
 		warn "no code for $name stripped as ", &strip_name($name), "\n";
 		print NOCODE  "no code for ", &strip_name($name), "\t$name\n";
@@ -106,24 +121,6 @@ s/\303\261/&ntilde;/g;
 s/\303\262/&ograve;/g;
 s/\303\242/&acirc;/g;
 s/<#f6>/&ouml;/g;
-#s/\x9f/&uuml;/g;
-#s/\x8e/&ntilde;/g;
-#s/\x87/&aacute;/g;
-#s/\xC3\x89/&Eacute;/g;
-##s/\xdb/"/g;
-#s/\x9a/&ouml;/g;
-#s/\x91/&euml;/g;
-#s/\x8a/&auml;/g;
-#s/\x8d/&ccedil;/g;
-#s/\xcf/&uacute;/g;
-#s/\x97/&oacute;/g;
-#s/\xa1/--/g;
-#s/\x83/&Eacute;/g;
-#s/\x85/&Ouml;/g;
-##s/\xc3\xb1/&ntilde;/g;
-##s/\xc3\xc5/&Scaron;/g;
-##s/\xc3\xc2/1\/4/g;
-
 
 	@lines=split(/\n/);
 
@@ -239,70 +236,5 @@ foreach(sort(@badtag, @SN)){
 	print ERR "$_\n" unless m/Version Date:/;
 	warn "$_\n" unless m/Version Date:/;
 }
-sub strip_name{
-	local($_) = @_;
-	return unless $_;
-#print "SAPONARIA: $_" if m/saponaria/;
-if(m/Encelia californica .*Encelia farinosa/){
-return("Encelia californica X Encelia farinosa");
-}
-if(m/Encelia farinosa .*Encelia frutescens/){
-return("Encelia farinosa X Encelia frutescens");
-}
-if(m/Aloe saponaria.*A.*striata.*/){
-return("Aloe saponaria X Aloe striata");
-}
-if(m/Spartina alterniflora .* Spartina foliosa.*/){
-return("Spartina alterniflora X Spartina foliosa");
-}
-s/Uva-Ursi pechoensis.*/Uva-Ursi pechoensis/;
 
-
-
-	s/^ *//;
-	s/ x / X /;
-s/&times;/X /;
-s/ ex [A-Z][a-z.]+$//;
-s/^[xX] ([A-Z][a-z]+ [a-z]+).*/$1/;
-
-s/Ait. f\./Ait. filius/g;
-s/Bakh. f\./Bakh. filius/g;
-s/Balf. f\./Balf. filius/g;
-s/Burm. f\./Burm. filius/g;
-s/Delar. f\./Delar. filius/g;
-s/Forst. f\./Forst. filius/g;
-s/Gaertn. f\./Gaertn. filius/g;
-s/Haage f\./Haage filius/g;
-s/Haller f\./Haller filius/g;
-s/Hallier f\./Hallier filius/g;
-s/Hedw. f\./Hedw. filius/g;
-s/Hook. f\./Hook. filius/g;
-s/Jacq. f\./Jacq. filius/g;
-s/L\. f\. sulcat/f. sulcat/g;
-s/L. f\./L. filius/g;
-s/Lestib. f\./Lestib. filius/g;
-s/Lindb. f\./Lindb. filius/g;
-s/Lindm. f\./Lindm. filius/g;
-s/Luer f\./Luer filius/g;
-s/Michx. f\./Michx. filius/g;
-s/Phil. f\./Phil. filius/g;
-s/Rech. f\./Rech. filius/g;
-s/Rehb. f\./Rehb. filius/g;
-s/Reichenb. f\./Reichenb. filius/g;
-s/Schult. f\./Schult. filius/g;
-s/Wallr. f\./Wallr. filius/g;
-s/Wendl. f\./Wendl. filius/g;
-s/Fragaria × ananassa Duchesne var. cuneifolia.*/Fragaria × ananassa var. cuneifolia/ ||
-s/Trifolium variegatum Nutt. phase (\d)/Trifolium variegatum phase $1/ ||
-	s/^([A-Z][a-z]+) (X?[-a-z]+).*(subsp.) ([-a-z]+).*(var\.) ([-a-z]+).*/$1 $2 $3 $4 $5 $6/ ||
-	s/^([A-Z][a-z]+ [a-z]+) (X [-A-Z][a-z]+ [a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+) (X [-a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+ [a-z]+) (× [-A-Z][a-z]+ [a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+) (× [-a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+) (X?[-a-z]+).*(subvar\.|ssp\.|var\.|f\.|subsp\.) ([-a-z]+).*/$1 $2 $3 $4/ ||
-	s/^([A-Z][a-z]+) (X?[-a-z]+).*/$1 $2/||
-	s/^([A-Z][a-z]+) [A-Z(].*/$1/;
-#print "SAPONARIA: $_" if m/saponaria/;
-	return ($_);
-}
 
