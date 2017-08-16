@@ -12,18 +12,20 @@
 ##print "$_\n";
 #}
 #close(IN);
+warn <<EOP;
+Croton setiger -setigerus problem and Muller. Arg. accent problem
+EOP
 
 
 
-$treat_hash="JM_treatments_h";
+#$treat_hash="/!proj/interchange/update - 4 Nov 2005/flat_dbm_6";
+$treat_hash="output/flat_dbm_6.txt";
 die $! unless -e $treat_hash;
-use BerkeleyDB;
-tie(%name_hash, "BerkeleyDB::Hash", -Filename=>$file, -Flags=>DB_RDONLY);
-$par_count=scalar(keys(%TREAT));
-print $par_count;
---$par_count;
-foreach $par (1 .. $par_count){
-	$entry=$TREAT{$par};
+open(IN,"$treat_hash") || die;
+$/="";
+while(<IN>){
+chomp;
+($par,$entry)=split(/\n/);
 	if($entry=~m/family_par/){
 $_=$entry;
 ($last_family)=m|<family_name> *([^>]+) *</family_name>|;
@@ -46,14 +48,25 @@ EOP
 }
 }
 
+close(IN);
+
+#open(IN,"ICPN_from_TJM2") || die;
+#$/="";
+#while(<IN>){
+#chomp;
+#$new_from_TJM2{
+#}
 {
-open(IN, "caplantnames.txt") || die;
+#open(IN, "caplantnames.txt") || die;
 local($/)="";
-open(OUT, ">CPN.OUT") || die;
-while(<IN>){
+open(OUT, ">cpn_out.txt") || die;
+while(<>){
 unless (1 .. /PTERIDO/){
-die "colon--$lastline$_\n" if m/^.{3,25}:/;
+die " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
 }
+s/^=====.*\n.//;
+
+s/^\.//; #Get rid of leading periods  -  29 Sep 2006 by CAM
 s/LINK.*FNA.*\n//;
 s/LINK.*Check the California Weed.*\n//;
 s/  +/ /g;
@@ -98,7 +111,7 @@ s/É/&Eacute;/g;
 s/ñ/&ntilde;/g;
 s/ó/&oacute;/g;
 s/ê/&ecirc;/g;
-s/ç/&ccedil/g;
+s/ç/&ccedil;/g;
 s/í/'/g;
 s/–/-/g;
 s/±/&plus_minus;/g;
@@ -109,11 +122,17 @@ s/zzxx/<\/sn>/g;
 	@lines=split(/\n/);
 foreach $j (0 .. $#lines){
 if($lines[$j] =~ /^(Family|Author Notes)/){
-die "collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
+die "Dying collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
 }
 }
+
+#print "$name\n";
+
+
 if($#lines <= 3){
-die "Possible bad blank after $name\n$_\n";
+#warn "Possible bad blank after $name\n$_\n";
+print "\n\nPossible bad blank after $name\n$_\n";
+next;
 }
 
 	($name)=m/^(.*)/;
@@ -162,7 +181,10 @@ unless ($seen{$_}++){
 		s/Correspondence: */CR: / ||
 		s/Correspondence ([0-9]+): */CR$1: / ||
 		s!^TJM synonyms: *!TSN: ! ||
-		s!^TJD?M misapplied names: *!TMN: ! ||
+		s!^TJM2 synonyms: *!TSN2: ! ||
+		s!^Current JFP [Ss]ynonyms?: *!JFPS: ! ||
+		s!^TJD?M misapplied names?: *!TMN: ! ||
+		s!^Current JFP [Mm]isapplied names?: *!JFPMN: ! ||
 		s/^Literature: */RL: / ||
 		s/^Literature ([a-z]): */RL$1: / ||
 		s/^Recent Literature ([a-z]): */RL$1: / ||
@@ -172,6 +194,7 @@ unless ($seen{$_}++){
 		s/^Author Notes: /AN: /  ||
 		s/^LINK: /LINK: /  ||
 		s/^Variant [Ss]pelling: /VS: /  ||
+s/Types Info: */TI: / ||
 		s/^Synonyms not explicitly cited in TJM: /SNTJM: /)  ||
 push(@badtag, "$name [tag]: |$_");
 
@@ -182,11 +205,15 @@ push(@badtag, "$name [tag]: |$_");
 		($name)=m/^([^\s]+)/;
 		if(m/15.*genus name/){
 			$GN=$name;
+$added_genus{$name}++;
 		}
 		elsif($name ne $GN){
 			if ($stored_genus{$name}){
+unless($added_genus{$name}++){
 				print OUT $stored_genus{$name};
+
 				$GN=$name;
+}
 			}
 		}
 
@@ -195,7 +222,11 @@ push(@badtag, "$name [tag]: |$_");
 print OUT;
 $lastline=$_;
 }
+
 }
 foreach(sort(@badtag, @SN)){
+print "$_\n" unless m/Version Date:/;
+}
+foreach(sort(@added_genus, @SN)){
 print "$_\n" unless m/Version Date:/;
 }
