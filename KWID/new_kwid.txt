@@ -1,0 +1,259 @@
+NEW:	Achillea millefolium	8266 3261 0475 0021	William R. Hewlett © 1999 California Academy of Sciences
+NEW:	Achlys californica	3333 3333 1007 0315	© University and Jepson Herbaria
+NEW:	Achyrachaena mollis	0000 0000 1202 0086	© 2002 Lynn Watson
+NEW:	Adenophyllum cooperi	0000 0000 1010 1608	© 2010 Neal Kramer
+NEW:	Adenophyllum porophylloides	5208 1611 2417 0016	© 1995 Saint Mary's College of California
+NEW:	Ageratina herbacea	0000 0000 1210 0071	© 2010 James M. Andre
+NEW:	Ageratina occidentalis	5315 2021 1101 0024	© 1995 Saint Mary's College of California
+NEW:	Ageratina shastensis	0000 0000 0911 0856	© 2011 Len Lindstrand III
+NEW:	Agoseris apargioides	5315 2021 1568 0031	© 1995 Saint Mary's College of California
+NEW:	Agoseris apargioides var. eastwoodiae	0000 0000 0409 0383	© 2009 Eric Wrubel
+NEW:	Agoseris grandiflora	8120 3181 4904 0005	Charles Webber © 1998 California Academy of Sciences
+NEW:	Agoseris heterophylla var. cryptopleura	0000 0000 0412 0526	© 2012 Barry Rice
+NEW:	Agoseris monticola	0000 0000 0512 0060	© 2012 Barry Breckling
+NEW:	Agoseris parviflora	0000 0000 0911 1552	© 2011 Jean Pawek
+NEW:	Alnus incana subsp. tenuifolia	0000 0000 0912 0058	© 2012 Julie Kierstead Nelson
+NEW:	Alnus rhombifolia	7335 3182 4414 0084	© 1995 Saint Mary's College of California
+NEW:	Alnus rubra	7335 3182 4414 0078	© 1995 Saint Mary's College of California
+NEW:	Alnus viridis subsp. sinuata	3333 3333 1007 0002	© University and Jepson Herbaria
+NEW:	Amaranthus blitoides	0000 0000 0511 0774	© 2011 Barry Breckling
+NEW:	Amaranthus californicus	0000 0000 1103 0579	© 2003 Keir Morse
+NEW:	Amaranthus fimbriatus	0000 0000 1112 0566	© 2012 Keir Morse
+NEW:	Amaranthus palmeri	0000 0000 0511 0775	© 2011 Barry Breckling
+NEW:	Amaranthus powellii	0000 0000 0305 0757	© 2005 Steve Matson
+NEW:	Amaranthus torreyi	0000 0000 1112 0556	� 2012 Keir Morse
+NEW:	Amblyopappus pusillus	0000 0000 0510 2811	© 2010 Michael O'Brien
+NEW:	Ambrosia acanthicarpa	0000 0000 1208 1510	© 2008 Keir Morse
+NEW:	Ambrosia chamissonis	6043 1632 1014 0009	© 1995 Saint Mary's College of California
+NEW:	Ambrosia chenopodiifolia	0000 0000 0402 0174	© 1993 Arthur H. Bazell, M.D.
+NEW:	Ambrosia confertiflora	0000 0000 0803 0365	© 2003 Stanley Spencer
+NEW:	Ambrosia pumila	0000 0000 0410 1768	© 2010 Benjamin Smith
+NEW:	Ambrosia salsola	0000 0000 0710 1264	© 2010 Jean Pawek
+NEW:	Ammoselinum giganteum	0000 0000 1111 2562	© 2011 Steve Matson
+NEW:	Amphipappus fremontii	8120 3181 4014 0019	Charles Webber © 1998 California Academy of Sciences
+NEW:	Amphipappus fremontii var. fremontii	0000 0000 1105 1304	© 2005 James M. Andre
+NEW:	Amphipappus fremontii var. spinosus	0000 0000 0109 2731	© 2009 Keir Morse
+NEW:	Amsinckia douglasiana	3333 3333 1007 0263	© University and Jepson Herbaria
+NEW:	Amsinckia eastwoodiae	0000 0000 1208 2167	© 2008 Chris Winchell
+NEW:	Amsinckia grandiflora	0000 0000 0305 0889	© 2005 Dieter Wilken
+NEW:	Amsinckia lunaris	3333 3333 1007 1006	© University and Jepson Herbaria
+NEW:	Amsinckia lycopsoides	3333 3333 1007 1173	© University and Jepson Herbaria
+NEW:	Amsinckia menziesii	0000 0000 1007 0353	© 2007 Neal Kramer
+NEW:	Amsinckia spectabilis	6666 6666 0409 0017	Gerald and Buff Corsi © 2009 California Academy of Sciences
+NEW:	Amsinckia spectabilis var. spectabilis	0000 0000 0613 0789	© 2013 Robert Steers/NPS
+NEW:	Amsinckia tessellata var. gloriosa	0000 0000 1013 0084	© 2013 Neal Kramer
+NEW:	Amsinckia vernicosa	0000 0000 0410 1512	© 2010 Christopher Bronny
+NEW:	Anaphalis margaritacea	8120 3181 4565 0132	Charles Webber © 1998 California Academy of Sciences
+NEW:	Ancistrocarphus filagineus	0000 0000 0502 0323	� 2002 Dean Wm. Taylor
+NEW:	Ancistrocarphus keilii	0000 0000 0706 0149	© 2006 James Morefield
+NEW:	Arabis breweri var. pecuniaria	0000 0000 1009 1292	� 2009 Thomas Stoughton
+NEW:	Arctostaphylos bakeri subsp. sublaevis	0000 0000 0212 0210	� 2012 John Game
+NEW:	Arctostaphylos crustacea subsp. crinita	0000 0000 0211 2165	� 2011 Neal Kramer
+NEW:	Arctostaphylos franciscana	0000 0000 0212 0562	� 2012 John Game
+NEW:	Arctostaphylos glandulosa subsp. crassifolia	0000 0000 0413 0168	� 2013 Keir Morse
+NEW:	Arctostaphylos glandulosa subsp. gabrielensis	0000 0000 1111 0015	� 2011 Neal Kramer
+NEW:	Arctostaphylos glandulosa subsp. mollis	0000 0000 1111 0018	� 2011 Neal Kramer
+NEW:	Arctostaphylos glutinosa	0000 0000 0211 2166	© 2011 Neal Kramer
+NEW:	Arctostaphylos montana subsp. montana	0000 0000 0312 1355	� 2012 Neal Kramer
+NEW:	Arctostaphylos montana subsp. ravenii	0000 0000 0212 0602	� 2012 John Game
+NEW:	Arctostaphylos parryana subsp. parryana	0000 0000 1012 2320	� 2012 Neal Kramer
+NEW:	Arctostaphylos sensitiva	0177 3303 1982 0005	� 2001 CDFA
+NEW:	Arctostaphylos stanfordiana subsp. stanfordiana	0000 0000 1209 2788	© 2009 Neal Kramer
+NEW:	Arctostaphylos tomentosa subsp. daciticola	0000 0000 0112 2443	� 2012 John Game
+NEW:	Arctostaphylos viscida subsp. pulchella	6666 6666 0510 0454	Gerald and Buff Corsi � 2010 California Academy of Sciences
+NEW:	Asclepias cryptoceras	0000 0000 0513 1064	© 2013 Mary Winter
+NEW:	Asclepias nyctaginifolia	0000 0000 0810 2067	© 2010 Neal Kramer
+NEW:	Astragalus jaegerianus	0000 0000 0510 1221	© 2010 Duncan S. Bell
+NEW:	Berberis aquifolium var. aquifolium	0000 0000 1112 0406	© 2012 Barry Breckling
+NEW:	Boschniakia strobilacea	0000 0000 0606 1216	� 2006 Steve Matson
+NEW:	Botrychium ascendens	0000 0000 0805 0129	© 2005 Steve Matson
+NEW:	Botrychium pumicola	0024 3291 1999 0113	Charles Webber © 2000 California Academy of Sciences
+NEW:	Bromus inermis	0000 0000 0906 0523	© 2006 Nick Kurzenko
+NEW:	Cakile maritima	5208 1611 0653 0028	© 1995 Saint Mary's College of California
+NEW:	Calochortus clavatus var. gracilis	0000 0000 1212 0874	© 2012 Anuja Parikh and Nathan Gale
+NEW:	Calochortus clavatus var. pallidus	0000 0000 0110 0739	© 2010 lara hartley
+NEW:	Calochortus clavatus var. recurvifolius	0000 0000 0708 0186	© 2008 Steve Lowens
+NEW:	Calochortus concolor	0000 0000 0513 2748	© 2013 Steven Thorsted
+NEW:	Calochortus dunnii	0000 0000 0702 0195	© 1997 Christopher L. Christie
+NEW:	Calochortus elegans	0000 0000 1013 1731	© 2013 John Doyen
+NEW:	Calochortus fimbriatus	0000 0000 0810 2375	© 2010 Aaron Schusteff
+NEW:	Calochortus simulans	0000 0000 0611 0372	© 2011 Aaron E. Sims
+NEW:	Carex abrupta	0000 0000 1212 1065	© 2012 James M. Andre
+NEW:	Carex barbarae	0000 0000 0210 2932	© 2010 Michael O'Brien
+NEW:	Carlowrightia arizonica	0000 0000 0412 1632	© 2012 Keir Morse
+NEW:	Castilleja chromosa	0000 0000 0512 0170	© 2012 Gary A. Monroe
+NEW:	Ceanothus arcuatus	0000 0000 0205 0716	© 2005 Dieter Wilken
+NEW:	Ceanothus cuneatus var. ramulosus	0000 0000 0305 0070	© 2005 Dieter Wilken
+NEW:	Ceanothus ferrisiae	0000 0000 0114 2047	© 2014 Chris Winchell
+NEW:	Ceanothus impressus var. impressus	0000 0000 0305 0073	© 2005 Dieter Wilken
+NEW:	Ceanothus impressus var. nipomensis	0000 0000 0406 0296	© 2006 Steve Matson
+NEW:	Ceanothus megacarpus var. megacarpus	0000 0000 0911 0224	© 2011 Neal Kramer
+NEW:	Ceanothus purpureus	0000 0000 0408 0764	© 2008 Neal Kramer
+NEW:	Ceanothus rigidus	0000 0000 0112 2151	� 2012 Aaron E. Sims
+NEW:	Ceanothus thyrsiflorus var. thyrsiflorus	0000 0000 0811 2286	© 2011 Chris Winchell
+NEW:	Ceanothus vestitus	0000 0000 1111 1518	© 2011 Steve Matson
+NEW:	Chimaphila menziesii	0000 0000 0706 1614	© 2006 Steve Matson
+NEW:	Chimaphila umbellata	5208 1611 1618 0044	© 1995 Saint Mary's College of California
+NEW:	Cicuta maculata var. angustifolia	0000 0000 0113 1013	© 2013 Steve Matson
+NEW:	Comarostaphylis diversifolia	8120 3181 4564 0141	Charles Webber � 1998 California Academy of Sciences
+NEW:	Comarostaphylis diversifolia subsp. planifolia	0000 0000 1103 0587	� 2003 Keir Morse
+NEW:	Conioselinum pacificum	0000 0000 1111 2572	© 2011 Steve Matson
+NEW:	Cordylanthus pilosus	0000 0000 0910 1011	© 2010 Jean Pawek
+NEW:	Corylus cornuta	0000 0000 0209 1195	© 2009 Julie Kierstead Nelson
+NEW:	Corylus cornuta subsp. californica	0000 0000 1009 3019	© 2009 Barry Breckling
+NEW:	Corylus cornuta var. californica	0000 0000 0709 2264	© 2009 Julie Kierstead Nelson
+NEW:	Cryptantha ambigua	0000 0000 1205 0752	© 2005 Steve Matson
+NEW:	Cryptantha angustifolia	0000 0000 0605 0763	© 2005 Steve Matson
+NEW:	Cryptantha barbigera	0000 0000 1105 1102	© 2005 James M. Andre
+NEW:	Cryptantha barbigera var. barbigera	0000 0000 0514 0126	© 2014 Steve Matson
+NEW:	Cryptantha barbigera var. fergusoniae	0000 0000 1110 1484	© 2010 James M. Andre
+NEW:	Cryptantha cinerea var. abortiva	0000 0000 0909 0782	© 2009 Steve Matson
+NEW:	Cryptantha circumscissa var. rosulata	0000 0000 1111 0599	© 2011 James M. Andre
+NEW:	Cryptantha clevelandii	0000 0000 1209 0112	© 2009 Neal Kramer
+NEW:	Cryptantha clevelandii var. florosa	0000 0000 0111 1064	© 2011 Steve Matson
+NEW:	Cycladenia humilis	0000 0000 1013 1116	© 2013 John Doyen
+NEW:	Cycladenia humilis var. humilis	0000 0000 0807 1526	� 2007 Aaron Schusteff
+NEW:	Cycladenia humilis var. venusta	0000 0000 0612 1797	© 2012 Don Davis
+NEW:	Cymopterus panamintensis var. acutifolius	0000 0000 1211 0238	© 2011 Steve Matson
+NEW:	Digitaria ischaemum	0000 0000 0306 1715	© 2006 Steve Matson
+NEW:	Ericameria paniculata	0000 0000 1112 0989	© 2012 Steve Matson
+NEW:	Erigeron miser	0000 0000 0211 2491	© 2011 Dean Wm. Taylor, Ph.D.
+NEW:	Eryngium alismifolium	0000 0000 1111 2587	© 2011 Steve Matson
+NEW:	Eryngium aristulatum var. aristulatum	0000 0000 0512 2141	© 2012 Aaron Arthur
+NEW:	Funastrum cynanchoides var. hartwegii	0000 0000 0810 1685	© 2010 Neal Kramer
+NEW:	Funastrum hirtellum	6249 3022 3534 0006	© 1995 Saint Mary's College of California
+NEW:	Funastrum utahense	0000 0000 0813 1213	� 2013 Jean Pawek
+NEW:	Galium ambiguum	0000 0000 0910 0174	© 2010 Julie Kierstead Nelson
+NEW:	Galium catalinense subsp. catalinense	0000 0000 0309 1679	� 2009 Vince Scheidt
+NEW:	Galium mollugo	0000 0000 0408 0495	© 2008 Dr. Amadej Trnkoczy
+NEW:	Helianthella castanea	0000 0000 1109 1162	© 2009 Joshua D. Boldt
+NEW:	Heracleum maximum	6040 1631 1635 0084	© 1995 Saint Mary's College of California
+NEW:	Jensia yosemitana	0000 0000 1009 2405	� 2009 Barry Breckling
+NEW:	Justicia californica	0000 0000 0702 0108	© 1998 Christopher L. Christie
+NEW:	Lessingia arachnoidea	0000 0000 0808 0896	© 2008 Neal Kramer
+NEW:	Lessingia glandulifera var. glandulifera	0000 0000 0809 1085	© 2009 Anna Bennett
+NEW:	Lessingia lemmonii var. lemmonii	0000 0000 0808 1655	� 2008 Steve Matson
+NEW:	Ligusticum californicum	0000 0000 1111 2593	© 2011 Steve Matson
+NEW:	Lomatium foeniculaceum subsp. inyoense	0000 0000 1109 2416	� 2009 Gary A. Monroe
+NEW:	Lomatium foeniculaceum subsp. macdougalii	0000 0000 0412 0803	� 2012 Gary A. Monroe
+NEW:	Lomatium observatorium	0000 0000 0307 0985	� 2007 Tony Morosco
+NEW:	Lomatium peckianum	0000 0000 1211 0208	© 2011 Steve Matson
+NEW:	Mantisalca salmantica	0000 0000 0508 1130	� 2008 Luigi Rignanese
+NEW:	Matelea parvifolia	0000 0000 0807 0863	© 2005 Aaron Schusteff
+NEW:	Mimulus alsinoides	0177 3303 3354 0010	© 2001 Steve Schoenig
+NEW:	Mimulus androsaceus	0000 0000 1105 1037	© 2005 lara hartley
+NEW:	Mimulus angustatus	0177 3303 3354 0034	© 2001 Steve Schoenig
+NEW:	Mimulus aurantiacus	0177 3303 3354 0056	© 2001 Steve Schoenig
+NEW:	Mimulus aurantiacus var. parviflorus	0000 0000 0112 2406	© 2012 Neal Kramer
+NEW:	Mimulus aurantiacus var. pubescens	0000 0000 1112 2085	© 2012 Neal Kramer
+NEW:	Mimulus aurantiacus var. puniceus	0000 0000 0213 0264	© 2013 Keir Morse
+NEW:	Mimulus bicolor	0177 3303 3354 0065	© 2001 Steve Schoenig
+NEW:	Mimulus bigelovii	0000 0000 0303 0262	© 2003 Brent Miller
+NEW:	Mimulus bigelovii var. bigelovii	0000 0000 0205 0276	� 2005 Brent Miller
+NEW:	Mimulus bigelovii var. cuspidatus	0000 0000 0410 0250	© 2010 Barry Breckling
+NEW:	Mimulus bolanderi	0177 3303 3354 0060	© 2001 Steve Schoenig
+NEW:	Mimulus breviflorus	0000 0000 0111 0876	© 2011 Ryan Batten
+NEW:	Mimulus brevipes	0177 3303 3355 0023	� 2001 Steve Schoenig
+NEW:	Mimulus breweri	0000 0000 0703 0502	© 2003 Steve Matson
+NEW:	Mimulus cardinalis	0000 0000 0803 0475	� 2003 Christopher L. Christie
+NEW:	Mimulus clevelandii	0177 3303 3355 0066	© 2001 Steve Schoenig
+NEW:	Mimulus congdonii	0177 3303 3355 0067	� 2001 Steve Schoenig
+NEW:	Mimulus constrictus	0177 3303 3355 0081	© 2001 Steve Schoenig
+NEW:	Mimulus cusickii	0000 0000 1212 2566	© 2012 James M. Andre
+NEW:	Mimulus dentatus	0177 3303 3362 0001	� 2001 Steve Schoenig
+NEW:	Mimulus douglasii	0177 3303 3362 0013	© 2001 Steve Schoenig
+NEW:	Mimulus evanescens	0177 3303 3362 0036	© 2001 Steve Schoenig
+NEW:	Mimulus floribundus	6205 3041 0700 0092	© 1995 Saint Mary's College of California
+NEW:	Mimulus fremontii	0000 0000 0105 0138	© 2005 Christopher L. Christie
+NEW:	Mimulus fremontii var. fremontii	0000 0000 1009 1161	� 2009 Barry Breckling
+NEW:	Mimulus fremontii var. vandenbergensis	0000 0000 0605 0533	© 2005 Adonis (Don) Tate
+NEW:	Mimulus glaucescens	6205 3041 0700 0096	� 1995 Saint Mary's College of California
+NEW:	Mimulus gracilipes	0177 3303 3362 0096	© 2001 Steve Schoenig
+NEW:	Mimulus guttatus	9187 3302 4015 0084	Jo-Ann Ordano © 2000 California Academy of Sciences
+NEW:	Mimulus inconspicuus	0177 3303 3363 0002	© 2001 Steve Schoenig
+NEW:	Mimulus johnstonii	0177 3303 3363 0024	� 2001 Steve Schoenig
+NEW:	Mimulus laciniatus	0000 0000 0208 0070	© 2008 Chris Winchell
+NEW:	Mimulus latidens	0177 3303 3363 0054	© 2001 Steve Schoenig
+NEW:	Mimulus layneae	6212 3041 0480 0025	© 1995 Saint Mary's College of California
+NEW:	Mimulus leptaleus	0000 0000 0110 1037	© 2010 Barry Breckling
+NEW:	Mimulus lewisii	0177 3303 3363 0086	© 2001 Steve Schoenig
+NEW:	Mimulus mohavensis	0000 0000 0306 0049	© 2006 James M. Andre
+NEW:	Mimulus montioides	0000 0000 0612 1413	© 2012 Aaron Schusteff
+NEW:	Mimulus moschatus	8076 3101 0669 0132	Charles Webber © 1998 California Academy of Sciences
+NEW:	Mimulus nanus	6212 3041 0480 0080	© 1995 Saint Mary's College of California
+NEW:	Mimulus nanus var. mephiticus	0000 0000 1112 0110	© 2012 Steven Perry
+NEW:	Mimulus norrisii	0177 3303 3364 0032	© 2001 Steve Schoenig
+NEW:	Mimulus nudatus	1336 3162 1814 0022	Jo-Ann Ordano © 2004 California Academy of Sciences
+NEW:	Mimulus palmeri	0000 0000 0108 0469	© 2008 lara hartley
+NEW:	Mimulus parishii	0177 3303 3364 0054	© 2001 Steve Schoenig
+NEW:	Mimulus parryi	0000 0000 0306 0911	� 2006 James M. Andre
+NEW:	Mimulus pictus	1336 3162 1812 0069	Jo-Ann Ordano © 2004 California Academy of Sciences
+NEW:	Mimulus pilosus	0000 0000 0109 1379	© 2009 Keir Morse
+NEW:	Mimulus primuloides	6212 3041 0480 0095	© 1995 Saint Mary's College of California
+NEW:	Mimulus primuloides var. primuloides	0000 0000 1107 1669	� 2007 Neal Kramer
+NEW:	Mimulus pulchellus	0177 3303 3364 0096	© 2001 Steve Schoenig
+NEW:	Mimulus pulsiferae	0177 3303 3364 0100	© 2001 Steve Schoenig
+NEW:	Mimulus purpureus	0177 3303 3315 0012	© 2001 Steve Schoenig
+NEW:	Mimulus pygmaeus	0177 3303 3315 0028	� 2001 Steve Schoenig
+NEW:	Mimulus rattanii	0177 3303 3315 0039	© 2001 Steve Schoenig
+NEW:	Mimulus rubellus	0000 0000 1110 0381	© 2010 Neal Kramer
+NEW:	Mimulus rupicola	0177 3303 3315 0073	© 2001 Steve Schoenig
+NEW:	Mimulus shevockii	0177 3303 3315 0056	© 2001 Steve Schoenig
+NEW:	Mimulus suksdorfii	0000 0000 0605 1600	� 2005 Steve Matson
+NEW:	Mimulus tilingii	0177 3303 3315 0080	© 2001 Steve Schoenig
+NEW:	Mimulus tricolor	0177 3303 3337 0003	© 2001 Steve Schoenig
+NEW:	Mimulus viscidus	0177 3303 3337 0016	� 2001 Steve Schoenig
+NEW:	Mimulus viscidus var. compactus	0000 0000 0710 0486	© 2010 Barry Breckling
+NEW:	Mimulus whitneyi	6212 3041 0481 0025	© 1995 Saint Mary's College of California
+NEW:	Monotropa hypopitys	0000 0000 1011 1740	© 2011 David Wagner
+NEW:	Nama pusillum	0000 0000 0610 0360	© 2010 Steve Matson
+NEW:	Nemacladus californicus	0000 0000 0111 0409	© 2011 Steve Matson
+NEW:	Nemacladus capillaris	0000 0000 1210 1400	© 2010 Steve Matson
+NEW:	Nemacladus longiflorus var. breviflorus	0000 0000 0513 1169	� 2013 Keir Morse
+NEW:	Nemacladus montanus	0000 0000 0511 1053	© 2011 Aaron Schusteff
+NEW:	Nemacladus orientalis	0000 0000 0410 1889	� 2010 James Morefield
+NEW:	Nemacladus secundiflorus var. robbinsii	0000 0000 0413 1727	© 2013 Keir Morse
+NEW:	Nemacladus secundiflorus var. secundiflorus	0000 0000 0708 0298	� 2008 Aaron Schusteff
+NEW:	Nemacladus tenuis var. aliformis	0000 0000 0413 3284	© 2013 Keir Morse
+NEW:	Nemacladus tenuis var. tenuis	0000 0000 0410 1622	© 2010 Aaron Schusteff
+NEW:	Nitrophila occidentalis	0000 0000 0808 1661	� 2008 Steve Matson
+NEW:	Oreonana purpurascens	0000 0000 0313 4936	© 2013 Steve Matson
+NEW:	Orthilia secunda	0000 0000 0607 1360	© 2007 Dr. Amadej Trnkoczy
+NEW:	Perideridia howellii	0000 0000 1010 2369	© 2010 Barry Breckling
+NEW:	Perideridia parishii subsp. parishii	0000 0000 0709 1065	� 2009 Thomas Stoughton
+NEW:	Perideridia pringlei	0000 0000 0812 1022	© 2012 Neal Kramer
+NEW:	Phacelia cookei	0000 0000 0811 0363	© 2011 Genevieve K. Walden
+NEW:	Phalaris californica	0000 0000 0709 1270	© 2009 Zoya Akulova
+NEW:	Phyllodoce breweri	6246 3041 2849 0073	© 1995 Saint Mary's College of California
+NEW:	Pilostyles thurberi	0000 0000 0210 1818	© 2010 Thomas Stoughton
+NEW:	Pityopus californicus	0000 0000 0513 2367	� 2013 Debra L. Cook
+NEW:	Pleuricospora fimbriolata	0000 0000 0805 0582	© 2005 Brent Miller
+NEW:	Pterospora andromedea	0000 0000 1202 0995	© 1984 Gary A. Monroe
+NEW:	Pyrola asarifolia	0000 0000 0808 0098	© 2008 Matt Below
+NEW:	Rhus aromatica	0000 0000 0710 1278	© 2010 Jean Pawek
+NEW:	Salix eastwoodiae	2222 0703 0005 0005	© University of California Museum of Paleontology
+NEW:	Salix exigua	8253 3202 4138 0079	J. E.(Jed) and Bonnie McClellan © 1999 California Academy of Sciences
+NEW:	Sanicula hoffmannii	0000 0000 0413 1904	� 2013 Steve Matson
+NEW:	Sarcodes sanguinea	8253 3202 4146 0116	Gladys Lucille Smith © 1999 California Academy of Sciences
+NEW:	Sedum oregonense	6249 3022 3535 0054	� 1995 Saint Mary's College of California
+NEW:	Sesuvium verrucosum	0000 0000 0906 0568	© 2006 Erin McDermott
+NEW:	Sherardia arvensis	8253 3202 3489 0043	Donald Myrick © 1999 California Academy of Sciences
+NEW:	Stephanomeria lactucina	0000 0000 0309 0227	© 2009 Keir Morse
+NEW:	Subularia aquatica var. americana	0000 0000 1008 1190	� 2008 Steve Matson
+NEW:	Symphoricarpos rotundifolius var. rotundifolius	0000 0000 0212 0696	© 2012 Aaron Arthur
+NEW:	Tanacetum bipinnatum	0000 0000 0212 0132	� 2012 Neal Kramer
+NEW:	Vaccinium cespitosum	0000 0000 1211 2135	� 2011 Neal Kramer
+NEW:	Viburnum edule	0000 0000 0911 0868	� 2011 Len Lindstrand III
+NEW:	Xanthisma spinulosum var. gooddingii	0000 0000 1210 1483	� 2010 James M. Andre
+NEW:	artemisia californica	0000 0000 0405 0618	© 2005 BonTerra Consulting
+NEW:	calochortus clavatus var. clavatus	0000 0000 0110 0737	� 2010 lara hartley
+NEW:	iris fernaldii	0000 0000 0506 3464	� 2006 Lane Davis
+NEW:	mimulus angustatus	0000 0000 0608 0430	� 2008 George W. Hartwell
+NEW:	mimulus bigelovii	6212 3041 0481 0010	© 1995 Saint Mary's College of California
+NEW:	mimulus brevipes	0177 3303 3355 0058	© 2001 Steve Schoenig
+NEW:	mimulus inconspicuus	6205 3041 0700 0048	© 1995 Saint Mary's College of California
+NEW:	mimulus moschatus	8266 3261 2552 0014	William R. Hewlett © 1999 California Academy of Sciences
+NEW:	mimulus torreyi	0000 0000 0703 0255	© 2003 Steve Matson
+NEW:	mimulus tricolor	6212 3041 0481 0016	� 1995 Saint Mary's College of California
+NEW:	rosa gymnocarpa	0000 0000 0505 0635	© 2005 Russell Towle
+NEW:	trifolium hybridum	8266 3261 1040 0023	William R. Hewlett � 1999 California Academy of Sciences
