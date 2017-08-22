@@ -1,0 +1,718 @@
+<html>
+<head>
+<title>
+Jepson Interchange Title Page
+</title>
+<Meta Name="keywords" Content="UC Berkeley Herbarium,
+Jepson Herbarium,
+taxonomy of California plants,
+Jepson Manual,
+plant distribution,
+Jepson bioregions,
+plant taxonomy resources,
+plant nomenclature,
+plant systematics,
+California flora,
+California floristics,
+California plant names,
+plant names
+">
+</head>
+<body bgcolor="#ffffff">
+
+<table  width="100%">
+<tr>
+<td>
+
+<table  width="100%">
+<tr>
+<td colspan=2>
+	<table width="100%" bgcolor="#0000cc" >
+	<tr>
+	<TD align="center"><font size="6" color="#ffdd00">
+	<font size="3">Jepson Flora Project</font>
+	<br>
+	<font size="7">J</font>EPSON
+	<font size="7">O</font>NLINE
+	<font size="7">I</font>NTERCHANGE
+	</font>
+<br>
+<font size="4" color="#ffdd00">
+<strong>
+FOR CALIFORNIA FLORISTICS
+</strong>
+</font>
+	</td>
+	<td><img src="/jeps.jpg" align=right alt="jeps logo"></td>
+	</tr>
+	</table>
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+<tr>
+<td>
+
+       <a href="/interchange/about_interchange.html"><STRONG>ABOUT THE INTERCHANGE
+</STRONG></a>
+	<table cellspacing=15 align="center">
+	<tr>
+	<td valign="top" bgcolor="#ffffcc" colspan=2>
+	<center>
+       <FONT size="+2"><STRONG>SEARCH
+	</STRONG></FONT>
+	</center>
+	</td></tr>
+	<tr>
+	<td valign="top" width="50%">
+<center>
+       <FONT size="+1"><STRONG>Search
+	the Interchange using the
+	Index&nbsp;to&nbsp;California&nbsp;Plant&nbsp;Names
+	</STRONG></FONT>
+</center>
+		<table cellspacing=5>
+		<TR>
+		<td valign="top">
+         	<FORM action="http://ucjeps.berkeley.edu/cgi-bin/LN2C.pl"
+		method=post><BR>
+         	<STRONG>Scientific Name</STRONG><br>
+		<INPUT name=genus size=40>
+		<br>
+		<INPUT type=submit value="Submit Name">
+		<INPUT type=reset value=Reset>
+
+		<br>
+		<font size=-1>
+		Partial names are allowed (e.g.,
+<a href="http://ucjeps.berkeley.edu/cgi-bin/LN2C.pl?genus=Seq+gig">Seq gig</a>). 
+		You can retrieve all species in a genus by entering a
+		genus name only. When entering infraspecific names, do not include
+		the words "var.", "subsp.", or "f.".
+		</font>
+		</FORM>
+         	<FORM action="http://ucjeps.berkeley.edu/cgi-bin/get_cn2.pl"
+		method=post><BR>
+         	<STRONG>Common Name</STRONG><br>
+		<INPUT name=common size=40>
+		<br>
+		<INPUT type=submit value="Submit Name">
+		<INPUT type=reset value=Reset>
+		<br>
+		<font size=-1>
+		Partial names are allowed (e.g.,
+<a href="http://ucjeps.berkeley.edu/cgi-bin/get_cn2.pl?common=Parish">Parish</a>). 
+		</font>
+		</FORM>
+
+		<tr>
+		<td bgcolor="#eeeeee">
+<P>
+&nbsp;
+<P>
+<font size="-1">
+These searches will retrieve entries in the
+	<a href="/about_ICPN.html">
+Index to California Plant Names,
+	</a>
+which include hyperlinks to treatments in The Jepson Manual, the SMASCH database, CalPhotos, and other sources of information about the California flora</font>
+<P>
+Most recent additions:
+May 29 2005
+		</td>
+		</tr>
+		</tr>
+		</table>
+&nbsp;
+<table cellpadding=10>
+		<tr>
+		<td valign="middle">
+<h3 align="center">
+<img src="/hort_symbol.gif" alt="hort database symbol"><br>
+<a href="/interchange/hort_form.html">Search the Jepson Horticultural database</a>
+</h3>
+		</td>
+		</tr>
+</table>
+	</td>
+	<td valign="top" bgcolor="#eeeeee" width="50%">
+<center>
+       <FONT size="+1"><STRONG>Search Specimen Data from the <a href="/chc_open.html">Consortium of California Herbaria</a></STRONG>
+<br>Fill out or select one or more of the boxes.
+	</font>
+</center>
+
+	<form method = "POST"
+	action="/cgi-bin/get_chc.pl">
+		<table cellspacing=5 width="60%" bgcolor="#eeeeee">
+		<tr>
+		<td><b>Scientific Name</b>
+<br>
+		<INPUT NAME = "taxon_name" SIZE = 40 MAXLENGTH = 255>
+<br>
+<font size="-1">
+e.g.:
+<a href="/cgi-bin/get_chc.pl?taxon_name=Dudl">Dudl</a>;
+<a href="/cgi-bin/get_chc.pl?taxon_name=Dudleya%20bloch">Dudleya bloch</a>;
+<a href="/cgi-bin/get_chc.pl?taxon_name=blochmaniae">blochmaniae</a>;
+<a href="/cgi-bin/get_chc.pl?taxon_name=Dudleya%20blochmaniae%20insul">Dudleya blochmaniae insul</a>
+</font>
+</td>
+		<td >
+<b>Source</b> (1 or more; default is all sources)
+<SELECT NAME="source" size=4 multiple>
+<OPTION VALUE="All" SELECTED>All sources<br>
+<OPTION VALUE="UC">UC (University Herbarium, UC Berkeley)<br>
+<OPTION VALUE="JEPS">JEPS (Jepson Herbarium, UC Berkeley)<br>
+<OPTION VALUE="UCSB">UCSB (UC Santa Barbara)<br>
+<OPTION VALUE="UCSC">UCSC (UC Santa Cruz)<br>
+<OPTION VALUE="UCI">IRVC (UC Irvine)<br>
+<OPTION VALUE="UCR">UCR (UC Riverside)<br>
+<OPTION VALUE="UCD">DAV (UC Davis)<br>
+<OPTION VALUE="SBBG">SBBG (Santa Barbara Botanical Garden)<br>
+</SELECT>
+		</tr>
+		<tr>
+		<td><strong>County</strong> (1 or more; default is all counties)
+<br>
+<select name="county" size = 5 multiple>
+ <option value = "">All
+ <option value = "ALAMEDA">Alameda
+ <option value = "ALPINE">Alpine
+ <option value = "AMADOR">Amador
+ <option value = "BUTTE">Butte
+ <option value = "CALAVERAS">Calaveras
+ <option value = "COLUSA">Colusa
+ <option value = "CONTRA COSTA">Contra Costa
+ <option value = "DEL NORTE">Del Norte
+ <option value = "EL DORADO">El Dorado
+ <option value = "FRESNO">Fresno
+ <option value = "GLENN">Glenn
+ <option value = "HUMBOLDT">Humboldt
+ <option value = "IMPERIAL">Imperial
+ <option value = "INYO">Inyo
+ <option value = "KERN">Kern
+ <option value = "KINGS">Kings
+ <option value = "LAKE">Lake
+ <option value = "LASSEN">Lassen
+ <option value = "LOS ANGELES">Los Angeles
+ <option value = "MADERA">Madera
+ <option value = "MARIN">Marin
+ <option value = "MARIPOSA">Mariposa
+ <option value = "MENDOCINO">Mendocino
+ <option value = "MERCED">Merced
+ <option value = "MODOC">Modoc
+ <option value = "MONO">Mono
+ <option value = "MONTEREY">Monterey
+ <option value = "NAPA">Napa
+ <option value = "NEVADA">Nevada
+ <option value = "ORANGE">Orange
+ <option value = "PLACER">Placer
+ <option value = "PLUMAS">Plumas
+ <option value = "RIVERSIDE">Riverside
+ <option value = "SACRAMENTO">Sacramento
+ <option value = "SAN BENITO">San Benito
+ <option value = "SAN BERNARDINO">San Bernardino
+ <option value = "SAN DIEGO">San Diego
+ <option value = "SAN FRANCISCO">San Francisco
+ <option value = "SAN JOAQUIN">San Joaquin
+ <option value = "SAN LUIS OBISPO">San Luis Obispo
+ <option value = "SAN MATEO">San Mateo
+ <option value = "SANTA BARBARA">Santa Barbara
+ <option value = "SANTA CLARA">Santa Clara
+ <option value = "SANTA CRUZ">Santa Cruz
+ <option value = "SHASTA">Shasta
+ <option value = "SIERRA">Sierra
+ <option value = "SISKIYOU">Siskiyou
+ <option value = "SOLANO">Solano
+ <option value = "SONOMA">Sonoma
+ <option value = "STANISLAUS">Stanislaus
+ <option value = "SUTTER">Sutter
+ <option value = "TEHAMA">Tehama
+ <option value = "TRINITY">Trinity
+ <option value = "TULARE">Tulare
+ <option value = "TUOLUMNE">Tuolumne
+ <option value = "VENTURA">Ventura
+ <option value = "YOLO">Yolo
+ <option value = "YUBA">Yuba
+ 		<option value = "UNKNOWN">unknown
+		</select>
+		<br>
+&nbsp;
+<br><b>Geographic Locality</b>
+<br>
+		<INPUT NAME = "loc" SIZE = 40 MAXLENGTH = 255>
+<br>
+<font size="-1">
+e.g.:
+<a href="/cgi-bin/get_chc.pl?loc=Round%20Meadow">Round Meadow</a>;
+<a href="/cgi-bin/get_chc.pl?loc=Forester">Forester</a>
+</font>
+		</td>
+		<td><b>Collector</b>
+<font size="-1">(last name only)
+<br>
+		<INPUT NAME = "collector" SIZE = 40 MAXLENGTH = 255>
+<br>
+e.g.:
+<a href="/cgi-bin/get_chc.pl?collector=Muir">Muir</a>;
+<a href="/cgi-bin/get_chc.pl?collector=Moref">Moref</a>
+</font>
+<!-- <br> <b>Collector Number</b><br> <INPUT NAME = "collector_num" SIZE = 20 MAXLENGTH = 40> -->
+		<br>
+		<b>Collection Date(s)</b>
+<!-- <font size="-1">(e.g., 1923, Jun 6 1946, Fall 1913, 1967-1972)</font> -->
+<br>
+<table>
+<tr>
+<td>Month</td>
+<td>
+		<select name="month">
+ 		<option value = 0>
+ 		<option value = 1>Jan
+ 		<option value = 2>Feb
+ 		<option value = 3>Mar
+ 		<option value = 4>Apr
+ 		<option value = 5>May
+ 		<option value = 6>Jun
+ 		<option value = 7>Jul
+ 		<option value = 8>Aug
+ 		<option value = 9>Sep
+ 		<option value = 10>Oct
+ 		<option value = 11>Nov
+ 		<option value = 12>Dec
+ 		<!-- <option value = 12>Spring <option value = 12>Summer <option value = 12>Fall <option value = 12>Winter -->
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Day
+</td>
+<td>
+		<select name="day">
+ 		<option value = 0>
+ 		<option value = 1>1
+ 		<option value = 2>2
+ 		<option value = 3>3
+ 		<option value = 4>4
+ 		<option value = 5>5
+ 		<option value = 6>6
+ 		<option value = 7>7
+ 		<option value = 8>8
+ 		<option value = 9>9
+ 		<option value = 10>10
+ 		<option value = 11>11
+ 		<option value = 12>12
+ 		<option value = 13>13
+ 		<option value = 14>14
+ 		<option value = 15>15
+ 		<option value = 16>16
+ 		<option value = 17>17
+ 		<option value = 18>18
+ 		<option value = 19>19
+ 		<option value = 20>20
+ 		<option value = 21>21
+ 		<option value = 22>22
+ 		<option value = 23>23
+ 		<option value = 24>24
+ 		<option value = 25>25
+ 		<option value = 26>26
+ 		<option value = 27>27
+ 		<option value = 28>28
+ 		<option value = 29>29
+ 		<option value = 30>30
+ 		<option value = 31>31
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Year
+</td>
+<td>
+		<INPUT NAME = "year" SIZE = 4 MAXLENGTH = 4>
+</td>
+</tr>
+</table>
+		</td>
+		</tr>
+<tr>
+		<th colspan=2 align="center">
+Number of records to retrieve<br>
+<select name="max_rec">
+ <option value = "250">250
+ <option selected value = "500">500
+ <option value = "1000">1000
+ <option value = "2000">2000
+ <option value = "2000">Contact us for larger searches
+</select>
+			<table cellspacing=5 align="center">
+			<tr>
+			<td align=center>
+			<input TYPE="submit" VALUE="Submit Query">
+			</td>
+			<td>
+			<input TYPE="reset" VALUE="Reset Form">
+			</td>
+</tr>
+	</table>
+</th>
+</tr>
+	</table>
+
+	</form>
+<table width="100%">
+		<tr>
+		<td align="left">
+<form action="/cgi-bin/page_sub.pl" method="GET">
+<b>Accession Number</b><br>
+		<INPUT NAME = "accn_num" SIZE = 20 MAXLENGTH = 15>
+			<input TYPE="submit" VALUE="Get single record">
+	</form>
+</td>
+<td align="right">
+<!-- Maps of geographic data from the consortium of herbaria <br>will soon be available for viewing using <a href="http://bnhm.berkeley.edu/query/index.php?Method=complete&ucjeps=true&Class=undefined&Scientificname=&Commonname=&Collector=&Culture=undefined&Continent_ocean_standard=undefined&quick_search_locale=undefined&Country_standard=UNITED%2BSTATES&Stateprovince_standard=CALIFORNIA&Locality=&Period=undefined&Epoch=undefined&ViewResults=bigtable&max=100&Orderby=undefined"> <br> <b>BerkeleyMapper searches</b> </a> -->
+</td>
+</tr>
+</table>
+
+<table >
+<tr><th colspan=3><hr>Mapping</th></tr>
+<tr><td colspan=3>
+<a href="http://www.mip.berkeley.edu:8080/www_apps/smasch/smasch_county_dist.html">County distribution of one or several taxa</a>
+</td>
+</tr>
+<tr><td colspan=3>
+<!-- <img src="/bnhm_logo_small.gif"> -->
+<a href="
+http://bnhm.berkeley.edu/query/index.php?Method=complete&ucjeps=true&Class=undefined&Scientificname=&Commonname=&Collector=&Culture=undefined&Continent_ocean_standard=undefined&quick_search_locale=undefined&Country_standard=UNITED%2BSTATES&Stateprovince_standard=CALIFORNIA&Locality=&Period=undefined&Epoch=undefined&ViewResults=bigtable&max=100&Orderby=undefined
+">
+Geographical&nbsp;searches&nbsp;and&nbsp;point&nbsp;distribution&nbsp;maps</a>
+		(through BNHM)</td>
+		</tr>
+			</table>
+
+	</td>
+	</tr>
+	</table>
+
+</td>
+</tr>
+<tr>
+<td>
+<table  width="100%" >
+		<TR>
+		<td valign="top" bgcolor="#ffffcc" colspan=2>
+<center>
+       <FONT size="+2"><STRONG>LIST
+</STRONG></FONT>
+</center>
+</td></tr>
+
+<tr>
+<td width="50%" valign="top">
+<strong>Generate a list of taxa in SMASCH by county</strong>
+<br>
+(e.g., all species in Alameda Co. for which the Herbaria have specimens)
+</td>
+<td width="50%" valign="top">
+<strong>Generate a list of taxa by bioregion</strong>
+<br>
+(e.g., all species inferred from The Manual to be present in the White and Inyo mountains)
+</td>
+</tr>
+
+<tr>
+<td>
+<FORM action="http://ucjeps.berkeley.edu/cgi-bin/countyrec.pl">
+<SELECT name="subm_county">
+<OPTION value="Alameda">Alameda
+<OPTION value="Alpine">Alpine
+<OPTION value="Amador">Amador
+<OPTION value="Butte">Butte
+<OPTION value="Calaveras">Calaveras
+<OPTION value="Colusa">Colusa
+<OPTION value="Contra_Costa">Contra Costa
+<OPTION value="Del_Norte">Del Norte
+<OPTION value="El_Dorado">El Dorado
+<OPTION value="Fresno">Fresno
+<OPTION value="Glenn">Glenn
+<OPTION value="Humboldt">Humboldt
+<OPTION value="Imperial">Imperial
+<OPTION value="Inyo">Inyo
+<OPTION value="Kern">Kern
+<OPTION value="Kings">Kings
+<OPTION value="Lake">Lake
+<OPTION value="Lassen">Lassen
+<OPTION value="Los_Angeles">Los Angeles
+<OPTION value="Madera">Madera
+<OPTION value="Marin">Marin
+<OPTION value="Mariposa">Mariposa
+<OPTION value="Mendocino">Mendocino
+<OPTION value="Merced">Merced
+<OPTION value="Modoc">Modoc
+<OPTION value="Mono">Mono
+<OPTION value="Monterey">Monterey
+<OPTION value="Napa">Napa
+<OPTION value="Nevada">Nevada
+<OPTION value="Orange">Orange
+<OPTION value="Placer">Placer
+<OPTION value="Plumas">Plumas
+<OPTION value="Riverside">Riverside
+<OPTION value="Sacramento">Sacramento
+<OPTION value="San_Benito">San Benito
+<OPTION value="San_Bernardino">San Bernardino
+<OPTION value="San_Diego">San Diego
+<OPTION value="San_Francisco">San Francisco
+<OPTION value="San_Joaquin">San Joaquin
+<OPTION value="San_Luis_Obispo">San Luis Obispo
+<OPTION value="San_Mateo">San Mateo
+<OPTION value="Santa_Barbara">Santa Barbara
+<OPTION value="Santa_Clara">Santa Clara
+<OPTION value="Santa_Cruz">Santa Cruz
+<OPTION value="Shasta">Shasta
+<OPTION value="Sierra">Sierra
+<OPTION value="Siskiyou">Siskiyou
+<OPTION value="Solano">Solano
+<OPTION value="Sonoma">Sonoma
+<OPTION value="Stanislaus">Stanislaus
+<OPTION value="Sutter">Sutter
+<OPTION value="Tehama">Tehama
+<OPTION value="Trinity">Trinity
+<OPTION value="Tulare">Tulare
+<OPTION value="Tuolumne">Tuolumne
+<OPTION value="Ventura">Ventura
+<OPTION value="Yolo">Yolo
+<OPTION value="Yuba">Yuba
+</OPTION></SELECT>
+<INPUT type=submit value="Submit county">
+</FORM>
+</td>
+
+<td>
+<form action="http://ucjeps.berkeley.edu/cgi-bin/region_list.pl">
+<select name=X>
+<OPTION VALUE="CA_FP">CA-FP
+<OPTION VALUE="NW">&nbsp;&nbsp;NW
+<OPTION VALUE="NCo">&nbsp;&nbsp;&nbsp;&nbsp;NCo
+<OPTION VALUE="NCoR">&nbsp;&nbsp;&nbsp;&nbsp;NCoR
+<OPTION VALUE="NCoRO">&nbsp;&nbsp;&nbsp;&nbsp;NCoRO
+<OPTION VALUE="NCoRI">&nbsp;&nbsp;&nbsp;&nbsp;NCoRI
+<OPTION VALUE="NCoRH">&nbsp;&nbsp;&nbsp;&nbsp;NCoRH
+<OPTION VALUE="KR">&nbsp;&nbsp;&nbsp;&nbsp;KR
+<OPTION VALUE="CaR">&nbsp;&nbsp;CaR
+<OPTION VALUE="CaRF">&nbsp;&nbsp;&nbsp;&nbsp;CaRF
+<OPTION VALUE="CaRH">&nbsp;&nbsp;&nbsp;&nbsp;CaRH
+<OPTION VALUE="SN">&nbsp;&nbsp;SN
+<OPTION VALUE="SNF">&nbsp;&nbsp;&nbsp;&nbsp;SNF
+<OPTION VALUE="nSNF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nSNF
+<OPTION VALUE="cSNF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cSNF
+<OPTION VALUE="sSNF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sSNF
+<OPTION VALUE="SNH">&nbsp;&nbsp;&nbsp;&nbsp;SNH
+<OPTION VALUE="nSNH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nSNH
+<OPTION VALUE="cSNH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cSNH
+<OPTION VALUE="sSNH">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sSNH
+<OPTION VALUE="Teh">&nbsp;&nbsp;&nbsp;&nbsp;Teh
+<OPTION VALUE="GV">&nbsp;&nbsp;GV
+<OPTION VALUE="ScV">&nbsp;&nbsp;&nbsp;&nbsp;ScV
+<OPTION VALUE="SnJV">&nbsp;&nbsp;&nbsp;&nbsp;SnJV
+<OPTION VALUE="CW">&nbsp;&nbsp;CW
+<OPTION VALUE="SCoR">&nbsp;&nbsp;&nbsp;&nbsp;SCoR
+<OPTION VALUE="SCoRO">&nbsp;&nbsp;&nbsp;&nbsp;SCoRO
+<OPTION VALUE="SCoRI">&nbsp;&nbsp;&nbsp;&nbsp;SCoRI
+<OPTION VALUE="CCo">&nbsp;&nbsp;&nbsp;&nbsp;CCo
+<OPTION VALUE="SnFrB">&nbsp;&nbsp;&nbsp;&nbsp;SnFrB
+<OPTION VALUE="SW">&nbsp;&nbsp;SW
+<OPTION VALUE="SCo">&nbsp;&nbsp;&nbsp;&nbsp;SCo
+<OPTION VALUE="ChI">&nbsp;&nbsp;&nbsp;&nbsp;ChI
+<OPTION VALUE="nChI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nChI
+<OPTION VALUE="sChI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sChI
+<OPTION VALUE="PR">&nbsp;&nbsp;&nbsp;&nbsp;PR
+<OPTION VALUE="PRj">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PR
+<OPTION VALUE="SnJt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SnJt
+<OPTION VALUE="TR">&nbsp;&nbsp;&nbsp;&nbsp;TR
+<OPTION VALUE="WTR">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WTR
+<OPTION VALUE="SnGb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SnGb
+<OPTION VALUE="SnBr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SnBr
+<OPTION VALUE="GB">GB
+<OPTION VALUE="MP">&nbsp;&nbsp;MP
+<OPTION VALUE="Wrn">&nbsp;&nbsp;&nbsp;&nbsp;Wrn
+<OPTION VALUE="MPj">&nbsp;&nbsp;&nbsp;&nbsp;MP
+<OPTION VALUE="SNE">&nbsp;&nbsp;SNE
+<OPTION VALUE="WaI">&nbsp;&nbsp;&nbsp;&nbsp;W&amp;I
+<OPTION VALUE="SNEj">&nbsp;&nbsp;&nbsp;&nbsp;SNE
+<OPTION VALUE="D">D
+<OPTION VALUE="DMoj">&nbsp;&nbsp;DMoj
+<OPTION VALUE="DMojj">&nbsp;&nbsp;&nbsp;&nbsp;DMoj
+<OPTION VALUE="DMtns">&nbsp;&nbsp;&nbsp;&nbsp;DMtns
+<OPTION VALUE="DSon">&nbsp;&nbsp;DSon
+</select>
+<INPUT type=submit value="Submit bioregion">
+</FORM>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+
+<table  width="100%">
+<tr>
+		<td valign="top" bgcolor="#ffffcc">
+<center>
+       <FONT size="+2"><STRONG>BROWSE
+</STRONG></FONT>
+</center>
+</td></tr>
+<tr><td >
+<OL>
+<LI><a href="/interchange/I_index_added.html">New records and names
+for the California flora</a>
+<br>
+including ...
+<UL>
+<LI><a href="/interchange/I_index_newtax.html">California taxa newly described since The Jepson Manual </a>
+<LI><a href="/interchange/I_index_newrange.html">Range extensions reported since The Jepson Manual </a>
+</UL>
+<LI><a href="/interchange/I_treat_indexes.html">
+Descriptions and keys from The Jepson Manual (including updated information from The Desert Manual and other sources)
+</a>
+<LI><a href="/interchange/I_status_1+2.html">
+Current list of names applied to native and naturalized plants in California
+</a>
+<LI><a href="/interchange/endemic.html">
+Current list of names applied to taxa thought to be endemic to California
+</a>
+<LI>All names in ICPN arranged alphabetically by genus
+<font size="-1">
+<a href="/interchange/I_index_A.html">A</a>
+|
+<a href="/interchange/I_index_B.html">B</a>
+|
+<a href="/interchange/I_index_C.html">C</a>
+|
+<a href="/interchange/I_index_D.html">D</a>
+|
+<a href="/interchange/I_index_E.html">E</a>
+|
+<a href="/interchange/I_index_F.html">F</a>
+|
+<a href="/interchange/I_index_G.html">G</a>
+|
+<a href="/interchange/I_index_H.html">H</a>
+|
+<a href="/interchange/I_index_I.html">I</a>
+|
+<a href="/interchange/I_index_J.html">J</a>
+|
+<a href="/interchange/I_index_K.html">K</a>
+|
+<a href="/interchange/I_index_L.html">L</a>
+|
+<a href="/interchange/I_index_M.html">M</a>
+|
+<a href="/interchange/I_index_N.html">N</a>
+|
+<a href="/interchange/I_index_O.html">O</a>
+|
+<a href="/interchange/I_index_P.html">P</a>
+|
+<a href="/interchange/I_index_Q.html">Q</a>
+|
+<a href="/interchange/I_index_R.html">R</a>
+|
+<a href="/interchange/I_index_S.html">S</a>
+|
+<a href="/interchange/I_index_T.html">T</a>
+|
+<a href="/interchange/I_index_U.html">U</a>
+|
+<a href="/interchange/I_index_V.html">V</a>
+|
+<a href="/interchange/I_index_W.html">W</a>
+|
+<a href="/interchange/I_index_X.html">X</a>
+|
+<a href="/interchange/I_index_Y.html">Y</a>
+|
+<a href="/interchange/I_index_Z.html">Z</a>
+</font>
+<LI>
+<a href="http://ucjeps.berkeley.edu/cgi-bin/JM_get_list.pl?list=old">
+List of taxa covered in printed Jepson Manual
+</a>
+<LI>
+<a href="/interchange/I_index_supplant.html">Names that have been
+superseded since the publication of The Jepson Manual</a>
+
+<LI><a href="/interchange/I_indexes.html">
+Current Status Categories from the ICPN (including totals and lists of names)
+</a>
+<LI><a href="/flora_genus_list.html">
+Index to genus names in Jepson's</a> <em>A Flora of California</em>;
+<a href="/flora_index.html">
+List of all names  [&gt;1.6 M]
+</a>
+
+</OL>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%">
+		<TR>
+		<td valign="top" bgcolor="#ffffcc">
+<center>
+       <FONT size="+2"><STRONG>FEEDBACK
+</STRONG></FONT>
+</center>
+</td></tr>
+<tr>
+<td>
+<OL>
+
+<LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=Modification of non-distributional information">Modification of non-distributional information</a>
+<LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=Modification of distributional information">Modification of distributional information</a>
+<LI><a href="http://herbaria24.herb.berkeley.edu/cgi-bin/JM_notes.pl?subform=1">Information about taxon not in The Jepson Manual (new record for California)</a>
+<LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=General note on California floristics">General note on California floristics</a>
+<LI><a href="http://herbaria24.herb.berkeley.edu/cgi-bin/JM_notes.pl?subform=4">Suggested hyperlink</a>
+</OL>
+		</TD>
+	</TR>
+
+</table>
+</td>
+</tr>
+</table>
+<p>
+<hr>
+<!-- Begin Navigation -->
+<CENTER>
+<Font size=1 Face="Verdana, Arial, Helvetica">
+<a href="/"> University & Jepson Herbaria Home Page </a> |
+<BR>
+<a href="/gen_info.html">General Information </a> |
+<a href="/ucherb.html"> University Herbarium </a> |
+<a href="/active.html"> Jepson Herbarium </a> |
+<BR>
+<a href="/Visitor_Guidelines.html"> Visiting the Herbaria </a> |
+<a href="/online_resources.html"> On-line Resources </a> |
+<a href="/res_teach.html"> Research </a> |
+<BR>
+<a href="/education.html"> Education </a> |
+<a href="/other_sites_hosted.html"> Related Sites </a>
+<br><a href="/copyright.html">Copyright &copy; </a> by the Regents of
+the University of California
+</Font>
+</CENTER>
+<!--  End Navigation -->
+</body>
+</html>
