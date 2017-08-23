@@ -1,3 +1,6 @@
+3137
+CN_T: Atriplex dioica	t
+
 752
 Oreostemma alpigenum var. andersonii
 
@@ -24,6 +27,9 @@ Symphyotrichum lentum
 
 776
 Eurybia radulina
+
+778
+CN: Symphyotrichum subulatum (Michx.) G. L. Nesom var. ligulatum (Shinners) S. D. Sundb.
 
 794
 Amauriopsis dissecta
@@ -88,6 +94,15 @@ Ambrosia salsola var. pentalepis
 1522
 Monolopia congdonii
 
+1524
+CN: Leontodon saxatilis Lam.
+
+1526
+CN_T: Leontodon saxatilis Lam. subsp. saxatilis	t
+
+1711
+CN: Grindelia ciliata (Nutt.) Spreng.
+
 1759
 Carlquistia muirii
 
@@ -113,7 +128,7 @@ Packera eurycephala var. eurycephala
 Packera ganderi
 
 1809
-Pericallis hybrida
+CN: Pericallis hybrida
 
 1812
 Packera indecora
@@ -134,22 +149,34 @@ CN: Caulanthus anceps
 Nasturtium gambelii
 
 2743
-CN: Cylindropuntia × munzii
+CN: Cylindropuntia munzii (C. B. Wolf) Backeb.
 
-3137
-CN_T: Atriplex dioica	t
+3364
+CN: Sedum obtusatum A. Gray subsp. paradisum Denton
 
-169
-CN: Cuscuta veatchii K. Brandegee
+4376
+CN: Zelterna calycosa
+
+4961
+CN: Limnanthes alba subsp. gracilis (Howell) Morin
+
+5070
+Malva dendromorpha
+
+5072
+Malva linnaei
 
 5632
 CN: Plantago arenaria
+
+8824
+CN: Aristida ternipes Cav. var. gentilis (Henrard) Allred
 
 5698
 Saltugilia australis
 
 5704
-Linanthus campanulatus	t
+Linanthus campanulatus
 
 5726
 Aliciella hutchinsifolia	t
@@ -161,7 +188,7 @@ Aliciella latifolia	t
 CN_T: Aliciella leptomeria	t
 
 5746
-Linanthus maculatus	t
+Linanthus maculatus
 
 5748
 Aliciella micromeria	t
@@ -173,64 +200,64 @@ Aliciella ripleyi	t
 Lathrocasis tenerrima	t
 
 5803
-Linanthus californicus	t
+Linanthus californicus
 
 5812
-Leptosiphon aureus subsp. aureus	t
+Leptosiphon aureus subsp. aureus
 
 5825
-Leptosiphon floribundus	t
+Leptosiphon floribundus
 
 5827
-Leptosiphon floribundus subsp. glaber	t
+Leptosiphon floribundus subsp. glaber
 
 5829
-Leptosiphon grandiflorus	t
+Leptosiphon grandiflorus
 
 5830
-Leptosiphon harknessii	t
+Leptosiphon harknessii
 
 5834
-Leptosiphon liniflorus	t
+Leptosiphon liniflorus
 
 5836
-Leptosiphon nudatus	t
+Leptosiphon nudatus
 
 5838
-Leptosiphon nuttallii subsp. howellii	t
+Leptosiphon nuttallii subsp. howellii
 
 5841
-Leptosiphon oblanceolatus	t
+Leptosiphon oblanceolatus
 
 5843
-Leptosiphon pachyphyllus	t
+Leptosiphon pachyphyllus
 
 5845
 Leptosiphon parviflorus
 
 5847
-Leptosiphon pygmaeus subsp. continentalis	t
+Leptosiphon pygmaeus subsp. continentalis
 
 5849
-Leptosiphon rattanii	t
+Leptosiphon rattanii
 
 5850
-Leptosiphon septentrionalis	t
-
-6251
-CN: Persicaria amphibia (L.) A. Gray var. var. stipulacea ( N. Coleman) H. Hara
-
-8824
-CN: Aristida ternipes Cav. var. gentilis (Henrard) Allred
+Leptosiphon septentrionalis
 
 9360
-Coleogeton filiformis	t
+Coleogeton filiformis
+
+6651
+CN: Ceanothus velutinus var. laevigatus Torr. & A. Gray
+
+6891
+CN: Rosa rubiginosa L.
+
+2894
+CN: Sambucus nigra L. subsp. canadensis (L.) Bolli
 
 5
-CN: Asplenium viride
-
-29
-CN: Funastrum cynanchoides (Decne.) Schltr. var. hartwegii (Vail) Krings
+CN: Asplenium viride Huds.
 
 753
 Symphyotrichum ascendens
@@ -247,6 +274,9 @@ Symphyotrichum eatonii
 760
 Eucephalus engelmannii
 
+762
+CN: Symphyotrichum hendersonii
+
 764
 Symphyotrichum frondosum
 
@@ -261,9 +291,6 @@ Oreostemma peirsonii
 
 922
 CN: Matricaria matricarioides
-
-49
-CN: Deinandra fasciculata
 
 1109
 CN: Erigeron greenei
@@ -325,6 +352,9 @@ Ambrosia salsola
 1431
 Ambrosia salsola var. salsola
 
+1525
+CN_T: Leontodon saxatilis Lam. subsp. longirostris (Finch & P. D. Sell) P. Silva	t
+
 1790
 Packera bolanderi var. bolanderi
 
@@ -371,31 +401,28 @@ CN: Alyssum simplex
 Draba breweri var. cana
 
 2740
-CN: Cylindropuntia × fosbergii
-
-2894
-CN: Sambucus nigra L. subsp. canadensis (L.) Bolli
-
-3198
-CN: Salicornia depressa
+CN: Cylindropuntia × fosbergii C. B. Wolf) Rebman et al.
 
 3271
 CN: Ipomoea indica (Burm.) Merr.
 
-203
-CN_T: Cassia nemophila	t
+3893
+CN: Cytisus proliferus L. filius
 
 4427
 CN: Geranium palmatum
+
+8225
+Olsynium douglasii var. douglasii
 
 5721
 Saltugilia caruifolia
 
 5725
-Linanthus filiformis	t
+Linanthus filiformis
 
 5729
-Linanthus inyoensis	t
+Linanthus inyoensis
 
 5745
 Aliciella lottiae	t
@@ -407,59 +434,53 @@ CN_T: Aliciella subacaulis	t
 Aliciella triodon	t
 
 5804
-Linanthus jaegeri	t
+Linanthus jaegeri
 
 5811
-Leptosiphon aureus	t
+Leptosiphon aureus
 
 5813
-Leptosiphon aureus subsp. decorus	t
+Leptosiphon aureus subsp. decorus
 
 5826
-Leptosiphon floribundus subsp. floribundus	t
+Leptosiphon floribundus subsp. floribundus
 
 5828
-Leptosiphon floribundus subsp. hallii	t
+Leptosiphon floribundus subsp. hallii
 
 5833
-Leptosiphon lemmonii	t
+Leptosiphon lemmonii
 
 5835
-Leptosiphon montanus	t
+Leptosiphon montanus
 
 5837
-Leptosiphon nuttallii	t
+Leptosiphon nuttallii
 
 5839
-Leptosiphon nuttallii subsp. nuttallii	t
+Leptosiphon nuttallii subsp. nuttallii
 
 5840
-Leptosiphon nuttallii subsp. pubescens	t
+Leptosiphon nuttallii subsp. pubescens
 
 5846
-Leptosiphon pygmaeus	t
+Leptosiphon pygmaeus
 
 5848
-Leptosiphon pygmaeus subsp. pygmaeus	t
+Leptosiphon pygmaeus subsp. pygmaeus
 
 5851
-Leptosiphon serrulatus	t
+Leptosiphon serrulatus
 
-254
-CN: Eriogonum umbellatum Torr. var. nelsoniorum Reveal.
-
-6250
-CN: Persicaria amphibia (L.) A. Gray var. emersa (Michx.) J. C. Hickman
+6007
+CN: Eriogonum rosense A. Nelson & P. B. Kenn. var. beatleyae (Reveal) Reveal
 
 6256
 Persicaria bistortoides
 
-8225
-Olsynium douglasii var. douglasii
-
-346
-CN: Triteleia grandiflora Lindl.
-
 9369
-Coleogeton pectinatus	t
+Coleogeton pectinatus
+
+21
+CN: Athyrium distentifolium Opiz var. americanum (Butters) Cronquist
 

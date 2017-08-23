@@ -83,6 +83,10 @@ FOR CALIFORNIA FLORISTICS
 		<INPUT name=genus size=40>
 		<br>
 		<INPUT type=submit value="Submit Name">
+<select name="ds">
+ <option value = "concise">Concise display
+ <option value = "expanded">Expanded display
+</select>
 		<INPUT type=reset value=Reset>
 
 		<br>
@@ -105,13 +109,14 @@ FOR CALIFORNIA FLORISTICS
 		<font size=-1>
 		Partial names are allowed (e.g.,
 <a href="http://ucjeps.berkeley.edu/cgi-bin/get_cn2.pl?common=Parish">Parish</a>). 
+This search uses only the common names included in the first edition of The Jepson Manual.
 		</font>
 		</FORM>
 
 		<tr>
 		<td bgcolor="#eeeeee">
 <P>
-&nbsp;
+
 <P>
 <font size="-1">
 These searches will retrieve entries in the
@@ -121,7 +126,7 @@ Index to California Plant Names,
 which include hyperlinks to treatments in The Jepson Manual, the SMASCH database, CalPhotos, and other sources of information about the California flora</font>
 <P>
 Most recent additions:
-May 29 2005
+Sep 15  2009
 		</td>
 		</tr>
 		</tr>
@@ -140,13 +145,14 @@ May 29 2005
 	</td>
 	<td valign="top" bgcolor="#eeeeee" width="50%">
 <center>
-       <FONT size="+1"><STRONG>Search Specimen Data from the <a href="/chc_open.html">Consortium of California Herbaria</a></STRONG>
-<br>Fill out or select one or more of the boxes.
+       <FONT size="+1"><STRONG>Search Specimen Data from the <a href="/consortium/about.html">Consortium of California Herbaria</a></STRONG>
+<br>
+Fill out or select one or more of the boxes.
 	</font>
 </center>
 
 	<form method = "POST"
-	action="/cgi-bin/get_chc.pl">
+	action="/cgi-bin/get_consort.pl">
 		<table cellspacing=5 width="60%" bgcolor="#eeeeee">
 		<tr>
 		<td><b>Scientific Name</b>
@@ -155,24 +161,36 @@ May 29 2005
 <br>
 <font size="-1">
 e.g.:
-<a href="/cgi-bin/get_chc.pl?taxon_name=Dudl">Dudl</a>;
-<a href="/cgi-bin/get_chc.pl?taxon_name=Dudleya%20bloch">Dudleya bloch</a>;
-<a href="/cgi-bin/get_chc.pl?taxon_name=blochmaniae">blochmaniae</a>;
-<a href="/cgi-bin/get_chc.pl?taxon_name=Dudleya%20blochmaniae%20insul">Dudleya blochmaniae insul</a>
+<a href="/cgi-bin/get_consort.pl?taxon_name=Dudl">Dudl</a>;
+<a href="/cgi-bin/get_consort.pl?taxon_name=Dudleya%20bloch">Dudleya bloch</a>;
+<a href="/cgi-bin/get_consort.pl?taxon_name=blochmaniae">blochmaniae</a>;
+<a href="/cgi-bin/get_consort.pl?taxon_name=Dudleya%20blochmaniae%20insul">Dudleya blochmaniae insul</a>;
+<a href="/cgi-bin/get_consort.pl?taxon_name=Quercus%20X%20alvordiana">Quercus X alvordiana</a>
 </font>
 </td>
 		<td >
 <b>Source</b> (1 or more; default is all sources)
-<SELECT NAME="source" size=4 multiple>
+<SELECT NAME="source" size=10 multiple>
+
 <OPTION VALUE="All" SELECTED>All sources<br>
-<OPTION VALUE="UC">UC (University Herbarium, UC Berkeley)<br>
+<OPTION VALUE="CHSC">CHSC (Biological Sciences Herbarium, CSU Chico)<br>
+<OPTION VALUE="UCD">DAV (UC Davis)<br>
 <OPTION VALUE="JEPS">JEPS (Jepson Herbarium, UC Berkeley)<br>
+<OPTION VALUE="PGM">PGM (Pacific Grove Museum of Natural History)<br>
+<OPTION VALUE="POM">POM (Pomona Herbarium in RSA)<br>
+<OPTION VALUE="RSA">RSA (Rancho Santa Ana Botanic Garden Herbarium)<br>
+<OPTION VALUE="SBBG">SBBG (Santa Barbara Botanic Garden)<br>
+<OPTION VALUE="SD">SD (San Diego Natural History Museum)<br>
+<OPTION VALUE="SJSU">SJSU (Carl W. Sharsmith Herbarium)<br>
+<OPTION VALUE="UC">UC (University Herbarium, UC Berkeley)<br>
+<OPTION VALUE="IRVC">IRVC (UC Irvine)<br>
+<OPTION VALUE="UCR">UCR (UC Riverside)<br>
 <OPTION VALUE="UCSB">UCSB (UC Santa Barbara)<br>
 <OPTION VALUE="UCSC">UCSC (UC Santa Cruz)<br>
-<OPTION VALUE="UCI">IRVC (UC Irvine)<br>
-<OPTION VALUE="UCR">UCR (UC Riverside)<br>
-<OPTION VALUE="UCD">DAV (UC Davis)<br>
-<OPTION VALUE="SBBG">SBBG (Santa Barbara Botanical Garden)<br>
+<OPTION VALUE="CDA">CDA (California Department of Food and Agriculture)<br>
+<OPTION VALUE="CAS">CAS (California Academy of Sciences)<br>
+<OPTION VALUE="DS">DS (Dudley Herbarium in CAS)<br>
+
 </SELECT>
 		</tr>
 		<tr>
@@ -248,8 +266,8 @@ e.g.:
 <br>
 <font size="-1">
 e.g.:
-<a href="/cgi-bin/get_chc.pl?loc=Round%20Meadow">Round Meadow</a>;
-<a href="/cgi-bin/get_chc.pl?loc=Forester">Forester</a>
+<a href="/cgi-bin/get_consort.pl?loc=Round%20Meadow">Round Meadow</a>;
+<a href="/cgi-bin/get_consort.pl?loc=Forester">Forester</a>
 </font>
 		</td>
 		<td><b>Collector</b>
@@ -258,10 +276,11 @@ e.g.:
 		<INPUT NAME = "collector" SIZE = 40 MAXLENGTH = 255>
 <br>
 e.g.:
-<a href="/cgi-bin/get_chc.pl?collector=Muir">Muir</a>;
-<a href="/cgi-bin/get_chc.pl?collector=Moref">Moref</a>
+<a href="/cgi-bin/get_consort.pl?collector=Muir">Muir</a>;
+<a href="/cgi-bin/get_consort.pl?collector=Moref">Moref</a>
 </font>
-<!-- <br> <b>Collector Number</b><br> <INPUT NAME = "collector_num" SIZE = 20 MAXLENGTH = 40> -->
+<br> <b>Collection Number</b><br> <INPUT NAME = "coll_num" SIZE = 20 MAXLENGTH = 40> 
+<font size="-1">(numerical part only)</font>
 		<br>
 		<b>Collection Date(s)</b>
 <!-- <font size="-1">(e.g., 1923, Jun 6 1946, Fall 1913, 1967-1972)</font> -->
@@ -271,7 +290,7 @@ e.g.:
 <td>Month</td>
 <td>
 		<select name="month">
- 		<option value = 0>
+ 		<option value = 0 SELECTED>
  		<option value = 1>Jan
  		<option value = 2>Feb
  		<option value = 3>Mar
@@ -294,7 +313,7 @@ Day
 </td>
 <td>
 		<select name="day">
- 		<option value = 0>
+ 		<option value = 0 SELECTED>
  		<option value = 1>1
  		<option value = 2>2
  		<option value = 3>3
@@ -335,6 +354,10 @@ Year
 </td>
 <td>
 		<INPUT NAME = "year" SIZE = 4 MAXLENGTH = 4>
+<br>
+<input type="radio" name="before_after" value="1"> Before
+<br>
+<input type="radio" name="before_after" value="2"> After
 </td>
 </tr>
 </table>
@@ -342,14 +365,16 @@ Year
 		</tr>
 <tr>
 		<th colspan=2 align="center">
-Number of records to retrieve<br>
+2000 records is default maximum:
+ <font size="-2">Contact us for larger searches</font>
+<!-- Number of records to retrieve<br>
 <select name="max_rec">
  <option value = "250">250
  <option selected value = "500">500
  <option value = "1000">1000
  <option value = "2000">2000
  <option value = "2000">Contact us for larger searches
-</select>
+</select> -->
 			<table cellspacing=5 align="center">
 			<tr>
 			<td align=center>
@@ -364,11 +389,13 @@ Number of records to retrieve<br>
 </tr>
 	</table>
 
+<input type ="checkbox" name="make_tax_list" value=1 >Taxon List 
 	</form>
+<HR width="25%">
 <table width="100%">
 		<tr>
 		<td align="left">
-<form action="/cgi-bin/page_sub.pl" method="GET">
+<form action="/cgi-bin/new_detail.pl" method="GET">
 <b>Accession Number</b><br>
 		<INPUT NAME = "accn_num" SIZE = 20 MAXLENGTH = 15>
 			<input TYPE="submit" VALUE="Get single record">
@@ -380,6 +407,7 @@ Number of records to retrieve<br>
 </tr>
 </table>
 
+<!--
 <table >
 <tr><th colspan=3><hr>Mapping</th></tr>
 <tr><td colspan=3>
@@ -387,7 +415,6 @@ Number of records to retrieve<br>
 </td>
 </tr>
 <tr><td colspan=3>
-<!-- <img src="/bnhm_logo_small.gif"> -->
 <a href="
 http://bnhm.berkeley.edu/query/index.php?Method=complete&ucjeps=true&Class=undefined&Scientificname=&Commonname=&Collector=&Culture=undefined&Continent_ocean_standard=undefined&quick_search_locale=undefined&Country_standard=UNITED%2BSTATES&Stateprovince_standard=CALIFORNIA&Locality=&Period=undefined&Epoch=undefined&ViewResults=bigtable&max=100&Orderby=undefined
 ">
@@ -395,6 +422,8 @@ Geographical&nbsp;searches&nbsp;and&nbsp;point&nbsp;distribution&nbsp;maps</a>
 		(through BNHM)</td>
 		</tr>
 			</table>
+
+-->
 
 	</td>
 	</tr>
@@ -656,7 +685,7 @@ Current Status Categories from the ICPN (including totals and lists of names)
 <LI><a href="/flora_genus_list.html">
 Index to genus names in Jepson's</a> <em>A Flora of California</em>;
 <a href="/flora_index.html">
-List of all names  [&gt;1.6 M]
+List of all names [&gt;1.6 M]
 </a>
 
 </OL>
@@ -681,9 +710,9 @@ List of all names  [&gt;1.6 M]
 
 <LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=Modification of non-distributional information">Modification of non-distributional information</a>
 <LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=Modification of distributional information">Modification of distributional information</a>
-<LI><a href="http://herbaria24.herb.berkeley.edu/cgi-bin/JM_notes.pl?subform=1">Information about taxon not in The Jepson Manual (new record for California)</a>
+<LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=New record for California">Information about taxon not in The Jepson Manual (new record for California)</a>
 <LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=General note on California floristics">General note on California floristics</a>
-<LI><a href="http://herbaria24.herb.berkeley.edu/cgi-bin/JM_notes.pl?subform=4">Suggested hyperlink</a>
+<LI><a href="&#109;&#97;&#105;&#108;to:interchange&#064;lists.berkeley.edu?subject=Suggested hyperlink">Suggested hyperlink</a>
 </OL>
 		</TD>
 	</TR>
