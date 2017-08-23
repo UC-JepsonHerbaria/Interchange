@@ -11,7 +11,7 @@
 ```print "     5 parsing the plant name index\n";```
 ```&parse_cpn();```
 
-###### made by line in ```make_interchange.pl```:
+##### made by line in ```make_interchange.pl```:
 
 ```#from new_parse_cpn.pl```
 ```sub parse_cpn {```
@@ -166,29 +166,33 @@
 ###### Taxon SMASCH IDs to Jepson Manual paragraph number
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```tid_par.hash``` from ```flat_dbm_2.txt```
-```sub flatten_dbm {
-	%flat_dbm=( ...
-$hashfile_tid_par => "flat_dbm_2.txt", ...
-$hashfile_tid_par = $tempdir."tid_par.hash";``` 
+```sub flatten_dbm {```
+```	%flat_dbm=( ...```
+
+```$hashfile_tid_par => "flat_dbm_2.txt", ...```
+
+```$hashfile_tid_par = $tempdir."tid_par.hash";``` 
 
 
 ##flat_dbm_3.txt 
 ###### Jepson Manual 1992 name to new Jepson Manual name
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```jmname_newname.hash``` from ```flat_dbm_3.txt```
-```sub flatten_dbm {
-	%flat_dbm=( ...
-$hashfile_jmname_newname => "flat_dbm_3.txt", ...
-$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; ```
+```sub flatten_dbm {```
+```	%flat_dbm=( ...```
+
+```$hashfile_jmname_newname => "flat_dbm_3.txt", ...```
+
+```$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; ```
 
 
 ## flat_dbm_4.txt 
 ###### Taxon name to Interchange taxon ID (some added that are not in SMASCH)
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```name_to_code.hash``` from ```flat_dbm_4.txt```
-```sub flatten_dbm {
-	%flat_dbm=( ...
-$hashfile_name_to_code => "flat_dbm_4.txt", ...
+```sub flatten_dbm {```
+```	%flat_dbm=( ...```
+```$hashfile_name_to_code => "flat_dbm_4.txt", ...```
 ```$hashfile_name_to_code = $tempdir."name_to_code.hash";``` 
 
 
@@ -196,44 +200,50 @@ $hashfile_name_to_code => "flat_dbm_4.txt", ...
 ###### Jepson Manual names to .... [I guess David Baxter could not tell where this goes when he wrote this]
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```JM_namehash.hash``` from ```flat_dbm_5.txt``` and places the hash in the temp directory
-```sub flatten_dbm {
-	%flat_dbm=( ...
-$hashfile_JM_namehash => "flat_dbm_5.txt", ...
-$hashfile_JM_namehash = $tempdir."JM_namehash.hash"; ```
+```sub flatten_dbm {```
+```	%flat_dbm=( ...```
+
+```$hashfile_JM_namehash => "flat_dbm_5.txt", ...```
+
+```$hashfile_JM_namehash = $tempdir."JM_namehash.hash"; ```
 
 
 ## flat_dbm_6.txt  
 ###### Paragraph number to marked up contents of paragraph
 ###### Made by line in make_interchange.pl:
 ###### makes ```JM_treatment_h.hash``` from ```flat_dbm_6.txt```
-```sub flatten_dbm {
-	%flat_dbm=( ...
-$hashfile_JM_treatment => "flat_dbm_6.txt"); ...
-$hashfile_JM_treatment = $tempdir."JM_treatment_h.hash";``` 
+```sub flatten_dbm {```
+
+```	%flat_dbm=( ...```
+
+```$hashfile_JM_treatment => "flat_dbm_6.txt"); ...```
+
+```$hashfile_JM_treatment = $tempdir."JM_treatment_h.hash";``` 
 
 
 ## I_common.txt
 ###### Common Name parsing
+```print "     7 making common name file\n";```
+
 ###### made by line in make_interchange.pl:
-```print "     7 making common name file\n";
-&make_common_index();```
+```&make_common_index();```
 
 
 ## I_treat_index_XXX.html, I_treat_indexes.html
 ###### HTML treatment files for the search and index pages for the interchange
 ###### made by lines in make_interchange.pl:
-```print "     4 making name hash\n";
-&make_namehash();```
+```print "     4 making name hash\n";```
+```&make_namehash();```
 ###### and
-```sub make_treatment_indexes {
-##########TREATMENT INDEXES###############```
+```sub make_treatment_indexes {```
+```##########TREATMENT INDEXES###############```
 
 
 ## I_index_XXX.html, and others
 ###### HTML index files for the index pages for the interchange
 ###### made by line in make_interchange.pl:
-```#from new_parse_cpn.pl
-sub parse_cpn {```
+```#from new_parse_cpn.pl```
+```sub parse_cpn {```
 ###### and
 ```sub make_index {```
 ###### which is within the ```sub parse_cpn```
@@ -242,8 +252,8 @@ sub parse_cpn {```
 ## I_status_XXX.html, and others
 ###### HTML files for each of the codes for the nativity status of the plants listed as being present in CA based on eFLora/Jepson Manual 
 ###### made by line in ```make_interchange.pl```:
-```#from new_parse_cpn.pl
-sub parse_cpn {```
+```#from new_parse_cpn.pl```
+```sub parse_cpn {```
 ###### and
 ```&make_status_index```
 ###### which is within the ```sub parse_cpn```
