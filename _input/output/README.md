@@ -75,26 +75,27 @@ This is the output directory created by the Interchange script, make_interchange
 'unresolved' => 'Current Status not yet established'
 ```
 
-##Long format status definitions:
-Current Status: 1, accepted name for taxon native to CA
-Current Status: 1a, taxonomic or nomenclatural synonym for taxon native to CA
-Current Status: 1b, unpublished, invalidly published, illegitimate, or rejected name for taxon native to CA
-Current Status: 2, accepted name for taxon naturalized in CA
-Current Status: 2a, taxonomic or nomenclatural synonym for taxon naturalized in CA
-Current Status: 2b, unpublished, invalidly published, illegitimate, or rejected name for taxon naturalized in CA
+## Long format status definitions:
+### A. In CA
+###### Current Status: 1, accepted name for taxon native to CA
+###### Current Status: 1a, taxonomic or nomenclatural synonym for taxon native to CA
+###### Current Status: 1b, unpublished, invalidly published, illegitimate, or rejected name for taxon native to CA
+###### Current Status: 2, accepted name for taxon naturalized in CA
+###### Current Status: 2a, taxonomic or nomenclatural synonym for taxon naturalized in CA
+###### Current Status: 2b, unpublished, invalidly published, illegitimate, or rejected name for taxon naturalized in CA
 
-B. In CA but not in CA Flora (escaped from or persistent beyond cultivation but not naturalized in CA, or occurring in cultivation in CA but only as a weed, without deliberate human fostering)
+### B. In CA but not in CA Flora (escaped from or persistent beyond cultivation but not naturalized in CA, or occurring in cultivation in CA but only as a weed, without deliberate human fostering)
 
-Current Status: 3, accepted name for taxon occurring in CA only as a waif and/or garden escape, not naturalized
-Current Status: 3a, taxonomic or nomenclatural synonym for taxon occurring in CA only as a waif and/or garden escape, not naturalized
-Current Status: 3b, unpublished, invalidly published, illegitimate, or rejected name for for taxon occurring in CA only as a waif and/or garden escape, not naturalized
-Current Status: 4, accepted name for taxon occurring in CA only as an agricultural, garden, or urban weed
-Current Status: 4a, taxonomic or nomenclatural synonym for taxon occurring in CA only as an agricultural, garden, or urban weed - tr (no records)
-Current Status: 4b, unpublished, invalidly published, illegitimate, or rejected name for taxon occurring in CA only as an agricultural, garden, or urban weed
-Current Status: 5, accepted name for taxon occurring in CA only as greenhouse weed - tr (no records)
-Current Status: 5a, taxonomic or nomenclatural synonym for taxon occurring in CA only as greenhouse weed - tr (no records)
+###### Current Status: 3, accepted name for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+###### Current Status: 3a, taxonomic or nomenclatural synonym for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+###### Current Status: 3b, unpublished, invalidly published, illegitimate, or rejected name for for taxon occurring in CA only as a waif and/or garden escape, not naturalized
+###### Current Status: 4, accepted name for taxon occurring in CA only as an agricultural, garden, or urban weed
+###### Current Status: 4a, taxonomic or nomenclatural synonym for taxon occurring in CA only as an agricultural, garden, or urban weed - tr (no records)
+###### Current Status: 4b, unpublished, invalidly published, illegitimate, or rejected name for taxon occurring in CA only as an agricultural, garden, or urban weed
+###### Current Status: 5, accepted name for taxon occurring in CA only as greenhouse weed - tr (no records)
+###### Current Status: 5a, taxonomic or nomenclatural synonym for taxon occurring in CA only as greenhouse weed - tr (no records)
 
-C. Not in CA or in CA only in cultivation, under deliberate human fostering (extirpation intentional or not, of native or alien taxa)
+### C. Not in CA or in CA only in cultivation, under deliberate human fostering (extirpation intentional or not, of native or alien taxa)
 
 Current Status: 6, accepted name for taxon extirpated in CA
 Current Status: 6a, taxonomic or nomenclatural synonym for taxon extirpated in CA
@@ -124,8 +125,8 @@ Current Status: 17, unpublished, invalidly published, illegitimate, or rejected 
 
 # Details on Individual files
 
-##JM_parseq.txt
-Paragraph sequence index to be appended to CGI script: ``get_JM_treatment.pl```
+## JM_parseq.txt
+Paragraph sequence index to be appended to CGI script ``get_JM_treatment.pl```
 Made by line in ```make_interchange.pl```
 ```	&open_output_file($file_JM_parseq);
 		print OUT <<EOP;
@@ -134,30 +135,31 @@ EOP
 	print OUT "1\n";
 ```
 
-##LN2C.txt:	
+## LN2C.txt:	
 List of taxon IDs associated with each name element; appended to CGI script ```LN2C.pl```
 Made by line in ```make_interchange.pl```:
-&open_output_file($file_LN2C);
+```&open_output_file($file_LN2C);```
 
 
-##flat_dbm_1.txt 
+## flat_dbm_1.txt 
 Taxon SMASCH IDs to Interchange contents from ```$file_cpn_out```
 Made by line in ```make_interchange.pl```:
+makes ```capn_db.hash``` from ```flat_dbm_1.txt```
 ```sub flatten_dbm {
 	%flat_dbm=(
 $hashfile_capn_db => "flat_dbm_1.txt",
-```
-makes ```capn_db.hash``` from ```flat_dbm_1.txt```
-```$hashfile_capn_db = $tempdir."capn_db.hash";``` 
+
+$hashfile_capn_db = $tempdir."capn_db.hash";``` 
 
 
-##flat_dbm_2.txt 
+## flat_dbm_2.txt 
 Taxon SMASCH IDs to Jepson Manual paragraph number
 Made by line in ```make_interchange.pl```:
+makes ```tid_par.hash``` from ```flat_dbm_2.txt```
 ```sub flatten_dbm {
 	%flat_dbm=(
 $hashfile_tid_par => "flat_dbm_2.txt",```
-makes ```tid_par.hash``` from ```flat_dbm_2.txt```
+
 ```$hashfile_tid_par = $tempdir."tid_par.hash";``` 
 
 
