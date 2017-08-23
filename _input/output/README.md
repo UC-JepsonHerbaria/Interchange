@@ -231,7 +231,7 @@
 
 ## I_treat_index_XXX.html, I_treat_indexes.html
 ###### HTML index files for the search and index pages for the interchange, this is the old JM edition 1 format
-###### Format abandoned sometime in late 2011? (not in current output), only the I_index_XXX.html format was continued in 2012 onward
+###### files stopped being generated 2012 (not in outpus from 2012-2015), re-appeared in 2016 outputs, and now is gone in 2017 outputs, commented out or is this a bugged?
 ###### made by lines in make_interchange.pl:
 ```print "     4 making name hash\n";```
 ```&make_namehash();```
