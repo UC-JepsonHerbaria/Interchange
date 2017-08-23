@@ -3,55 +3,11 @@
 
 This is the output directory created by the Interchange script, make_interchange.pl (see Step 5).
 
-5. Run make_interchange.pl, which uses CPN_out.txt as an input. This creates a directory called _input, which contains directories output, temp, log, and links. If you want to review any "warns" the script gave, they can be found in log.
+5. Run ```make_interchange.pl```, which uses ``CPN_out.txt`` as an input. This creates a directory called _input, which contains directories output, temp, log, and links. If you want to review any "warns" the script gave, they can be found in log.
 	>Output: a whole bunch of interchange files in _input/output
 
-
-I_common.txt
-Common Name parsing
-made by line in make_interchange.pl:
-print "     7 making common name file\n";
-&make_common_index();
-
-
-I_treat_index_XXX.html, I_treat_indexes.html
-HTML treatment files for the search and index pages for the interchange
-made by lines in make_interchange.pl:
-print "     4 making name hash\n";
-&make_namehash();
-and
-sub make_treatment_indexes {
-##########TREATMENT INDEXES###############
-
-
-CPN file parsing
-print "     5 parsing the plant name index\n";
-&parse_cpn();
-made by line in make_interchange.pl:
-#from new_parse_cpn.pl
-sub parse_cpn {
-
-
-I_index_XXX.html, and others
-HTML index files for the index pages for the interchange
-made by line in make_interchange.pl:
-#from new_parse_cpn.pl
-sub parse_cpn {
-and
-sub make_index {
-which is within the sub parse_cpn
-
-
-I_status_XXX.html, and others
-HTML files for each of the codes for the nativity status of the plants listed as being present in CA based on eFLora/Jepson Manual 
-made by line in make_interchange.pl:
-#from new_parse_cpn.pl
-sub parse_cpn {
-and
-&make_status_index
-which is within the sub parse_cpn
-
-Script Status definitions:
+##Script Status definitions:
+```
 '1' => 'accepted name for taxon native to CA',
 '1a' => 'taxonomic or nomenclatural synonym for taxon native to CA',
 '1b' => 'unpublished, invalidly published, illegitimate, or rejected name for taxon native to CA',
@@ -117,8 +73,9 @@ Script Status definitions:
 '11a_t' => 'accepted name for taxonomically not recognized and/or sterile hybrid; non-hybrid form of name (tentative)',
 '14_t' => 'orthographic variant of name treated elsewhere in this list (tentative)',
 'unresolved' => 'Current Status not yet established'
+```
 
-Long format status definitions:
+##Long format status definitions:
 Current Status: 1, accepted name for taxon native to CA
 Current Status: 1a, taxonomic or nomenclatural synonym for taxon native to CA
 Current Status: 1b, unpublished, invalidly published, illegitimate, or rejected name for taxon native to CA
@@ -165,46 +122,53 @@ Current Status: 15, genus name
 Current Status: 16, family name
 Current Status: 17, unpublished, invalidly published, illegitimate, or rejected name for taxon of unknown or uncertain status with respect to the flora of California
 
+# Details on Individual files
 
-JM_parseq.txt:	Paragraph sequence index to be appended to CGI script: get_JM_treatment.pl
-Made by line in make_interchange.pl:
-	&open_output_file($file_JM_parseq);
+##JM_parseq.txt
+Paragraph sequence index to be appended to CGI script: ``get_JM_treatment.pl```
+Made by line in ```make_interchange.pl```
+```	&open_output_file($file_JM_parseq);
 		print OUT <<EOP;
-# Append this to  IJM.pl and upload it to /cgi-bin on Annie. It is the index to treatment paragraph offsets
+#Append this to  IJM.pl and upload it to /cgi-bin on Annie. It is the index to treatment paragraph offsets
 EOP
 	print OUT "1\n";
+```
 
-
-LN2C.txt:	List of taxon IDs associated with each name element; appended to CGI script: LN2C.pl
-Made by line in make_interchange.pl:
+##LN2C.txt:	
+List of taxon IDs associated with each name element; appended to CGI script ```LN2C.pl```
+Made by line in ```make_interchange.pl```:
 &open_output_file($file_LN2C);
 
 
-flat_dbm_1.txt #Taxon SMASCH IDs to Interchange contents from $file_cpn_out
-Made by line in make_interchange.pl:
-sub flatten_dbm {
+##flat_dbm_1.txt 
+Taxon SMASCH IDs to Interchange contents from ```$file_cpn_out```
+Made by line in ```make_interchange.pl```:
+```sub flatten_dbm {
 	%flat_dbm=(
 $hashfile_capn_db => "flat_dbm_1.txt",
-makes capn_db.hash from flat_dbm_1.txt
-$hashfile_capn_db = $tempdir."capn_db.hash"; 
+```
+makes ```capn_db.hash``` from ```flat_dbm_1.txt```
+```$hashfile_capn_db = $tempdir."capn_db.hash";``` 
 
 
-flat_dbm_2.txt #Taxon SMASCH IDs to Jepson Manual paragraph number
-Made by line in make_interchange.pl:
-sub flatten_dbm {
+##flat_dbm_2.txt 
+Taxon SMASCH IDs to Jepson Manual paragraph number
+Made by line in ```make_interchange.pl```:
+```sub flatten_dbm {
 	%flat_dbm=(
-$hashfile_tid_par => "flat_dbm_2.txt",
-makes tid_par.hash from flat_dbm_2.txt
-$hashfile_tid_par = $tempdir."tid_par.hash"; 
+$hashfile_tid_par => "flat_dbm_2.txt",```
+makes ```tid_par.hash``` from ```flat_dbm_2.txt```
+```$hashfile_tid_par = $tempdir."tid_par.hash";``` 
 
 
-flat_dbm_3.txt #Jepson Manual 1992 name to new Jepson Manual name
-Made by line in make_interchange.pl:
-sub flatten_dbm {
+##flat_dbm_3.txt 
+Jepson Manual 1992 name to new Jepson Manual name
+Made by line in ```make_interchange.pl```:
+```sub flatten_dbm {
 	%flat_dbm=(
-$hashfile_jmname_newname => "flat_dbm_3.txt",
-makes jmname_newname.hash from flat_dbm_3.txt
-$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; 
+$hashfile_jmname_newname => "flat_dbm_3.txt",```
+makes ```jmname_newname.hash``` from ```flat_dbm_3.txt```
+```$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; ```
 
 
 flat_dbm_4.txt #Taxon name to Interchange taxon ID (some added that are not in SMASCH)
@@ -232,4 +196,63 @@ sub flatten_dbm {
 $hashfile_JM_treatment => "flat_dbm_6.txt");
 makes JM_treatment_h.hash from flat_dbm_6.txt
 $hashfile_JM_treatment = $tempdir."JM_treatment_h.hash"; 
+
+
+###I_common.txt
+Common Name parsing
+made by line in make_interchange.pl:
+print "     7 making common name file\n";
+&make_common_index();
+
+
+###I_treat_index_XXX.html, I_treat_indexes.html
+HTML treatment files for the search and index pages for the interchange
+made by lines in make_interchange.pl:
+'''
+print "     4 making name hash\n";
+&make_namehash();
+'''
+and
+'''
+sub make_treatment_indexes {
+##########TREATMENT INDEXES###############
+'''
+
+###CPN file parsing
+'''
+print "     5 parsing the plant name index\n";
+&parse_cpn();
+'''
+made by line in make_interchange.pl:
+'''
+#from new_parse_cpn.pl
+sub parse_cpn {
+'''
+
+###I_index_XXX.html, and others
+HTML index files for the index pages for the interchange
+made by line in make_interchange.pl:
+'''
+#from new_parse_cpn.pl
+sub parse_cpn {
+'''
+and
+'''
+sub make_index {
+'''
+which is within the sub parse_cpn
+
+
+###I_status_XXX.html, and others
+HTML files for each of the codes for the nativity status of the plants listed as being present in CA based on eFLora/Jepson Manual 
+made by line in make_interchange.pl:
+'''
+#from new_parse_cpn.pl
+sub parse_cpn {
+'''
+and
+'''
+&make_status_index
+'''
+which is within the sub parse_cpn
 
