@@ -28,6 +28,9 @@ Eurybia radulina
 794
 Amauriopsis dissecta
 
+1252
+CN: Gamochaeta purpurea
+
 1328
 Deinandra clementina
 
@@ -136,11 +139,8 @@ CN: Cylindropuntia × munzii
 3137
 CN_T: Atriplex dioica	t
 
-178
-CN_T: Cuscuta veatchii	t
-
-237
-CN_T: Boerhavia coulteri	t
+169
+CN: Cuscuta veatchii K. Brandegee
 
 5632
 CN: Plantago arenaria
@@ -220,9 +220,6 @@ Leptosiphon septentrionalis	t
 6251
 CN: Persicaria amphibia (L.) A. Gray var. var. stipulacea ( N. Coleman) H. Hara
 
-390
-CN: Triteleia grandiflora Lindl.
-
 8824
 CN: Aristida ternipes Cav. var. gentilis (Henrard) Allred
 
@@ -231,6 +228,9 @@ Coleogeton filiformis	t
 
 5
 CN: Asplenium viride
+
+29
+CN: Funastrum cynanchoides (Decne.) Schltr. var. hartwegii (Vail) Krings
 
 753
 Symphyotrichum ascendens
@@ -261,6 +261,9 @@ Oreostemma peirsonii
 
 922
 CN: Matricaria matricarioides
+
+49
+CN: Deinandra fasciculata
 
 1109
 CN: Erigeron greenei
@@ -355,6 +358,9 @@ Packera streptanthifolia
 1835
 Packera werneriifolia
 
+1958
+CN: Arctotis fastuosa Jacq.
+
 1967
 Arnica dealbata
 
@@ -367,13 +373,16 @@ Draba breweri var. cana
 2740
 CN: Cylindropuntia × fosbergii
 
+2894
+CN: Sambucus nigra L. subsp. canadensis (L.) Bolli
+
 3198
 CN: Salicornia depressa
 
 3271
 CN: Ipomoea indica (Burm.) Merr.
 
-4290
+203
 CN_T: Cassia nemophila	t
 
 4427
@@ -436,7 +445,7 @@ Leptosiphon pygmaeus subsp. pygmaeus	t
 5851
 Leptosiphon serrulatus	t
 
-281
+254
 CN: Eriogonum umbellatum Torr. var. nelsoniorum Reveal.
 
 6250
@@ -445,14 +454,11 @@ CN: Persicaria amphibia (L.) A. Gray var. emersa (Michx.) J. C. Hickman
 6256
 Persicaria bistortoides
 
-322
-CN: Mimulus aurantiacus
-
 8225
 Olsynium douglasii var. douglasii
 
-362
-CN: Olsynium douglasii
+346
+CN: Triteleia grandiflora Lindl.
 
 9369
 Coleogeton pectinatus	t

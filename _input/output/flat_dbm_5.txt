@@ -1393,14 +1393,8 @@ Androstephium breviflorum => 8349,8428,8429
 LEYMUS
 Leymus cinereus => 8738,9085,9086	Leymus condensatus => 8738,9085,9087	Leymus mollis => 8738,9085,0,9088	Leymus mollis subsp. mollis => 8738,9085,0,9088	Leymus × multiflorus => 8738,9085,9089	Leymus pacificus => 8738,9085,9090	Leymus salinus => 8738,9085,0,9091	Leymus salinus subsp. mojavensis => 8738,9085,0,9091	Leymus triticoides => 8738,9085,9092	Leymus × vancouverensis => 8738,9085,9093	
 
-CARPOBROTUS
-Carpobrotus chilensis => 265,268,269	Carpobrotus edulis => 265,268,270	
-
 ANACARDIACEAE
 MALOSMA	PISTACIA	RHUS	SCHINUS	TOXICODENDRON	
-
-CARTHAMUS
-Carthamus baeticus => 609,872,873	Carthamus lanatus => 609,872,874	Carthamus leucocaulos => 609,872,875	Carthamus tinctorius => 609,872,876	
 
 PECTIS
 Pectis papposa => 609,1671,0,1672	Pectis papposa var. papposa => 609,1671,0,1672	
@@ -1411,35 +1405,14 @@ Petasites frigidus => 609,1691,0,1692	Petasites frigidus var. palmatus => 609,16
 BRYONIA
 Bryonia dioica => 3375,3378,3379	
 
-EMPETRACEAE
-EMPETRUM	
-
-GAULTHERIA
-Gaultheria humifusa => 3449,3561,3562	Gaultheria ovatifolia => 3449,3561,3563	Gaultheria shallon => 3449,3561,3564	
-
-MERCURIALIS
-Mercurialis annua => 3618,3677,3678	
-
 PETERIA
 Peteria thompsoniae => 3691,4169,4170	
-
-PHASEOLUS
-Phaseolus filiformis => 3691,4171,4172	
 
 LAVATERA
 Lavatera arborea => 5042,5069,5070	Lavatera assurgentiflora => 5042,5069,5071	Lavatera cretica => 5042,5069,5072	
 
-ESCHSCHOLZIA
-Eschscholzia caespitosa => 5547,5568,5569	Eschscholzia californica => 5547,5568,5570	Eschscholzia glyptosperma => 5547,5568,5571	Eschscholzia hypecoides => 5547,5568,5572	Eschscholzia lemmonii => 5547,5568,5573	Eschscholzia lemmonii subsp. kernensis => 5547,5568,5573,5574	Eschscholzia lemmonii subsp. lemmonii => 5547,5568,5573,5575	Eschscholzia lobbii => 5547,5568,5576	Eschscholzia minutiflora => 5547,5568,5577	Eschscholzia parishii => 5547,5568,5578	Eschscholzia ramosa => 5547,5568,5579	Eschscholzia rhombipetala => 5547,5568,5580	
-
-POLEMONIACEAE
-ALLOPHYLLUM	COLLOMIA	ERIASTRUM	GILIA	GYMNOSTERIS	IPOMOPSIS	LANGLOISIA	LEPTODACTYLON	LINANTHUS	LOESELIASTRUM	NAVARRETIA	PHLOX	POLEMONIUM	
-
 CENTROSTEGIA
 Centrostegia thurberi => 5936,5939,5940	
-
-ALOYSIA
-Aloysia wrightii => 7773,7774,7775	
 
 PHORADENDRON
 Phoradendron californicum => 7836,7852,7853	Phoradendron densum => 7836,7852,7854	Phoradendron juniperinum => 7836,7852,7855	Phoradendron libocedri => 7836,7852,7856	Phoradendron macrophyllum => 7836,7852,7857	Phoradendron pauciflorum => 7836,7852,7858	Phoradendron villosum => 7836,7852,7859	
@@ -1447,32 +1420,14 @@ Phoradendron californicum => 7836,7852,7853	Phoradendron densum => 7836,7852,785
 ARACEAE
 ACORUS	ARUM	LYSICHITON	PELTANDRA	PISTIA	ZANTEDESCHIA	
 
-AGROSTIS
-Agrostis avenacea => 8738,8766,8767	Agrostis blasdalei => 8738,8766,8768	Agrostis capillaris => 8738,8766,8769	Agrostis densiflora => 8738,8766,8770	Agrostis elliottiana => 8738,8766,8771	Agrostis exarata => 8738,8766,8772	Agrostis gigantea => 8738,8766,8773	Agrostis hallii => 8738,8766,8774	Agrostis hendersonii => 8738,8766,8775	Agrostis hooveri => 8738,8766,8776	Agrostis humilis => 8738,8766,8777	Agrostis idahoensis => 8738,8766,8778	Agrostis microphylla => 8738,8766,8779	Agrostis oregonensis => 8738,8766,8780	Agrostis pallens => 8738,8766,8781	Agrostis scabra => 8738,8766,8782	Agrostis semiverticillata => 8738,8766,8783	Agrostis stolonifera => 8738,8766,8784	Agrostis tandilensis => 8738,8766,8785	Agrostis thurberiana => 8738,8766,8786	Agrostis variabilis => 8738,8766,8787	
-
 BROMUS
 Bromus alopecuros => 8738,8858,8859	Bromus anomalus => 8738,8858,8860	Bromus arenarius => 8738,8858,8861	Bromus arizonicus => 8738,8858,8862	Bromus briziformis => 8738,8858,8863	Bromus carinatus => 8738,8858,8864	Bromus carinatus var. carinatus => 8738,8858,8864,8865	Bromus carinatus var. maritimus => 8738,8858,8864,8866	Bromus catharticus => 8738,8858,8867	Bromus ciliatus => 8738,8858,8868	Bromus diandrus => 8738,8858,8869	Bromus grandis => 8738,8858,8870	Bromus hordeaceus => 8738,8858,8871	Bromus inermis => 8738,8858,0,8872	Bromus inermis subsp. inermis => 8738,8858,0,8872	Bromus japonicus => 8738,8858,8873	Bromus laevipes => 8738,8858,8874	Bromus madritensis => 8738,8858,8875	Bromus madritensis subsp. madritensis => 8738,8858,8875,8876	Bromus madritensis subsp. rubens => 8738,8858,8875,8877	Bromus orcuttianus => 8738,8858,8878	Bromus secalinus => 8738,8858,8879	Bromus stamineus => 8738,8858,8880	Bromus sterilis => 8738,8858,8881	Bromus suksdorfii => 8738,8858,8882	Bromus tectorum => 8738,8858,8883	Bromus trinii => 8738,8858,8884	Bromus vulgaris => 8738,8858,8885	
-
-PLEUROPOGON
-Pleuropogon californicus => 8738,9203,9204	Pleuropogon hooverianus => 8738,9203,9205	Pleuropogon refractus => 8738,9203,9206	
 
 SCHEUCHZERIACEAE
 SCHEUCHZERIA	
 
-FOENICULUM
-Foeniculum vulgare => 329,407,408	
-
 ASTER
 Aster alpigenus => 609,751,0,752	Aster alpigenus var. andersonii => 609,751,0,752	Aster ascendens => 609,751,753	Aster bernardinus => 609,751,754	Aster breweri => 609,751,755	Aster brickellioides => 609,751,756	Aster campestris => 609,751,757	Aster chilensis => 609,751,758	Aster eatonii => 609,751,759	Aster engelmannii => 609,751,760	Aster foliaceus => 609,751,761	Aster foliaceus var. lyallii => 609,751,761,762	Aster foliaceus var. parryi => 609,751,761,763	Aster frondosus => 609,751,764	Aster greatae => 609,751,765	Aster integrifolius => 609,751,766	Aster lanceolatus => 609,751,0,767	Aster lanceolatus subsp. hesperius => 609,751,0,767	Aster ledophyllus => 609,751,768	Aster lentus => 609,751,769	Aster occidentalis => 609,751,770	Aster occidentalis var. occidentalis => 609,751,770,771	Aster occidentalis var. yosemitanus => 609,751,770,772	Aster oregonensis => 609,751,773	Aster pauciflorus => 609,751,774	Aster peirsonii => 609,751,775	Aster radulinus => 609,751,776	Aster scopulorum => 609,751,777	Aster subulatus => 609,751,0,778	Aster subulatus var. ligulatus => 609,751,0,778	
-
-LEMBERTIA
-Lembertia congdonii => 609,1521,1522	
-
-ARABIDOPSIS
-Arabidopsis thaliana => 2240,2248,2249	
-
-MENZIESIA
-Menziesia ferruginea => 3449,3575,3576	
 
 EUPHORBIACEAE
 ACALYPHA	BERNARDIA	CHAMAESYCE	CROTON	DITAXIS	EREMOCARPUS	EUPHORBIA	MERCURIALIS	RICINUS	STILLINGIA	TETRACOCCUS	TRAGIA	
@@ -1480,29 +1435,17 @@ ACALYPHA	BERNARDIA	CHAMAESYCE	CROTON	DITAXIS	EREMOCARPUS	EUPHORBIA	MERCURIALIS	R
 PHACELIA
 Phacelia adenophora => 4518,4587,4588	Phacelia affinis => 4518,4587,4589	Phacelia amabilis => 4518,4587,4590	Phacelia anelsonii => 4518,4587,4591	Phacelia argentea => 4518,4587,4592	Phacelia austromontana => 4518,4587,4593	Phacelia barnebyana => 4518,4587,4594	Phacelia bicolor => 4518,4587,0,4595	Phacelia bicolor var. bicolor => 4518,4587,0,4595	Phacelia bolanderi => 4518,4587,4596	Phacelia brachyloba => 4518,4587,4597	Phacelia breweri => 4518,4587,4598	Phacelia californica => 4518,4587,4599	Phacelia calthifolia => 4518,4587,4600	Phacelia campanularia => 4518,4587,4601	Phacelia campanularia subsp. campanularia => 4518,4587,4601,4602	Phacelia campanularia subsp. vasiformis => 4518,4587,4601,4603	Phacelia cicutaria => 4518,4587,4604	Phacelia cicutaria var. cicutaria => 4518,4587,4604,4605	Phacelia cicutaria var. hispida => 4518,4587,4604,4606	Phacelia cicutaria var. hubbyi => 4518,4587,4604,4607	Phacelia ciliata => 4518,4587,4608	Phacelia coerulea => 4518,4587,4609	Phacelia congdonii => 4518,4587,4610	Phacelia cookei => 4518,4587,4611	Phacelia corymbosa => 4518,4587,4612	Phacelia crenulata => 4518,4587,4613	Phacelia crenulata var. ambigua => 4518,4587,4613,4614	Phacelia crenulata var. crenulata => 4518,4587,4613,4615	Phacelia crenulata var. minutiflora => 4518,4587,4613,4616	Phacelia cryptantha => 4518,4587,4617	Phacelia curvipes => 4518,4587,4618	Phacelia dalesiana => 4518,4587,4619	Phacelia davidsonii => 4518,4587,4620	Phacelia distans => 4518,4587,4621	Phacelia divaricata => 4518,4587,4622	Phacelia douglasii => 4518,4587,4623	Phacelia egena => 4518,4587,4624	Phacelia eisenii => 4518,4587,4625	Phacelia exilis => 4518,4587,4626	Phacelia floribunda => 4518,4587,4627	Phacelia fremontii => 4518,4587,4628	Phacelia glandulifera => 4518,4587,4629	Phacelia grandiflora => 4518,4587,4630	Phacelia greenei => 4518,4587,4631	Phacelia grisea => 4518,4587,4632	Phacelia gymnoclada => 4518,4587,4633	Phacelia hastata => 4518,4587,4634	Phacelia hastata subsp. compacta => 4518,4587,4634,4635	Phacelia hastata subsp. hastata => 4518,4587,4634,4636	Phacelia heterophylla => 4518,4587,0,4637	Phacelia heterophylla subsp. virgata => 4518,4587,0,4637	Phacelia humilis => 4518,4587,4638	Phacelia humilis var. dudleyi => 4518,4587,4638,4639	Phacelia humilis var. humilis => 4518,4587,4638,4640	Phacelia hydrophylloides => 4518,4587,4641	Phacelia imbricata => 4518,4587,4642	Phacelia imbricata subsp. imbricata => 4518,4587,4642,4643	Phacelia imbricata subsp. patula => 4518,4587,4642,4644	Phacelia insularis => 4518,4587,4645	Phacelia insularis var. continentis => 4518,4587,4645,4646	Phacelia insularis var. insularis => 4518,4587,4645,4647	Phacelia inundata => 4518,4587,4648	Phacelia inyoensis => 4518,4587,4649	Phacelia ivesiana => 4518,4587,4650	Phacelia ixodes => 4518,4587,4651	Phacelia lemmonii => 4518,4587,4652	Phacelia leonis => 4518,4587,4653	Phacelia linearis => 4518,4587,4654	Phacelia longipes => 4518,4587,4655	Phacelia lyonii => 4518,4587,4656	Phacelia malvifolia => 4518,4587,4657	Phacelia marcescens => 4518,4587,4658	Phacelia minor => 4518,4587,4659	Phacelia mohavensis => 4518,4587,4660	Phacelia monoensis => 4518,4587,4661	Phacelia mustelina => 4518,4587,4662	Phacelia mutabilis => 4518,4587,4663	Phacelia nashiana => 4518,4587,4664	Phacelia neglecta => 4518,4587,4665	Phacelia nemoralis => 4518,4587,4666	Phacelia nemoralis subsp. nemoralis => 4518,4587,4666,4667	Phacelia nemoralis subsp. oregonensis => 4518,4587,4666,4668	Phacelia novenmillensis => 4518,4587,4669	Phacelia orogenes => 4518,4587,4670	Phacelia pachyphylla => 4518,4587,4671	Phacelia parishii => 4518,4587,4672	Phacelia parryi => 4518,4587,4673	Phacelia pedicellata => 4518,4587,4674	Phacelia peirsoniana => 4518,4587,4675	Phacelia perityloides => 4518,4587,4676	Phacelia perityloides var. jaegeri => 4518,4587,4676,4677	Phacelia perityloides var. perityloides => 4518,4587,4676,4678	Phacelia phacelioides => 4518,4587,4679	Phacelia platyloba => 4518,4587,4680	Phacelia pringlei => 4518,4587,4681	Phacelia procera => 4518,4587,4682	Phacelia pulchella => 4518,4587,0,4683	Phacelia pulchella var. gooddingii => 4518,4587,0,4683	Phacelia purpusii => 4518,4587,4684	Phacelia quickii => 4518,4587,4685	Phacelia racemosa => 4518,4587,4686	Phacelia ramosissima => 4518,4587,4687	Phacelia ramosissima var. austrolitoralis => 4518,4587,4687,4688	Phacelia ramosissima var. eremophila => 4518,4587,4687,4689	Phacelia ramosissima var. latifolia => 4518,4587,4687,4690	Phacelia ramosissima var. montereyensis => 4518,4587,4687,4691	Phacelia ramosissima var. ramosissima => 4518,4587,4687,4692	Phacelia ramosissima var. subglabra => 4518,4587,4687,4693	Phacelia rattanii => 4518,4587,4694	Phacelia rotundifolia => 4518,4587,4695	Phacelia saxicola => 4518,4587,4696	Phacelia sericea => 4518,4587,0,4697	Phacelia sericea var. ciliosa => 4518,4587,0,4697	Phacelia stebbinsii => 4518,4587,4698	Phacelia stellaris => 4518,4587,4699	Phacelia suaveolens => 4518,4587,4700	Phacelia suaveolens var. keckii => 4518,4587,4700,4701	Phacelia suaveolens var. suaveolens => 4518,4587,4700,4702	Phacelia tanacetifolia => 4518,4587,4703	Phacelia tetramera => 4518,4587,4704	Phacelia thermalis => 4518,4587,4705	Phacelia umbrosa => 4518,4587,4706	Phacelia vallicola => 4518,4587,4707	Phacelia vallis-mortae => 4518,4587,4708	Phacelia viscida => 4518,4587,4709	
 
-HYPTIS
-Hyptis emoryi => 4745,4761,4762	
-
-LYCOPUS
-Lycopus americanus => 4745,4771,4772	Lycopus asper => 4745,4771,4773	Lycopus uniflorus => 4745,4771,4774	
-
 SATUREJA
 Satureja chandleri => 4745,4888,4889	Satureja douglasii => 4745,4888,4890	Satureja mimuloides => 4745,4888,4891	
 
 POLYGONACEAE
 ARISTOCAPSA	CENTROSTEGIA	CHORIZANTHE	DEDECKERA	DODECAHEMA	EMEX	ERIOGONUM	FAGOPYRUM	GILMANIA	GOODMANIA	HOLLISTERIA	LASTARRIAEA	MUCRONEA	MUEHLENBECKIA	NEMACAULIS	OXYRIA	OXYTHECA	POLYGONUM	PTEROSTEGIA	RUMEX	SYSTENOTHECA	
 
-PHYSOCARPUS
-Physocarpus alternans => 6677,6821,6822	Physocarpus capitatus => 6677,6821,6823	
-
 PYRACANTHA
 Pyracantha angustifolia => 6677,6885,6886	
 
 PLECTRITIS
 Plectritis brachystemon => 7754,7757,7758	Plectritis ciliosa => 7754,7757,7759	Plectritis ciliosa subsp. ciliosa => 7754,7757,7759,7760	Plectritis ciliosa subsp. insignis => 7754,7757,7759,7761	Plectritis congesta => 7754,7757,7762	Plectritis macrocera => 7754,7757,7763	
-
-CLADIUM
-Cladium californicum => 7928,8082,8083	
 
 IRIDACEAE
 CHASMANTHE	CROCOSMIA	FREESIA	GLADIOLUS	IRIS	IXIA	LIBERTIA	ROMULEA	SISYRINCHIUM	SPARAXIS	WATSONIA	
@@ -1512,12 +1455,6 @@ Nothoscordum gracile => 8349,8629,8630
 
 MISCANTHUS
 Miscanthus sinensis => 8738,9113,9114	
-
-AMBROSIA
-Ambrosia acanthicarpa => 609,648,649	Ambrosia ambrosioides => 609,648,650	Ambrosia artemisiifolia => 609,648,651	Ambrosia chamissonis => 609,648,652	Ambrosia chenopodiifolia => 609,648,653	Ambrosia confertiflora => 609,648,654	Ambrosia dumosa => 609,648,655	Ambrosia eriocentra => 609,648,656	Ambrosia ilicifolia => 609,648,657	Ambrosia psilostachya => 609,648,658	Ambrosia pumila => 609,648,659	Ambrosia trifida => 609,648,660	
-
-ATRICHOSERIS
-Atrichoseris platyphylla => 609,779,780	
 
 CRUPINA
 Crupina vulgaris => 609,1044,1045	
@@ -1537,26 +1474,11 @@ Dichondra donelliana => 3226,3266,3267	Dichondra occidentalis => 3226,3266,3268
 DIPSACUS
 Dipsacus fullonum => 3420,3421,3422	Dipsacus sativus => 3420,3421,3423	
 
-PLEURICOSPORA
-Pleuricospora fimbriolata => 3449,3591,3592	
-
-DRAPERIA
-Draperia systyla => 4518,4519,4520	
-
 ANULOCAULIS
 Anulocaulis annulatus => 5194,5213,5214	
 
-GAURA
-Gaura coccinea => 5263,5448,5449	Gaura drummondii => 5263,5448,5450	Gaura parviflora => 5263,5448,5451	Gaura sinuata => 5263,5448,5452	
-
-APONOGETON
-Aponogeton distachyon => 7898,7899,7900	
-
 GLADIOLUS
 Gladiolus italicus => 8185,8192,8193	Gladiolus tristis => 8185,8192,8194	
-
-ELEUSINE
-Eleusine indica => 8738,8961,8962	Eleusine tristachya => 8738,8961,8963	
 
 ZOSTERA
 Zostera marina => 9397,9401,9402	Zostera pacifica => 9397,9401,9403	
@@ -1573,17 +1495,8 @@ Cynoglossum grande => 2030,2110,2111	Cynoglossum occidentale => 2030,2110,2112	C
 EUCLIDIUM
 Euclidium syriacum => 2240,2483,2484	
 
-ESCOBARIA
-Escobaria vivipara => 2702,2712,2713	Escobaria vivipara var. alversonii => 2702,2712,2713,2714	Escobaria vivipara var. deserti => 2702,2712,2713,2715	Escobaria vivipara var. rosea => 2702,2712,2713,2716	
-
-CITRULLUS
-Citrullus colocynthis => 3375,3380,0,3381	Citrullus colocynthis var. lanatus => 3375,3380,0,3381	
-
 MARAH
 Marah fabaceus => 3375,3389,3390	Marah horridus => 3375,3389,3391	Marah macrocarpus => 3375,3389,3392	Marah macrocarpus var. macrocarpus => 3375,3389,3392,3393	Marah macrocarpus var. major => 3375,3389,3392,3394	Marah oreganus => 3375,3389,3395	Marah watsonii => 3375,3389,3396	
-
-CALLIANDRA
-Calliandra eriophylla => 3691,3883,3884	
 
 HESPEROCHIRON
 Hesperochiron californicus => 4518,4543,4544	Hesperochiron pumilus => 4518,4543,4545	
@@ -1597,26 +1510,14 @@ Luma apiculata => 5179,5192,5193
 ARCTOMECON
 Arctomecon merriamii => 5547,5548,5549	
 
-THALICTRUM
-Thalictrum alpinum => 6434,6569,6570	Thalictrum fendleri => 6434,6569,6571	Thalictrum fendleri var. fendleri => 6434,6569,6571,6572	Thalictrum fendleri var. polycarpum => 6434,6569,6571,6573	Thalictrum occidentale => 6434,6569,6574	Thalictrum sparsiflorum => 6434,6569,6575	
-
 COTONEASTER
 Cotoneaster franchetii => 6677,6713,6714	Cotoneaster pannosa => 6677,6713,6715	
 
 DOPATRIUM
 Dopatrium junceum => 7177,7336,7337	
 
-FIMBRISTYLIS
-Fimbristylis miliacea => 7928,8126,8127	Fimbristylis thermalis => 7928,8126,8128	Fimbristylis vahlii => 7928,8126,8129	
-
-FREESIA
-Freesia alba => 8185,8190,8191	
-
 CHLOROGALUM
 Chlorogalum angustifolium => 8349,8521,8522	Chlorogalum grandiflorum => 8349,8521,8523	Chlorogalum parviflorum => 8349,8521,8524	Chlorogalum pomeridianum => 8349,8521,8525	Chlorogalum pomeridianum var. divaricatum => 8349,8521,8525,8526	Chlorogalum pomeridianum var. minus => 8349,8521,8525,8527	Chlorogalum pomeridianum var. pomeridianum => 8349,8521,8525,8528	Chlorogalum purpureum => 8349,8521,8529	Chlorogalum purpureum var. purpureum => 8349,8521,8529,8530	Chlorogalum purpureum var. reductum => 8349,8521,8529,8531	
-
-DICHELOSTEMMA
-Dichelostemma capitatum => 8349,8535,8536	Dichelostemma capitatum subsp. capitatum => 8349,8535,8536,8537	Dichelostemma capitatum subsp. pauciflorum => 8349,8535,8536,8538	Dichelostemma congestum => 8349,8535,8539	Dichelostemma ida-maia => 8349,8535,8540	Dichelostemma multiflorum => 8349,8535,8541	Dichelostemma volubile => 8349,8535,8542	
 
 NOLINA
 Nolina bigelovii => 8349,8625,8626	Nolina interrata => 8349,8625,8627	Nolina parryi => 8349,8625,8628	
@@ -1630,53 +1531,14 @@ Schizachyrium scoparium => 8738,9273,9274
 TSUGA
 Tsuga heterophylla => 195,238,239	Tsuga mertensiana => 195,238,240	
 
-ACERACEAE
-ACER	
-
-ARGYRANTHEMUM
-Argyranthemum foeniculaceum => 609,699,700	
-
 LAPSANA
 Lapsana communis => 609,1481,1482	
 
 PSILOSTROPHE
 Psilostrophe cooperi => 609,1728,1729	
 
-BRASSICA
-Brassica juncea => 2240,2329,2330	Brassica napus => 2240,2329,2331	Brassica nigra => 2240,2329,2332	Brassica rapa => 2240,2329,2333	Brassica tournefortii => 2240,2329,2334	
-
-HIRSCHFELDIA
-Hirschfeldia incana => 2240,2496,2497	
-
-CALYCANTHACEAE
-CALYCANTHUS	
-
-DIANTHUS
-Dianthus armeria => 2907,2939,0,2940	Dianthus armeria subsp. armeria => 2907,2939,0,2940	Dianthus barbatus => 2907,2939,0,2941	Dianthus barbatus subsp. barbatus => 2907,2939,0,2941	Dianthus deltoides => 2907,2939,0,2942	Dianthus deltoides subsp. deltoides => 2907,2939,0,2942	
-
-SESBANIA
-Sesbania exaltata => 3691,4210,4211	
-
-ULEX
-Ulex europaeus => 3691,4294,4295	
-
-VICIA
-Vicia americana => 3691,4296,0,4297	Vicia americana var. americana => 3691,4296,0,4297	Vicia benghalensis => 3691,4296,4298	Vicia cracca => 3691,4296,4299	Vicia disperma => 3691,4296,4300	Vicia faba => 3691,4296,4301	Vicia gigantea => 3691,4296,4302	Vicia hassei => 3691,4296,4303	Vicia hirsuta => 3691,4296,4304	Vicia lathyroides => 3691,4296,4305	Vicia ludoviciana => 3691,4296,0,4306	Vicia ludoviciana var. ludoviciana => 3691,4296,0,4306	Vicia lutea => 3691,4296,4307	Vicia pannonica => 3691,4296,4308	Vicia sativa => 3691,4296,4309	Vicia sativa subsp. nigra => 3691,4296,4309,4310	Vicia sativa subsp. sativa => 3691,4296,4309,4311	Vicia tetrasperma => 3691,4296,4312	Vicia villosa => 3691,4296,4313	Vicia villosa subsp. varia => 3691,4296,4313,4314	Vicia villosa subsp. villosa => 3691,4296,4313,4315	
-
-SYSTENOTHECA
-Systenotheca vortriedei => 5936,6316,6317	
-
 DODECATHEON
 Dodecatheon alpinum => 6393,6403,6404	Dodecatheon clevelandii => 6393,6403,6405	Dodecatheon clevelandii subsp. clevelandii => 6393,6403,6405,6406	Dodecatheon clevelandii subsp. insulare => 6393,6403,6405,6407	Dodecatheon clevelandii subsp. patulum => 6393,6403,6405,6408	Dodecatheon clevelandii subsp. sanctarum => 6393,6403,6405,6409	Dodecatheon conjugens => 6393,6403,6410	Dodecatheon hendersonii => 6393,6403,6411	Dodecatheon jeffreyi => 6393,6403,6412	Dodecatheon pulchellum => 6393,6403,6413	Dodecatheon redolens => 6393,6403,6414	Dodecatheon subalpinum => 6393,6403,6415	
-
-MAURANDYA
-Maurandya antirrhiniflora => 7177,7383,0,7384	Maurandya antirrhiniflora subsp. antirrhiniflora => 7177,7383,0,7384	Maurandya petrophila => 7177,7383,7385	
-
-ALLIUM
-Allium abramsii => 8349,8354,8355	Allium acuminatum => 8349,8354,8356	Allium amplectens => 8349,8354,8357	Allium anceps => 8349,8354,8358	Allium atrorubens => 8349,8354,8359	Allium atrorubens var. atrorubens => 8349,8354,8359,8360	Allium atrorubens var. cristatum => 8349,8354,8359,8361	Allium bisceptrum => 8349,8354,0,8362	Allium bisceptrum var. bisceptrum => 8349,8354,0,8362	Allium bolanderi => 8349,8354,8363	Allium bolanderi var. bolanderi => 8349,8354,8363,8364	Allium bolanderi var. mirabile => 8349,8354,8363,8365	Allium burlewii => 8349,8354,8366	Allium campanulatum => 8349,8354,8367	Allium cratericola => 8349,8354,8368	Allium crispum => 8349,8354,8369	Allium denticulatum => 8349,8354,8370	Allium diabolense => 8349,8354,8371	Allium dichlamydeum => 8349,8354,8372	Allium falcifolium => 8349,8354,8373	Allium fimbriatum => 8349,8354,8374	Allium fimbriatum var. fimbriatum => 8349,8354,8374,8375	Allium fimbriatum var. mohavense => 8349,8354,8374,8376	Allium fimbriatum var. purdyi => 8349,8354,8374,8377	Allium haematochiton => 8349,8354,8378	Allium hickmanii => 8349,8354,8379	Allium hoffmanii => 8349,8354,8380	Allium howellii => 8349,8354,8381	Allium howellii var. clokeyi => 8349,8354,8381,8382	Allium howellii var. howellii => 8349,8354,8381,8383	Allium howellii var. sanbenitense => 8349,8354,8381,8384	Allium hyalinum => 8349,8354,8385	Allium jepsonii => 8349,8354,8386	Allium lacunosum => 8349,8354,8387	Allium lacunosum var. davisiae => 8349,8354,8387,8388	Allium lacunosum var. kernense => 8349,8354,8387,8389	Allium lacunosum var. lacunosum => 8349,8354,8387,8390	Allium lacunosum var. micranthum => 8349,8354,8387,8391	Allium lemmonii => 8349,8354,8392	Allium membranaceum => 8349,8354,8393	Allium monticola => 8349,8354,8394	Allium munzii => 8349,8354,8395	Allium neapolitanum => 8349,8354,8396	Allium nevadense => 8349,8354,8397	Allium obtusum => 8349,8354,8398	Allium obtusum var. conspicuum => 8349,8354,8398,8399	Allium obtusum var. obtusum => 8349,8354,8398,8400	Allium paniculatum => 8349,8354,0,8401	Allium paniculatum var. paniculatum => 8349,8354,0,8401	Allium parishii => 8349,8354,8402	Allium parryi => 8349,8354,8403	Allium parvum => 8349,8354,8404	Allium peninsulare => 8349,8354,8405	Allium peninsulare var. franciscanum => 8349,8354,8405,8406	Allium peninsulare var. peninsulare => 8349,8354,8405,8407	Allium platycaule => 8349,8354,8408	Allium praecox => 8349,8354,8409	Allium punctum => 8349,8354,8410	Allium sanbornii => 8349,8354,8411	Allium sanbornii var. congdonii => 8349,8354,8411,8412	Allium sanbornii var. sanbornii => 8349,8354,8411,8413	Allium serra => 8349,8354,8414	Allium sharsmithiae => 8349,8354,8415	Allium shevockii => 8349,8354,8416	Allium siskiyouense => 8349,8354,8417	Allium tolmiei => 8349,8354,0,8418	Allium tolmiei var. tolmiei => 8349,8354,0,8418	Allium tribracteatum => 8349,8354,8419	Allium triquetrum => 8349,8354,8420	Allium tuolumnense => 8349,8354,8421	Allium unifolium => 8349,8354,8422	Allium validum => 8349,8354,8423	Allium vineale => 8349,8354,8424	Allium yosemitense => 8349,8354,8425	
-
-LEUCOCRINUM
-Leucocrinum montanum => 8349,8590,8591	
 
 ACHNATHERUM
 Achnatherum aridum => 8738,8739,8740	Achnatherum brachychaetum => 8738,8739,8741	Achnatherum coronatum => 8738,8739,8742	Achnatherum diegoense => 8738,8739,8743	Achnatherum hymenoides => 8738,8739,8744	Achnatherum latiglume => 8738,8739,8745	Achnatherum lemmonii => 8738,8739,0,8746	Achnatherum lemmonii subsp. lemmonii => 8738,8739,0,8746	Achnatherum lettermanii => 8738,8739,8747	Achnatherum nelsonii => 8738,8739,0,8748	Achnatherum nelsonii subsp. dorei => 8738,8739,0,8748	Achnatherum nevadense => 8738,8739,8749	Achnatherum occidentale => 8738,8739,8750	Achnatherum occidentale subsp. californicum => 8738,8739,8750,8751	Achnatherum occidentale subsp. occidentale => 8738,8739,8750,8752	Achnatherum occidentale subsp. pubescens => 8738,8739,8750,8753	Achnatherum parishii => 8738,8739,8754	Achnatherum pinetorum => 8738,8739,8755	Achnatherum speciosum => 8738,8739,8756	Achnatherum stillmanii => 8738,8739,8757	Achnatherum thurberianum => 8738,8739,8758	Achnatherum webberi => 8738,8739,8759	
@@ -1684,50 +1546,17 @@ Achnatherum aridum => 8738,8739,8740	Achnatherum brachychaetum => 8738,8739,8741
 CHLORIS
 Chloris gayana => 8738,8904,8905	Chloris verticillata => 8738,8904,8906	Chloris virgata => 8738,8904,8907	
 
-POA
-Poa annua => 8738,9207,9208	Poa atropurpurea => 8738,9207,9209	Poa bigelovii => 8738,9207,9210	Poa bolanderi => 8738,9207,9211	Poa bulbosa => 8738,9207,9212	Poa compressa => 8738,9207,9213	Poa confinis => 8738,9207,9214	Poa cusickii => 8738,9207,9215	Poa cusickii subsp. cusickii => 8738,9207,9215,9216	Poa cusickii subsp. epilis => 8738,9207,9215,9217	Poa cusickii subsp. pallida => 8738,9207,9215,9218	Poa cusickii subsp. purpurascens => 8738,9207,9215,9219	Poa douglasii => 8738,9207,9220	Poa fendleriana => 8738,9207,0,9221	Poa fendleriana subsp. longiligula => 8738,9207,0,9221	Poa glauca => 8738,9207,0,9222	Poa glauca subsp. rupicola => 8738,9207,0,9222	Poa howellii => 8738,9207,9223	Poa infirma => 8738,9207,9224	Poa keckii => 8738,9207,9225	Poa kelloggii => 8738,9207,9226	Poa leptocoma => 8738,9207,0,9227	Poa leptocoma subsp. leptocoma => 8738,9207,0,9227	Poa lettermanii => 8738,9207,9228	Poa macrantha => 8738,9207,9229	Poa napensis => 8738,9207,9230	Poa nemoralis => 8738,9207,9231	Poa palustris => 8738,9207,9232	Poa pattersonii => 8738,9207,9233	Poa piperi => 8738,9207,9234	Poa pratensis => 8738,9207,0,9235	Poa pratensis subsp. pratensis => 8738,9207,0,9235	Poa pringlei => 8738,9207,9236	Poa rhizomata => 8738,9207,9237	Poa secunda => 8738,9207,9238	Poa secunda subsp. juncifolia => 8738,9207,9238,9239	Poa secunda subsp. secunda => 8738,9207,9238,9240	Poa sierrae => 8738,9207,9241	Poa stebbinsii => 8738,9207,9242	Poa tenerrima => 8738,9207,9243	Poa trivialis => 8738,9207,9244	Poa unilateralis => 8738,9207,9245	Poa wheeleri => 8738,9207,9246	
-
-ASPLENIACEAE
-ASPLENIUM	
-
-DAUCUS
-Daucus carota => 329,389,390	Daucus pusillus => 329,389,391	
-
 DIMERESIA
 Dimeresia howellii => 609,1051,1052	
-
-LAGOPHYLLA
-Lagophylla dichotoma => 609,1474,1475	Lagophylla glandulosa => 609,1474,1476	Lagophylla minor => 609,1474,1477	Lagophylla ramosissima => 609,1474,1478	Lagophylla ramosissima subsp. congesta => 609,1474,1478,1479	Lagophylla ramosissima subsp. ramosissima => 609,1474,1478,1480	
-
-PEUCEPHYLLUM
-Peucephyllum schottii => 609,1695,1696	
-
-CARDARIA
-Cardaria chalepensis => 2240,2367,2368	Cardaria draba => 2240,2367,2369	Cardaria pubescens => 2240,2367,2370	
-
-POLYCTENIUM
-Polyctenium fremontii => 2240,2571,2572	Polyctenium fremontii var. confertum => 2240,2571,2572,2573	Polyctenium fremontii var. fremontii => 2240,2571,2572,2574	
-
-BUDDLEJA
-Buddleja davidii => 2691,2692,2693	Buddleja saligna => 2691,2692,2694	Buddleja utahensis => 2691,2692,2695	
 
 KRASCHENINNIKOVIA
 Krascheninnikovia lanata => 3084,3187,3188	
 
-CERCIS
-Cercis occidentalis => 3691,3890,3891	
-
 DALEA
 Dalea mollis => 3691,3900,3901	Dalea mollissima => 3691,3900,3902	Dalea ornata => 3691,3900,3903	Dalea searlsiae => 3691,3900,3904	
 
-TRIFOLIUM
-Trifolium albopurpureum => 3691,4222,4223	Trifolium albopurpureum var. albopurpureum => 3691,4222,4223,4224	Trifolium albopurpureum var. dichotomum => 3691,4222,4223,4225	Trifolium albopurpureum var. olivaceum => 3691,4222,4223,4226	Trifolium amoenum => 3691,4222,4227	Trifolium andersonii => 3691,4222,4228	Trifolium andersonii var. andersonii => 3691,4222,4228,4229	Trifolium andersonii var. beatleyae => 3691,4222,4228,4230	Trifolium angustifolium => 3691,4222,4231	Trifolium arvense => 3691,4222,4232	Trifolium aureum => 3691,4222,4233	Trifolium barbigerum => 3691,4222,4234	Trifolium barbigerum var. andrewsii => 3691,4222,4234,4235	Trifolium barbigerum var. barbigerum => 3691,4222,4234,4236	Trifolium beckwithii => 3691,4222,4237	Trifolium bifidum => 3691,4222,4238	Trifolium bifidum var. bifidum => 3691,4222,4238,4239	Trifolium bifidum var. decipiens => 3691,4222,4238,4240	Trifolium bolanderi => 3691,4222,4241	Trifolium breweri => 3691,4222,4242	Trifolium buckwestiorum => 3691,4222,4243	Trifolium campestre => 3691,4222,4244	Trifolium ciliolatum => 3691,4222,4245	Trifolium cyathiferum => 3691,4222,4246	Trifolium depauperatum => 3691,4222,4247	Trifolium depauperatum var. amplectens => 3691,4222,4247,4248	Trifolium depauperatum var. depauperatum => 3691,4222,4247,4249	Trifolium depauperatum var. hydrophilum => 3691,4222,4247,4250	Trifolium depauperatum var. truncatum => 3691,4222,4247,4251	Trifolium dubium => 3691,4222,4252	Trifolium eriocephalum => 3691,4222,0,4253	Trifolium eriocephalum var. eriocephalum => 3691,4222,0,4253	Trifolium fragiferum => 3691,4222,4254	Trifolium fucatum => 3691,4222,4255	Trifolium glomeratum => 3691,4222,4256	Trifolium gracilentum => 3691,4222,4257	Trifolium gracilentum var. gracilentum => 3691,4222,4257,4258	Trifolium gracilentum var. palmeri => 3691,4222,4257,4259	Trifolium gymnocarpon => 3691,4222,0,4260	Trifolium gymnocarpon var. plummerae => 3691,4222,0,4260	Trifolium hirtum => 3691,4222,4261	Trifolium howellii => 3691,4222,4262	Trifolium hybridum => 3691,4222,4263	Trifolium incarnatum => 3691,4222,4264	Trifolium kingii => 3691,4222,0,4265	Trifolium kingii var. productum => 3691,4222,0,4265	Trifolium lemmonii => 3691,4222,4266	Trifolium longipes => 3691,4222,4267	Trifolium longipes var. elmeri => 3691,4222,4267,4268	Trifolium longipes var. nevadense => 3691,4222,4267,4269	Trifolium longipes var. oreganum => 3691,4222,4267,4270	Trifolium longipes var. shastense => 3691,4222,4267,4271	Trifolium macilentum => 3691,4222,0,4272	Trifolium macilentum var. dedeckerae => 3691,4222,0,4272	Trifolium macraei => 3691,4222,4273	Trifolium macrocephalum => 3691,4222,4274	Trifolium microcephalum => 3691,4222,4275	Trifolium microdon => 3691,4222,4276	Trifolium monanthum => 3691,4222,4277	Trifolium monanthum var. grantianum => 3691,4222,4277,4278	Trifolium monanthum var. monanthum => 3691,4222,4277,4279	Trifolium obtusiflorum => 3691,4222,4280	Trifolium oliganthum => 3691,4222,4281	Trifolium pratense => 3691,4222,4282	Trifolium repens => 3691,4222,4283	Trifolium subterraneum => 3691,4222,4284	Trifolium trichocalyx => 3691,4222,4285	Trifolium variegatum => 3691,4222,4286	Trifolium variegatum phase 1 => 3691,4222,4286,4287	Trifolium variegatum phase 2 => 3691,4222,4286,4288	Trifolium variegatum phase 3 => 3691,4222,4286,4289	Trifolium variegatum phase 4 => 3691,4222,4286,4290	Trifolium variegatum phase 5 => 3691,4222,4286,4291	Trifolium willdenovii => 3691,4222,4292	Trifolium wormskioldii => 3691,4222,4293	
-
 CENTAURIUM
 Centaurium calycosum => 4374,4375,4376	Centaurium davyi => 4374,4375,4377	Centaurium erythraea => 4374,4375,4378	Centaurium exaltatum => 4374,4375,4379	Centaurium muehlenbergii => 4374,4375,4380	Centaurium trichanthum => 4374,4375,4381	Centaurium venustum => 4374,4375,4382	
-
-SCUTELLARIA
-Scutellaria antirrhinoides => 4745,4892,4893	Scutellaria bolanderi => 4745,4892,4894	Scutellaria bolanderi subsp. austromontana => 4745,4892,4894,4895	Scutellaria bolanderi subsp. bolanderi => 4745,4892,4894,4896	Scutellaria californica => 4745,4892,4897	Scutellaria galericulata => 4745,4892,4898	Scutellaria lateriflora => 4745,4892,4899	Scutellaria nana => 4745,4892,4900	Scutellaria siphocampyloides => 4745,4892,4901	Scutellaria tuberosa => 4745,4892,4902	
 
 MODIOLA
 Modiola caroliniana => 5042,5091,5092	
@@ -1735,35 +1564,14 @@ Modiola caroliniana => 5042,5091,5092
 SIDA
 Sida rhombifolia => 5042,5093,5094	
 
-ARMERIA
-Armeria maritima => 5645,5646,0,5647	Armeria maritima subsp. californica => 5645,5646,0,5647	
-
-DODECAHEMA
-Dodecahema leptoceras => 5936,5989,5990	
-
-TRIENTALIS
-Trientalis arctica => 6393,6425,6426	Trientalis latifolia => 6393,6425,6427	
-
-CONDALIA
-Condalia globosa => 6586,6656,0,6657	Condalia globosa var. pubescens => 6586,6656,0,6657	
-
 SARRACENIACEAE
 DARLINGTONIA	SARRACENIA	
 
 GALVEZIA
 Galvezia speciosa => 7177,7338,7339	
 
-VERBENACEAE
-ALOYSIA	AVICENNIA	LANTANA	PHYLA	VERBENA	
-
 BRODIAEA
 Brodiaea appendiculata => 8349,8438,8439	Brodiaea californica => 8349,8438,8440	Brodiaea californica var. californica => 8349,8438,8440,8441	Brodiaea californica var. leptandra => 8349,8438,8440,8442	Brodiaea coronaria => 8349,8438,8443	Brodiaea coronaria subsp. coronaria => 8349,8438,8443,8444	Brodiaea coronaria subsp. rosea => 8349,8438,8443,8445	Brodiaea elegans => 8349,8438,8446	Brodiaea elegans subsp. elegans => 8349,8438,8446,8447	Brodiaea elegans subsp. hooveri => 8349,8438,8446,8448	Brodiaea filifolia => 8349,8438,8449	Brodiaea insignis => 8349,8438,8450	Brodiaea jolonensis => 8349,8438,8451	Brodiaea kinkiensis => 8349,8438,8452	Brodiaea minor => 8349,8438,8453	Brodiaea orcuttii => 8349,8438,8454	Brodiaea pallida => 8349,8438,8455	Brodiaea purdyi => 8349,8438,8456	Brodiaea stellaris => 8349,8438,8457	Brodiaea terrestris => 8349,8438,8458	Brodiaea terrestris subsp. kernensis => 8349,8438,8458,8459	Brodiaea terrestris subsp. terrestris => 8349,8438,8458,8460	
-
-SPIRANTHES
-Spiranthes porrifolia => 8695,8735,8736	Spiranthes romanzoffiana => 8695,8735,8737	
-
-ARISTIDA
-Aristida adscensionis => 8738,8812,8813	Aristida californica => 8738,8812,0,8814	Aristida californica var. californica => 8738,8812,0,8814	Aristida divaricata => 8738,8812,8815	Aristida oligantha => 8738,8812,8816	Aristida purpurea => 8738,8812,8817	Aristida purpurea var. fendleriana => 8738,8812,8817,8818	Aristida purpurea var. longiseta => 8738,8812,8817,8819	Aristida purpurea var. nealleyi => 8738,8812,8817,8820	Aristida purpurea var. parishii => 8738,8812,8817,8821	Aristida purpurea var. purpurea => 8738,8812,8817,8822	Aristida purpurea var. wrightii => 8738,8812,8817,8823	Aristida ternipes => 8738,8812,0,8824	Aristida ternipes var. hamulosa => 8738,8812,0,8824	
 
 HAINARDIA
 Hainardia cylindrica => 8738,9040,9041	
@@ -1777,21 +1585,6 @@ Equisetum arvense => 46,47,48	Equisetum hyemale => 46,47,0,49	Equisetum hyemale 
 RHUS
 Rhus integrifolia => 315,320,321	Rhus ovata => 315,320,322	Rhus trilobata => 315,320,323	
 
-SANICULA
-Sanicula arctopoides => 329,519,520	Sanicula arguta => 329,519,521	Sanicula bipinnata => 329,519,522	Sanicula bipinnatifida => 329,519,523	Sanicula crassicaulis => 329,519,524	Sanicula graveolens => 329,519,525	Sanicula hoffmannii => 329,519,526	Sanicula laciniata => 329,519,527	Sanicula maritima => 329,519,528	Sanicula peckiana => 329,519,529	Sanicula saxatilis => 329,519,530	Sanicula tracyi => 329,519,531	Sanicula tuberosa => 329,519,532	
-
-EUTHAMIA
-Euthamia occidentalis => 609,1216,1217	
-
-RAFINESQUIA
-Rafinesquia californica => 609,1751,1752	Rafinesquia neomexicana => 609,1751,1753	
-
-CHILOPSIS
-Chilopsis linearis => 2027,2028,0,2029	Chilopsis linearis subsp. arcuata => 2027,2028,0,2029	
-
-LYCHNIS
-Lychnis coronaria => 2907,2957,2958	
-
 ARCTOSTAPHYLOS
 Arctostaphylos andersonii => 3449,3454,3455	Arctostaphylos auriculata => 3449,3454,3456	Arctostaphylos bakeri => 3449,3454,3457	Arctostaphylos bakeri subsp. bakeri => 3449,3454,3457,3458	Arctostaphylos bakeri subsp. sublaevis => 3449,3454,3457,3459	Arctostaphylos canescens => 3449,3454,3460	Arctostaphylos canescens subsp. canescens => 3449,3454,3460,3461	Arctostaphylos canescens subsp. sonomensis => 3449,3454,3460,3462	Arctostaphylos catalinae => 3449,3454,3463	Arctostaphylos columbiana => 3449,3454,3464	Arctostaphylos confertiflora => 3449,3454,3465	Arctostaphylos cruzensis => 3449,3454,3466	Arctostaphylos densiflora => 3449,3454,3467	Arctostaphylos edmundsii => 3449,3454,3468	Arctostaphylos gabrielensis => 3449,3454,3469	Arctostaphylos glandulosa => 3449,3454,3470	Arctostaphylos glandulosa subsp. adamsii => 3449,3454,3470,3471	Arctostaphylos glandulosa subsp. crassifolia => 3449,3454,3470,3472	Arctostaphylos glandulosa subsp. glandulosa => 3449,3454,3470,3473	Arctostaphylos glandulosa subsp. glaucomollis => 3449,3454,3470,3474	Arctostaphylos glandulosa subsp. mollis => 3449,3454,3470,3475	Arctostaphylos glandulosa subsp. zacaensis => 3449,3454,3470,3476	Arctostaphylos glauca => 3449,3454,3477	Arctostaphylos glutinosa => 3449,3454,3478	Arctostaphylos hispidula => 3449,3454,3479	Arctostaphylos hookeri => 3449,3454,3480	Arctostaphylos hookeri subsp. franciscana => 3449,3454,3480,3481	Arctostaphylos hookeri subsp. hearstiorum => 3449,3454,3480,3482	Arctostaphylos hookeri subsp. hookeri => 3449,3454,3480,3483	Arctostaphylos hookeri subsp. montana => 3449,3454,3480,3484	Arctostaphylos hookeri subsp. ravenii => 3449,3454,3480,3485	Arctostaphylos hooveri => 3449,3454,3486	Arctostaphylos imbricata => 3449,3454,3487	Arctostaphylos insularis => 3449,3454,3488	Arctostaphylos klamathensis => 3449,3454,3489	Arctostaphylos luciana => 3449,3454,3490	Arctostaphylos malloryi => 3449,3454,3491	Arctostaphylos manzanita => 3449,3454,3492	Arctostaphylos manzanita subsp. elegans => 3449,3454,3492,3493	Arctostaphylos manzanita subsp. glaucescens => 3449,3454,3492,3494	Arctostaphylos manzanita subsp. laevigata => 3449,3454,3492,3495	Arctostaphylos manzanita subsp. manzanita => 3449,3454,3492,3496	Arctostaphylos manzanita subsp. roofii => 3449,3454,3492,3497	Arctostaphylos manzanita subsp. wieslanderi => 3449,3454,3492,3498	Arctostaphylos mendocinoensis => 3449,3454,3499	Arctostaphylos mewukka => 3449,3454,3500	Arctostaphylos mewukka subsp. mewukka => 3449,3454,3500,3501	Arctostaphylos mewukka subsp. truei => 3449,3454,3500,3502	Arctostaphylos montaraensis => 3449,3454,3503	Arctostaphylos montereyensis => 3449,3454,3504	Arctostaphylos morroensis => 3449,3454,3505	Arctostaphylos myrtifolia => 3449,3454,3506	Arctostaphylos nevadensis => 3449,3454,3507	Arctostaphylos nissenana => 3449,3454,3508	Arctostaphylos nortensis => 3449,3454,3509	Arctostaphylos nummularia => 3449,3454,3510	Arctostaphylos obispoensis => 3449,3454,3511	Arctostaphylos osoensis => 3449,3454,3512	Arctostaphylos otayensis => 3449,3454,3513	Arctostaphylos pajaroensis => 3449,3454,3514	Arctostaphylos pallida => 3449,3454,3515	Arctostaphylos parryana => 3449,3454,3516	Arctostaphylos patula => 3449,3454,3517	Arctostaphylos pechoensis => 3449,3454,3518	Arctostaphylos pilosula => 3449,3454,3519	Arctostaphylos pringlei => 3449,3454,0,3520	Arctostaphylos pringlei subsp. drupacea => 3449,3454,0,3520	Arctostaphylos pumila => 3449,3454,3521	Arctostaphylos pungens => 3449,3454,3522	Arctostaphylos purissima => 3449,3454,3523	Arctostaphylos refugioensis => 3449,3454,3524	Arctostaphylos regismontana => 3449,3454,3525	Arctostaphylos rudis => 3449,3454,3526	Arctostaphylos silvicola => 3449,3454,3527	Arctostaphylos stanfordiana => 3449,3454,3528	Arctostaphylos stanfordiana subsp. decumbens => 3449,3454,3528,3529	Arctostaphylos stanfordiana subsp. raichei => 3449,3454,3528,3530	Arctostaphylos stanfordiana subsp. stanfordiana => 3449,3454,3528,3531	Arctostaphylos tomentosa => 3449,3454,3532	Arctostaphylos tomentosa subsp. bracteosa => 3449,3454,3532,3533	Arctostaphylos tomentosa subsp. crinita => 3449,3454,3532,3534	Arctostaphylos tomentosa subsp. crustacea => 3449,3454,3532,3535	Arctostaphylos tomentosa subsp. daciticola => 3449,3454,3532,3536	Arctostaphylos tomentosa subsp. eastwoodiana => 3449,3454,3532,3537	Arctostaphylos tomentosa subsp. insulicola => 3449,3454,3532,3538	Arctostaphylos tomentosa subsp. rosei => 3449,3454,3532,3539	Arctostaphylos tomentosa subsp. subcordata => 3449,3454,3532,3540	Arctostaphylos tomentosa subsp. tomentosa => 3449,3454,3532,3541	Arctostaphylos uva-ursi => 3449,3454,3542	Arctostaphylos virgata => 3449,3454,3543	Arctostaphylos viridissima => 3449,3454,3544	Arctostaphylos viscida => 3449,3454,3545	Arctostaphylos viscida subsp. mariposa => 3449,3454,3545,3546	Arctostaphylos viscida subsp. pulchella => 3449,3454,3545,3547	Arctostaphylos viscida subsp. viscida => 3449,3454,3545,3548	Arctostaphylos wellsii => 3449,3454,3549	
 
@@ -1804,17 +1597,8 @@ Marina orcuttii => 3691,4136,0,4137	Marina orcuttii var. orcuttii => 3691,4136,0
 ONOBRYCHIS
 Onobrychis viciifolia => 3691,4153,4154	
 
-MELIACEAE
-MELIA	
-
 COPTIS
 Coptis laciniata => 6434,6460,6461	
-
-ALISMATACEAE
-ALISMA	DAMASONIUM	ECHINODORUS	SAGITTARIA	
-
-CALAMAGROSTIS
-Calamagrostis bolanderi => 8738,8886,8887	Calamagrostis breweri => 8738,8886,8888	Calamagrostis canadensis => 8738,8886,8889	Calamagrostis foliosa => 8738,8886,8890	Calamagrostis koelerioides => 8738,8886,8891	Calamagrostis nutkaensis => 8738,8886,8892	Calamagrostis ophitidis => 8738,8886,8893	Calamagrostis purpurascens => 8738,8886,8894	Calamagrostis rubescens => 8738,8886,8895	Calamagrostis stricta => 8738,8886,8896	Calamagrostis stricta subsp. inexpansa => 8738,8886,8896,8897	Calamagrostis stricta subsp. stricta => 8738,8886,8896,8898	
 
 TYPHA
 Typha angustifolia => 9383,9390,9391	Typha domingensis => 9383,9390,9392	Typha latifolia => 9383,9390,9393	
@@ -1825,20 +1609,8 @@ Lycopodium clavatum => 61,64,65
 BIDENS
 Bidens cernua => 609,813,0,814	Bidens cernua var. cernua => 609,813,0,814	Bidens frondosa => 609,813,815	Bidens laevis => 609,813,816	Bidens pilosa => 609,813,0,817	Bidens pilosa var. pilosa => 609,813,0,817	Bidens tripartita => 609,813,818	Bidens vulgata => 609,813,819	
 
-HYMENOTHRIX
-Hymenothrix loomisii => 609,1438,1439	Hymenothrix wrightii => 609,1438,1440	
-
-OROCHAENACTIS
-Orochaenactis thysanocarpha => 609,1661,1662	
-
-TAGETES
-Tagetes erecta => 609,1901,1902	Tagetes minuta => 609,1901,1903	
-
 TOLPIS
 Tolpis barbata => 609,1926,1927	
-
-TROPIDOCARPUM
-Tropidocarpum capparideum => 2240,2688,2689	Tropidocarpum gracile => 2240,2688,2690	
 
 NEMACLADUS
 Nemacladus capillaris => 2770,2822,2823	Nemacladus glanduliferus => 2770,2822,2824	Nemacladus glanduliferus var. glanduliferus => 2770,2822,2824,2825	Nemacladus glanduliferus var. orientalis => 2770,2822,2824,2826	Nemacladus gracilis => 2770,2822,2827	Nemacladus interior => 2770,2822,2828	Nemacladus longiflorus => 2770,2822,2829	Nemacladus longiflorus var. breviflorus => 2770,2822,2829,2830	Nemacladus longiflorus var. longiflorus => 2770,2822,2829,2831	Nemacladus montanus => 2770,2822,2832	Nemacladus pinnatifidus => 2770,2822,2833	Nemacladus ramosissimus => 2770,2822,2834	Nemacladus rigidus => 2770,2822,2835	Nemacladus rubescens => 2770,2822,2836	Nemacladus secundiflorus => 2770,2822,2837	Nemacladus sigmoideus => 2770,2822,2838	Nemacladus twisselmannii => 2770,2822,2839	
@@ -1852,26 +1624,14 @@ Suaeda calceoliformis => 3084,3209,3210	Suaeda californica => 3084,3209,3211	Sua
 DATISCA
 Datisca glomerata => 3417,3418,3419	
 
-SCABIOSA
-Scabiosa atropurpurea => 3420,3424,3425	Scabiosa stellata => 3420,3424,3426	
-
-MONOTROPA
-Monotropa hypopithys => 3449,3579,3580	Monotropa uniflora => 3449,3579,3581	
-
 PTEROSPORA
 Pterospora andromedea => 3449,3593,3594	
 
 KOEBERLINIACEAE
 KOEBERLINIA	
 
-MACLURA
-Maclura pomifera => 5165,5168,5169	
-
 SUKSDORFIA
 Suksdorfia ranunculifolia => 7088,7167,7168	
-
-ANTIRRHINUM
-Antirrhinum cornutum => 7177,7178,7179	Antirrhinum coulterianum => 7177,7178,7180	Antirrhinum cyathiferum => 7177,7178,7181	Antirrhinum filipes => 7177,7178,7182	Antirrhinum kelloggii => 7177,7178,7183	Antirrhinum kingii => 7177,7178,7184	Antirrhinum leptaleum => 7177,7178,7185	Antirrhinum majus => 7177,7178,7186	Antirrhinum multiflorum => 7177,7178,7187	Antirrhinum nuttallianum => 7177,7178,7188	Antirrhinum nuttallianum subsp. nuttallianum => 7177,7178,7188,7189	Antirrhinum nuttallianum subsp. subsessile => 7177,7178,7188,7190	Antirrhinum orontium => 7177,7178,7191	Antirrhinum ovatum => 7177,7178,7192	Antirrhinum subcordatum => 7177,7178,7193	Antirrhinum vexillo-calyculatum => 7177,7178,7194	Antirrhinum vexillo-calyculatum subsp. breweri => 7177,7178,7194,7195	Antirrhinum vexillo-calyculatum subsp. intermedium => 7177,7178,7194,7196	Antirrhinum vexillo-calyculatum subsp. vexillo-calyculatum => 7177,7178,7194,7197	Antirrhinum virga => 7177,7178,7198	
 
 PHYSALIS
 Physalis acutifolia => 7625,7666,7667	Physalis crassifolia => 7625,7666,7668	Physalis hederifolia => 7625,7666,7669	Physalis hederifolia var. fendleri => 7625,7666,7669,7670	Physalis hederifolia var. palmeri => 7625,7666,7669,7671	Physalis lancifolia => 7625,7666,7672	Physalis lobata => 7625,7666,7673	Physalis longifolia => 7625,7666,7674	Physalis philadelphica => 7625,7666,7675	Physalis pubescens => 7625,7666,7676	Physalis pubescens var. grisea => 7625,7666,7676,7677	Physalis pubescens var. integrifolia => 7625,7666,7676,7678	Physalis viscosa => 7625,7666,7679	
@@ -1891,20 +1651,8 @@ Parapholis incurva => 8738,9165,9166	Parapholis strigosa => 8738,9165,9167
 ASPLENIUM
 Asplenium septentrionale => 1,2,3	Asplenium trichomanes => 1,2,0,4	Asplenium trichomanes subsp. trichomanes => 1,2,0,4	Asplenium trichomanes-ramosum => 1,2,5	Asplenium vespertinum => 1,2,6	
 
-GUILLEMINEA
-Guilleminea densa => 290,310,0,311	Guilleminea densa var. aggregata => 290,310,0,311	
-
-ANETHUM
-Anethum graveolens => 329,335,336	
-
-CORIANDRUM
-Coriandrum sativum => 329,372,373	
-
 ANISOCOMA
 Anisocoma acaulis => 609,669,670	
-
-FILAGO
-Filago arizonica => 609,1218,1219	Filago californica => 609,1218,1220	Filago depressa => 609,1218,1221	Filago gallica => 609,1218,1222	Filago pyramidata => 609,1218,0,1223	Filago pyramidata var. pyramidata => 609,1218,0,1223	
 
 SAUSSUREA
 Saussurea americana => 609,1776,1777	
@@ -1912,20 +1660,8 @@ Saussurea americana => 609,1776,1777
 DESCURAINIA
 Descurainia californica => 2240,2408,2409	Descurainia incana => 2240,2408,2410	Descurainia incisa => 2240,2408,2411	Descurainia incisa subsp. filipes => 2240,2408,2411,2412	Descurainia incisa subsp. incisa => 2240,2408,2411,2413	Descurainia obtusa => 2240,2408,0,2414	Descurainia obtusa subsp. adenophora => 2240,2408,0,2414	Descurainia paradisa => 2240,2408,0,2415	Descurainia paradisa subsp. paradisa => 2240,2408,0,2415	Descurainia pinnata => 2240,2408,2416	Descurainia pinnata subsp. glabra => 2240,2408,2416,2417	Descurainia pinnata subsp. halictorum => 2240,2408,2416,2418	Descurainia pinnata subsp. intermedia => 2240,2408,2416,2419	Descurainia pinnata subsp. menziesii => 2240,2408,2416,2420	Descurainia sophia => 2240,2408,2421	
 
-CAPPARACEAE
-CLEOME	CLEOMELLA	ISOMERIS	OXYSTYLIS	POLANISIA	WISLIZENIA	
-
-BERGIA
-Bergia texana => 3436,3437,3438	
-
-ERICACEAE
-ALLOTROPA	ARBUTUS	ARCTOSTAPHYLOS	CASSIOPE	CHIMAPHILA	COMAROSTAPHYLIS	ERICA	GAULTHERIA	HEMITOMES	KALMIA	LEDUM	LEUCOTHOE	MENZIESIA	MONESES	MONOTROPA	ORNITHOSTAPHYLOS	ORTHILIA	PHYLLODOCE	PITYOPUS	PLEURICOSPORA	PTEROSPORA	PYROLA	RHODODENDRON	SARCODES	VACCINIUM	XYLOCOCCUS	
-
 SARCODES
 Sarcodes sanguinea => 3449,3605,3606	
-
-DITAXIS
-Ditaxis californica => 3618,3654,3655	Ditaxis claryana => 3618,3654,3656	Ditaxis lanceolata => 3618,3654,3657	Ditaxis neomexicana => 3618,3654,3658	Ditaxis serrata => 3618,3654,3659	
 
 ROMANZOFFIA
 Romanzoffia californica => 4518,4716,4717	Romanzoffia sitchensis => 4518,4716,4718	Romanzoffia tracyi => 4518,4716,4719	
@@ -1948,17 +1684,11 @@ Verbascum blattaria => 7177,7595,7596	Verbascum speciosum => 7177,7595,7597	Verb
 CHAMAESARACHA
 Chamaesaracha coronopus => 7625,7628,7629	Chamaesaracha nana => 7625,7628,7630	
 
-CORTADERIA
-Cortaderia jubata => 8738,8911,8912	Cortaderia selloana => 8738,8911,8913	
-
 ERIONEURON
 Erioneuron pilosum => 8738,9012,9013	Erioneuron pulchellum => 8738,9012,9014	
 
 CYRTOMIUM
 Cyrtomium falcatum => 19,23,24	
-
-DROSANTHEMUM
-Drosanthemum floribundum => 265,277,278	
 
 AMARANTHACEAE
 ALTERNANTHERA	AMARANTHUS	GUILLEMINEA	TIDESTROMIA	
@@ -1975,53 +1705,17 @@ Luina hypoleuca => 609,1558,1559
 MALPERIA
 Malperia tenuis => 609,1620,1621	
 
-PALAFOXIA
-Palafoxia arida => 609,1667,1668	Palafoxia arida var. arida => 609,1667,1668,1669	Palafoxia arida var. gigantea => 609,1667,1668,1670	
-
 BETULACEAE
 ALNUS	BETULA	CORYLUS	
-
-MYOSOTIS
-Myosotis discolor => 2030,2156,2157	Myosotis latifolia => 2030,2156,2158	Myosotis laxa => 2030,2156,2159	Myosotis micrantha => 2030,2156,2160	Myosotis scorpioides => 2030,2156,2161	Myosotis verna => 2030,2156,2162	
-
-CAKILE
-Cakile edentula => 2240,2335,2336	Cakile maritima => 2240,2335,2337	
-
-PARISHELLA
-Parishella californica => 2770,2840,2841	
 
 SPHAEROPHYSA
 Sphaerophysa salsula => 3691,4214,4215	
 
-CAMISSONIA
-Camissonia andina => 5263,5264,5265	Camissonia arenaria => 5263,5264,5266	Camissonia benitensis => 5263,5264,5267	Camissonia bistorta => 5263,5264,5268	Camissonia boothii => 5263,5264,5269	Camissonia boothii subsp. alyssoides => 5263,5264,5269,5270	Camissonia boothii subsp. boothii => 5263,5264,5269,5271	Camissonia boothii subsp. condensata => 5263,5264,5269,5272	Camissonia boothii subsp. decorticans => 5263,5264,5269,5273	Camissonia boothii subsp. desertorum => 5263,5264,5269,5274	Camissonia boothii subsp. intermedia => 5263,5264,5269,5275	Camissonia brevipes => 5263,5264,5276	Camissonia brevipes subsp. arizonica => 5263,5264,5276,5277	Camissonia brevipes subsp. brevipes => 5263,5264,5276,5278	Camissonia brevipes subsp. pallidula => 5263,5264,5276,5279	Camissonia californica => 5263,5264,5280	Camissonia campestris => 5263,5264,5281	Camissonia campestris subsp. campestris => 5263,5264,5281,5282	Camissonia campestris subsp. obispoensis => 5263,5264,5281,5283	Camissonia cardiophylla => 5263,5264,5284	Camissonia cardiophylla subsp. cardiophylla => 5263,5264,5284,5285	Camissonia cardiophylla subsp. robusta => 5263,5264,5284,5286	Camissonia chamaenerioides => 5263,5264,5287	Camissonia cheiranthifolia => 5263,5264,5288	Camissonia cheiranthifolia subsp. cheiranthifolia => 5263,5264,5288,5289	Camissonia cheiranthifolia subsp. suffruticosa => 5263,5264,5288,5290	Camissonia claviformis => 5263,5264,5291	Camissonia claviformis subsp. aurantiaca => 5263,5264,5291,5292	Camissonia claviformis subsp. claviformis => 5263,5264,5291,5293	Camissonia claviformis subsp. cruciformis => 5263,5264,5291,5294	Camissonia claviformis subsp. funerea => 5263,5264,5291,5295	Camissonia claviformis subsp. integrior => 5263,5264,5291,5296	Camissonia claviformis subsp. lancifolia => 5263,5264,5291,5297	Camissonia claviformis subsp. peirsonii => 5263,5264,5291,5298	Camissonia claviformis subsp. yumae => 5263,5264,5291,5299	Camissonia confusa => 5263,5264,5300	Camissonia contorta => 5263,5264,5301	Camissonia graciliflora => 5263,5264,5302	Camissonia guadalupensis => 5263,5264,0,5303	Camissonia guadalupensis subsp. clementina => 5263,5264,0,5303	Camissonia hardhamiae => 5263,5264,5304	Camissonia heterochroma => 5263,5264,5305	Camissonia hirtella => 5263,5264,5306	Camissonia ignota => 5263,5264,5307	Camissonia integrifolia => 5263,5264,5308	Camissonia intermedia => 5263,5264,5309	Camissonia kernensis => 5263,5264,5310	Camissonia kernensis subsp. gilmanii => 5263,5264,5310,5311	Camissonia kernensis subsp. kernensis => 5263,5264,5310,5312	Camissonia lacustris => 5263,5264,5313	Camissonia lewisii => 5263,5264,5314	Camissonia luciae => 5263,5264,5315	Camissonia micrantha => 5263,5264,5316	Camissonia minor => 5263,5264,5317	Camissonia munzii => 5263,5264,5318	Camissonia ovata => 5263,5264,5319	Camissonia pallida => 5263,5264,5320	Camissonia pallida subsp. hallii => 5263,5264,5320,5321	Camissonia pallida subsp. pallida => 5263,5264,5320,5322	Camissonia palmeri => 5263,5264,5323	Camissonia parvula => 5263,5264,5324	Camissonia pterosperma => 5263,5264,5325	Camissonia pubens => 5263,5264,5326	Camissonia pusilla => 5263,5264,5327	Camissonia refracta => 5263,5264,5328	Camissonia robusta => 5263,5264,5329	Camissonia sierrae => 5263,5264,5330	Camissonia sierrae subsp. alticola => 5263,5264,5330,5331	Camissonia sierrae subsp. sierrae => 5263,5264,5330,5332	Camissonia strigulosa => 5263,5264,5333	Camissonia subacaulis => 5263,5264,5334	Camissonia tanacetifolia => 5263,5264,5335	Camissonia tanacetifolia subsp. quadriperforata => 5263,5264,5335,5336	Camissonia tanacetifolia subsp. tanacetifolia => 5263,5264,5335,5337	Camissonia walkeri => 5263,5264,0,5338	Camissonia walkeri subsp. tortilis => 5263,5264,0,5338	
-
-CLARKIA
-Clarkia affinis => 5263,5341,5342	Clarkia amoena => 5263,5341,5343	Clarkia amoena subsp. amoena => 5263,5341,5343,5344	Clarkia amoena subsp. huntiana => 5263,5341,5343,5345	Clarkia amoena subsp. whitneyi => 5263,5341,5343,5346	Clarkia arcuata => 5263,5341,5347	Clarkia australis => 5263,5341,5348	Clarkia biloba => 5263,5341,5349	Clarkia biloba subsp. australis => 5263,5341,5349,5350	Clarkia biloba subsp. biloba => 5263,5341,5349,5351	Clarkia biloba subsp. brandegeeae => 5263,5341,5349,5352	Clarkia borealis => 5263,5341,5353	Clarkia borealis subsp. arida => 5263,5341,5353,5354	Clarkia borealis subsp. borealis => 5263,5341,5353,5355	Clarkia bottae => 5263,5341,5356	Clarkia breweri => 5263,5341,5357	Clarkia concinna => 5263,5341,5358	Clarkia concinna subsp. automixa => 5263,5341,5358,5359	Clarkia concinna subsp. concinna => 5263,5341,5358,5360	Clarkia concinna subsp. raichei => 5263,5341,5358,5361	Clarkia cylindrica => 5263,5341,5362	Clarkia cylindrica subsp. clavicarpa => 5263,5341,5362,5363	Clarkia cylindrica subsp. cylindrica => 5263,5341,5362,5364	Clarkia davyi => 5263,5341,5365	Clarkia delicata => 5263,5341,5366	Clarkia dudleyana => 5263,5341,5367	Clarkia epilobioides => 5263,5341,5368	Clarkia exilis => 5263,5341,5369	Clarkia franciscana => 5263,5341,5370	Clarkia gracilis => 5263,5341,5371	Clarkia gracilis subsp. albicaulis => 5263,5341,5371,5372	Clarkia gracilis subsp. gracilis => 5263,5341,5371,5373	Clarkia gracilis subsp. sonomensis => 5263,5341,5371,5374	Clarkia gracilis subsp. tracyi => 5263,5341,5371,5375	Clarkia heterandra => 5263,5341,5376	Clarkia imbricata => 5263,5341,5377	Clarkia jolonensis => 5263,5341,5378	Clarkia lassenensis => 5263,5341,5379	Clarkia lewisii => 5263,5341,5380	Clarkia lingulata => 5263,5341,5381	Clarkia mildrediae => 5263,5341,5382	Clarkia modesta => 5263,5341,5383	Clarkia mosquinii => 5263,5341,5384	Clarkia prostrata => 5263,5341,5385	Clarkia purpurea => 5263,5341,5386	Clarkia purpurea subsp. purpurea => 5263,5341,5386,5387	Clarkia purpurea subsp. quadrivulnera => 5263,5341,5386,5388	Clarkia purpurea subsp. viminea => 5263,5341,5386,5389	Clarkia rhomboidea => 5263,5341,5390	Clarkia rostrata => 5263,5341,5391	Clarkia rubicunda => 5263,5341,5392	Clarkia similis => 5263,5341,5393	Clarkia speciosa => 5263,5341,5394	Clarkia speciosa subsp. immaculata => 5263,5341,5394,5395	Clarkia speciosa subsp. nitens => 5263,5341,5394,5396	Clarkia speciosa subsp. polyantha => 5263,5341,5394,5397	Clarkia speciosa subsp. speciosa => 5263,5341,5394,5398	Clarkia springvillensis => 5263,5341,5399	Clarkia stellata => 5263,5341,5400	Clarkia tembloriensis => 5263,5341,5401	Clarkia tembloriensis subsp. calientensis => 5263,5341,5401,5402	Clarkia tembloriensis subsp. tembloriensis => 5263,5341,5401,5403	Clarkia unguiculata => 5263,5341,5404	Clarkia virgata => 5263,5341,5405	Clarkia williamsonii => 5263,5341,5406	Clarkia xantiana => 5263,5341,5407	Clarkia xantiana subsp. parviflora => 5263,5341,5407,5408	Clarkia xantiana subsp. xantiana => 5263,5341,5407,5409	
-
-OENOTHERA
-Oenothera biennis => 5263,5471,5472	Oenothera caespitosa => 5263,5471,5473	Oenothera caespitosa subsp. crinita => 5263,5471,5473,5474	Oenothera caespitosa subsp. marginata => 5263,5471,5473,5475	Oenothera californica => 5263,5471,5476	Oenothera californica subsp. avita => 5263,5471,5476,5477	Oenothera californica subsp. californica => 5263,5471,5476,5478	Oenothera californica subsp. eurekensis => 5263,5471,5476,5479	Oenothera deltoides => 5263,5471,5480	Oenothera deltoides subsp. cognata => 5263,5471,5480,5481	Oenothera deltoides subsp. deltoides => 5263,5471,5480,5482	Oenothera deltoides subsp. howellii => 5263,5471,5480,5483	Oenothera deltoides subsp. piperi => 5263,5471,5480,5484	Oenothera elata => 5263,5471,5485	Oenothera elata subsp. hirsutissima => 5263,5471,5485,5486	Oenothera elata subsp. hookeri => 5263,5471,5485,5487	Oenothera flava => 5263,5471,0,5488	Oenothera flava subsp. flava => 5263,5471,0,5488	Oenothera glazioviana => 5263,5471,5489	Oenothera laciniata => 5263,5471,5490	Oenothera longissima => 5263,5471,5491	Oenothera primiveris => 5263,5471,5492	Oenothera primiveris subsp. bufonis => 5263,5471,5492,5493	Oenothera primiveris subsp. primiveris => 5263,5471,5492,5494	Oenothera pubescens => 5263,5471,5495	Oenothera rosea => 5263,5471,5496	Oenothera speciosa => 5263,5471,5497	Oenothera stricta => 5263,5471,0,5498	Oenothera stricta subsp. stricta => 5263,5471,0,5498	Oenothera villosa => 5263,5471,0,5499	Oenothera villosa subsp. strigosa => 5263,5471,0,5499	Oenothera wolfii => 5263,5471,5500	Oenothera xylocarpa => 5263,5471,5501	
-
-EMEX
-Emex australis => 5936,5991,5992	Emex spinosa => 5936,5991,5993	
-
-CENTUNCULUS
-Centunculus minimus => 6393,6401,6402	
-
-MYOSURUS
-Myosurus apetalus => 6434,6522,6523	Myosurus cupulatus => 6434,6522,6524	Myosurus minimus => 6434,6522,6525	Myosurus sessilis => 6434,6522,6526	
-
 RHAMNACEAE
 ADOLPHIA	CEANOTHUS	COLUBRINA	CONDALIA	RHAMNUS	ZIZIPHUS	
 
-SIMAROUBACEAE
-AILANTHUS	CASTELA	
-
 CYNOSURUS
 Cynosurus cristatus => 8738,8922,8923	Cynosurus echinatus => 8738,8922,8924	
-
-LEERSIA
-Leersia oryzoides => 8738,9078,9079	
 
 TUCTORIA
 Tuctoria greenei => 8738,9325,9326	Tuctoria mucronata => 8738,9325,9327	
@@ -2029,23 +1723,11 @@ Tuctoria greenei => 8738,9325,9326	Tuctoria mucronata => 8738,9325,9327
 THUJA
 Thuja plicata => 157,182,183	
 
-ABIES
-Abies amabilis => 195,196,197	Abies bracteata => 195,196,198	Abies concolor => 195,196,199	Abies grandis => 195,196,200	Abies lasiocarpa => 195,196,0,201	Abies lasiocarpa var. lasiocarpa => 195,196,0,201	Abies magnifica => 195,196,202	Abies magnifica var. magnifica => 195,196,202,203	Abies magnifica var. shastensis => 195,196,202,204	Abies procera => 195,196,205	
-
 PERIDERIDIA
 Perideridia bacigalupii => 329,497,498	Perideridia bolanderi => 329,497,499	Perideridia bolanderi subsp. bolanderi => 329,497,499,500	Perideridia bolanderi subsp. involucrata => 329,497,499,501	Perideridia californica => 329,497,502	Perideridia gairdneri => 329,497,503	Perideridia gairdneri subsp. borealis => 329,497,503,504	Perideridia gairdneri subsp. gairdneri => 329,497,503,505	Perideridia howellii => 329,497,506	Perideridia kelloggii => 329,497,507	Perideridia lemmonii => 329,497,508	Perideridia leptocarpa => 329,497,509	Perideridia oregana => 329,497,510	Perideridia parishii => 329,497,511	Perideridia parishii subsp. latifolia => 329,497,511,512	Perideridia parishii subsp. parishii => 329,497,511,513	Perideridia pringlei => 329,497,514	
 
-ERECHTITES
-Erechtites glomerata => 609,1077,1078	Erechtites hieraciifolia => 609,1077,0,1079	Erechtites hieraciifolia var. hieraciifolia => 609,1077,0,1079	Erechtites minima => 609,1077,1080	
-
-HEMIZONIA
-Hemizonia arida => 609,1326,1327	Hemizonia clementina => 609,1326,1328	Hemizonia congesta => 609,1326,1329	Hemizonia congesta subsp. calyculata => 609,1326,1329,1330	Hemizonia congesta subsp. clevelandii => 609,1326,1329,1331	Hemizonia congesta subsp. congesta => 609,1326,1329,1332	Hemizonia congesta subsp. leucocephala => 609,1326,1329,1333	Hemizonia congesta subsp. luzulifolia => 609,1326,1329,1334	Hemizonia congesta subsp. tracyi => 609,1326,1329,1335	Hemizonia conjugens => 609,1326,1336	Hemizonia corymbosa => 609,1326,1337	Hemizonia corymbosa subsp. corymbosa => 609,1326,1337,1338	Hemizonia corymbosa subsp. macrocephala => 609,1326,1337,1339	Hemizonia fasciculata => 609,1326,1340	Hemizonia fitchii => 609,1326,1341	Hemizonia floribunda => 609,1326,1342	Hemizonia halliana => 609,1326,1343	Hemizonia increscens => 609,1326,1344	Hemizonia increscens subsp. foliosa => 609,1326,1344,1345	Hemizonia increscens subsp. increscens => 609,1326,1344,1346	Hemizonia increscens subsp. villosa => 609,1326,1344,1347	Hemizonia kelloggii => 609,1326,1348	Hemizonia lobbii => 609,1326,1349	Hemizonia minthornii => 609,1326,1350	Hemizonia mohavensis => 609,1326,1351	Hemizonia pallida => 609,1326,1352	Hemizonia paniculata => 609,1326,1353	Hemizonia parryi => 609,1326,1354	Hemizonia parryi subsp. australis => 609,1326,1354,1355	Hemizonia parryi subsp. congdonii => 609,1326,1354,1356	Hemizonia parryi subsp. parryi => 609,1326,1354,1357	Hemizonia parryi subsp. rudis => 609,1326,1354,1358	Hemizonia pentactis => 609,1326,1359	Hemizonia pungens => 609,1326,1360	Hemizonia pungens subsp. laevis => 609,1326,1360,1361	Hemizonia pungens subsp. maritima => 609,1326,1360,1362	Hemizonia pungens subsp. pungens => 609,1326,1360,1363	Hemizonia pungens subsp. septentrionalis => 609,1326,1360,1364	
-
 MALACOTHRIX
 Malacothrix californica => 609,1600,1601	Malacothrix clevelandii => 609,1600,1602	Malacothrix coulteri => 609,1600,1603	Malacothrix floccifera => 609,1600,1604	Malacothrix foliosa => 609,1600,1605	Malacothrix glabrata => 609,1600,1606	Malacothrix incana => 609,1600,1607	Malacothrix indecora => 609,1600,1608	Malacothrix phaeocarpa => 609,1600,1609	Malacothrix saxatilis => 609,1600,1610	Malacothrix saxatilis var. arachnoidea => 609,1600,1610,1611	Malacothrix saxatilis var. commutata => 609,1600,1610,1612	Malacothrix saxatilis var. implicata => 609,1600,1610,1613	Malacothrix saxatilis var. saxatilis => 609,1600,1610,1614	Malacothrix saxatilis var. tenuifolia => 609,1600,1610,1615	Malacothrix sonchoides => 609,1600,1616	Malacothrix squalida => 609,1600,1617	Malacothrix stebbinsii => 609,1600,1618	Malacothrix torreyi => 609,1600,1619	
-
-PLEUROCORONIS
-Pleurocoronis pluriseta => 609,1701,1702	
 
 TRAGOPOGON
 Tragopogon dubius => 609,1938,1939	Tragopogon porrifolius => 609,1938,1940	Tragopogon pratensis => 609,1938,1941	
@@ -2053,20 +1735,11 @@ Tragopogon dubius => 609,1938,1939	Tragopogon porrifolius => 609,1938,1940	Trago
 HACKELIA
 Hackelia amethystina => 2030,2117,2118	Hackelia bella => 2030,2117,2119	Hackelia brevicula => 2030,2117,2120	Hackelia californica => 2030,2117,2121	Hackelia cusickii => 2030,2117,2122	Hackelia floribunda => 2030,2117,2123	Hackelia micrantha => 2030,2117,2124	Hackelia mundula => 2030,2117,2125	Hackelia nervosa => 2030,2117,2126	Hackelia setosa => 2030,2117,2127	Hackelia sharsmithii => 2030,2117,2128	Hackelia velutina => 2030,2117,2129	
 
-TEESDALIA
-Teesdalia coronopifolia => 2240,2666,2667	
-
 CALYSTEGIA
 Calystegia atriplicifolia => 3226,3227,0,3228	Calystegia atriplicifolia subsp. buttensis => 3226,3227,0,3228	Calystegia collina => 3226,3227,3229	Calystegia collina subsp. collina => 3226,3227,3229,3230	Calystegia collina subsp. oxyphylla => 3226,3227,3229,3231	Calystegia collina subsp. tridactylosa => 3226,3227,3229,3232	Calystegia collina subsp. venusta => 3226,3227,3229,3233	Calystegia longipes => 3226,3227,3234	Calystegia macrostegia => 3226,3227,3235	Calystegia macrostegia subsp. amplissima => 3226,3227,3235,3236	Calystegia macrostegia subsp. arida => 3226,3227,3235,3237	Calystegia macrostegia subsp. cyclostegia => 3226,3227,3235,3238	Calystegia macrostegia subsp. intermedia => 3226,3227,3235,3239	Calystegia macrostegia subsp. macrostegia => 3226,3227,3235,3240	Calystegia macrostegia subsp. tenuifolia => 3226,3227,3235,3241	Calystegia malacophylla => 3226,3227,3242	Calystegia malacophylla subsp. malacophylla => 3226,3227,3242,3243	Calystegia malacophylla subsp. pedicellata => 3226,3227,3242,3244	Calystegia occidentalis => 3226,3227,3245	Calystegia occidentalis subsp. fulcrata => 3226,3227,3245,3246	Calystegia occidentalis subsp. occidentalis => 3226,3227,3245,3247	Calystegia peirsonii => 3226,3227,3248	Calystegia purpurata => 3226,3227,3249	Calystegia purpurata subsp. purpurata => 3226,3227,3249,3250	Calystegia purpurata subsp. saxicola => 3226,3227,3249,3251	Calystegia sepium => 3226,3227,3252	Calystegia sepium subsp. binghamiae => 3226,3227,3252,3253	Calystegia sepium subsp. limnophila => 3226,3227,3252,3254	Calystegia soldanella => 3226,3227,3255	Calystegia stebbinsii => 3226,3227,3256	Calystegia subacaulis => 3226,3227,3257	Calystegia subacaulis subsp. episcopalis => 3226,3227,3257,3258	Calystegia subacaulis subsp. subacaulis => 3226,3227,3257,3259	
 
-CUSCUTA
-Cuscuta approximata => 3397,3398,3399	Cuscuta californica => 3397,3398,3400	Cuscuta californica var. apiculata => 3397,3398,3400,3401	Cuscuta californica var. breviflora => 3397,3398,3400,3402	Cuscuta californica var. californica => 3397,3398,3400,3403	Cuscuta californica var. papillosa => 3397,3398,3400,3404	Cuscuta cephalanthi => 3397,3398,3405	Cuscuta denticulata => 3397,3398,3406	Cuscuta howelliana => 3397,3398,3407	Cuscuta indecora => 3397,3398,3408	Cuscuta indecora var. indecora => 3397,3398,3408,3409	Cuscuta indecora var. neuropetala => 3397,3398,3408,3410	Cuscuta pentagona => 3397,3398,3411	Cuscuta salina => 3397,3398,3412	Cuscuta salina var. major => 3397,3398,3412,3413	Cuscuta salina var. papillata => 3397,3398,3412,3414	Cuscuta salina var. salina => 3397,3398,3412,3415	Cuscuta subinclusa => 3397,3398,3416	
-
 THERMOPSIS
 Thermopsis macrophylla => 3691,4216,4217	Thermopsis macrophylla var. argentata => 3691,4216,4217,4218	Thermopsis macrophylla var. macrophylla => 3691,4216,4217,4219	Thermopsis macrophylla var. semota => 3691,4216,4217,4220	Thermopsis macrophylla var. venosa => 3691,4216,4217,4221	
-
-GARRYA
-Garrya buxifolia => 4366,4367,4368	Garrya congdonii => 4366,4367,4369	Garrya elliptica => 4366,4367,4370	Garrya flavescens => 4366,4367,4371	Garrya fremontii => 4366,4367,4372	Garrya veatchii => 4366,4367,4373	
 
 AMMANNIA
 Ammannia coccinea => 5029,5030,5031	Ammannia robusta => 5029,5030,5032	
@@ -2074,41 +1747,17 @@ Ammannia coccinea => 5029,5030,5031	Ammannia robusta => 5029,5030,5032
 PHILADELPHACEAE
 CARPENTERIA	FENDLERELLA	JAMESIA	PHILADELPHUS	WHIPPLEA	
 
-ISOPYRUM
-Isopyrum occidentale => 6434,6517,6518	Isopyrum stipitatum => 6434,6517,6519	
-
-EREMALCHE
-Eremalche exilis => 5042,5051,5052	Eremalche parryi => 5042,5051,5053	Eremalche parryi subsp. kernensis => 5042,5051,5053,5054	Eremalche parryi subsp. parryi => 5042,5051,5053,5055	Eremalche rotundifolia => 5042,5051,5056	
-
 PRIMULACEAE
 ANAGALLIS	ANDROSACE	CENTUNCULUS	DODECATHEON	GLAUX	LYSIMACHIA	PRIMULA	SAMOLUS	TRIENTALIS	
+
+ISOPYRUM
+Isopyrum occidentale => 6434,6517,6518	Isopyrum stipitatum => 6434,6517,6519	
 
 POPULUS
 Populus alba => 7038,7039,7040	Populus angustifolia => 7038,7039,7041	Populus balsamifera => 7038,7039,0,7042	Populus balsamifera subsp. trichocarpa => 7038,7039,0,7042	Populus fremontii => 7038,7039,0,7043	Populus fremontii subsp. fremontii => 7038,7039,0,7043	Populus tremuloides => 7038,7039,7044	
 
-VALERIANELLA
-Valerianella locusta => 7754,7771,7772	
-
 CYMODOCEACEAE
 HALODULE	
-
-CAMASSIA
-Camassia quamash => 8349,8517,8518	Camassia quamash subsp. breviflora => 8349,8517,8518,8519	Camassia quamash subsp. quamash => 8349,8517,8518,8520	
-
-HETEROPOGON
-Heteropogon contortus => 8738,9046,9047	
-
-EPHEDRACEAE
-EPHEDRA	
-
-CICLOSPERMUM
-Ciclospermum leptophyllum => 329,361,362	
-
-HEDERA
-Hedera helix => 570,573,574	
-
-CNICUS
-Cnicus benedictus => 609,1000,1001	
 
 BRASENIA
 Brasenia schreberi => 2699,2700,2701	
@@ -2122,24 +1771,6 @@ Sphaeralcea ambigua => 5042,5133,5134	Sphaeralcea ambigua var. ambigua => 5042,5
 OLEA
 Olea europaea => 5249,5261,5262	
 
-AILANTHUS
-Ailanthus altissima => 7617,7618,7619	
-
-LYCIUM
-Lycium andersonii => 7625,7636,7637	Lycium barbarum => 7625,7636,7638	Lycium brevipes => 7625,7636,7639	Lycium brevipes var. brevipes => 7625,7636,7639,7640	Lycium brevipes var. hassei => 7625,7636,7639,7641	Lycium californicum => 7625,7636,7642	Lycium cooperi => 7625,7636,7643	Lycium fremontii => 7625,7636,7644	Lycium pallidum => 7625,7636,0,7645	Lycium pallidum var. oligospermum => 7625,7636,0,7645	Lycium parishii => 7625,7636,7646	Lycium torreyi => 7625,7636,7647	Lycium verrucosum => 7625,7636,7648	
-
-VISCUM
-Viscum album => 7836,7860,7861	
-
-FESTUCA
-Festuca arundinacea => 8738,9015,9016	Festuca brachyphylla => 8738,9015,0,9017	Festuca brachyphylla subsp. coloradensis => 8738,9015,0,9017	Festuca californica => 8738,9015,9018	Festuca elmeri => 8738,9015,9019	Festuca idahoensis => 8738,9015,9020	Festuca kingii => 8738,9015,9021	Festuca minutiflora => 8738,9015,9022	Festuca occidentalis => 8738,9015,9023	Festuca pratensis => 8738,9015,9024	Festuca rubra => 8738,9015,9025	Festuca saximontana => 8738,9015,0,9026	Festuca saximontana var. purpusiana => 8738,9015,0,9026	Festuca subulata => 8738,9015,9027	Festuca subuliflora => 8738,9015,9028	Festuca trachyphylla => 8738,9015,9029	Festuca viridula => 8738,9015,9030	
-
-MELICA
-Melica aristata => 8738,9100,9101	Melica bulbosa => 8738,9100,9102	Melica californica => 8738,9100,9103	Melica frutescens => 8738,9100,9104	Melica fugax => 8738,9100,9105	Melica geyeri => 8738,9100,9106	Melica harfordii => 8738,9100,9107	Melica imperfecta => 8738,9100,9108	Melica spectabilis => 8738,9100,9109	Melica stricta => 8738,9100,9110	Melica subulata => 8738,9100,9111	Melica torreyana => 8738,9100,9112	
-
-MUHLENBERGIA
-Muhlenbergia andina => 8738,9117,9118	Muhlenbergia appressa => 8738,9117,9119	Muhlenbergia arsenei => 8738,9117,9120	Muhlenbergia asperifolia => 8738,9117,9121	Muhlenbergia californica => 8738,9117,9122	Muhlenbergia filiformis => 8738,9117,9123	Muhlenbergia fragilis => 8738,9117,9124	Muhlenbergia jonesii => 8738,9117,9125	Muhlenbergia mexicana => 8738,9117,9126	Muhlenbergia microsperma => 8738,9117,9127	Muhlenbergia minutissima => 8738,9117,9128	Muhlenbergia montana => 8738,9117,9129	Muhlenbergia pauciflora => 8738,9117,9130	Muhlenbergia porteri => 8738,9117,9131	Muhlenbergia richardsonis => 8738,9117,9132	Muhlenbergia rigens => 8738,9117,9133	Muhlenbergia schreberi => 8738,9117,9134	Muhlenbergia utilis => 8738,9117,9135	
-
 HYDROCOTYLE
 Hydrocotyle moschata => 329,413,414	Hydrocotyle ranunculoides => 329,413,415	Hydrocotyle sibthorpioides => 329,413,416	Hydrocotyle umbellata => 329,413,417	Hydrocotyle verticillata => 329,413,418	
 
@@ -2149,20 +1780,11 @@ Acamptopappus shockleyi => 609,610,611	Acamptopappus sphaerocephalus => 609,610,
 PRIONOPSIS
 Prionopsis ciliata => 609,1710,1711	
 
-TANACETUM
-Tanacetum camphoratum => 609,1904,1905	Tanacetum parthenium => 609,1904,1906	Tanacetum vulgare => 609,1904,1907	
-
-AMSINCKIA
-Amsinckia douglasiana => 2030,2031,2032	Amsinckia eastwoodiae => 2030,2031,2033	Amsinckia grandiflora => 2030,2031,2034	Amsinckia lunaris => 2030,2031,2035	Amsinckia lycopsoides => 2030,2031,2036	Amsinckia menziesii => 2030,2031,2037	Amsinckia menziesii var. intermedia => 2030,2031,2037,2038	Amsinckia menziesii var. menziesii => 2030,2031,2037,2039	Amsinckia spectabilis => 2030,2031,2040	Amsinckia spectabilis var. microcarpa => 2030,2031,2040,2041	Amsinckia spectabilis var. spectabilis => 2030,2031,2040,2042	Amsinckia tessellata => 2030,2031,2043	Amsinckia tessellata var. gloriosa => 2030,2031,2043,2044	Amsinckia tessellata var. tessellata => 2030,2031,2043,2045	Amsinckia vernicosa => 2030,2031,2046	Amsinckia vernicosa var. furcata => 2030,2031,2046,2047	Amsinckia vernicosa var. vernicosa => 2030,2031,2046,2048	
-
 SIBARA
 Sibara deserti => 2240,2596,2597	Sibara filifolia => 2240,2596,2598	Sibara rosulata => 2240,2596,2599	Sibara virginica => 2240,2596,2600	
 
 CALLITRICHACEAE
 CALLITRICHE	
-
-GITHOPSIS
-Githopsis diffusa => 2770,2803,2804	Githopsis diffusa subsp. candida => 2770,2803,2804,2805	Githopsis diffusa subsp. diffusa => 2770,2803,2804,2806	Githopsis diffusa subsp. filicaulis => 2770,2803,2804,2807	Githopsis diffusa subsp. robusta => 2770,2803,2804,2808	Githopsis pulchella => 2770,2803,2809	Githopsis pulchella subsp. campestris => 2770,2803,2809,2810	Githopsis pulchella subsp. pulchella => 2770,2803,2809,2811	Githopsis pulchella subsp. serpentinicola => 2770,2803,2809,2812	Githopsis specularioides => 2770,2803,2813	Githopsis tenella => 2770,2803,2814	
 
 AEONIUM
 Aeonium arboreum => 3284,3285,0,3286	Aeonium arboreum var. arboreum => 3284,3285,0,3286	Aeonium haworthii => 3284,3285,3287	
@@ -2185,23 +1807,8 @@ OXALIS
 MUCRONEA
 Mucronea californica => 5936,6224,6225	Mucronea perfoliata => 5936,6224,6226	
 
-RESEDACEAE
-OLIGOMERIS	RESEDA	
-
-APHANES
-Aphanes occidentalis => 6677,6691,6692	
-
-THAMNOSMA
-Thamnosma montana => 7029,7036,7037	
-
 SANTALACEAE
 COMANDRA	
-
-TRIPHYSARIA
-Triphysaria eriantha => 7177,7585,7586	Triphysaria eriantha subsp. eriantha => 7177,7585,7586,7587	Triphysaria eriantha subsp. rosea => 7177,7585,7586,7588	Triphysaria floribunda => 7177,7585,7589	Triphysaria micrantha => 7177,7585,7590	Triphysaria pusilla => 7177,7585,7591	Triphysaria versicolor => 7177,7585,7592	Triphysaria versicolor subsp. faucibarbata => 7177,7585,7592,7593	Triphysaria versicolor subsp. versicolor => 7177,7585,7592,7594	
-
-SIMMONDSIA
-Simmondsia chinensis => 7622,7623,7624	
 
 TAMARIX
 Tamarix aphylla => 7716,7717,7718	Tamarix chinensis => 7716,7717,7719	Tamarix gallica => 7716,7717,7720	Tamarix parviflora => 7716,7717,7721	Tamarix ramosissima => 7716,7717,7722	
@@ -2212,71 +1819,17 @@ Avicennia marina => 7773,7776,0,7777	Avicennia marina var. resinifera => 7773,77
 KALLSTROEMIA
 Kallstroemia californica => 7869,7873,7874	Kallstroemia grandiflora => 7869,7873,7875	Kallstroemia parviflora => 7869,7873,7876	
 
-ZYGOPHYLLUM
-Zygophyllum fabago => 7869,7881,7882	
-
 SCHOENUS
 Schoenus nigricans => 7928,8143,8144	
-
-HYDROCHARITACEAE
-EGERIA	ELODEA	HYDRILLA	NAJAS	OTTELIA	
-
-HESPEROCALLIS
-Hesperocallis undulata => 8349,8586,8587	
-
-BOTHRIOCHLOA
-Bothriochloa barbinodis => 8738,8841,8842	Bothriochloa ischaemum => 8738,8841,0,8843	Bothriochloa ischaemum var. songarica => 8738,8841,0,8843	Bothriochloa laguroides => 8738,8841,0,8844	Bothriochloa laguroides subsp. torreyana => 8738,8841,0,8844	
-
-ERIOCHLOA
-Eriochloa acuminata => 8738,9008,0,9009	Eriochloa acuminata var. acuminata => 8738,9008,0,9009	Eriochloa aristata => 8738,9008,0,9010	Eriochloa aristata var. aristata => 8738,9008,0,9010	Eriochloa contracta => 8738,9008,9011	
-
-NOTHOLAENA
-Notholaena californica => 92,120,121	
-
-THELYPTERIDACEAE
-THELYPTERIS	
-
-TRIANTHEMA
-Trianthema portulacastrum => 265,288,289	
 
 ADENOCAULON
 Adenocaulon bicolor => 609,623,624	
 
-GAZANIA
-Gazania linearis => 609,1232,1233	
-
-AUBRIETA
-Aubrieta deltoidea => 2240,2323,2324	
-
 CYCLOLOMA
 Cycloloma atriplicifolium => 3084,3177,3178	
 
-SALICORNIA
-Salicornia bigelovii => 3084,3196,3197	Salicornia europaea => 3084,3196,3198	Salicornia subterminalis => 3084,3196,3199	Salicornia utahensis => 3084,3196,3200	Salicornia virginica => 3084,3196,3201	
-
-CISTUS
-Cistus creticus => 3215,3216,3217	Cistus ladanifer => 3215,3216,3218	Cistus monspeliensis => 3215,3216,3219	Cistus salviifolius => 3215,3216,3220	
-
-ACALYPHA
-Acalypha californica => 3618,3619,3620	
-
-PELARGONIUM
-Pelargonium × domesticum => 4416,4440,4441	Pelargonium grossularioides => 4416,4440,4442	Pelargonium × hortorum => 4416,4440,4443	Pelargonium inquinans => 4416,4440,4444	Pelargonium panduriforme => 4416,4440,4445	Pelargonium peltatum => 4416,4440,4446	Pelargonium quercifolium => 4416,4440,4447	Pelargonium vitifolium => 4416,4440,4448	Pelargonium zonale => 4416,4440,4449	
-
-MENTHA
-Mentha arvensis => 4745,4779,4780	Mentha × piperita => 4745,4779,4781	Mentha pulegium => 4745,4779,4782	Mentha spicata => 4745,4779,0,4783	Mentha spicata var. spicata => 4745,4779,0,4783	Mentha suaveolens => 4745,4779,4784	
-
-MOLUCCELLA
-Moluccella laevis => 4745,4785,4786	
-
-ANODA
-Anoda cristata => 5042,5049,5050	
-
 SOLANUM
 Solanum americanum => 7625,7682,7683	Solanum aviculare => 7625,7682,7684	Solanum carolinense => 7625,7682,7685	Solanum dimidiatum => 7625,7682,7686	Solanum douglasii => 7625,7682,7687	Solanum dulcamara => 7625,7682,7688	Solanum elaeagnifolium => 7625,7682,7689	Solanum furcatum => 7625,7682,7690	Solanum lanceolatum => 7625,7682,7691	Solanum marginatum => 7625,7682,7692	Solanum nigrum => 7625,7682,7693	Solanum parishii => 7625,7682,7694	Solanum rostratum => 7625,7682,7695	Solanum sarrachoides => 7625,7682,7696	Solanum sisymbriifolium => 7625,7682,7697	Solanum triflorum => 7625,7682,7698	Solanum umbelliferum => 7625,7682,7699	Solanum wallacei => 7625,7682,7700	Solanum xanti => 7625,7682,7701	
-
-CENTRANTHUS
-Centranthus ruber => 7754,7755,7756	
 
 AIRA
 Aira caryophyllea => 8738,8788,8789	Aira elegantissima => 8738,8788,8790	Aira praecox => 8738,8788,8791	
@@ -2284,17 +1837,8 @@ Aira caryophyllea => 8738,8788,8789	Aira elegantissima => 8738,8788,8790	Aira pr
 BRACHYPODIUM
 Brachypodium distachyon => 8738,8852,8853	Brachypodium pinnatum => 8738,8852,8854	
 
-GASTRIDIUM
-Gastridium ventricosum => 8738,9031,9032	
-
-BLECHNUM
-Blechnum spicant => 11,12,13	
-
 TAXACEAE
 TAXUS	TORREYA	
-
-OSMORHIZA
-Osmorhiza berteroi => 329,487,488	Osmorhiza brachypoda => 329,487,489	Osmorhiza depauperata => 329,487,490	Osmorhiza occidentalis => 329,487,491	Osmorhiza purpurea => 329,487,492	
 
 BLEPHARIPAPPUS
 Blepharipappus scaber => 609,825,826	
@@ -2302,32 +1846,11 @@ Blepharipappus scaber => 609,825,826
 PERICOME
 Pericome caudata => 609,1682,1683	
 
-PLUCHEA
-Pluchea odorata => 609,1703,1704	Pluchea sericea => 609,1703,1705	
-
 SANVITALIA
 Sanvitalia abertii => 609,1774,1775	
 
-CAMPANULA
-Campanula angustiflora => 2770,2771,2772	Campanula californica => 2770,2771,2773	Campanula exigua => 2770,2771,2774	Campanula griffinii => 2770,2771,2775	Campanula prenanthoides => 2770,2771,2776	Campanula rotundifolia => 2770,2771,2777	Campanula scabrella => 2770,2771,2778	Campanula scouleri => 2770,2771,2779	Campanula sharsmithiae => 2770,2771,2780	Campanula shetleri => 2770,2771,2781	Campanula wilkinsiana => 2770,2771,2782	
-
-BETA
-Beta vulgaris => 3084,3145,3146	
-
-ABUTILON
-Abutilon palmeri => 5042,5043,5044	Abutilon parvulum => 5042,5043,5045	Abutilon theophrasti => 5042,5043,5046	
-
-MYOPORUM
-Myoporum laetum => 5172,5173,5174	
-
-MIRABILIS
-Mirabilis alipes => 5194,5221,5222	Mirabilis bigelovii => 5194,5221,5223	Mirabilis bigelovii var. bigelovii => 5194,5221,5223,5224	Mirabilis bigelovii var. retrorsa => 5194,5221,5223,5225	Mirabilis californica => 5194,5221,5226	Mirabilis coccinea => 5194,5221,5227	Mirabilis greenei => 5194,5221,5228	Mirabilis jalapa => 5194,5221,5229	Mirabilis linearis => 5194,5221,0,5230	Mirabilis linearis var. linearis => 5194,5221,0,5230	Mirabilis multiflora => 5194,5221,5231	Mirabilis multiflora var. glandulosa => 5194,5221,5231,5232	Mirabilis multiflora var. pubescens => 5194,5221,5231,5233	Mirabilis nyctaginea => 5194,5221,5234	Mirabilis oblongifolia => 5194,5221,5235	Mirabilis pumila => 5194,5221,5236	Mirabilis tenuiloba => 5194,5221,5237	
-
 JAMESIA
 Jamesia americana => 5602,5607,0,5608	Jamesia americana var. rosea => 5602,5607,0,5608	
-
-LEWISIA
-Lewisia brachycalyx => 6318,6362,6363	Lewisia cantelovii => 6318,6362,6364	Lewisia columbiana => 6318,6362,6365	Lewisia congdonii => 6318,6362,6366	Lewisia cotyledon => 6318,6362,6367	Lewisia cotyledon var. cotyledon => 6318,6362,6367,6368	Lewisia cotyledon var. heckneri => 6318,6362,6367,6369	Lewisia cotyledon var. howellii => 6318,6362,6367,6370	Lewisia disepala => 6318,6362,6371	Lewisia glandulosa => 6318,6362,6372	Lewisia kelloggii => 6318,6362,6373	Lewisia leana => 6318,6362,6374	Lewisia longipetala => 6318,6362,6375	Lewisia nevadensis => 6318,6362,6376	Lewisia oppositifolia => 6318,6362,6377	Lewisia pygmaea => 6318,6362,6378	Lewisia rediviva => 6318,6362,6379	Lewisia stebbinsii => 6318,6362,6380	Lewisia triphylla => 6318,6362,6381	
 
 ACONITUM
 Aconitum columbianum => 6434,6435,6436	
@@ -2338,23 +1861,8 @@ Sanguisorba minor => 6677,6911,0,6912	Sanguisorba minor subsp. muricata => 6677,
 DARLINGTONIA
 Darlingtonia californica => 7080,7081,7082	
 
-TIARELLA
-Tiarella trifoliata => 7088,7171,7172	Tiarella trifoliata var. trifoliata => 7088,7171,7172,7173	Tiarella trifoliata var. unifoliata => 7088,7171,7172,7174	
-
-THYMELAEACEAE
-DIRCA	
-
-PISTIA
-Pistia stratiotes => 7901,7910,7911	
-
 JUNCAGINACEAE
 LILAEA	TRIGLOCHIN	
-
-HIEROCHLOE
-Hierochloe occidentalis => 8738,9048,9049	Hierochloe odorata => 8738,9048,9050	
-
-AQUIFOLIACEAE
-ILEX	
 
 RHAGADIOLUS
 Rhagadiolus stellatus => 609,1761,1762	
@@ -2362,29 +1870,8 @@ Rhagadiolus stellatus => 609,1761,1762
 LOBULARIA
 Lobularia maritima => 2240,2557,2558	
 
-RORIPPA
-Rorippa austriaca => 2240,2580,2581	Rorippa columbiae => 2240,2580,2582	Rorippa curvipes => 2240,2580,2583	Rorippa curvipes var. curvipes => 2240,2580,2583,2584	Rorippa curvipes var. truncata => 2240,2580,2583,2585	Rorippa curvisiliqua => 2240,2580,2586	Rorippa gambelii => 2240,2580,2587	Rorippa nasturtium-aquaticum => 2240,2580,2588	Rorippa palustris => 2240,2580,2589	Rorippa palustris var. hispida => 2240,2580,2589,2590	Rorippa palustris var. occidentalis => 2240,2580,2589,2591	Rorippa sinuata => 2240,2580,2592	Rorippa sphaerocarpa => 2240,2580,2593	Rorippa subumbellata => 2240,2580,2594	Rorippa tenerrima => 2240,2580,2595	
-
-STREPTANTHUS
-Streptanthus albidus => 2240,2621,2622	Streptanthus albidus subsp. albidus => 2240,2621,2622,2623	Streptanthus albidus subsp. peramoenus => 2240,2621,2622,2624	Streptanthus barbatus => 2240,2621,2625	Streptanthus barbiger => 2240,2621,2626	Streptanthus batrachopus => 2240,2621,2627	Streptanthus bernardinus => 2240,2621,2628	Streptanthus brachiatus => 2240,2621,2629	Streptanthus brachiatus subsp. brachiatus => 2240,2621,2629,2630	Streptanthus brachiatus subsp. hoffmanii => 2240,2621,2629,2631	Streptanthus breweri => 2240,2621,2632	Streptanthus breweri var. breweri => 2240,2621,2632,2633	Streptanthus breweri var. hesperidis => 2240,2621,2632,2634	Streptanthus callistus => 2240,2621,2635	Streptanthus campestris => 2240,2621,2636	Streptanthus cordatus => 2240,2621,2637	Streptanthus cordatus var. cordatus => 2240,2621,2637,2638	Streptanthus cordatus var. duranii => 2240,2621,2637,2639	Streptanthus cordatus var. piutensis => 2240,2621,2637,2640	Streptanthus diversifolius => 2240,2621,2641	Streptanthus drepanoides => 2240,2621,2642	Streptanthus farnsworthianus => 2240,2621,2643	Streptanthus fenestratus => 2240,2621,2644	Streptanthus glandulosus => 2240,2621,2645	Streptanthus glandulosus subsp. glandulosus => 2240,2621,2645,2646	Streptanthus glandulosus subsp. pulchellus => 2240,2621,2645,2647	Streptanthus glandulosus subsp. secundus => 2240,2621,2645,2648	Streptanthus gracilis => 2240,2621,2649	Streptanthus hispidus => 2240,2621,2650	Streptanthus howellii => 2240,2621,2651	Streptanthus insignis => 2240,2621,2652	Streptanthus insignis subsp. insignis => 2240,2621,2652,2653	Streptanthus insignis subsp. lyonii => 2240,2621,2652,2654	Streptanthus morrisonii => 2240,2621,2655	Streptanthus niger => 2240,2621,2656	Streptanthus oliganthus => 2240,2621,2657	Streptanthus polygaloides => 2240,2621,2658	Streptanthus tortuosus => 2240,2621,2659	Streptanthus tortuosus var. flavescens => 2240,2621,2659,2660	Streptanthus tortuosus var. orbiculatus => 2240,2621,2659,2661	Streptanthus tortuosus var. suffrutescens => 2240,2621,2659,2662	Streptanthus tortuosus var. tortuosus => 2240,2621,2659,2663	
-
-CARDIONEMA
-Cardionema ramosissimum => 2907,2931,2932	
-
-CHENOPODIUM
-Chenopodium album => 3084,3147,3148	Chenopodium ambrosioides => 3084,3147,3149	Chenopodium atrovirens => 3084,3147,3150	Chenopodium berlandieri => 3084,3147,3151	Chenopodium botrys => 3084,3147,3152	Chenopodium californicum => 3084,3147,3153	Chenopodium carnosulum => 3084,3147,0,3154	Chenopodium carnosulum var. patagonicum => 3084,3147,0,3154	Chenopodium chenopodioides => 3084,3147,3155	Chenopodium desiccatum => 3084,3147,3156	Chenopodium foliosum => 3084,3147,3157	Chenopodium fremontii => 3084,3147,3158	Chenopodium glaucum => 3084,3147,3159	Chenopodium hians => 3084,3147,3160	Chenopodium incanum => 3084,3147,0,3161	Chenopodium incanum var. occidentale => 3084,3147,0,3161	Chenopodium incognitum => 3084,3147,3162	Chenopodium leptophyllum => 3084,3147,3163	Chenopodium macrospermum => 3084,3147,0,3164	Chenopodium macrospermum var. halophilum => 3084,3147,0,3164	Chenopodium missouriense => 3084,3147,3165	Chenopodium multifidum => 3084,3147,3166	Chenopodium murale => 3084,3147,3167	Chenopodium nevadense => 3084,3147,3168	Chenopodium pratericola => 3084,3147,3169	Chenopodium pumilio => 3084,3147,3170	Chenopodium rubrum => 3084,3147,3171	Chenopodium simplex => 3084,3147,3172	Chenopodium strictum => 3084,3147,0,3173	Chenopodium strictum var. glaucophyllum => 3084,3147,0,3173	Chenopodium vulvaria => 3084,3147,3174	
-
 KALMIA
 Kalmia polifolia => 3449,3567,3568	Kalmia polifolia subsp. microphylla => 3449,3567,3568,3569	Kalmia polifolia subsp. polifolia => 3449,3567,3568,3570	
-
-EUPHORBIA
-Euphorbia crenulata => 3618,3662,3663	Euphorbia dentata => 3618,3662,3664	Euphorbia eriantha => 3618,3662,3665	Euphorbia esula => 3618,3662,3666	Euphorbia exstipulata => 3618,3662,0,3667	Euphorbia exstipulata var. exstipulata => 3618,3662,0,3667	Euphorbia helioscopia => 3618,3662,3668	Euphorbia incisa => 3618,3662,3669	Euphorbia lathyris => 3618,3662,3670	Euphorbia misera => 3618,3662,3671	Euphorbia oblongata => 3618,3662,3672	Euphorbia palmeri => 3618,3662,3673	Euphorbia peplus => 3618,3662,3674	Euphorbia serrata => 3618,3662,3675	Euphorbia spathulata => 3618,3662,3676	
-
-HIPPOCASTANACEAE
-AESCULUS	
-
-AESCULUS
-Aesculus californica => 4512,4513,4514	
 
 TRICARDIA
 Tricardia watsonii => 4518,4720,4721	
@@ -2392,41 +1879,11 @@ Tricardia watsonii => 4518,4720,4721
 TURRICULA
 Turricula parryi => 4518,4722,4723	
 
-MOLLUGO
-Mollugo cerviana => 5159,5162,5163	Mollugo verticillata => 5159,5162,5164	
-
 OXYTHECA
 Oxytheca caryophylloides => 5936,6236,6237	Oxytheca dendroidea => 5936,6236,0,6238	Oxytheca dendroidea subsp. dendroidea => 5936,6236,0,6238	Oxytheca emarginata => 5936,6236,6239	Oxytheca parishii => 5936,6236,6240	Oxytheca parishii var. abramsii => 5936,6236,6240,6241	Oxytheca parishii var. cienegensis => 5936,6236,6240,6242	Oxytheca parishii var. goodmaniana => 5936,6236,6240,6243	Oxytheca parishii var. parishii => 5936,6236,6240,6244	Oxytheca perfoliata => 5936,6236,6245	Oxytheca trilobata => 5936,6236,6246	Oxytheca watsonii => 5936,6236,6247	
 
-COLUBRINA
-Colubrina californica => 6586,6654,6655	
-
-HEUCHERA
-Heuchera abramsii => 7088,7101,7102	Heuchera brevistaminea => 7088,7101,7103	Heuchera cespitosa => 7088,7101,7104	Heuchera cylindrica => 7088,7101,0,7105	Heuchera cylindrica var. alpina => 7088,7101,0,7105	Heuchera elegans => 7088,7101,7106	Heuchera hirsutissima => 7088,7101,7107	Heuchera maxima => 7088,7101,7108	Heuchera merriamii => 7088,7101,7109	Heuchera micrantha => 7088,7101,7110	Heuchera parishii => 7088,7101,7111	Heuchera parvifolia => 7088,7101,7112	Heuchera pilosissima => 7088,7101,7113	Heuchera rubescens => 7088,7101,7114	Heuchera rubescens var. alpicola => 7088,7101,7114,7115	Heuchera rubescens var. glandulosa => 7088,7101,7114,7116	Heuchera rubescens var. rydbergiana => 7088,7101,7114,7117	Heuchera rubescens var. versicolor => 7088,7101,7114,7118	
-
-LANTANA
-Lantana camara => 7773,7778,7779	Lantana montevidensis => 7773,7778,7780	
-
-PELTANDRA
-Peltandra virginica => 7901,7908,7909	
-
-ANDROPOGON
-Andropogon glomeratus => 8738,8803,0,8804	Andropogon glomeratus var. scabriglumis => 8738,8803,0,8804	Andropogon virginicus => 8738,8803,0,8805	Andropogon virginicus var. virginicus => 8738,8803,0,8805	
-
-LAMARCKIA
-Lamarckia aurea => 8738,9076,9077	
-
 PHLEUM
 Phleum alpinum => 8738,9190,9191	Phleum pratense => 8738,9190,9192	
-
-MARSILEACEAE
-MARSILEA	PILULARIA	
-
-BOTRYCHIUM
-Botrychium ascendens => 72,73,74	Botrychium crenulatum => 72,73,75	Botrychium lunaria => 72,73,76	Botrychium minganense => 72,73,77	Botrychium montanum => 72,73,78	Botrychium multifidum => 72,73,79	Botrychium pinnatum => 72,73,80	Botrychium simplex => 72,73,81	
-
-ACANTHACEAE
-CARLOWRIGHTIA	JUSTICIA	
 
 JUSTICIA
 Justicia californica => 251,254,255	
@@ -2443,32 +1900,11 @@ Adenophyllum cooperi => 609,625,626	Adenophyllum porophylloides => 609,625,627
 PSATHYROTES
 Psathyrotes annua => 609,1712,1713	Psathyrotes ramosissima => 609,1712,1714	
 
-TARAXACUM
-Taraxacum californicum => 609,1908,1909	Taraxacum officinale => 609,1908,1910	
-
 BATACEAE
 BATIS	
 
-HUTCHINSIA
-Hutchinsia procumbens => 2240,2498,2499	
-
-DROSERACEAE
-DROSERA	
-
-PHYTOLACCACEAE
-PHYTOLACCA	
-
-DEDECKERA
-Dedeckera eurekensis => 5936,5987,5988	
-
-ADONIS
-Adonis aestivalis => 6434,6439,6440	
-
 BENSONIELLA
 Bensoniella oregona => 7088,7089,7090	
-
-DIGITALIS
-Digitalis purpurea => 7177,7334,7335	
 
 ULMUS
 Ulmus minor => 7729,7732,7733	Ulmus parvifolia => 7729,7732,7734	Ulmus pumila => 7729,7732,7735	
@@ -2476,32 +1912,11 @@ Ulmus minor => 7729,7732,7733	Ulmus parvifolia => 7729,7732,7734	Ulmus pumila =>
 BOEHMERIA
 Boehmeria nivea => 7736,7737,7738	
 
-URTICA
-Urtica dioica => 7736,7749,7750	Urtica dioica subsp. gracilis => 7736,7749,7750,7751	Urtica dioica subsp. holosericea => 7736,7749,7750,7752	Urtica urens => 7736,7749,7753	
-
 ARCEUTHOBIUM
 Arceuthobium abietinum => 7836,7837,7838	Arceuthobium americanum => 7836,7837,7839	Arceuthobium californicum => 7836,7837,7840	Arceuthobium campylopodum => 7836,7837,7841	Arceuthobium cyanocarpum => 7836,7837,7842	Arceuthobium divaricatum => 7836,7837,7843	Arceuthobium douglasii => 7836,7837,7844	Arceuthobium littorum => 7836,7837,7845	Arceuthobium monticola => 7836,7837,7846	Arceuthobium occidentale => 7836,7837,7847	Arceuthobium siskiyouense => 7836,7837,7848	Arceuthobium tsugense => 7836,7837,7849	Arceuthobium tsugense subsp. mertensianae => 7836,7837,7849,7850	Arceuthobium tsugense subsp. tsugense => 7836,7837,7849,7851	
 
-EPIPACTIS
-Epipactis gigantea => 8695,8709,8710	Epipactis helleborine => 8695,8709,8711	
-
 PIPERIA
 Piperia candida => 8695,8720,8721	Piperia cooperi => 8695,8720,8722	Piperia elegans => 8695,8720,8723	Piperia elongata => 8695,8720,8724	Piperia leptopetala => 8695,8720,8725	Piperia michaelii => 8695,8720,8726	Piperia transversa => 8695,8720,8727	Piperia unalascensis => 8695,8720,8728	Piperia yadonii => 8695,8720,8729	
-
-ELYTRIGIA
-Elytrigia elongata => 8738,8985,8986	Elytrigia intermedia => 8738,8985,0,8987	Elytrigia intermedia subsp. intermedia => 8738,8985,0,8987	Elytrigia juncea => 8738,8985,0,8988	Elytrigia juncea subsp. boreo-atlantica => 8738,8985,0,8988	Elytrigia pontica => 8738,8985,0,8989	Elytrigia pontica subsp. pontica => 8738,8985,0,8989	Elytrigia repens => 8738,8985,8990	
-
-HORDEUM
-Hordeum arizonicum => 8738,9054,9055	Hordeum brachyantherum => 8738,9054,9056	Hordeum brachyantherum subsp. brachyantherum => 8738,9054,9056,9057	Hordeum brachyantherum subsp. californicum => 8738,9054,9056,9058	Hordeum depressum => 8738,9054,9059	Hordeum intercedens => 8738,9054,9060	Hordeum jubatum => 8738,9054,9061	Hordeum marinum => 8738,9054,0,9062	Hordeum marinum subsp. gussoneanum => 8738,9054,0,9062	Hordeum murinum => 8738,9054,9063	Hordeum murinum subsp. glaucum => 8738,9054,9063,9064	Hordeum murinum subsp. leporinum => 8738,9054,9063,9065	Hordeum murinum subsp. murinum => 8738,9054,9063,9066	
-
-SPOROBOLUS
-Sporobolus airoides => 8738,9301,9302	Sporobolus contractus => 8738,9301,9303	Sporobolus cryptandrus => 8738,9301,9304	Sporobolus flexuosus => 8738,9301,9305	Sporobolus indicus => 8738,9301,9306	Sporobolus vaginiflorus => 8738,9301,9307	
-
-CUPRESSUS
-Cupressus abramsiana => 157,160,161	Cupressus arizonica => 157,160,162	Cupressus arizonica subsp. arizonica => 157,160,162,163	Cupressus arizonica subsp. nevadensis => 157,160,162,164	Cupressus bakeri => 157,160,165	Cupressus forbesii => 157,160,166	Cupressus goveniana => 157,160,167	Cupressus goveniana subsp. goveniana => 157,160,167,168	Cupressus goveniana subsp. pygmaea => 157,160,167,169	Cupressus lawsoniana => 157,160,170	Cupressus macnabiana => 157,160,171	Cupressus macrocarpa => 157,160,172	Cupressus nootkatensis => 157,160,173	Cupressus sargentii => 157,160,174	
-
-AMBLYOPAPPUS
-Amblyopappus pusillus => 609,646,647	
 
 HYMENOCLEA
 Hymenoclea monogyra => 609,1426,1427	Hymenoclea salsola => 609,1426,1428	Hymenoclea salsola var. fasciculata => 609,1426,1428,1429	Hymenoclea salsola var. pentalepis => 609,1426,1428,1430	Hymenoclea salsola var. salsola => 609,1426,1428,1431	
@@ -2512,32 +1927,14 @@ Anchusa arvensis => 2030,2049,2050	Anchusa azurea => 2030,2049,2051	Anchusa offi
 CAULOSTRAMINA
 Caulostramina jaegeri => 2240,2394,2395	
 
-CHAMAESYCE
-Chamaesyce abramsiana => 3618,3623,3624	Chamaesyce albomarginata => 3618,3623,3625	Chamaesyce arizonica => 3618,3623,3626	Chamaesyce fendleri => 3618,3623,3627	Chamaesyce glyptosperma => 3618,3623,3628	Chamaesyce hooveri => 3618,3623,3629	Chamaesyce maculata => 3618,3623,3630	Chamaesyce melanadenia => 3618,3623,3631	Chamaesyce micromera => 3618,3623,3632	Chamaesyce nutans => 3618,3623,3633	Chamaesyce ocellata => 3618,3623,3634	Chamaesyce ocellata subsp. arenicola => 3618,3623,3634,3635	Chamaesyce ocellata subsp. ocellata => 3618,3623,3634,3636	Chamaesyce ocellata subsp. rattanii => 3618,3623,3634,3637	Chamaesyce parishii => 3618,3623,3638	Chamaesyce parryi => 3618,3623,3639	Chamaesyce pediculifera => 3618,3623,3640	Chamaesyce platysperma => 3618,3623,3641	Chamaesyce polycarpa => 3618,3623,3642	Chamaesyce prostrata => 3618,3623,3643	Chamaesyce revoluta => 3618,3623,3644	Chamaesyce serpens => 3618,3623,3645	Chamaesyce serpyllifolia => 3618,3623,3646	Chamaesyce serpyllifolia subsp. hirtula => 3618,3623,3646,3647	Chamaesyce serpyllifolia subsp. serpyllifolia => 3618,3623,3646,3648	Chamaesyce setiloba => 3618,3623,3649	Chamaesyce vallis-mortae => 3618,3623,3650	
-
-POLYGALACEAE
-POLYGALA	
-
 RANUNCULACEAE
 ACONITUM	ACTAEA	ADONIS	ANEMONE	AQUILEGIA	CALTHA	CLEMATIS	CONSOLIDA	COPTIS	DELPHINIUM	ISOPYRUM	KUMLIENIA	MYOSURUS	RANUNCULUS	THALICTRUM	TRAUTVETTERIA	
 
 GRATIOLA
 Gratiola ebracteata => 7177,7340,7341	Gratiola heterosepala => 7177,7340,7342	Gratiola neglecta => 7177,7340,7343	
 
-TONELLA
-Tonella tenella => 7177,7583,7584	
-
-ORYCTES
-Oryctes nevadensis => 7625,7662,7663	
-
-YUCCA
-Yucca baccata => 8349,8681,8682	Yucca brevifolia => 8349,8681,8683	Yucca schidigera => 8349,8681,8684	Yucca whipplei => 8349,8681,8685	
-
 AXONOPUS
 Axonopus affinis => 8738,8835,8836	
-
-POLYPODIUM
-Polypodium californicum => 85,86,87	Polypodium calirhiza => 85,86,88	Polypodium glycyrrhiza => 85,86,89	Polypodium hesperium => 85,86,90	Polypodium scouleri => 85,86,91	
 
 CHAETADELPHA
 Chaetadelpha wheeleri => 609,913,914	
@@ -2547,15 +1944,6 @@ Minuartia californica => 2907,2959,2960	Minuartia decumbens => 2907,2959,2961	Mi
 
 VELEZIA
 Velezia rigida => 2907,3070,3071	
-
-CUCURBITACEAE
-BRANDEGEA	BRYONIA	CITRULLUS	CUCUMIS	CUCURBITA	MARAH	
-
-FABACEAE
-ACACIA	AESCHYNOMENE	ALBIZIA	ALHAGI	AMORPHA	ASTRAGALUS	CAESALPINIA	CALLIANDRA	CARAGANA	CERCIDIUM	CERCIS	CHAMAECYTISUS	COLUTEA	CYTISUS	DALEA	GENISTA	GLYCYRRHIZA	HALIMODENDRON	HOFFMANNSEGGIA	HOITA	LATHYRUS	LENS	LOTUS	LUPINUS	MARINA	MEDICAGO	MELILOTUS	OLNEYA	ONOBRYCHIS	ORNITHOPUS	OXYTROPIS	PARKINSONIA	PEDIOMELUM	PETERIA	PHASEOLUS	PICKERINGIA	PISUM	PROSOPIS	PSORALIDIUM	PSOROTHAMNUS	ROBINIA	RUPERTIA	SENNA	SESBANIA	SPARTIUM	SPHAEROPHYSA	THERMOPSIS	TRIFOLIUM	ULEX	VICIA	
-
-CAESALPINIA
-Caesalpinia gilliesii => 3691,3879,3880	Caesalpinia spinosa => 3691,3879,3881	Caesalpinia virgata => 3691,3879,3882	
 
 FICUS
 Ficus carica => 5165,5166,5167	
@@ -2572,29 +1960,11 @@ Hebe × franciscana => 7177,7344,7345	Hebe speciosa => 7177,7344,7346
 TROPAEOLUM
 Tropaeolum majus => 7726,7727,7728	
 
-LIBERTIA
-Libertia formosa => 8185,8218,8219	
-
-LILIUM
-Lilium bolanderi => 8349,8592,8593	Lilium columbianum => 8349,8592,8594	Lilium humboldtii => 8349,8592,8595	Lilium humboldtii subsp. humboldtii => 8349,8592,8595,8596	Lilium humboldtii subsp. ocellatum => 8349,8592,8595,8597	Lilium kelleyanum => 8349,8592,8598	Lilium kelloggii => 8349,8592,8599	Lilium maritimum => 8349,8592,8600	Lilium occidentale => 8349,8592,8601	Lilium pardalinum => 8349,8592,8602	Lilium pardalinum subsp. pardalinum => 8349,8592,8602,8603	Lilium pardalinum subsp. pitkinense => 8349,8592,8602,8604	Lilium pardalinum subsp. shastense => 8349,8592,8602,8605	Lilium pardalinum subsp. vollmeri => 8349,8592,8602,8606	Lilium pardalinum subsp. wigginsii => 8349,8592,8602,8607	Lilium parryi => 8349,8592,8608	Lilium parvum => 8349,8592,8609	Lilium rubescens => 8349,8592,8610	Lilium washingtonianum => 8349,8592,8611	Lilium washingtonianum subsp. purpurascens => 8349,8592,8611,8612	Lilium washingtonianum subsp. washingtonianum => 8349,8592,8611,8613	
-
 NARTHECIUM
 Narthecium californicum => 8349,8623,8624	
 
 KOELERIA
 Koeleria macrantha => 8738,9071,9072	Koeleria phleoides => 8738,9071,9073	
-
-DRYOPTERIS
-Dryopteris arguta => 19,27,28	Dryopteris expansa => 19,27,29	Dryopteris filix-mas => 19,27,30	
-
-ISOETACEAE
-ISOETES	
-
-PILULARIA
-Pilularia americana => 66,70,71	
-
-ALTERNANTHERA
-Alternanthera caracasana => 290,291,292	Alternanthera philoxeroides => 290,291,293	
 
 SCHINUS
 Schinus molle => 315,324,325	Schinus terebinthifolius => 315,324,326	
@@ -2602,17 +1972,8 @@ Schinus molle => 315,324,325	Schinus terebinthifolius => 315,324,326
 ASCLEPIAS
 Asclepias albicans => 583,586,587	Asclepias asperula => 583,586,0,588	Asclepias asperula subsp. asperula => 583,586,0,588	Asclepias californica => 583,586,589	Asclepias cordifolia => 583,586,590	Asclepias cryptoceras => 583,586,591	Asclepias curassavica => 583,586,592	Asclepias eriocarpa => 583,586,593	Asclepias erosa => 583,586,594	Asclepias fascicularis => 583,586,595	Asclepias linaria => 583,586,596	Asclepias nyctaginifolia => 583,586,597	Asclepias solanoana => 583,586,598	Asclepias speciosa => 583,586,599	Asclepias subulata => 583,586,600	Asclepias vestita => 583,586,601	
 
-BAHIA
-Bahia dissecta => 609,793,794	
-
 BALSAMORHIZA
 Balsamorhiza deltoidea => 609,799,800	Balsamorhiza hirsuta => 609,799,801	Balsamorhiza hookeri => 609,799,0,802	Balsamorhiza hookeri var. lanata => 609,799,0,802	Balsamorhiza macrolepis => 609,799,803	Balsamorhiza macrolepis var. macrolepis => 609,799,803,804	Balsamorhiza macrolepis var. platylepis => 609,799,803,805	Balsamorhiza sagittata => 609,799,806	Balsamorhiza sericea => 609,799,807	Balsamorhiza serrata => 609,799,808	
-
-CACALIOPSIS
-Cacaliopsis nardosmia => 609,849,850	
-
-GRINDELIA
-Grindelia camporum => 609,1255,1256	Grindelia camporum var. bracteosa => 609,1255,1256,1257	Grindelia camporum var. camporum => 609,1255,1256,1258	Grindelia fraxino-pratensis => 609,1255,1259	Grindelia hirsutula => 609,1255,1260	Grindelia hirsutula var. davyi => 609,1255,1260,1261	Grindelia hirsutula var. hallii => 609,1255,1260,1262	Grindelia hirsutula var. hirsutula => 609,1255,1260,1263	Grindelia hirsutula var. maritima => 609,1255,1260,1264	Grindelia nana => 609,1255,1265	Grindelia squarrosa => 609,1255,0,1266	Grindelia squarrosa var. serrulata => 609,1255,0,1266	Grindelia stricta => 609,1255,1267	Grindelia stricta var. angustifolia => 609,1255,1267,1268	Grindelia stricta var. platyphylla => 609,1255,1267,1269	Grindelia stricta var. stricta => 609,1255,1267,1270	
 
 HOLOCARPHA
 Holocarpha heermannii => 609,1403,1404	Holocarpha macradenia => 609,1403,1405	Holocarpha obconica => 609,1403,1406	Holocarpha virgata => 609,1403,1407	Holocarpha virgata subsp. elongata => 609,1403,1407,1408	Holocarpha virgata subsp. virgata => 609,1403,1407,1409	
@@ -2623,29 +1984,11 @@ Lepidospartum latisquamum => 609,1527,1528	Lepidospartum squamatum => 609,1527,1
 VERBESINA
 Verbesina dissita => 609,1959,1960	Verbesina encelioides => 609,1959,0,1961	Verbesina encelioides subsp. exauriculata => 609,1959,0,1961	
 
-ECHIUM
-Echium candicans => 2030,2114,2115	Echium plantagineum => 2030,2114,2116	
-
-LYROCARPA
-Lyrocarpa coulteri => 2240,2561,0,2562	Lyrocarpa coulteri var. palmeri => 2240,2561,0,2562	
-
 MALCOLMIA
 Malcolmia africana => 2240,2563,2564	
 
 WISLIZENIA
 Wislizenia refracta => 2852,2869,2870	Wislizenia refracta subsp. californica => 2852,2869,2870,2871	Wislizenia refracta subsp. palmeri => 2852,2869,2870,2872	Wislizenia refracta subsp. refracta => 2852,2869,2870,2873	
-
-COLUTEA
-Colutea arborescens => 3691,3894,3895	
-
-SARRACENIA
-Sarracenia purpurea => 7080,7083,7084	
-
-SAXIFRAGOPSIS
-Saxifragopsis fragarioides => 7088,7165,7166	
-
-ULMACEAE
-CELTIS	ULMUS	
 
 VERBENA
 Verbena bonariensis => 7773,7786,7787	Verbena bracteata => 7773,7786,7788	Verbena californica => 7773,7786,7789	Verbena gooddingii => 7773,7786,7790	Verbena hastata => 7773,7786,7791	Verbena lasiostachys => 7773,7786,7792	Verbena lasiostachys var. lasiostachys => 7773,7786,7792,7793	Verbena lasiostachys var. scabrida => 7773,7786,7792,7794	Verbena litoralis => 7773,7786,7795	Verbena menthifolia => 7773,7786,7796	Verbena scabra => 7773,7786,7797	Verbena tenuisecta => 7773,7786,7798	
@@ -2656,23 +1999,8 @@ Acorus calamus => 7901,7902,7903
 ROMULEA
 Romulea rosea => 8185,8220,0,8221	Romulea rosea var. australis => 8185,8220,0,8221	
 
-FRITILLARIA
-Fritillaria affinis => 8349,8560,8561	Fritillaria affinis var. affinis => 8349,8560,8561,8562	Fritillaria affinis var. tristulis => 8349,8560,8561,8563	Fritillaria agrestis => 8349,8560,8564	Fritillaria atropurpurea => 8349,8560,8565	Fritillaria biflora => 8349,8560,8566	Fritillaria biflora var. biflora => 8349,8560,8566,8567	Fritillaria biflora var. ineziana => 8349,8560,8566,8568	Fritillaria brandegeei => 8349,8560,8569	Fritillaria eastwoodiae => 8349,8560,8570	Fritillaria falcata => 8349,8560,8571	Fritillaria glauca => 8349,8560,8572	Fritillaria liliacea => 8349,8560,8573	Fritillaria micrantha => 8349,8560,8574	Fritillaria ojaiensis => 8349,8560,8575	Fritillaria pinetorum => 8349,8560,8576	Fritillaria pluriflora => 8349,8560,8577	Fritillaria pudica => 8349,8560,8578	Fritillaria purdyi => 8349,8560,8579	Fritillaria recurva => 8349,8560,8580	Fritillaria striata => 8349,8560,8581	Fritillaria viridea => 8349,8560,8582	
-
-AMPELODESMOS
-Ampelodesmos mauritanica => 8738,8801,8802	
-
 ANTHOXANTHUM
 Anthoxanthum aristatum => 8738,8806,8807	Anthoxanthum odoratum => 8738,8806,8808	
-
-CENCHRUS
-Cenchrus ciliaris => 8738,8899,8900	Cenchrus echinatus => 8738,8899,8901	Cenchrus incertus => 8738,8899,8902	Cenchrus longispinus => 8738,8899,8903	
-
-CRYPSIS
-Crypsis alopecuroides => 8738,8914,8915	Crypsis schoenoides => 8738,8914,8916	Crypsis vaginiflora => 8738,8914,8917	
-
-HETERANTHERA
-Heteranthera dubia => 9345,9348,9349	Heteranthera limosa => 9345,9348,9350	
 
 TORILIS
 Torilis arvensis => 329,548,549	Torilis nodosa => 329,548,550	
@@ -4284,4 +3612,676 @@ Sparaxis grandiflora => 8185,8232,8233	Sparaxis tricolor => 8185,8232,8234
 
 PANICUM
 Panicum acuminatum => 8738,9153,9154	Panicum acuminatum var. acuminatum => 8738,9153,9154,9155	Panicum acuminatum var. lindheimeri => 8738,9153,9154,9156	Panicum antidotale => 8738,9153,9157	Panicum capillare => 8738,9153,9158	Panicum dichotomiflorum => 8738,9153,9159	Panicum hillmanii => 8738,9153,9160	Panicum hirticaule => 8738,9153,9161	Panicum miliaceum => 8738,9153,9162	Panicum oligosanthes => 8738,9153,0,9163	Panicum oligosanthes var. scribnerianum => 8738,9153,0,9163	Panicum urvilleanum => 8738,9153,9164	
+
+CARPOBROTUS
+Carpobrotus chilensis => 265,268,269	Carpobrotus edulis => 265,268,270	
+
+CARTHAMUS
+Carthamus baeticus => 609,872,873	Carthamus lanatus => 609,872,874	Carthamus leucocaulos => 609,872,875	Carthamus tinctorius => 609,872,876	
+
+EMPETRACEAE
+EMPETRUM	
+
+GAULTHERIA
+Gaultheria humifusa => 3449,3561,3562	Gaultheria ovatifolia => 3449,3561,3563	Gaultheria shallon => 3449,3561,3564	
+
+MERCURIALIS
+Mercurialis annua => 3618,3677,3678	
+
+PHASEOLUS
+Phaseolus filiformis => 3691,4171,4172	
+
+ESCHSCHOLZIA
+Eschscholzia caespitosa => 5547,5568,5569	Eschscholzia californica => 5547,5568,5570	Eschscholzia glyptosperma => 5547,5568,5571	Eschscholzia hypecoides => 5547,5568,5572	Eschscholzia lemmonii => 5547,5568,5573	Eschscholzia lemmonii subsp. kernensis => 5547,5568,5573,5574	Eschscholzia lemmonii subsp. lemmonii => 5547,5568,5573,5575	Eschscholzia lobbii => 5547,5568,5576	Eschscholzia minutiflora => 5547,5568,5577	Eschscholzia parishii => 5547,5568,5578	Eschscholzia ramosa => 5547,5568,5579	Eschscholzia rhombipetala => 5547,5568,5580	
+
+POLEMONIACEAE
+ALLOPHYLLUM	COLLOMIA	ERIASTRUM	GILIA	GYMNOSTERIS	IPOMOPSIS	LANGLOISIA	LEPTODACTYLON	LINANTHUS	LOESELIASTRUM	NAVARRETIA	PHLOX	POLEMONIUM	
+
+ALOYSIA
+Aloysia wrightii => 7773,7774,7775	
+
+AGROSTIS
+Agrostis avenacea => 8738,8766,8767	Agrostis blasdalei => 8738,8766,8768	Agrostis capillaris => 8738,8766,8769	Agrostis densiflora => 8738,8766,8770	Agrostis elliottiana => 8738,8766,8771	Agrostis exarata => 8738,8766,8772	Agrostis gigantea => 8738,8766,8773	Agrostis hallii => 8738,8766,8774	Agrostis hendersonii => 8738,8766,8775	Agrostis hooveri => 8738,8766,8776	Agrostis humilis => 8738,8766,8777	Agrostis idahoensis => 8738,8766,8778	Agrostis microphylla => 8738,8766,8779	Agrostis oregonensis => 8738,8766,8780	Agrostis pallens => 8738,8766,8781	Agrostis scabra => 8738,8766,8782	Agrostis semiverticillata => 8738,8766,8783	Agrostis stolonifera => 8738,8766,8784	Agrostis tandilensis => 8738,8766,8785	Agrostis thurberiana => 8738,8766,8786	Agrostis variabilis => 8738,8766,8787	
+
+PLEUROPOGON
+Pleuropogon californicus => 8738,9203,9204	Pleuropogon hooverianus => 8738,9203,9205	Pleuropogon refractus => 8738,9203,9206	
+
+FOENICULUM
+Foeniculum vulgare => 329,407,408	
+
+LEMBERTIA
+Lembertia congdonii => 609,1521,1522	
+
+ARABIDOPSIS
+Arabidopsis thaliana => 2240,2248,2249	
+
+MENZIESIA
+Menziesia ferruginea => 3449,3575,3576	
+
+HYPTIS
+Hyptis emoryi => 4745,4761,4762	
+
+LYCOPUS
+Lycopus americanus => 4745,4771,4772	Lycopus asper => 4745,4771,4773	Lycopus uniflorus => 4745,4771,4774	
+
+PHYSOCARPUS
+Physocarpus alternans => 6677,6821,6822	Physocarpus capitatus => 6677,6821,6823	
+
+CLADIUM
+Cladium californicum => 7928,8082,8083	
+
+AMBROSIA
+Ambrosia acanthicarpa => 609,648,649	Ambrosia ambrosioides => 609,648,650	Ambrosia artemisiifolia => 609,648,651	Ambrosia chamissonis => 609,648,652	Ambrosia chenopodiifolia => 609,648,653	Ambrosia confertiflora => 609,648,654	Ambrosia dumosa => 609,648,655	Ambrosia eriocentra => 609,648,656	Ambrosia ilicifolia => 609,648,657	Ambrosia psilostachya => 609,648,658	Ambrosia pumila => 609,648,659	Ambrosia trifida => 609,648,660	
+
+ATRICHOSERIS
+Atrichoseris platyphylla => 609,779,780	
+
+PLEURICOSPORA
+Pleuricospora fimbriolata => 3449,3591,3592	
+
+DRAPERIA
+Draperia systyla => 4518,4519,4520	
+
+GAURA
+Gaura coccinea => 5263,5448,5449	Gaura drummondii => 5263,5448,5450	Gaura parviflora => 5263,5448,5451	Gaura sinuata => 5263,5448,5452	
+
+APONOGETON
+Aponogeton distachyon => 7898,7899,7900	
+
+ELEUSINE
+Eleusine indica => 8738,8961,8962	Eleusine tristachya => 8738,8961,8963	
+
+ESCOBARIA
+Escobaria vivipara => 2702,2712,2713	Escobaria vivipara var. alversonii => 2702,2712,2713,2714	Escobaria vivipara var. deserti => 2702,2712,2713,2715	Escobaria vivipara var. rosea => 2702,2712,2713,2716	
+
+CITRULLUS
+Citrullus colocynthis => 3375,3380,0,3381	Citrullus colocynthis var. lanatus => 3375,3380,0,3381	
+
+CALLIANDRA
+Calliandra eriophylla => 3691,3883,3884	
+
+THALICTRUM
+Thalictrum alpinum => 6434,6569,6570	Thalictrum fendleri => 6434,6569,6571	Thalictrum fendleri var. fendleri => 6434,6569,6571,6572	Thalictrum fendleri var. polycarpum => 6434,6569,6571,6573	Thalictrum occidentale => 6434,6569,6574	Thalictrum sparsiflorum => 6434,6569,6575	
+
+FIMBRISTYLIS
+Fimbristylis miliacea => 7928,8126,8127	Fimbristylis thermalis => 7928,8126,8128	Fimbristylis vahlii => 7928,8126,8129	
+
+FREESIA
+Freesia alba => 8185,8190,8191	
+
+DICHELOSTEMMA
+Dichelostemma capitatum => 8349,8535,8536	Dichelostemma capitatum subsp. capitatum => 8349,8535,8536,8537	Dichelostemma capitatum subsp. pauciflorum => 8349,8535,8536,8538	Dichelostemma congestum => 8349,8535,8539	Dichelostemma ida-maia => 8349,8535,8540	Dichelostemma multiflorum => 8349,8535,8541	Dichelostemma volubile => 8349,8535,8542	
+
+ACERACEAE
+ACER	
+
+ARGYRANTHEMUM
+Argyranthemum foeniculaceum => 609,699,700	
+
+BRASSICA
+Brassica juncea => 2240,2329,2330	Brassica napus => 2240,2329,2331	Brassica nigra => 2240,2329,2332	Brassica rapa => 2240,2329,2333	Brassica tournefortii => 2240,2329,2334	
+
+HIRSCHFELDIA
+Hirschfeldia incana => 2240,2496,2497	
+
+CALYCANTHACEAE
+CALYCANTHUS	
+
+DIANTHUS
+Dianthus armeria => 2907,2939,0,2940	Dianthus armeria subsp. armeria => 2907,2939,0,2940	Dianthus barbatus => 2907,2939,0,2941	Dianthus barbatus subsp. barbatus => 2907,2939,0,2941	Dianthus deltoides => 2907,2939,0,2942	Dianthus deltoides subsp. deltoides => 2907,2939,0,2942	
+
+SESBANIA
+Sesbania exaltata => 3691,4210,4211	
+
+ULEX
+Ulex europaeus => 3691,4294,4295	
+
+VICIA
+Vicia americana => 3691,4296,0,4297	Vicia americana var. americana => 3691,4296,0,4297	Vicia benghalensis => 3691,4296,4298	Vicia cracca => 3691,4296,4299	Vicia disperma => 3691,4296,4300	Vicia faba => 3691,4296,4301	Vicia gigantea => 3691,4296,4302	Vicia hassei => 3691,4296,4303	Vicia hirsuta => 3691,4296,4304	Vicia lathyroides => 3691,4296,4305	Vicia ludoviciana => 3691,4296,0,4306	Vicia ludoviciana var. ludoviciana => 3691,4296,0,4306	Vicia lutea => 3691,4296,4307	Vicia pannonica => 3691,4296,4308	Vicia sativa => 3691,4296,4309	Vicia sativa subsp. nigra => 3691,4296,4309,4310	Vicia sativa subsp. sativa => 3691,4296,4309,4311	Vicia tetrasperma => 3691,4296,4312	Vicia villosa => 3691,4296,4313	Vicia villosa subsp. varia => 3691,4296,4313,4314	Vicia villosa subsp. villosa => 3691,4296,4313,4315	
+
+SYSTENOTHECA
+Systenotheca vortriedei => 5936,6316,6317	
+
+MAURANDYA
+Maurandya antirrhiniflora => 7177,7383,0,7384	Maurandya antirrhiniflora subsp. antirrhiniflora => 7177,7383,0,7384	Maurandya petrophila => 7177,7383,7385	
+
+ALLIUM
+Allium abramsii => 8349,8354,8355	Allium acuminatum => 8349,8354,8356	Allium amplectens => 8349,8354,8357	Allium anceps => 8349,8354,8358	Allium atrorubens => 8349,8354,8359	Allium atrorubens var. atrorubens => 8349,8354,8359,8360	Allium atrorubens var. cristatum => 8349,8354,8359,8361	Allium bisceptrum => 8349,8354,0,8362	Allium bisceptrum var. bisceptrum => 8349,8354,0,8362	Allium bolanderi => 8349,8354,8363	Allium bolanderi var. bolanderi => 8349,8354,8363,8364	Allium bolanderi var. mirabile => 8349,8354,8363,8365	Allium burlewii => 8349,8354,8366	Allium campanulatum => 8349,8354,8367	Allium cratericola => 8349,8354,8368	Allium crispum => 8349,8354,8369	Allium denticulatum => 8349,8354,8370	Allium diabolense => 8349,8354,8371	Allium dichlamydeum => 8349,8354,8372	Allium falcifolium => 8349,8354,8373	Allium fimbriatum => 8349,8354,8374	Allium fimbriatum var. fimbriatum => 8349,8354,8374,8375	Allium fimbriatum var. mohavense => 8349,8354,8374,8376	Allium fimbriatum var. purdyi => 8349,8354,8374,8377	Allium haematochiton => 8349,8354,8378	Allium hickmanii => 8349,8354,8379	Allium hoffmanii => 8349,8354,8380	Allium howellii => 8349,8354,8381	Allium howellii var. clokeyi => 8349,8354,8381,8382	Allium howellii var. howellii => 8349,8354,8381,8383	Allium howellii var. sanbenitense => 8349,8354,8381,8384	Allium hyalinum => 8349,8354,8385	Allium jepsonii => 8349,8354,8386	Allium lacunosum => 8349,8354,8387	Allium lacunosum var. davisiae => 8349,8354,8387,8388	Allium lacunosum var. kernense => 8349,8354,8387,8389	Allium lacunosum var. lacunosum => 8349,8354,8387,8390	Allium lacunosum var. micranthum => 8349,8354,8387,8391	Allium lemmonii => 8349,8354,8392	Allium membranaceum => 8349,8354,8393	Allium monticola => 8349,8354,8394	Allium munzii => 8349,8354,8395	Allium neapolitanum => 8349,8354,8396	Allium nevadense => 8349,8354,8397	Allium obtusum => 8349,8354,8398	Allium obtusum var. conspicuum => 8349,8354,8398,8399	Allium obtusum var. obtusum => 8349,8354,8398,8400	Allium paniculatum => 8349,8354,0,8401	Allium paniculatum var. paniculatum => 8349,8354,0,8401	Allium parishii => 8349,8354,8402	Allium parryi => 8349,8354,8403	Allium parvum => 8349,8354,8404	Allium peninsulare => 8349,8354,8405	Allium peninsulare var. franciscanum => 8349,8354,8405,8406	Allium peninsulare var. peninsulare => 8349,8354,8405,8407	Allium platycaule => 8349,8354,8408	Allium praecox => 8349,8354,8409	Allium punctum => 8349,8354,8410	Allium sanbornii => 8349,8354,8411	Allium sanbornii var. congdonii => 8349,8354,8411,8412	Allium sanbornii var. sanbornii => 8349,8354,8411,8413	Allium serra => 8349,8354,8414	Allium sharsmithiae => 8349,8354,8415	Allium shevockii => 8349,8354,8416	Allium siskiyouense => 8349,8354,8417	Allium tolmiei => 8349,8354,0,8418	Allium tolmiei var. tolmiei => 8349,8354,0,8418	Allium tribracteatum => 8349,8354,8419	Allium triquetrum => 8349,8354,8420	Allium tuolumnense => 8349,8354,8421	Allium unifolium => 8349,8354,8422	Allium validum => 8349,8354,8423	Allium vineale => 8349,8354,8424	Allium yosemitense => 8349,8354,8425	
+
+LEUCOCRINUM
+Leucocrinum montanum => 8349,8590,8591	
+
+POA
+Poa annua => 8738,9207,9208	Poa atropurpurea => 8738,9207,9209	Poa bigelovii => 8738,9207,9210	Poa bolanderi => 8738,9207,9211	Poa bulbosa => 8738,9207,9212	Poa compressa => 8738,9207,9213	Poa confinis => 8738,9207,9214	Poa cusickii => 8738,9207,9215	Poa cusickii subsp. cusickii => 8738,9207,9215,9216	Poa cusickii subsp. epilis => 8738,9207,9215,9217	Poa cusickii subsp. pallida => 8738,9207,9215,9218	Poa cusickii subsp. purpurascens => 8738,9207,9215,9219	Poa douglasii => 8738,9207,9220	Poa fendleriana => 8738,9207,0,9221	Poa fendleriana subsp. longiligula => 8738,9207,0,9221	Poa glauca => 8738,9207,0,9222	Poa glauca subsp. rupicola => 8738,9207,0,9222	Poa howellii => 8738,9207,9223	Poa infirma => 8738,9207,9224	Poa keckii => 8738,9207,9225	Poa kelloggii => 8738,9207,9226	Poa leptocoma => 8738,9207,0,9227	Poa leptocoma subsp. leptocoma => 8738,9207,0,9227	Poa lettermanii => 8738,9207,9228	Poa macrantha => 8738,9207,9229	Poa napensis => 8738,9207,9230	Poa nemoralis => 8738,9207,9231	Poa palustris => 8738,9207,9232	Poa pattersonii => 8738,9207,9233	Poa piperi => 8738,9207,9234	Poa pratensis => 8738,9207,0,9235	Poa pratensis subsp. pratensis => 8738,9207,0,9235	Poa pringlei => 8738,9207,9236	Poa rhizomata => 8738,9207,9237	Poa secunda => 8738,9207,9238	Poa secunda subsp. juncifolia => 8738,9207,9238,9239	Poa secunda subsp. secunda => 8738,9207,9238,9240	Poa sierrae => 8738,9207,9241	Poa stebbinsii => 8738,9207,9242	Poa tenerrima => 8738,9207,9243	Poa trivialis => 8738,9207,9244	Poa unilateralis => 8738,9207,9245	Poa wheeleri => 8738,9207,9246	
+
+ASPLENIACEAE
+ASPLENIUM	
+
+DAUCUS
+Daucus carota => 329,389,390	Daucus pusillus => 329,389,391	
+
+LAGOPHYLLA
+Lagophylla dichotoma => 609,1474,1475	Lagophylla glandulosa => 609,1474,1476	Lagophylla minor => 609,1474,1477	Lagophylla ramosissima => 609,1474,1478	Lagophylla ramosissima subsp. congesta => 609,1474,1478,1479	Lagophylla ramosissima subsp. ramosissima => 609,1474,1478,1480	
+
+PEUCEPHYLLUM
+Peucephyllum schottii => 609,1695,1696	
+
+CARDARIA
+Cardaria chalepensis => 2240,2367,2368	Cardaria draba => 2240,2367,2369	Cardaria pubescens => 2240,2367,2370	
+
+POLYCTENIUM
+Polyctenium fremontii => 2240,2571,2572	Polyctenium fremontii var. confertum => 2240,2571,2572,2573	Polyctenium fremontii var. fremontii => 2240,2571,2572,2574	
+
+BUDDLEJA
+Buddleja davidii => 2691,2692,2693	Buddleja saligna => 2691,2692,2694	Buddleja utahensis => 2691,2692,2695	
+
+CERCIS
+Cercis occidentalis => 3691,3890,3891	
+
+TRIFOLIUM
+Trifolium albopurpureum => 3691,4222,4223	Trifolium albopurpureum var. albopurpureum => 3691,4222,4223,4224	Trifolium albopurpureum var. dichotomum => 3691,4222,4223,4225	Trifolium albopurpureum var. olivaceum => 3691,4222,4223,4226	Trifolium amoenum => 3691,4222,4227	Trifolium andersonii => 3691,4222,4228	Trifolium andersonii var. andersonii => 3691,4222,4228,4229	Trifolium andersonii var. beatleyae => 3691,4222,4228,4230	Trifolium angustifolium => 3691,4222,4231	Trifolium arvense => 3691,4222,4232	Trifolium aureum => 3691,4222,4233	Trifolium barbigerum => 3691,4222,4234	Trifolium barbigerum var. andrewsii => 3691,4222,4234,4235	Trifolium barbigerum var. barbigerum => 3691,4222,4234,4236	Trifolium beckwithii => 3691,4222,4237	Trifolium bifidum => 3691,4222,4238	Trifolium bifidum var. bifidum => 3691,4222,4238,4239	Trifolium bifidum var. decipiens => 3691,4222,4238,4240	Trifolium bolanderi => 3691,4222,4241	Trifolium breweri => 3691,4222,4242	Trifolium buckwestiorum => 3691,4222,4243	Trifolium campestre => 3691,4222,4244	Trifolium ciliolatum => 3691,4222,4245	Trifolium cyathiferum => 3691,4222,4246	Trifolium depauperatum => 3691,4222,4247	Trifolium depauperatum var. amplectens => 3691,4222,4247,4248	Trifolium depauperatum var. depauperatum => 3691,4222,4247,4249	Trifolium depauperatum var. hydrophilum => 3691,4222,4247,4250	Trifolium depauperatum var. truncatum => 3691,4222,4247,4251	Trifolium dubium => 3691,4222,4252	Trifolium eriocephalum => 3691,4222,0,4253	Trifolium eriocephalum var. eriocephalum => 3691,4222,0,4253	Trifolium fragiferum => 3691,4222,4254	Trifolium fucatum => 3691,4222,4255	Trifolium glomeratum => 3691,4222,4256	Trifolium gracilentum => 3691,4222,4257	Trifolium gracilentum var. gracilentum => 3691,4222,4257,4258	Trifolium gracilentum var. palmeri => 3691,4222,4257,4259	Trifolium gymnocarpon => 3691,4222,0,4260	Trifolium gymnocarpon var. plummerae => 3691,4222,0,4260	Trifolium hirtum => 3691,4222,4261	Trifolium howellii => 3691,4222,4262	Trifolium hybridum => 3691,4222,4263	Trifolium incarnatum => 3691,4222,4264	Trifolium kingii => 3691,4222,0,4265	Trifolium kingii var. productum => 3691,4222,0,4265	Trifolium lemmonii => 3691,4222,4266	Trifolium longipes => 3691,4222,4267	Trifolium longipes var. elmeri => 3691,4222,4267,4268	Trifolium longipes var. nevadense => 3691,4222,4267,4269	Trifolium longipes var. oreganum => 3691,4222,4267,4270	Trifolium longipes var. shastense => 3691,4222,4267,4271	Trifolium macilentum => 3691,4222,0,4272	Trifolium macilentum var. dedeckerae => 3691,4222,0,4272	Trifolium macraei => 3691,4222,4273	Trifolium macrocephalum => 3691,4222,4274	Trifolium microcephalum => 3691,4222,4275	Trifolium microdon => 3691,4222,4276	Trifolium monanthum => 3691,4222,4277	Trifolium monanthum var. grantianum => 3691,4222,4277,4278	Trifolium monanthum var. monanthum => 3691,4222,4277,4279	Trifolium obtusiflorum => 3691,4222,4280	Trifolium oliganthum => 3691,4222,4281	Trifolium pratense => 3691,4222,4282	Trifolium repens => 3691,4222,4283	Trifolium subterraneum => 3691,4222,4284	Trifolium trichocalyx => 3691,4222,4285	Trifolium variegatum => 3691,4222,4286	Trifolium variegatum phase 1 => 3691,4222,4286,4287	Trifolium variegatum phase 2 => 3691,4222,4286,4288	Trifolium variegatum phase 3 => 3691,4222,4286,4289	Trifolium variegatum phase 4 => 3691,4222,4286,4290	Trifolium variegatum phase 5 => 3691,4222,4286,4291	Trifolium willdenovii => 3691,4222,4292	Trifolium wormskioldii => 3691,4222,4293	
+
+SCUTELLARIA
+Scutellaria antirrhinoides => 4745,4892,4893	Scutellaria bolanderi => 4745,4892,4894	Scutellaria bolanderi subsp. austromontana => 4745,4892,4894,4895	Scutellaria bolanderi subsp. bolanderi => 4745,4892,4894,4896	Scutellaria californica => 4745,4892,4897	Scutellaria galericulata => 4745,4892,4898	Scutellaria lateriflora => 4745,4892,4899	Scutellaria nana => 4745,4892,4900	Scutellaria siphocampyloides => 4745,4892,4901	Scutellaria tuberosa => 4745,4892,4902	
+
+ARMERIA
+Armeria maritima => 5645,5646,0,5647	Armeria maritima subsp. californica => 5645,5646,0,5647	
+
+DODECAHEMA
+Dodecahema leptoceras => 5936,5989,5990	
+
+TRIENTALIS
+Trientalis arctica => 6393,6425,6426	Trientalis latifolia => 6393,6425,6427	
+
+CONDALIA
+Condalia globosa => 6586,6656,0,6657	Condalia globosa var. pubescens => 6586,6656,0,6657	
+
+VERBENACEAE
+ALOYSIA	AVICENNIA	LANTANA	PHYLA	VERBENA	
+
+SPIRANTHES
+Spiranthes porrifolia => 8695,8735,8736	Spiranthes romanzoffiana => 8695,8735,8737	
+
+ARISTIDA
+Aristida adscensionis => 8738,8812,8813	Aristida californica => 8738,8812,0,8814	Aristida californica var. californica => 8738,8812,0,8814	Aristida divaricata => 8738,8812,8815	Aristida oligantha => 8738,8812,8816	Aristida purpurea => 8738,8812,8817	Aristida purpurea var. fendleriana => 8738,8812,8817,8818	Aristida purpurea var. longiseta => 8738,8812,8817,8819	Aristida purpurea var. nealleyi => 8738,8812,8817,8820	Aristida purpurea var. parishii => 8738,8812,8817,8821	Aristida purpurea var. purpurea => 8738,8812,8817,8822	Aristida purpurea var. wrightii => 8738,8812,8817,8823	Aristida ternipes => 8738,8812,0,8824	Aristida ternipes var. hamulosa => 8738,8812,0,8824	
+
+SANICULA
+Sanicula arctopoides => 329,519,520	Sanicula arguta => 329,519,521	Sanicula bipinnata => 329,519,522	Sanicula bipinnatifida => 329,519,523	Sanicula crassicaulis => 329,519,524	Sanicula graveolens => 329,519,525	Sanicula hoffmannii => 329,519,526	Sanicula laciniata => 329,519,527	Sanicula maritima => 329,519,528	Sanicula peckiana => 329,519,529	Sanicula saxatilis => 329,519,530	Sanicula tracyi => 329,519,531	Sanicula tuberosa => 329,519,532	
+
+EUTHAMIA
+Euthamia occidentalis => 609,1216,1217	
+
+RAFINESQUIA
+Rafinesquia californica => 609,1751,1752	Rafinesquia neomexicana => 609,1751,1753	
+
+CHILOPSIS
+Chilopsis linearis => 2027,2028,0,2029	Chilopsis linearis subsp. arcuata => 2027,2028,0,2029	
+
+LYCHNIS
+Lychnis coronaria => 2907,2957,2958	
+
+MELIACEAE
+MELIA	
+
+ALISMATACEAE
+ALISMA	DAMASONIUM	ECHINODORUS	SAGITTARIA	
+
+CALAMAGROSTIS
+Calamagrostis bolanderi => 8738,8886,8887	Calamagrostis breweri => 8738,8886,8888	Calamagrostis canadensis => 8738,8886,8889	Calamagrostis foliosa => 8738,8886,8890	Calamagrostis koelerioides => 8738,8886,8891	Calamagrostis nutkaensis => 8738,8886,8892	Calamagrostis ophitidis => 8738,8886,8893	Calamagrostis purpurascens => 8738,8886,8894	Calamagrostis rubescens => 8738,8886,8895	Calamagrostis stricta => 8738,8886,8896	Calamagrostis stricta subsp. inexpansa => 8738,8886,8896,8897	Calamagrostis stricta subsp. stricta => 8738,8886,8896,8898	
+
+HYMENOTHRIX
+Hymenothrix loomisii => 609,1438,1439	Hymenothrix wrightii => 609,1438,1440	
+
+OROCHAENACTIS
+Orochaenactis thysanocarpha => 609,1661,1662	
+
+TAGETES
+Tagetes erecta => 609,1901,1902	Tagetes minuta => 609,1901,1903	
+
+TROPIDOCARPUM
+Tropidocarpum capparideum => 2240,2688,2689	Tropidocarpum gracile => 2240,2688,2690	
+
+SCABIOSA
+Scabiosa atropurpurea => 3420,3424,3425	Scabiosa stellata => 3420,3424,3426	
+
+MONOTROPA
+Monotropa hypopithys => 3449,3579,3580	Monotropa uniflora => 3449,3579,3581	
+
+MACLURA
+Maclura pomifera => 5165,5168,5169	
+
+ANTIRRHINUM
+Antirrhinum cornutum => 7177,7178,7179	Antirrhinum coulterianum => 7177,7178,7180	Antirrhinum cyathiferum => 7177,7178,7181	Antirrhinum filipes => 7177,7178,7182	Antirrhinum kelloggii => 7177,7178,7183	Antirrhinum kingii => 7177,7178,7184	Antirrhinum leptaleum => 7177,7178,7185	Antirrhinum majus => 7177,7178,7186	Antirrhinum multiflorum => 7177,7178,7187	Antirrhinum nuttallianum => 7177,7178,7188	Antirrhinum nuttallianum subsp. nuttallianum => 7177,7178,7188,7189	Antirrhinum nuttallianum subsp. subsessile => 7177,7178,7188,7190	Antirrhinum orontium => 7177,7178,7191	Antirrhinum ovatum => 7177,7178,7192	Antirrhinum subcordatum => 7177,7178,7193	Antirrhinum vexillo-calyculatum => 7177,7178,7194	Antirrhinum vexillo-calyculatum subsp. breweri => 7177,7178,7194,7195	Antirrhinum vexillo-calyculatum subsp. intermedium => 7177,7178,7194,7196	Antirrhinum vexillo-calyculatum subsp. vexillo-calyculatum => 7177,7178,7194,7197	Antirrhinum virga => 7177,7178,7198	
+
+GUILLEMINEA
+Guilleminea densa => 290,310,0,311	Guilleminea densa var. aggregata => 290,310,0,311	
+
+ANETHUM
+Anethum graveolens => 329,335,336	
+
+CORIANDRUM
+Coriandrum sativum => 329,372,373	
+
+FILAGO
+Filago arizonica => 609,1218,1219	Filago californica => 609,1218,1220	Filago depressa => 609,1218,1221	Filago gallica => 609,1218,1222	Filago pyramidata => 609,1218,0,1223	Filago pyramidata var. pyramidata => 609,1218,0,1223	
+
+CAPPARACEAE
+CLEOME	CLEOMELLA	ISOMERIS	OXYSTYLIS	POLANISIA	WISLIZENIA	
+
+BERGIA
+Bergia texana => 3436,3437,3438	
+
+ERICACEAE
+ALLOTROPA	ARBUTUS	ARCTOSTAPHYLOS	CASSIOPE	CHIMAPHILA	COMAROSTAPHYLIS	ERICA	GAULTHERIA	HEMITOMES	KALMIA	LEDUM	LEUCOTHOE	MENZIESIA	MONESES	MONOTROPA	ORNITHOSTAPHYLOS	ORTHILIA	PHYLLODOCE	PITYOPUS	PLEURICOSPORA	PTEROSPORA	PYROLA	RHODODENDRON	SARCODES	VACCINIUM	XYLOCOCCUS	
+
+DITAXIS
+Ditaxis californica => 3618,3654,3655	Ditaxis claryana => 3618,3654,3656	Ditaxis lanceolata => 3618,3654,3657	Ditaxis neomexicana => 3618,3654,3658	Ditaxis serrata => 3618,3654,3659	
+
+CORTADERIA
+Cortaderia jubata => 8738,8911,8912	Cortaderia selloana => 8738,8911,8913	
+
+DROSANTHEMUM
+Drosanthemum floribundum => 265,277,278	
+
+PALAFOXIA
+Palafoxia arida => 609,1667,1668	Palafoxia arida var. arida => 609,1667,1668,1669	Palafoxia arida var. gigantea => 609,1667,1668,1670	
+
+MYOSOTIS
+Myosotis discolor => 2030,2156,2157	Myosotis latifolia => 2030,2156,2158	Myosotis laxa => 2030,2156,2159	Myosotis micrantha => 2030,2156,2160	Myosotis scorpioides => 2030,2156,2161	Myosotis verna => 2030,2156,2162	
+
+CAKILE
+Cakile edentula => 2240,2335,2336	Cakile maritima => 2240,2335,2337	
+
+PARISHELLA
+Parishella californica => 2770,2840,2841	
+
+CAMISSONIA
+Camissonia andina => 5263,5264,5265	Camissonia arenaria => 5263,5264,5266	Camissonia benitensis => 5263,5264,5267	Camissonia bistorta => 5263,5264,5268	Camissonia boothii => 5263,5264,5269	Camissonia boothii subsp. alyssoides => 5263,5264,5269,5270	Camissonia boothii subsp. boothii => 5263,5264,5269,5271	Camissonia boothii subsp. condensata => 5263,5264,5269,5272	Camissonia boothii subsp. decorticans => 5263,5264,5269,5273	Camissonia boothii subsp. desertorum => 5263,5264,5269,5274	Camissonia boothii subsp. intermedia => 5263,5264,5269,5275	Camissonia brevipes => 5263,5264,5276	Camissonia brevipes subsp. arizonica => 5263,5264,5276,5277	Camissonia brevipes subsp. brevipes => 5263,5264,5276,5278	Camissonia brevipes subsp. pallidula => 5263,5264,5276,5279	Camissonia californica => 5263,5264,5280	Camissonia campestris => 5263,5264,5281	Camissonia campestris subsp. campestris => 5263,5264,5281,5282	Camissonia campestris subsp. obispoensis => 5263,5264,5281,5283	Camissonia cardiophylla => 5263,5264,5284	Camissonia cardiophylla subsp. cardiophylla => 5263,5264,5284,5285	Camissonia cardiophylla subsp. robusta => 5263,5264,5284,5286	Camissonia chamaenerioides => 5263,5264,5287	Camissonia cheiranthifolia => 5263,5264,5288	Camissonia cheiranthifolia subsp. cheiranthifolia => 5263,5264,5288,5289	Camissonia cheiranthifolia subsp. suffruticosa => 5263,5264,5288,5290	Camissonia claviformis => 5263,5264,5291	Camissonia claviformis subsp. aurantiaca => 5263,5264,5291,5292	Camissonia claviformis subsp. claviformis => 5263,5264,5291,5293	Camissonia claviformis subsp. cruciformis => 5263,5264,5291,5294	Camissonia claviformis subsp. funerea => 5263,5264,5291,5295	Camissonia claviformis subsp. integrior => 5263,5264,5291,5296	Camissonia claviformis subsp. lancifolia => 5263,5264,5291,5297	Camissonia claviformis subsp. peirsonii => 5263,5264,5291,5298	Camissonia claviformis subsp. yumae => 5263,5264,5291,5299	Camissonia confusa => 5263,5264,5300	Camissonia contorta => 5263,5264,5301	Camissonia graciliflora => 5263,5264,5302	Camissonia guadalupensis => 5263,5264,0,5303	Camissonia guadalupensis subsp. clementina => 5263,5264,0,5303	Camissonia hardhamiae => 5263,5264,5304	Camissonia heterochroma => 5263,5264,5305	Camissonia hirtella => 5263,5264,5306	Camissonia ignota => 5263,5264,5307	Camissonia integrifolia => 5263,5264,5308	Camissonia intermedia => 5263,5264,5309	Camissonia kernensis => 5263,5264,5310	Camissonia kernensis subsp. gilmanii => 5263,5264,5310,5311	Camissonia kernensis subsp. kernensis => 5263,5264,5310,5312	Camissonia lacustris => 5263,5264,5313	Camissonia lewisii => 5263,5264,5314	Camissonia luciae => 5263,5264,5315	Camissonia micrantha => 5263,5264,5316	Camissonia minor => 5263,5264,5317	Camissonia munzii => 5263,5264,5318	Camissonia ovata => 5263,5264,5319	Camissonia pallida => 5263,5264,5320	Camissonia pallida subsp. hallii => 5263,5264,5320,5321	Camissonia pallida subsp. pallida => 5263,5264,5320,5322	Camissonia palmeri => 5263,5264,5323	Camissonia parvula => 5263,5264,5324	Camissonia pterosperma => 5263,5264,5325	Camissonia pubens => 5263,5264,5326	Camissonia pusilla => 5263,5264,5327	Camissonia refracta => 5263,5264,5328	Camissonia robusta => 5263,5264,5329	Camissonia sierrae => 5263,5264,5330	Camissonia sierrae subsp. alticola => 5263,5264,5330,5331	Camissonia sierrae subsp. sierrae => 5263,5264,5330,5332	Camissonia strigulosa => 5263,5264,5333	Camissonia subacaulis => 5263,5264,5334	Camissonia tanacetifolia => 5263,5264,5335	Camissonia tanacetifolia subsp. quadriperforata => 5263,5264,5335,5336	Camissonia tanacetifolia subsp. tanacetifolia => 5263,5264,5335,5337	Camissonia walkeri => 5263,5264,0,5338	Camissonia walkeri subsp. tortilis => 5263,5264,0,5338	
+
+CLARKIA
+Clarkia affinis => 5263,5341,5342	Clarkia amoena => 5263,5341,5343	Clarkia amoena subsp. amoena => 5263,5341,5343,5344	Clarkia amoena subsp. huntiana => 5263,5341,5343,5345	Clarkia amoena subsp. whitneyi => 5263,5341,5343,5346	Clarkia arcuata => 5263,5341,5347	Clarkia australis => 5263,5341,5348	Clarkia biloba => 5263,5341,5349	Clarkia biloba subsp. australis => 5263,5341,5349,5350	Clarkia biloba subsp. biloba => 5263,5341,5349,5351	Clarkia biloba subsp. brandegeeae => 5263,5341,5349,5352	Clarkia borealis => 5263,5341,5353	Clarkia borealis subsp. arida => 5263,5341,5353,5354	Clarkia borealis subsp. borealis => 5263,5341,5353,5355	Clarkia bottae => 5263,5341,5356	Clarkia breweri => 5263,5341,5357	Clarkia concinna => 5263,5341,5358	Clarkia concinna subsp. automixa => 5263,5341,5358,5359	Clarkia concinna subsp. concinna => 5263,5341,5358,5360	Clarkia concinna subsp. raichei => 5263,5341,5358,5361	Clarkia cylindrica => 5263,5341,5362	Clarkia cylindrica subsp. clavicarpa => 5263,5341,5362,5363	Clarkia cylindrica subsp. cylindrica => 5263,5341,5362,5364	Clarkia davyi => 5263,5341,5365	Clarkia delicata => 5263,5341,5366	Clarkia dudleyana => 5263,5341,5367	Clarkia epilobioides => 5263,5341,5368	Clarkia exilis => 5263,5341,5369	Clarkia franciscana => 5263,5341,5370	Clarkia gracilis => 5263,5341,5371	Clarkia gracilis subsp. albicaulis => 5263,5341,5371,5372	Clarkia gracilis subsp. gracilis => 5263,5341,5371,5373	Clarkia gracilis subsp. sonomensis => 5263,5341,5371,5374	Clarkia gracilis subsp. tracyi => 5263,5341,5371,5375	Clarkia heterandra => 5263,5341,5376	Clarkia imbricata => 5263,5341,5377	Clarkia jolonensis => 5263,5341,5378	Clarkia lassenensis => 5263,5341,5379	Clarkia lewisii => 5263,5341,5380	Clarkia lingulata => 5263,5341,5381	Clarkia mildrediae => 5263,5341,5382	Clarkia modesta => 5263,5341,5383	Clarkia mosquinii => 5263,5341,5384	Clarkia prostrata => 5263,5341,5385	Clarkia purpurea => 5263,5341,5386	Clarkia purpurea subsp. purpurea => 5263,5341,5386,5387	Clarkia purpurea subsp. quadrivulnera => 5263,5341,5386,5388	Clarkia purpurea subsp. viminea => 5263,5341,5386,5389	Clarkia rhomboidea => 5263,5341,5390	Clarkia rostrata => 5263,5341,5391	Clarkia rubicunda => 5263,5341,5392	Clarkia similis => 5263,5341,5393	Clarkia speciosa => 5263,5341,5394	Clarkia speciosa subsp. immaculata => 5263,5341,5394,5395	Clarkia speciosa subsp. nitens => 5263,5341,5394,5396	Clarkia speciosa subsp. polyantha => 5263,5341,5394,5397	Clarkia speciosa subsp. speciosa => 5263,5341,5394,5398	Clarkia springvillensis => 5263,5341,5399	Clarkia stellata => 5263,5341,5400	Clarkia tembloriensis => 5263,5341,5401	Clarkia tembloriensis subsp. calientensis => 5263,5341,5401,5402	Clarkia tembloriensis subsp. tembloriensis => 5263,5341,5401,5403	Clarkia unguiculata => 5263,5341,5404	Clarkia virgata => 5263,5341,5405	Clarkia williamsonii => 5263,5341,5406	Clarkia xantiana => 5263,5341,5407	Clarkia xantiana subsp. parviflora => 5263,5341,5407,5408	Clarkia xantiana subsp. xantiana => 5263,5341,5407,5409	
+
+EMEX
+Emex australis => 5936,5991,5992	Emex spinosa => 5936,5991,5993	
+
+CENTUNCULUS
+Centunculus minimus => 6393,6401,6402	
+
+MYOSURUS
+Myosurus apetalus => 6434,6522,6523	Myosurus cupulatus => 6434,6522,6524	Myosurus minimus => 6434,6522,6525	Myosurus sessilis => 6434,6522,6526	
+
+SIMAROUBACEAE
+AILANTHUS	CASTELA	
+
+LEERSIA
+Leersia oryzoides => 8738,9078,9079	
+
+OENOTHERA
+Oenothera biennis => 5263,5471,5472	Oenothera caespitosa => 5263,5471,5473	Oenothera caespitosa subsp. crinita => 5263,5471,5473,5474	Oenothera caespitosa subsp. marginata => 5263,5471,5473,5475	Oenothera californica => 5263,5471,5476	Oenothera californica subsp. avita => 5263,5471,5476,5477	Oenothera californica subsp. californica => 5263,5471,5476,5478	Oenothera californica subsp. eurekensis => 5263,5471,5476,5479	Oenothera deltoides => 5263,5471,5480	Oenothera deltoides subsp. cognata => 5263,5471,5480,5481	Oenothera deltoides subsp. deltoides => 5263,5471,5480,5482	Oenothera deltoides subsp. howellii => 5263,5471,5480,5483	Oenothera deltoides subsp. piperi => 5263,5471,5480,5484	Oenothera elata => 5263,5471,5485	Oenothera elata subsp. hirsutissima => 5263,5471,5485,5486	Oenothera elata subsp. hookeri => 5263,5471,5485,5487	Oenothera flava => 5263,5471,0,5488	Oenothera flava subsp. flava => 5263,5471,0,5488	Oenothera glazioviana => 5263,5471,5489	Oenothera laciniata => 5263,5471,5490	Oenothera longissima => 5263,5471,5491	Oenothera primiveris => 5263,5471,5492	Oenothera primiveris subsp. bufonis => 5263,5471,5492,5493	Oenothera primiveris subsp. primiveris => 5263,5471,5492,5494	Oenothera pubescens => 5263,5471,5495	Oenothera rosea => 5263,5471,5496	Oenothera speciosa => 5263,5471,5497	Oenothera stricta => 5263,5471,0,5498	Oenothera stricta subsp. stricta => 5263,5471,0,5498	Oenothera villosa => 5263,5471,0,5499	Oenothera villosa subsp. strigosa => 5263,5471,0,5499	Oenothera wolfii => 5263,5471,5500	Oenothera xylocarpa => 5263,5471,5501	
+
+ABIES
+Abies amabilis => 195,196,197	Abies bracteata => 195,196,198	Abies concolor => 195,196,199	Abies grandis => 195,196,200	Abies lasiocarpa => 195,196,0,201	Abies lasiocarpa var. lasiocarpa => 195,196,0,201	Abies magnifica => 195,196,202	Abies magnifica var. magnifica => 195,196,202,203	Abies magnifica var. shastensis => 195,196,202,204	Abies procera => 195,196,205	
+
+ERECHTITES
+Erechtites glomerata => 609,1077,1078	Erechtites hieraciifolia => 609,1077,0,1079	Erechtites hieraciifolia var. hieraciifolia => 609,1077,0,1079	Erechtites minima => 609,1077,1080	
+
+HEMIZONIA
+Hemizonia arida => 609,1326,1327	Hemizonia clementina => 609,1326,1328	Hemizonia congesta => 609,1326,1329	Hemizonia congesta subsp. calyculata => 609,1326,1329,1330	Hemizonia congesta subsp. clevelandii => 609,1326,1329,1331	Hemizonia congesta subsp. congesta => 609,1326,1329,1332	Hemizonia congesta subsp. leucocephala => 609,1326,1329,1333	Hemizonia congesta subsp. luzulifolia => 609,1326,1329,1334	Hemizonia congesta subsp. tracyi => 609,1326,1329,1335	Hemizonia conjugens => 609,1326,1336	Hemizonia corymbosa => 609,1326,1337	Hemizonia corymbosa subsp. corymbosa => 609,1326,1337,1338	Hemizonia corymbosa subsp. macrocephala => 609,1326,1337,1339	Hemizonia fasciculata => 609,1326,1340	Hemizonia fitchii => 609,1326,1341	Hemizonia floribunda => 609,1326,1342	Hemizonia halliana => 609,1326,1343	Hemizonia increscens => 609,1326,1344	Hemizonia increscens subsp. foliosa => 609,1326,1344,1345	Hemizonia increscens subsp. increscens => 609,1326,1344,1346	Hemizonia increscens subsp. villosa => 609,1326,1344,1347	Hemizonia kelloggii => 609,1326,1348	Hemizonia lobbii => 609,1326,1349	Hemizonia minthornii => 609,1326,1350	Hemizonia mohavensis => 609,1326,1351	Hemizonia pallida => 609,1326,1352	Hemizonia paniculata => 609,1326,1353	Hemizonia parryi => 609,1326,1354	Hemizonia parryi subsp. australis => 609,1326,1354,1355	Hemizonia parryi subsp. congdonii => 609,1326,1354,1356	Hemizonia parryi subsp. parryi => 609,1326,1354,1357	Hemizonia parryi subsp. rudis => 609,1326,1354,1358	Hemizonia pentactis => 609,1326,1359	Hemizonia pungens => 609,1326,1360	Hemizonia pungens subsp. laevis => 609,1326,1360,1361	Hemizonia pungens subsp. maritima => 609,1326,1360,1362	Hemizonia pungens subsp. pungens => 609,1326,1360,1363	Hemizonia pungens subsp. septentrionalis => 609,1326,1360,1364	
+
+PLEUROCORONIS
+Pleurocoronis pluriseta => 609,1701,1702	
+
+TEESDALIA
+Teesdalia coronopifolia => 2240,2666,2667	
+
+CUSCUTA
+Cuscuta approximata => 3397,3398,3399	Cuscuta californica => 3397,3398,3400	Cuscuta californica var. apiculata => 3397,3398,3400,3401	Cuscuta californica var. breviflora => 3397,3398,3400,3402	Cuscuta californica var. californica => 3397,3398,3400,3403	Cuscuta californica var. papillosa => 3397,3398,3400,3404	Cuscuta cephalanthi => 3397,3398,3405	Cuscuta denticulata => 3397,3398,3406	Cuscuta howelliana => 3397,3398,3407	Cuscuta indecora => 3397,3398,3408	Cuscuta indecora var. indecora => 3397,3398,3408,3409	Cuscuta indecora var. neuropetala => 3397,3398,3408,3410	Cuscuta pentagona => 3397,3398,3411	Cuscuta salina => 3397,3398,3412	Cuscuta salina var. major => 3397,3398,3412,3413	Cuscuta salina var. papillata => 3397,3398,3412,3414	Cuscuta salina var. salina => 3397,3398,3412,3415	Cuscuta subinclusa => 3397,3398,3416	
+
+GARRYA
+Garrya buxifolia => 4366,4367,4368	Garrya congdonii => 4366,4367,4369	Garrya elliptica => 4366,4367,4370	Garrya flavescens => 4366,4367,4371	Garrya fremontii => 4366,4367,4372	Garrya veatchii => 4366,4367,4373	
+
+EREMALCHE
+Eremalche exilis => 5042,5051,5052	Eremalche parryi => 5042,5051,5053	Eremalche parryi subsp. kernensis => 5042,5051,5053,5054	Eremalche parryi subsp. parryi => 5042,5051,5053,5055	Eremalche rotundifolia => 5042,5051,5056	
+
+VALERIANELLA
+Valerianella locusta => 7754,7771,7772	
+
+CAMASSIA
+Camassia quamash => 8349,8517,8518	Camassia quamash subsp. breviflora => 8349,8517,8518,8519	Camassia quamash subsp. quamash => 8349,8517,8518,8520	
+
+HETEROPOGON
+Heteropogon contortus => 8738,9046,9047	
+
+EPHEDRACEAE
+EPHEDRA	
+
+CICLOSPERMUM
+Ciclospermum leptophyllum => 329,361,362	
+
+HEDERA
+Hedera helix => 570,573,574	
+
+CNICUS
+Cnicus benedictus => 609,1000,1001	
+
+AILANTHUS
+Ailanthus altissima => 7617,7618,7619	
+
+LYCIUM
+Lycium andersonii => 7625,7636,7637	Lycium barbarum => 7625,7636,7638	Lycium brevipes => 7625,7636,7639	Lycium brevipes var. brevipes => 7625,7636,7639,7640	Lycium brevipes var. hassei => 7625,7636,7639,7641	Lycium californicum => 7625,7636,7642	Lycium cooperi => 7625,7636,7643	Lycium fremontii => 7625,7636,7644	Lycium pallidum => 7625,7636,0,7645	Lycium pallidum var. oligospermum => 7625,7636,0,7645	Lycium parishii => 7625,7636,7646	Lycium torreyi => 7625,7636,7647	Lycium verrucosum => 7625,7636,7648	
+
+VISCUM
+Viscum album => 7836,7860,7861	
+
+FESTUCA
+Festuca arundinacea => 8738,9015,9016	Festuca brachyphylla => 8738,9015,0,9017	Festuca brachyphylla subsp. coloradensis => 8738,9015,0,9017	Festuca californica => 8738,9015,9018	Festuca elmeri => 8738,9015,9019	Festuca idahoensis => 8738,9015,9020	Festuca kingii => 8738,9015,9021	Festuca minutiflora => 8738,9015,9022	Festuca occidentalis => 8738,9015,9023	Festuca pratensis => 8738,9015,9024	Festuca rubra => 8738,9015,9025	Festuca saximontana => 8738,9015,0,9026	Festuca saximontana var. purpusiana => 8738,9015,0,9026	Festuca subulata => 8738,9015,9027	Festuca subuliflora => 8738,9015,9028	Festuca trachyphylla => 8738,9015,9029	Festuca viridula => 8738,9015,9030	
+
+MELICA
+Melica aristata => 8738,9100,9101	Melica bulbosa => 8738,9100,9102	Melica californica => 8738,9100,9103	Melica frutescens => 8738,9100,9104	Melica fugax => 8738,9100,9105	Melica geyeri => 8738,9100,9106	Melica harfordii => 8738,9100,9107	Melica imperfecta => 8738,9100,9108	Melica spectabilis => 8738,9100,9109	Melica stricta => 8738,9100,9110	Melica subulata => 8738,9100,9111	Melica torreyana => 8738,9100,9112	
+
+MUHLENBERGIA
+Muhlenbergia andina => 8738,9117,9118	Muhlenbergia appressa => 8738,9117,9119	Muhlenbergia arsenei => 8738,9117,9120	Muhlenbergia asperifolia => 8738,9117,9121	Muhlenbergia californica => 8738,9117,9122	Muhlenbergia filiformis => 8738,9117,9123	Muhlenbergia fragilis => 8738,9117,9124	Muhlenbergia jonesii => 8738,9117,9125	Muhlenbergia mexicana => 8738,9117,9126	Muhlenbergia microsperma => 8738,9117,9127	Muhlenbergia minutissima => 8738,9117,9128	Muhlenbergia montana => 8738,9117,9129	Muhlenbergia pauciflora => 8738,9117,9130	Muhlenbergia porteri => 8738,9117,9131	Muhlenbergia richardsonis => 8738,9117,9132	Muhlenbergia rigens => 8738,9117,9133	Muhlenbergia schreberi => 8738,9117,9134	Muhlenbergia utilis => 8738,9117,9135	
+
+TANACETUM
+Tanacetum camphoratum => 609,1904,1905	Tanacetum parthenium => 609,1904,1906	Tanacetum vulgare => 609,1904,1907	
+
+AMSINCKIA
+Amsinckia douglasiana => 2030,2031,2032	Amsinckia eastwoodiae => 2030,2031,2033	Amsinckia grandiflora => 2030,2031,2034	Amsinckia lunaris => 2030,2031,2035	Amsinckia lycopsoides => 2030,2031,2036	Amsinckia menziesii => 2030,2031,2037	Amsinckia menziesii var. intermedia => 2030,2031,2037,2038	Amsinckia menziesii var. menziesii => 2030,2031,2037,2039	Amsinckia spectabilis => 2030,2031,2040	Amsinckia spectabilis var. microcarpa => 2030,2031,2040,2041	Amsinckia spectabilis var. spectabilis => 2030,2031,2040,2042	Amsinckia tessellata => 2030,2031,2043	Amsinckia tessellata var. gloriosa => 2030,2031,2043,2044	Amsinckia tessellata var. tessellata => 2030,2031,2043,2045	Amsinckia vernicosa => 2030,2031,2046	Amsinckia vernicosa var. furcata => 2030,2031,2046,2047	Amsinckia vernicosa var. vernicosa => 2030,2031,2046,2048	
+
+GITHOPSIS
+Githopsis diffusa => 2770,2803,2804	Githopsis diffusa subsp. candida => 2770,2803,2804,2805	Githopsis diffusa subsp. diffusa => 2770,2803,2804,2806	Githopsis diffusa subsp. filicaulis => 2770,2803,2804,2807	Githopsis diffusa subsp. robusta => 2770,2803,2804,2808	Githopsis pulchella => 2770,2803,2809	Githopsis pulchella subsp. campestris => 2770,2803,2809,2810	Githopsis pulchella subsp. pulchella => 2770,2803,2809,2811	Githopsis pulchella subsp. serpentinicola => 2770,2803,2809,2812	Githopsis specularioides => 2770,2803,2813	Githopsis tenella => 2770,2803,2814	
+
+RESEDACEAE
+OLIGOMERIS	RESEDA	
+
+APHANES
+Aphanes occidentalis => 6677,6691,6692	
+
+THAMNOSMA
+Thamnosma montana => 7029,7036,7037	
+
+TRIPHYSARIA
+Triphysaria eriantha => 7177,7585,7586	Triphysaria eriantha subsp. eriantha => 7177,7585,7586,7587	Triphysaria eriantha subsp. rosea => 7177,7585,7586,7588	Triphysaria floribunda => 7177,7585,7589	Triphysaria micrantha => 7177,7585,7590	Triphysaria pusilla => 7177,7585,7591	Triphysaria versicolor => 7177,7585,7592	Triphysaria versicolor subsp. faucibarbata => 7177,7585,7592,7593	Triphysaria versicolor subsp. versicolor => 7177,7585,7592,7594	
+
+SIMMONDSIA
+Simmondsia chinensis => 7622,7623,7624	
+
+ZYGOPHYLLUM
+Zygophyllum fabago => 7869,7881,7882	
+
+HYDROCHARITACEAE
+EGERIA	ELODEA	HYDRILLA	NAJAS	OTTELIA	
+
+HESPEROCALLIS
+Hesperocallis undulata => 8349,8586,8587	
+
+BOTHRIOCHLOA
+Bothriochloa barbinodis => 8738,8841,8842	Bothriochloa ischaemum => 8738,8841,0,8843	Bothriochloa ischaemum var. songarica => 8738,8841,0,8843	Bothriochloa laguroides => 8738,8841,0,8844	Bothriochloa laguroides subsp. torreyana => 8738,8841,0,8844	
+
+ERIOCHLOA
+Eriochloa acuminata => 8738,9008,0,9009	Eriochloa acuminata var. acuminata => 8738,9008,0,9009	Eriochloa aristata => 8738,9008,0,9010	Eriochloa aristata var. aristata => 8738,9008,0,9010	Eriochloa contracta => 8738,9008,9011	
+
+NOTHOLAENA
+Notholaena californica => 92,120,121	
+
+THELYPTERIDACEAE
+THELYPTERIS	
+
+TRIANTHEMA
+Trianthema portulacastrum => 265,288,289	
+
+GAZANIA
+Gazania linearis => 609,1232,1233	
+
+AUBRIETA
+Aubrieta deltoidea => 2240,2323,2324	
+
+SALICORNIA
+Salicornia bigelovii => 3084,3196,3197	Salicornia europaea => 3084,3196,3198	Salicornia subterminalis => 3084,3196,3199	Salicornia utahensis => 3084,3196,3200	Salicornia virginica => 3084,3196,3201	
+
+CISTUS
+Cistus creticus => 3215,3216,3217	Cistus ladanifer => 3215,3216,3218	Cistus monspeliensis => 3215,3216,3219	Cistus salviifolius => 3215,3216,3220	
+
+ACALYPHA
+Acalypha californica => 3618,3619,3620	
+
+PELARGONIUM
+Pelargonium × domesticum => 4416,4440,4441	Pelargonium grossularioides => 4416,4440,4442	Pelargonium × hortorum => 4416,4440,4443	Pelargonium inquinans => 4416,4440,4444	Pelargonium panduriforme => 4416,4440,4445	Pelargonium peltatum => 4416,4440,4446	Pelargonium quercifolium => 4416,4440,4447	Pelargonium vitifolium => 4416,4440,4448	Pelargonium zonale => 4416,4440,4449	
+
+MENTHA
+Mentha arvensis => 4745,4779,4780	Mentha × piperita => 4745,4779,4781	Mentha pulegium => 4745,4779,4782	Mentha spicata => 4745,4779,0,4783	Mentha spicata var. spicata => 4745,4779,0,4783	Mentha suaveolens => 4745,4779,4784	
+
+MOLUCCELLA
+Moluccella laevis => 4745,4785,4786	
+
+ANODA
+Anoda cristata => 5042,5049,5050	
+
+CENTRANTHUS
+Centranthus ruber => 7754,7755,7756	
+
+GASTRIDIUM
+Gastridium ventricosum => 8738,9031,9032	
+
+BLECHNUM
+Blechnum spicant => 11,12,13	
+
+OSMORHIZA
+Osmorhiza berteroi => 329,487,488	Osmorhiza brachypoda => 329,487,489	Osmorhiza depauperata => 329,487,490	Osmorhiza occidentalis => 329,487,491	Osmorhiza purpurea => 329,487,492	
+
+PLUCHEA
+Pluchea odorata => 609,1703,1704	Pluchea sericea => 609,1703,1705	
+
+CAMPANULA
+Campanula angustiflora => 2770,2771,2772	Campanula californica => 2770,2771,2773	Campanula exigua => 2770,2771,2774	Campanula griffinii => 2770,2771,2775	Campanula prenanthoides => 2770,2771,2776	Campanula rotundifolia => 2770,2771,2777	Campanula scabrella => 2770,2771,2778	Campanula scouleri => 2770,2771,2779	Campanula sharsmithiae => 2770,2771,2780	Campanula shetleri => 2770,2771,2781	Campanula wilkinsiana => 2770,2771,2782	
+
+BETA
+Beta vulgaris => 3084,3145,3146	
+
+ABUTILON
+Abutilon palmeri => 5042,5043,5044	Abutilon parvulum => 5042,5043,5045	Abutilon theophrasti => 5042,5043,5046	
+
+MYOPORUM
+Myoporum laetum => 5172,5173,5174	
+
+MIRABILIS
+Mirabilis alipes => 5194,5221,5222	Mirabilis bigelovii => 5194,5221,5223	Mirabilis bigelovii var. bigelovii => 5194,5221,5223,5224	Mirabilis bigelovii var. retrorsa => 5194,5221,5223,5225	Mirabilis californica => 5194,5221,5226	Mirabilis coccinea => 5194,5221,5227	Mirabilis greenei => 5194,5221,5228	Mirabilis jalapa => 5194,5221,5229	Mirabilis linearis => 5194,5221,0,5230	Mirabilis linearis var. linearis => 5194,5221,0,5230	Mirabilis multiflora => 5194,5221,5231	Mirabilis multiflora var. glandulosa => 5194,5221,5231,5232	Mirabilis multiflora var. pubescens => 5194,5221,5231,5233	Mirabilis nyctaginea => 5194,5221,5234	Mirabilis oblongifolia => 5194,5221,5235	Mirabilis pumila => 5194,5221,5236	Mirabilis tenuiloba => 5194,5221,5237	
+
+LEWISIA
+Lewisia brachycalyx => 6318,6362,6363	Lewisia cantelovii => 6318,6362,6364	Lewisia columbiana => 6318,6362,6365	Lewisia congdonii => 6318,6362,6366	Lewisia cotyledon => 6318,6362,6367	Lewisia cotyledon var. cotyledon => 6318,6362,6367,6368	Lewisia cotyledon var. heckneri => 6318,6362,6367,6369	Lewisia cotyledon var. howellii => 6318,6362,6367,6370	Lewisia disepala => 6318,6362,6371	Lewisia glandulosa => 6318,6362,6372	Lewisia kelloggii => 6318,6362,6373	Lewisia leana => 6318,6362,6374	Lewisia longipetala => 6318,6362,6375	Lewisia nevadensis => 6318,6362,6376	Lewisia oppositifolia => 6318,6362,6377	Lewisia pygmaea => 6318,6362,6378	Lewisia rediviva => 6318,6362,6379	Lewisia stebbinsii => 6318,6362,6380	Lewisia triphylla => 6318,6362,6381	
+
+TIARELLA
+Tiarella trifoliata => 7088,7171,7172	Tiarella trifoliata var. trifoliata => 7088,7171,7172,7173	Tiarella trifoliata var. unifoliata => 7088,7171,7172,7174	
+
+THYMELAEACEAE
+DIRCA	
+
+PISTIA
+Pistia stratiotes => 7901,7910,7911	
+
+HIEROCHLOE
+Hierochloe occidentalis => 8738,9048,9049	Hierochloe odorata => 8738,9048,9050	
+
+AQUIFOLIACEAE
+ILEX	
+
+RORIPPA
+Rorippa austriaca => 2240,2580,2581	Rorippa columbiae => 2240,2580,2582	Rorippa curvipes => 2240,2580,2583	Rorippa curvipes var. curvipes => 2240,2580,2583,2584	Rorippa curvipes var. truncata => 2240,2580,2583,2585	Rorippa curvisiliqua => 2240,2580,2586	Rorippa gambelii => 2240,2580,2587	Rorippa nasturtium-aquaticum => 2240,2580,2588	Rorippa palustris => 2240,2580,2589	Rorippa palustris var. hispida => 2240,2580,2589,2590	Rorippa palustris var. occidentalis => 2240,2580,2589,2591	Rorippa sinuata => 2240,2580,2592	Rorippa sphaerocarpa => 2240,2580,2593	Rorippa subumbellata => 2240,2580,2594	Rorippa tenerrima => 2240,2580,2595	
+
+STREPTANTHUS
+Streptanthus albidus => 2240,2621,2622	Streptanthus albidus subsp. albidus => 2240,2621,2622,2623	Streptanthus albidus subsp. peramoenus => 2240,2621,2622,2624	Streptanthus barbatus => 2240,2621,2625	Streptanthus barbiger => 2240,2621,2626	Streptanthus batrachopus => 2240,2621,2627	Streptanthus bernardinus => 2240,2621,2628	Streptanthus brachiatus => 2240,2621,2629	Streptanthus brachiatus subsp. brachiatus => 2240,2621,2629,2630	Streptanthus brachiatus subsp. hoffmanii => 2240,2621,2629,2631	Streptanthus breweri => 2240,2621,2632	Streptanthus breweri var. breweri => 2240,2621,2632,2633	Streptanthus breweri var. hesperidis => 2240,2621,2632,2634	Streptanthus callistus => 2240,2621,2635	Streptanthus campestris => 2240,2621,2636	Streptanthus cordatus => 2240,2621,2637	Streptanthus cordatus var. cordatus => 2240,2621,2637,2638	Streptanthus cordatus var. duranii => 2240,2621,2637,2639	Streptanthus cordatus var. piutensis => 2240,2621,2637,2640	Streptanthus diversifolius => 2240,2621,2641	Streptanthus drepanoides => 2240,2621,2642	Streptanthus farnsworthianus => 2240,2621,2643	Streptanthus fenestratus => 2240,2621,2644	Streptanthus glandulosus => 2240,2621,2645	Streptanthus glandulosus subsp. glandulosus => 2240,2621,2645,2646	Streptanthus glandulosus subsp. pulchellus => 2240,2621,2645,2647	Streptanthus glandulosus subsp. secundus => 2240,2621,2645,2648	Streptanthus gracilis => 2240,2621,2649	Streptanthus hispidus => 2240,2621,2650	Streptanthus howellii => 2240,2621,2651	Streptanthus insignis => 2240,2621,2652	Streptanthus insignis subsp. insignis => 2240,2621,2652,2653	Streptanthus insignis subsp. lyonii => 2240,2621,2652,2654	Streptanthus morrisonii => 2240,2621,2655	Streptanthus niger => 2240,2621,2656	Streptanthus oliganthus => 2240,2621,2657	Streptanthus polygaloides => 2240,2621,2658	Streptanthus tortuosus => 2240,2621,2659	Streptanthus tortuosus var. flavescens => 2240,2621,2659,2660	Streptanthus tortuosus var. orbiculatus => 2240,2621,2659,2661	Streptanthus tortuosus var. suffrutescens => 2240,2621,2659,2662	Streptanthus tortuosus var. tortuosus => 2240,2621,2659,2663	
+
+CARDIONEMA
+Cardionema ramosissimum => 2907,2931,2932	
+
+CHENOPODIUM
+Chenopodium album => 3084,3147,3148	Chenopodium ambrosioides => 3084,3147,3149	Chenopodium atrovirens => 3084,3147,3150	Chenopodium berlandieri => 3084,3147,3151	Chenopodium botrys => 3084,3147,3152	Chenopodium californicum => 3084,3147,3153	Chenopodium carnosulum => 3084,3147,0,3154	Chenopodium carnosulum var. patagonicum => 3084,3147,0,3154	Chenopodium chenopodioides => 3084,3147,3155	Chenopodium desiccatum => 3084,3147,3156	Chenopodium foliosum => 3084,3147,3157	Chenopodium fremontii => 3084,3147,3158	Chenopodium glaucum => 3084,3147,3159	Chenopodium hians => 3084,3147,3160	Chenopodium incanum => 3084,3147,0,3161	Chenopodium incanum var. occidentale => 3084,3147,0,3161	Chenopodium incognitum => 3084,3147,3162	Chenopodium leptophyllum => 3084,3147,3163	Chenopodium macrospermum => 3084,3147,0,3164	Chenopodium macrospermum var. halophilum => 3084,3147,0,3164	Chenopodium missouriense => 3084,3147,3165	Chenopodium multifidum => 3084,3147,3166	Chenopodium murale => 3084,3147,3167	Chenopodium nevadense => 3084,3147,3168	Chenopodium pratericola => 3084,3147,3169	Chenopodium pumilio => 3084,3147,3170	Chenopodium rubrum => 3084,3147,3171	Chenopodium simplex => 3084,3147,3172	Chenopodium strictum => 3084,3147,0,3173	Chenopodium strictum var. glaucophyllum => 3084,3147,0,3173	Chenopodium vulvaria => 3084,3147,3174	
+
+EUPHORBIA
+Euphorbia crenulata => 3618,3662,3663	Euphorbia dentata => 3618,3662,3664	Euphorbia eriantha => 3618,3662,3665	Euphorbia esula => 3618,3662,3666	Euphorbia exstipulata => 3618,3662,0,3667	Euphorbia exstipulata var. exstipulata => 3618,3662,0,3667	Euphorbia helioscopia => 3618,3662,3668	Euphorbia incisa => 3618,3662,3669	Euphorbia lathyris => 3618,3662,3670	Euphorbia misera => 3618,3662,3671	Euphorbia oblongata => 3618,3662,3672	Euphorbia palmeri => 3618,3662,3673	Euphorbia peplus => 3618,3662,3674	Euphorbia serrata => 3618,3662,3675	Euphorbia spathulata => 3618,3662,3676	
+
+HIPPOCASTANACEAE
+AESCULUS	
+
+AESCULUS
+Aesculus californica => 4512,4513,4514	
+
+MOLLUGO
+Mollugo cerviana => 5159,5162,5163	Mollugo verticillata => 5159,5162,5164	
+
+COLUBRINA
+Colubrina californica => 6586,6654,6655	
+
+HEUCHERA
+Heuchera abramsii => 7088,7101,7102	Heuchera brevistaminea => 7088,7101,7103	Heuchera cespitosa => 7088,7101,7104	Heuchera cylindrica => 7088,7101,0,7105	Heuchera cylindrica var. alpina => 7088,7101,0,7105	Heuchera elegans => 7088,7101,7106	Heuchera hirsutissima => 7088,7101,7107	Heuchera maxima => 7088,7101,7108	Heuchera merriamii => 7088,7101,7109	Heuchera micrantha => 7088,7101,7110	Heuchera parishii => 7088,7101,7111	Heuchera parvifolia => 7088,7101,7112	Heuchera pilosissima => 7088,7101,7113	Heuchera rubescens => 7088,7101,7114	Heuchera rubescens var. alpicola => 7088,7101,7114,7115	Heuchera rubescens var. glandulosa => 7088,7101,7114,7116	Heuchera rubescens var. rydbergiana => 7088,7101,7114,7117	Heuchera rubescens var. versicolor => 7088,7101,7114,7118	
+
+LANTANA
+Lantana camara => 7773,7778,7779	Lantana montevidensis => 7773,7778,7780	
+
+PELTANDRA
+Peltandra virginica => 7901,7908,7909	
+
+ANDROPOGON
+Andropogon glomeratus => 8738,8803,0,8804	Andropogon glomeratus var. scabriglumis => 8738,8803,0,8804	Andropogon virginicus => 8738,8803,0,8805	Andropogon virginicus var. virginicus => 8738,8803,0,8805	
+
+LAMARCKIA
+Lamarckia aurea => 8738,9076,9077	
+
+MARSILEACEAE
+MARSILEA	PILULARIA	
+
+BOTRYCHIUM
+Botrychium ascendens => 72,73,74	Botrychium crenulatum => 72,73,75	Botrychium lunaria => 72,73,76	Botrychium minganense => 72,73,77	Botrychium montanum => 72,73,78	Botrychium multifidum => 72,73,79	Botrychium pinnatum => 72,73,80	Botrychium simplex => 72,73,81	
+
+ACANTHACEAE
+CARLOWRIGHTIA	JUSTICIA	
+
+TARAXACUM
+Taraxacum californicum => 609,1908,1909	Taraxacum officinale => 609,1908,1910	
+
+HUTCHINSIA
+Hutchinsia procumbens => 2240,2498,2499	
+
+DROSERACEAE
+DROSERA	
+
+PHYTOLACCACEAE
+PHYTOLACCA	
+
+DEDECKERA
+Dedeckera eurekensis => 5936,5987,5988	
+
+ADONIS
+Adonis aestivalis => 6434,6439,6440	
+
+DIGITALIS
+Digitalis purpurea => 7177,7334,7335	
+
+URTICA
+Urtica dioica => 7736,7749,7750	Urtica dioica subsp. gracilis => 7736,7749,7750,7751	Urtica dioica subsp. holosericea => 7736,7749,7750,7752	Urtica urens => 7736,7749,7753	
+
+EPIPACTIS
+Epipactis gigantea => 8695,8709,8710	Epipactis helleborine => 8695,8709,8711	
+
+ELYTRIGIA
+Elytrigia elongata => 8738,8985,8986	Elytrigia intermedia => 8738,8985,0,8987	Elytrigia intermedia subsp. intermedia => 8738,8985,0,8987	Elytrigia juncea => 8738,8985,0,8988	Elytrigia juncea subsp. boreo-atlantica => 8738,8985,0,8988	Elytrigia pontica => 8738,8985,0,8989	Elytrigia pontica subsp. pontica => 8738,8985,0,8989	Elytrigia repens => 8738,8985,8990	
+
+HORDEUM
+Hordeum arizonicum => 8738,9054,9055	Hordeum brachyantherum => 8738,9054,9056	Hordeum brachyantherum subsp. brachyantherum => 8738,9054,9056,9057	Hordeum brachyantherum subsp. californicum => 8738,9054,9056,9058	Hordeum depressum => 8738,9054,9059	Hordeum intercedens => 8738,9054,9060	Hordeum jubatum => 8738,9054,9061	Hordeum marinum => 8738,9054,0,9062	Hordeum marinum subsp. gussoneanum => 8738,9054,0,9062	Hordeum murinum => 8738,9054,9063	Hordeum murinum subsp. glaucum => 8738,9054,9063,9064	Hordeum murinum subsp. leporinum => 8738,9054,9063,9065	Hordeum murinum subsp. murinum => 8738,9054,9063,9066	
+
+SPOROBOLUS
+Sporobolus airoides => 8738,9301,9302	Sporobolus contractus => 8738,9301,9303	Sporobolus cryptandrus => 8738,9301,9304	Sporobolus flexuosus => 8738,9301,9305	Sporobolus indicus => 8738,9301,9306	Sporobolus vaginiflorus => 8738,9301,9307	
+
+CUPRESSUS
+Cupressus abramsiana => 157,160,161	Cupressus arizonica => 157,160,162	Cupressus arizonica subsp. arizonica => 157,160,162,163	Cupressus arizonica subsp. nevadensis => 157,160,162,164	Cupressus bakeri => 157,160,165	Cupressus forbesii => 157,160,166	Cupressus goveniana => 157,160,167	Cupressus goveniana subsp. goveniana => 157,160,167,168	Cupressus goveniana subsp. pygmaea => 157,160,167,169	Cupressus lawsoniana => 157,160,170	Cupressus macnabiana => 157,160,171	Cupressus macrocarpa => 157,160,172	Cupressus nootkatensis => 157,160,173	Cupressus sargentii => 157,160,174	
+
+AMBLYOPAPPUS
+Amblyopappus pusillus => 609,646,647	
+
+CHAMAESYCE
+Chamaesyce abramsiana => 3618,3623,3624	Chamaesyce albomarginata => 3618,3623,3625	Chamaesyce arizonica => 3618,3623,3626	Chamaesyce fendleri => 3618,3623,3627	Chamaesyce glyptosperma => 3618,3623,3628	Chamaesyce hooveri => 3618,3623,3629	Chamaesyce maculata => 3618,3623,3630	Chamaesyce melanadenia => 3618,3623,3631	Chamaesyce micromera => 3618,3623,3632	Chamaesyce nutans => 3618,3623,3633	Chamaesyce ocellata => 3618,3623,3634	Chamaesyce ocellata subsp. arenicola => 3618,3623,3634,3635	Chamaesyce ocellata subsp. ocellata => 3618,3623,3634,3636	Chamaesyce ocellata subsp. rattanii => 3618,3623,3634,3637	Chamaesyce parishii => 3618,3623,3638	Chamaesyce parryi => 3618,3623,3639	Chamaesyce pediculifera => 3618,3623,3640	Chamaesyce platysperma => 3618,3623,3641	Chamaesyce polycarpa => 3618,3623,3642	Chamaesyce prostrata => 3618,3623,3643	Chamaesyce revoluta => 3618,3623,3644	Chamaesyce serpens => 3618,3623,3645	Chamaesyce serpyllifolia => 3618,3623,3646	Chamaesyce serpyllifolia subsp. hirtula => 3618,3623,3646,3647	Chamaesyce serpyllifolia subsp. serpyllifolia => 3618,3623,3646,3648	Chamaesyce setiloba => 3618,3623,3649	Chamaesyce vallis-mortae => 3618,3623,3650	
+
+POLYGALACEAE
+POLYGALA	
+
+TONELLA
+Tonella tenella => 7177,7583,7584	
+
+ORYCTES
+Oryctes nevadensis => 7625,7662,7663	
+
+YUCCA
+Yucca baccata => 8349,8681,8682	Yucca brevifolia => 8349,8681,8683	Yucca schidigera => 8349,8681,8684	Yucca whipplei => 8349,8681,8685	
+
+POLYPODIUM
+Polypodium californicum => 85,86,87	Polypodium calirhiza => 85,86,88	Polypodium glycyrrhiza => 85,86,89	Polypodium hesperium => 85,86,90	Polypodium scouleri => 85,86,91	
+
+CUCURBITACEAE
+BRANDEGEA	BRYONIA	CITRULLUS	CUCUMIS	CUCURBITA	MARAH	
+
+FABACEAE
+ACACIA	AESCHYNOMENE	ALBIZIA	ALHAGI	AMORPHA	ASTRAGALUS	CAESALPINIA	CALLIANDRA	CARAGANA	CERCIDIUM	CERCIS	CHAMAECYTISUS	COLUTEA	CYTISUS	DALEA	GENISTA	GLYCYRRHIZA	HALIMODENDRON	HOFFMANNSEGGIA	HOITA	LATHYRUS	LENS	LOTUS	LUPINUS	MARINA	MEDICAGO	MELILOTUS	OLNEYA	ONOBRYCHIS	ORNITHOPUS	OXYTROPIS	PARKINSONIA	PEDIOMELUM	PETERIA	PHASEOLUS	PICKERINGIA	PISUM	PROSOPIS	PSORALIDIUM	PSOROTHAMNUS	ROBINIA	RUPERTIA	SENNA	SESBANIA	SPARTIUM	SPHAEROPHYSA	THERMOPSIS	TRIFOLIUM	ULEX	VICIA	
+
+CAESALPINIA
+Caesalpinia gilliesii => 3691,3879,3880	Caesalpinia spinosa => 3691,3879,3881	Caesalpinia virgata => 3691,3879,3882	
+
+LIBERTIA
+Libertia formosa => 8185,8218,8219	
+
+LILIUM
+Lilium bolanderi => 8349,8592,8593	Lilium columbianum => 8349,8592,8594	Lilium humboldtii => 8349,8592,8595	Lilium humboldtii subsp. humboldtii => 8349,8592,8595,8596	Lilium humboldtii subsp. ocellatum => 8349,8592,8595,8597	Lilium kelleyanum => 8349,8592,8598	Lilium kelloggii => 8349,8592,8599	Lilium maritimum => 8349,8592,8600	Lilium occidentale => 8349,8592,8601	Lilium pardalinum => 8349,8592,8602	Lilium pardalinum subsp. pardalinum => 8349,8592,8602,8603	Lilium pardalinum subsp. pitkinense => 8349,8592,8602,8604	Lilium pardalinum subsp. shastense => 8349,8592,8602,8605	Lilium pardalinum subsp. vollmeri => 8349,8592,8602,8606	Lilium pardalinum subsp. wigginsii => 8349,8592,8602,8607	Lilium parryi => 8349,8592,8608	Lilium parvum => 8349,8592,8609	Lilium rubescens => 8349,8592,8610	Lilium washingtonianum => 8349,8592,8611	Lilium washingtonianum subsp. purpurascens => 8349,8592,8611,8612	Lilium washingtonianum subsp. washingtonianum => 8349,8592,8611,8613	
+
+DRYOPTERIS
+Dryopteris arguta => 19,27,28	Dryopteris expansa => 19,27,29	Dryopteris filix-mas => 19,27,30	
+
+ISOETACEAE
+ISOETES	
+
+PILULARIA
+Pilularia americana => 66,70,71	
+
+ALTERNANTHERA
+Alternanthera caracasana => 290,291,292	Alternanthera philoxeroides => 290,291,293	
+
+BAHIA
+Bahia dissecta => 609,793,794	
+
+CACALIOPSIS
+Cacaliopsis nardosmia => 609,849,850	
+
+GRINDELIA
+Grindelia camporum => 609,1255,1256	Grindelia camporum var. bracteosa => 609,1255,1256,1257	Grindelia camporum var. camporum => 609,1255,1256,1258	Grindelia fraxino-pratensis => 609,1255,1259	Grindelia hirsutula => 609,1255,1260	Grindelia hirsutula var. davyi => 609,1255,1260,1261	Grindelia hirsutula var. hallii => 609,1255,1260,1262	Grindelia hirsutula var. hirsutula => 609,1255,1260,1263	Grindelia hirsutula var. maritima => 609,1255,1260,1264	Grindelia nana => 609,1255,1265	Grindelia squarrosa => 609,1255,0,1266	Grindelia squarrosa var. serrulata => 609,1255,0,1266	Grindelia stricta => 609,1255,1267	Grindelia stricta var. angustifolia => 609,1255,1267,1268	Grindelia stricta var. platyphylla => 609,1255,1267,1269	Grindelia stricta var. stricta => 609,1255,1267,1270	
+
+ECHIUM
+Echium candicans => 2030,2114,2115	Echium plantagineum => 2030,2114,2116	
+
+LYROCARPA
+Lyrocarpa coulteri => 2240,2561,0,2562	Lyrocarpa coulteri var. palmeri => 2240,2561,0,2562	
+
+COLUTEA
+Colutea arborescens => 3691,3894,3895	
+
+SARRACENIA
+Sarracenia purpurea => 7080,7083,7084	
+
+SAXIFRAGOPSIS
+Saxifragopsis fragarioides => 7088,7165,7166	
+
+ULMACEAE
+CELTIS	ULMUS	
+
+FRITILLARIA
+Fritillaria affinis => 8349,8560,8561	Fritillaria affinis var. affinis => 8349,8560,8561,8562	Fritillaria affinis var. tristulis => 8349,8560,8561,8563	Fritillaria agrestis => 8349,8560,8564	Fritillaria atropurpurea => 8349,8560,8565	Fritillaria biflora => 8349,8560,8566	Fritillaria biflora var. biflora => 8349,8560,8566,8567	Fritillaria biflora var. ineziana => 8349,8560,8566,8568	Fritillaria brandegeei => 8349,8560,8569	Fritillaria eastwoodiae => 8349,8560,8570	Fritillaria falcata => 8349,8560,8571	Fritillaria glauca => 8349,8560,8572	Fritillaria liliacea => 8349,8560,8573	Fritillaria micrantha => 8349,8560,8574	Fritillaria ojaiensis => 8349,8560,8575	Fritillaria pinetorum => 8349,8560,8576	Fritillaria pluriflora => 8349,8560,8577	Fritillaria pudica => 8349,8560,8578	Fritillaria purdyi => 8349,8560,8579	Fritillaria recurva => 8349,8560,8580	Fritillaria striata => 8349,8560,8581	Fritillaria viridea => 8349,8560,8582	
+
+AMPELODESMOS
+Ampelodesmos mauritanica => 8738,8801,8802	
+
+CENCHRUS
+Cenchrus ciliaris => 8738,8899,8900	Cenchrus echinatus => 8738,8899,8901	Cenchrus incertus => 8738,8899,8902	Cenchrus longispinus => 8738,8899,8903	
+
+CRYPSIS
+Crypsis alopecuroides => 8738,8914,8915	Crypsis schoenoides => 8738,8914,8916	Crypsis vaginiflora => 8738,8914,8917	
+
+HETERANTHERA
+Heteranthera dubia => 9345,9348,9349	Heteranthera limosa => 9345,9348,9350	
 

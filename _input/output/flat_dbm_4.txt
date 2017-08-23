@@ -17,10 +17,13 @@ Delosperma
 10655
 
 Disphyma australe
-88108
+88122
 
 Angelica lineariloba
 13416
+
+Cycladenia humilis var. jonesii
+57257
 
 Arctotheca
 77538
@@ -82,6 +85,9 @@ Symphytum
 Tiquilia canescens var. pulchella
 67185
 
+Diplotaxis erucoides
+23130
+
 Draba lemmonii var. incrassata
 57878
 
@@ -109,8 +115,11 @@ Streptanthus tortuosus var. pallidus
 Parishella californica
 36263
 
+Lonicera hispidula var. californica
+61079
+
 Arenaria nuttallii subsp. gracilis
-88289
+81389
 
 Silene douglasii var. monantha
 44513
@@ -214,6 +223,12 @@ Scutellaria austiniae
 Sidalcea stipularis
 44439
 
+Mirabilis aspera
+33785
+
+Mirabilis glandulosa
+62094
+
 Oenothera heterochroma
 16917
 
@@ -245,7 +260,7 @@ Phlox speciosa subsp. nitida
 52246
 
 Acanthoscyphus parishii var. parishii
-88452
+88419
 
 Eriogonum agninum
 58498
@@ -302,7 +317,7 @@ Arceuthobium cyanocarpum
 13882
 
 Cyperus prolifer
-88558
+88507
 
 Scirpus pumilus
 76546
@@ -367,9 +382,6 @@ Gilia tenuiflora subsp. interior
 Godetia quadrivulnera var. davyi
 59617
 
-Mirabilis aspera
-33785
-
 Orthocarpus noctuinus
 78414
 
@@ -381,6 +393,9 @@ Potentilla wheeleri var. paupercula
 
 Quercus breweri
 40617
+
+Callitropsis pygmaea
+88112
 
 Libocedrus decurrens
 16709
@@ -413,7 +428,7 @@ Brickellia grandiflora
 1812
 
 Calycadenia micrantha
-88133
+81268
 
 Haplopappus gilmanii
 2595
@@ -428,13 +443,13 @@ Eriophyllum lanatum var. arachnoideum
 7371
 
 Eurybia merita
-88176
+88183
 
 Heliomeris
 468
 
 Logfia depressa
-88202
+88209
 
 Microseris paludosa
 4159
@@ -490,8 +505,11 @@ Lepidium campestre
 Lepidium densiflorum
 30526
 
+Streptanthus vernalis
+81541
+
 Cylindropuntia munzii
-88261
+88264
 
 Opuntia × fosbergii
 77002
@@ -605,7 +623,7 @@ Oxytheca parishii var. abramsii
 62777
 
 Aconogonon
-88453
+88420
 
 Eriogonella membranacea
 19342
@@ -731,7 +749,7 @@ Deschampsia beringensis
 22589
 
 Echinochloa oryzicola var. mutica
-88641
+88588
 
 Ehrharta calycina
 23852
@@ -848,7 +866,7 @@ Solidago simplex
 5066
 
 Symphyotrichum campestre var. campestre
-88222
+88225
 
 Trixis californica var. californica
 76328
@@ -909,6 +927,9 @@ Chenopodium nevadense
 
 Salsola iberica
 43032
+
+Cistus villosus var. undulatus
+19512
 
 Sedum
 10882
@@ -976,6 +997,9 @@ Monardella odoratissima
 Petalonyx nitidus
 37312
 
+Syzygium australe
+81400
+
 Epilobium foliosum
 24359
 
@@ -995,7 +1019,7 @@ Phlox speciosa
 37861
 
 Aconogonon phytolaccifolium var. glabrum
-88458
+88425
 
 Aristocapsa
 9163
@@ -1007,7 +1031,7 @@ Chorizanthe polygonoides var. longispina
 56496
 
 Eriogonum apiculatum var. apiculatum
-88461
+88428
 
 Eriogonum breedlovei var. breedlovei
 58476
@@ -1034,7 +1058,7 @@ Eriogonum umbellatum var. versicolor
 58787
 
 Sidotheca trilobata
-88497
+81336
 
 Calyptridium pulchellum
 16848
@@ -1052,7 +1076,7 @@ Potentilla
 11256
 
 Salix eriocephala subsp. mackenzieana
-88525
+88481
 
 Keckiella ternata subsp. ternata
 51127
@@ -1157,7 +1181,7 @@ Rhamnus californica var. crassifolia
 78522
 
 Cyclospermum
-88114
+88127
 
 Ageratina herbacea
 749
@@ -1490,7 +1514,7 @@ Synthyris reniformis
 45996
 
 Verbascum olympicum
-88536
+88491
 
 Centranthus ruber
 18595
@@ -1547,7 +1571,7 @@ Bromus polyanthus
 16273
 
 Cenchrus spinifex
-88633
+88580
 
 Echinochloa
 11047
@@ -1750,6 +1774,9 @@ Sphaeralcea grossulariifolia subsp. grossulariifolia
 Glinus
 10649
 
+Allionia incarnata var. incarnata
+79248
+
 Clarkia mosquinii subsp. mosquinii
 49904
 
@@ -1877,7 +1904,7 @@ Nicotiana trigonophylla
 77305
 
 Petunia violacea
-88539
+81257
 
 Verbena bonariensis
 47885
@@ -1895,7 +1922,7 @@ Cyperus albomarginatus
 21833
 
 Cyperus regiomontanus
-88559
+88508
 
 Eleocharis macrostachya
 23993
@@ -1910,7 +1937,7 @@ Iris missouriensis
 29292
 
 Sisyrinchium lineatum
-88585
+88534
 
 Juncus effusus subsp. austrocalifornicus
 80232
@@ -1949,13 +1976,13 @@ Dactyloctenium aegyptium
 24071
 
 Poa × limosa
-88666
+88612
 
 Puccinellia distans subsp. distans
 52577
 
 Thinopyrum junceiforme
-88675
+88619
 
 Typha angustifolia
 47462
@@ -2098,6 +2125,12 @@ Spergularia canadensis var. occidentalis
 Vaccaria segetalis
 47633
 
+Dudleya elongata
+23661
+
+Cuscuta japonica
+21451
+
 Empetrum nigrum subsp. hermaphroditum
 50293
 
@@ -2210,7 +2243,7 @@ Eriogonum tripodum
 24956
 
 Fallopia sachalinensis
-88480
+88441
 
 Persicaria punctata
 37303
@@ -2297,7 +2330,7 @@ Schoenoplectus pungens var. longispicatus
 81092
 
 Sisyrinchium leptocaulon
-88584
+88533
 
 Sisyrinchium hitchcockii
 44710
@@ -2392,6 +2425,9 @@ Woodsia scopulina
 Botrychium ascendens
 15910
 
+Cupressus arizonica var. revealiana
+88114
+
 Beloperone californica
 29815
 
@@ -2426,7 +2462,7 @@ Lessingia nemaclada var. mendocina
 7812
 
 Logfia filaginoides
-88203
+88210
 
 Malacothrix floccifera
 4064
@@ -2486,7 +2522,7 @@ Chenopodium carnosulum
 19158
 
 Dysphania multifida
-88320
+88306
 
 Salsola vermiculata
 43035
@@ -2591,7 +2627,7 @@ Salvia columbariae
 43049
 
 Malva dendromorpha
-88408
+88393
 
 Proboscidea althaeifolia
 39929
@@ -2762,7 +2798,7 @@ Scirpus acutus var. acutus
 76550
 
 Sisyrinchium angustifolium var. bellum
-88579
+88528
 
 Lemna trisulca
 30466
@@ -2780,7 +2816,7 @@ Bothriochloa ischaemum var. songarica
 55210
 
 Bromus berteroanus
-88632
+88579
 
 Dichanthelium lanuginosum var. thermale
 57641
@@ -2885,7 +2921,10 @@ Cirsium douglasii
 2146
 
 Cirsium scariosum var. congdonii
-88147
+88155
+
+Erechtites hieraciifolius var. hieraciifolius
+88167
 
 Ericameria ophitidis
 2601
@@ -2944,6 +2983,9 @@ Sibaropsis hammittii
 Streptanthus insignis
 45744
 
+Teesdalia nudicaulis
+46135
+
 Sclerocactus
 9221
 
@@ -2963,7 +3005,7 @@ Eremogone congesta
 24559
 
 Silene coniflora
-88292
+88279
 
 Chenopodium missouriense
 19136
@@ -3086,7 +3128,7 @@ Potentilla millefolia var. klamathensis
 64413
 
 Pyracantha crenatoserrata
-88519
+88475
 
 Rubus pedatus
 42012
@@ -3182,7 +3224,7 @@ Melica harfordii
 33079
 
 Rytidosperma semiannulare
-88671
+88616
 
 Orcuttia mucronata
 35385
@@ -3275,7 +3317,7 @@ Erigeron bloomeri var. bloomeri
 7248
 
 Erigeron glacialis var. hirsutus
-88168
+88175
 
 Evax involucrata
 25684
@@ -3320,7 +3362,7 @@ Cardionema ramosissimum
 17198
 
 Polycarpon tetraphyllum var. tetraphyllum
-88291
+81542
 
 Silene lemmonii
 44533
@@ -3329,7 +3371,7 @@ Atriplex argentea var. argentea
 76504
 
 Atriplex cordulata var. cordulata
-88305
+88291
 
 Chenopodium rubrum var. rubrum
 71774
@@ -3410,7 +3452,7 @@ Hibiscus californicus
 28213
 
 Hoheria populnea
-88405
+88390
 
 Lavatera
 9577
@@ -3423,6 +3465,9 @@ Malacothamnus parishii
 
 Sphaeralcea ambigua var. monticola
 76112
+
+Ligustrum japonicum
+30905
 
 Olea europaea subsp. europaea
 51805
@@ -3455,7 +3500,7 @@ Polemonium occidentale subsp. occidentale
 52414
 
 Acanthoscyphus parishii var. cienegensis
-88450
+88417
 
 Centrostegia
 9165
@@ -3587,7 +3632,7 @@ Eragrostis hypnoides
 24480
 
 Eriochloa leersioides
-88645
+88591
 
 Leymus mollis subsp. mollis
 51236
@@ -3695,7 +3740,7 @@ Lasthenia conjugens
 3729
 
 Lorandersonia peirsonii
-88204
+88211
 
 Pluchea purpurascens
 4428
@@ -3743,7 +3788,7 @@ Citrullus lanatus
 19526
 
 Cuscuta reflexa
-88334
+88321
 
 Arctostaphylos pilosula
 76567
@@ -3827,7 +3872,7 @@ Gayophytum eriospermum
 26542
 
 Oxalis bowiei
-88428
+88403
 
 Gilia aliquanta subsp. breviloba
 50751
@@ -3896,7 +3941,7 @@ Castilleja minor subsp. spiralis
 76739
 
 Diplacus bifidus
-88533
+88488
 
 Diplacus clevelandii
 23083
@@ -3926,7 +3971,7 @@ Scirpus congdonii
 43677
 
 Bermudiana grandiflora
-88570
+88519
 
 Ixia maculata
 29471
@@ -4055,7 +4100,7 @@ Arnica dealbata
 80293
 
 Artemisia arbuscula subsp. longicaulis
-88130
+88141
 
 Aster radulinus
 1514
@@ -4082,7 +4127,7 @@ Tolpis barbata
 5397
 
 Xanthisma gracile
-88236
+88239
 
 Cryptantha gracilis
 21235
@@ -4220,7 +4265,10 @@ Sidalcea malviflora var. stellata
 78541
 
 Eucalyptus torquata
-88415
+88398
+
+Syzygium paniculatum
+81356
 
 Abronia nana subsp. covillei
 48964
@@ -4268,7 +4316,7 @@ Phlox gracilis subsp. gracilis
 52194
 
 Aconogonon davisiae var. davisiae
-88455
+88422
 
 Eriogonum angulosum
 24690
@@ -4286,7 +4334,7 @@ Eriogonum latens
 24830
 
 Eriogonum rosense var. rosense
-88471
+81750
 
 Eriogonum saxatile var. stokesae
 24928
@@ -4307,7 +4355,7 @@ Rumex crispus
 42386
 
 Rumex palustris
-88493
+88454
 
 Calyptridium pygmaeum
 16849
@@ -4454,7 +4502,7 @@ Muhlenbergia porteri
 34110
 
 Panicum alatum var. longiflorum
-88658
+88604
 
 Panicum rigidulum var. rigidulum
 62973
@@ -4544,7 +4592,7 @@ Stylocline psilocarphoides
 5187
 
 Symphyotrichum foliaceum var. lyallii
-88230
+88233
 
 Cryptantha maritima var. maritima
 57138
@@ -4637,7 +4685,7 @@ Pogogyne clareana
 38935
 
 Scutellaria caerulea
-88402
+88386
 
 Pholisma arenarium
 37881
@@ -4691,7 +4739,7 @@ Claytonia washingtoniana
 76958
 
 Lewisia leana
-88498
+88457
 
 Anagallis arvensis subsp. arvensis
 69984
@@ -4839,6 +4887,9 @@ Eclipta prostrata
 
 Enceliopsis
 424
+
+Erechtites hieracifolia
+88166
 
 Haplopappus macronema
 2591
@@ -5021,7 +5072,7 @@ Proboscidea parviflora subsp. parviflora
 52534
 
 Proboscidea parviflora var. hohokamiana
-88410
+88395
 
 Mirabilis pumila
 33825
@@ -5126,7 +5177,7 @@ Phoradendron flavescens var. macrophyllum
 37910
 
 Arum palaestinum
-88552
+88502
 
 Carex duriuscula
 17386
@@ -5141,7 +5192,7 @@ Eleocharis engelmannii
 23951
 
 Fimbristylis littoralis
-88562
+88511
 
 Allium
 9889
@@ -5235,6 +5286,9 @@ Phacelia magellanica f. griseophylla
 
 Marsilea oligospora
 32817
+
+Callitropsis
+88103
 
 Daucus
 10184
@@ -5336,7 +5390,7 @@ Lupinus gracilentus
 31888
 
 Ononis alopecuroides
-88376
+88363
 
 Vicia lutea
 48083
@@ -5405,7 +5459,7 @@ Eschscholzia californica
 25206
 
 Passiflora mixta
-88432
+81249
 
 Gilia campanulata
 26875
@@ -5417,7 +5471,7 @@ Navarretia prolifera
 34469
 
 Eriogonum abramsii subsp. acanthoscyphus
-88452
+88419
 
 Eriogonum heermannii var. floccosum
 58571
@@ -5516,7 +5570,7 @@ Carex comosa
 17339
 
 Carex deflexa var. boottii
-88554
+88503
 
 Carex feta
 17416
@@ -5576,7 +5630,7 @@ Stuckenia striata
 80316
 
 Hieracium gracile var. densifloccum
-88684
+88630
 
 Horkelia bolanderi var. marinensis
 78745
@@ -5600,7 +5654,7 @@ Ribes menziesii var. minus
 78527
 
 Uva-Ursi pechoensis Dudley ex Abrams
-88688
+88634
 
 Asplenium vespertinum
 14615
@@ -5610,6 +5664,9 @@ Polystichum imbricans subsp. imbricans
 
 Isoetes occidentalis
 29404
+
+Callitropsis macnabiana
+88108
 
 Rhus
 9979
@@ -5669,7 +5726,7 @@ Venegasia carpesioides
 5481
 
 Xanthisma junceum
-88237
+88240
 
 Hackelia cusickii
 27521
@@ -5711,7 +5768,7 @@ Streptanthus tortuosus var. tortuosus
 66863
 
 Grusonia pulchella
-88266
+88269
 
 Opuntia prolifera
 35320
@@ -5734,6 +5791,9 @@ Stellaria pallida
 Atriplex elegans
 15206
 
+Cotyledon caespitosa var. paniculata
+78079
+
 Dudleya parva
 23637
 
@@ -5741,7 +5801,7 @@ Rhododendron
 8986
 
 Argythamnia claryana
-88344
+88330
 
 Chamaesyce parishii
 18989
@@ -5840,7 +5900,7 @@ Eriogonum denudatum
 76426
 
 Eriogonum evanidum
-88465
+81391
 
 Eriogonum revolutum
 58546
@@ -5978,7 +6038,7 @@ Elymus multisetus
 24122
 
 Jarava plumosa
-88654
+88599
 
 Leymus salinus subsp. mojavensis
 51238
@@ -5999,7 +6059,7 @@ Zostera marina var. latifolia
 48950
 
 Aplopappus bloomeri
-88681
+88626
 
 Brodiaea laxa var. tracyi
 55304
@@ -6013,9 +6073,6 @@ Convolvulus cyclostegius
 Cordylanthus pallescens
 20339
 
-Cotyledon caespitosa var. paniculata
-78079
-
 Deschampsia gracilis
 77937
 
@@ -6024,6 +6081,9 @@ Godetia amoena f. huntiana
 
 Grindelia paludosa
 3126
+
+Hesperomecon filiformis
+88629
 
 Howellia limosa
 78693
@@ -6051,6 +6111,9 @@ Zauschneria hallii
 
 Lycopodium
 9179
+
+Callitropsis bakeri
+88105
 
 Abies concolor var. concolor
 53441
@@ -6086,10 +6149,10 @@ Cirsium quercetorum var. walkerianum
 2232
 
 Dendranthema grandiflorum
-88152
+88158
 
 Machaeranthera shastensis var. eradiata
-88158
+88162
 
 Ericameria palmeri var. palmeri
 7237
@@ -6272,7 +6335,7 @@ Eriogonum umbellatum var. crandallii
 24960
 
 Eriogonum umbellatum var. canifolium
-88475
+88436
 
 Eriogonum umbellatum var. glaberrimum
 58765
@@ -6347,10 +6410,13 @@ Physalis
 9696
 
 Physalis lancifolia
-88540
+88494
 
 Solanum xanti var. intermedium
 66529
+
+Styrax officinalis var. californicus
+80616
 
 Larrea
 9716
@@ -6374,7 +6440,7 @@ Luzula comosa var. macrantha
 32148
 
 Agave pachyacantha
-88597
+88545
 
 Brodiaea minor var. nana
 16149
@@ -6451,6 +6517,9 @@ Uropappus leucocarpus
 Wyethia angustifolia var. solanensis
 78279
 
+Botrychium silaifolium
+77127
+
 Cupressus goveniana subsp. goveniana
 50024
 
@@ -6473,7 +6542,7 @@ Calycadenia oppositifolia
 1876
 
 Centaurea babylonica
-88134
+88144
 
 Centromadia pungens subsp. septentrionalis
 80420
@@ -6482,7 +6551,7 @@ Filago
 436
 
 Glebionis segetum
-88183
+88189
 
 Helianthus nuttallii subsp. nuttallii
 6058
@@ -6530,7 +6599,7 @@ Physaria tenella
 80342
 
 Ferocactus viridescens var. viridescens
-88264
+88267
 
 Arenaria douglasii var. emarginata
 54341
@@ -6545,7 +6614,10 @@ Velezia rigida
 47814
 
 Crassula colligata subsp. lamprosperma
-88328
+88313
+
+Cuscuta occidentalis
+21423
 
 Cephalaria syriaca
 18617
@@ -6641,7 +6713,7 @@ Oxytheca parishii var. cienegensis
 62778
 
 Aconogonum
-88453
+88420
 
 Eriogonum vimineum subsp. polygonoides
 79258
@@ -6758,7 +6830,7 @@ Triteleia crocea
 47347
 
 Veratrum viride var. eschscholzianum
-88620
+88567
 
 Zigadenus
 9569
@@ -6800,7 +6872,7 @@ Muhlenbergia asperifolia
 34061
 
 Polypogon imberbis
-88667
+88613
 
 Amsinckia perrugosa
 77751
@@ -6859,9 +6931,6 @@ Cirsium occidentale var. occidentale
 Constancea nevinii
 80004
 
-Gamochaeta coarctica
-88178
-
 Hieracium nudicaule
 80240
 
@@ -6917,7 +6986,7 @@ Chamaesyce maculata
 18966
 
 Chamaesyce ocellata var. kirbyi
-88345
+88331
 
 Astragalus pulsiferae var. suksdorfii
 54903
@@ -6985,9 +7054,6 @@ Salvia × palmeri
 Tripterocalyx crux-maltae
 47317
 
-Ligustrum japonicium
-88425
-
 Camissonia
 9758
 
@@ -7040,7 +7106,7 @@ Eriogonum suffrutescens
 58800
 
 Fallopia japonica var. japonica
-88479
+88440
 
 Rumex californicus
 42423
@@ -7175,7 +7241,7 @@ Pinus contorta subsp. murrayana
 52303
 
 Tsuga mertensiana subsp. grandicona
-88107
+88121
 
 Sequoia sempervirens
 44175
@@ -7214,7 +7280,7 @@ Machaeranthera juncea
 4012
 
 Pericallis cruenta
-88207
+88214
 
 Laphamia inyoensis
 30210
@@ -7223,7 +7289,7 @@ Senecio
 604
 
 Sericocarpus oregonensis var. oregonensis
-88217
+88220
 
 Stephanomeria paniculata
 5154
@@ -7409,7 +7475,7 @@ Chorizanthe uncinata
 19349
 
 Eriogonum apiculatum var. galbinum
-88462
+88429
 
 Eriogonum arborescens
 24695
@@ -7418,7 +7484,7 @@ Eriogonum baileyi
 24701
 
 Eriogonum trichopes subsp. clavatum
-88463
+81392
 
 Eriogonum eremicola
 24767
@@ -7449,6 +7515,9 @@ Eriogonum curvatum
 
 Fallopia baldschuanica
 25752
+
+Dodecatheon hendersonii var. yosemitanum
+57753
 
 Anemone multifida var. multifida
 75317
@@ -7541,7 +7610,7 @@ Bloomeria
 9492
 
 Dichelostemma venustum
-88603
+88551
 
 Aira caryophyllea
 12357
@@ -7556,7 +7625,7 @@ Dichanthelium acuminatum var. acuminatum
 57618
 
 Ischaemum leersioides
-88653
+88598
 
 Piptochaetium stipoides
 38371
@@ -7566,9 +7635,6 @@ Arctostaphylos sensitiva
 
 Carex monile var. pacifica
 79103
-
-Dodecatheon hendersonii var. yosemitanum
-57753
 
 Gilia gilioides var. ianthina
 78165
@@ -7583,13 +7649,16 @@ Oenothera scapoidea var. purpurascens
 62493
 
 Scirpus × rubiginosus
-88687
+88633
 
 Woodsia scopulina subsp. scopulina
 53426
 
 Equisetum hyemale var. affine
 58347
+
+Cupressus arizonica var. stephensonii
+88114
 
 Ciclospermum
 10371
@@ -7667,7 +7736,7 @@ Rudbeckia occidentalis var. occidentalis
 8172
 
 Alnus cordata
-88241
+88244
 
 Cryptantha cinerea
 21204
@@ -7766,7 +7835,7 @@ Lupinus andersonii var. christinae
 31725
 
 Lupinus arbustus var. montanus
-88364
+88348
 
 Lupinus breweri var. grandiflorus
 61255
@@ -7925,7 +7994,7 @@ Carex multicostata
 17642
 
 Schoenoplectus glaucus
-88565
+88514
 
 Najas
 9741
@@ -8051,7 +8120,7 @@ Senecio canus
 4694
 
 Symphyotrichum chilense var. chilense
-88223
+88226
 
 Mahonia dictyota
 32479
@@ -8078,13 +8147,16 @@ Callitriche heterophylla var. bolanderi
 55448
 
 Eremogone congesta var. simulans
-88279
+88278
 
 Minuartia obtusiloba
 33764
 
 Atriplex nummularia
 15244
+
+Dudlyea abramsii subsp. calcicola
+88315
 
 Dudleya abramsii subsp. calcicola
 23636
@@ -8120,7 +8192,7 @@ Pediomelum castoreum
 36636
 
 Senna nemophila
-88379
+88365
 
 Quercus vaccinifolia
 40771
@@ -8142,6 +8214,9 @@ Monardella beneolens
 
 Teucrium
 10543
+
+Utricularia vulgaris var. americana
+47607
 
 Mentzelia pinetorum
 33237
@@ -8393,7 +8468,7 @@ Aubrieta
 77187
 
 Boechera holboellii var. pendulocarpa
-88246
+88250
 
 Cakile edentula
 16523
@@ -8420,7 +8495,7 @@ Lonicera involucrata
 31507
 
 Eremogone ferrisiae
-88282
+81553
 
 Loeflingia squarrosa var. artemesiarum
 31350
@@ -8489,7 +8564,7 @@ Gentianella tenella subsp. tenella
 50718
 
 Zeltnera venusta
-88396
+88381
 
 Eriodictyon traskiae subsp. smithii
 50352
@@ -8624,7 +8699,7 @@ Carex congdonii
 17343
 
 Dulichium arundinaceum var. arundinaceum
-88560
+88509
 
 Juncus bryoides
 29617
@@ -8789,7 +8864,7 @@ Erigeron maniopotamicus
 81005
 
 Heterotheca sessiliflora var. echioides
-88194
+88202
 
 Machaeranthera tanacetifolia
 4031
@@ -8804,7 +8879,7 @@ Sanvitalia
 596
 
 Symphyotrichum foliaceum var. parryi
-88231
+88234
 
 Hackelia floribunda
 27528
@@ -8828,7 +8903,7 @@ Downingia montana
 23280
 
 Spergularia media var. media
-88302
+88288
 
 Chenopodium leptophyllum
 19178
@@ -8847,6 +8922,9 @@ Helianthemum suffrutescens var. aldersonii
 
 Cuscuta suksdorfii var. subpedicellata
 57211
+
+Cuscuta japonica var. formosana
+88320
 
 Cassiope mertensiana
 18114
@@ -9011,7 +9089,7 @@ Antirrhinum vexillo-calyculatum subsp. vexillo-calyculatum
 69992
 
 Castilleja fruticosa
-88532
+88487
 
 Mimulus viscidus subsp. constrictus
 51577
@@ -9161,7 +9239,7 @@ Deinandra pallida
 79521
 
 Ericameria × viscosa
-88164
+88171
 
 Erigeron annuus
 2618
@@ -9218,7 +9296,7 @@ Streptanthus
 10626
 
 Cylindropuntia californica var. parkeri
-88259
+88262
 
 Opuntia × demissa
 35222
@@ -9302,7 +9380,7 @@ Trifolium fucatum var. virescens
 47084
 
 Trifolium gemellum
-88380
+81270
 
 Vicia pannonica
 48094
@@ -9317,7 +9395,7 @@ Swertia
 9256
 
 Zeltnera
-88390
+88375
 
 Geranium sibiricum
 26745
@@ -9413,7 +9491,7 @@ Persicaria lapathifolia
 37292
 
 Polygonum fowleri subsp. fowleri
-88487
+88448
 
 Calandrinia ciliata var. menziesii
 16615
@@ -9449,7 +9527,7 @@ Petrophyton caespitosum subsp. caespitosum
 75089
 
 Pseudocydonia sinensis
-88518
+88474
 
 Sorbus californica
 44981
@@ -9533,7 +9611,7 @@ Brodiaea hyacinthina
 47356
 
 Yucca whipplei subsp. cespitosa
-88621
+88568
 
 Zigadenus exaltatus
 48898
@@ -9545,7 +9623,7 @@ Bothriochloa laguroides
 15902
 
 Dichanthelium acuminatum subsp. fasciculatum
-88636
+88583
 
 Eremochloa ciliaris
 24553
@@ -9576,6 +9654,9 @@ Opuntia intricata
 
 Tissa valida
 78586
+
+Callitropsis macrocarpa
+88109
 
 Ephedra fasciculata var. fasciculata
 58274
@@ -9689,7 +9770,7 @@ Chenopodium incognitum
 76927
 
 Cuscuta denticulata var. veatchii
-88333
+88319
 
 Arctostaphylos stanfordiana subsp. raichei
 49209
@@ -9854,7 +9935,7 @@ Galium proliferum
 26401
 
 Salix exigua var. hindsiana
-88529
+81242
 
 Salix lasiandra var. lasiandra
 76043
@@ -9904,6 +9985,9 @@ Arceuthobium
 Carex densa
 17373
 
+Carex pendula
+80276
+
 Eleocharis parvula
 23999
 
@@ -9911,7 +9995,7 @@ Rhynchospora globularis
 41287
 
 Sisyrinchium bermudiana var. minus
-88580
+88529
 
 Juncus textilis
 29728
@@ -9947,7 +10031,7 @@ Dichanthelium dichotomum
 22799
 
 Setaria pumila subsp. pumila
-88673
+88618
 
 Apocynum palustre
 77776
@@ -10013,7 +10097,7 @@ Heterotheca oregona var. scaberrima
 7616
 
 Heterotheca sessiliflora var. camphorata
-88193
+88201
 
 Holocarpha virgata
 3560
@@ -10065,6 +10149,12 @@ Silene verecunda
 
 Stellaria media
 45497
+
+Cistus psilosepalus
+81373
+
+Dudleya cymosa subsp. gigantea
+50235
 
 Cucurbita digitata
 21360
@@ -10145,7 +10235,7 @@ Phlox viridis subsp. longipes
 52260
 
 Acanthoscyphus parishii var. abramsii
-88449
+88416
 
 Eriogonum vineum
 58688
@@ -10249,6 +10339,9 @@ Sparaxis fragrans subsp. grandiflora
 Luzula multiflora subsp. frigida
 51472
 
+see Current JFP synonyms]
+30468
+
 Brodiaea kinkiensis
 16147
 
@@ -10328,7 +10421,7 @@ Polypodium
 9796
 
 Pinus monophylla var. monophylla
-88106
+88120
 
 Pinus remorata
 38287
@@ -10343,7 +10436,7 @@ Scandix pecten-veneris
 43465
 
 Hedera helix subsp. canariensis
-88118
+88130
 
 Agoseris glauca
 785
@@ -10371,9 +10464,6 @@ Cirsium vulgare
 
 Cotula coronopifolia
 2392
-
-Erechtites glomerata
-2570
 
 Haplopappus ericoides
 2592
@@ -10436,7 +10526,7 @@ Lunaria
 10600
 
 Eremogone congesta var. subcongesta
-88280
+81548
 
 Silene bolanderi
 80161
@@ -10445,7 +10535,7 @@ Atriplex cordulata
 15199
 
 Atriplex parishii var. depressa
-88308
+88294
 
 Atriplex semibaccata
 15267
@@ -10565,7 +10655,7 @@ Eriogonum giganteum subsp. compactum
 58557
 
 Eriogonum microthecum var. schoolcraftii
-88468
+88432
 
 Eriogonum ovalifolium var. utahense
 58684
@@ -10595,13 +10685,13 @@ Polygonum spergulariiforme
 39211
 
 Lewisia leeana
-88498
+88457
 
 Androsace elongata subsp. acuta
 49111
 
 Rhamnus rubra var. obtusissima
-88508
+88464
 
 Acaena pinnatifida var. californica
 77205
@@ -10798,11 +10888,11 @@ Adiantum jordanii
 Cheilanthes newberryi
 19086
 
-Cupressus arizonica subsp. stephensonii
-50023
-
 Xanthocyparis nootkatensis
 80461
+
+Cupressus arizonica subsp. stephensonii
+50023
 
 Abies magnifica
 11529
@@ -10847,7 +10937,7 @@ Ericameria palmeri var. pachylepis
 7236
 
 Eriophyllum staechadifolium var. depressum
-88174
+88181
 
 Hazardia whitneyi var. discoidea
 7529
@@ -11030,7 +11120,7 @@ Navarretia leucocephala
 34460
 
 Aconogonon phytolaccifolium
-88457
+88424
 
 Chorizanthe staticoides var. brevispina
 19357
@@ -11051,7 +11141,7 @@ Lewisia cotyledon var. cotyledon
 60811
 
 Ceanothus arboreus var. glaber
-88503
+88459
 
 Ceanothus rigidus var. albus
 56086
@@ -11321,7 +11411,7 @@ Cornus glabrata
 20396
 
 Vaccinium caespitosum var. caespitosum
-88342
+88328
 
 Vaccinium membranaceum
 47673
@@ -11501,7 +11591,7 @@ Juncus xiphioides
 29743
 
 Landoltia punctata
-88591
+81823
 
 Hesperocallis undulata
 28026
@@ -11534,7 +11624,7 @@ Trisetum cernuum subsp. cernuum
 75157
 
 Urochloa maxima
-88678
+88622
 
 Heteranthera dubia
 28058
@@ -11562,9 +11652,6 @@ Gilia ambigua
 
 Gilia tularensis
 78131
-
-Hesperomecon filiformia
-78812
 
 Pasania densiflora f. lanceolata
 78623
@@ -11720,7 +11807,7 @@ Trifolium amplectens
 67266
 
 Trifolium appendiculatum
-88384
+88369
 
 Centaurium calycosum
 18571
@@ -11754,6 +11841,9 @@ Lavatera assurgentiflora
 
 Ficus carica
 25883
+
+Melaleuca viminalis
+81697
 
 Nymphaea mexicana
 34797
@@ -11977,6 +12067,9 @@ Notholaena jonesii
 Aspidotis
 10409
 
+Cupressus arizonica subsp. revealiana
+88114
+
 Bowlesia
 10364
 
@@ -12014,7 +12107,7 @@ Helichrysum petiolare
 77426
 
 Logfia arizonica
-88200
+88207
 
 Machaeranthera
 516
@@ -12326,13 +12419,13 @@ Cyperus alternifolius
 21853
 
 Rhynchospora recognita
-88564
+88513
 
 Iris tenuissima subsp. tenuissima
 51068
 
 Moraea polystachya
-88577
+88526
 
 Sisyrinchium bellum
 44682
@@ -12341,7 +12434,7 @@ Sisyrinchium maritimum
 80949
 
 Agapanthus
-88592
+88540
 
 Calochortus nuttallii var. bruneaunis
 16716
@@ -12497,7 +12590,7 @@ Hazardia squarrosa var. squarrosa
 7528
 
 Helianthus maximiliani
-88185
+88191
 
 Hemizonia minthornii
 3381
@@ -12506,10 +12599,13 @@ Heterotheca echioides var. echioides
 79067
 
 Heterotheca sessiliflora var. bolanderioides
-88192
+88200
 
 Isocoma
 487
+
+Calendula fruticosa
+81112
 
 Pyrrocoma hirta var. hirta
 8114
@@ -12599,7 +12695,7 @@ Empetrum
 9813
 
 Arctostaphylos nisseniana
-88337
+88324
 
 Arctostaphylos stanfordiana subsp. stanfordiana
 49210
@@ -12850,11 +12946,11 @@ Pentagramma triangularis subsp. triangularis
 Selaginella oregana
 44067
 
-Cupressus arizonica subsp. arizonica
-70113
-
 Cupressus goveniana subsp. pygmaea
 50025
+
+Cupressus arizonica subsp. arizonica
+70113
 
 Sesuvium verrucosum
 44236
@@ -12902,7 +12998,7 @@ Pyrrocoma uniflora
 40471
 
 Symphyotrichum subulatum var. ligulatum
-88233
+88236
 
 Townsendia leptotes
 5431
@@ -13025,7 +13121,7 @@ Lotus argophyllus var. niveus
 61107
 
 Lotus argophyllus var. traskiae
-88363
+88346
 
 Lotus oblongifolius var. oblongifolius
 61133
@@ -13037,7 +13133,7 @@ Lupinus lepidus var. confertus
 61358
 
 Lupinus leucophyllus var. belliae
-88369
+61370
 
 Lupinus ruber
 32049
@@ -13052,7 +13148,7 @@ Trifolium variegatum var. trilobatum
 47179
 
 Trifolium variegatum phase 3
-88384
+88369
 
 Vicia sativa subsp. nigra
 53355
@@ -13068,6 +13164,9 @@ Phacelia sericea var. ciliosa
 
 Teucrium canadense
 46258
+
+Utricularia cleistogama
+47619
 
 Hesperolinon drymarioides
 28044
@@ -13142,13 +13241,13 @@ Eriogonum reniforme subsp. pusillum
 24915
 
 Eriogonum thornei
-88474
+81197
 
 Eriogonum glaberrimum
 58765
 
 Eriogonum puberulum var. venosum
-88481
+88442
 
 Oxytheca dendroidea var. hillmanii
 76337
@@ -13259,7 +13358,7 @@ Poa leptocoma
 38844
 
 Rytidosperma pilosum
-88669
+88615
 
 Trisetum cernuum var. canescens
 47326
@@ -13418,7 +13517,7 @@ Chenopodium glaucum subsp. salinum
 19170
 
 Dysphania chilensis
-88319
+88305
 
 Kochia
 11500
@@ -13472,7 +13571,7 @@ Trifolium geminiflorum
 47179
 
 Trifolium variegatum phase 2
-88383
+88368
 
 Vicia sativa subsp. sativa
 53356
@@ -13503,9 +13602,6 @@ Petalonyx thurberi subsp. thurberi
 
 Sidalcea malviflora subsp. elegans
 52985
-
-Syzygium c f. paniculatum
-88416
 
 Meconella californica
 32919
@@ -13631,7 +13727,7 @@ Spirodela punctata
 45273
 
 Spirodela oligorrhiza
-45273
+81823
 
 Allium cepa var. cepa
 53774
@@ -13649,7 +13745,7 @@ Lilium parvum
 30953
 
 Toxicoscordion fontanum
-88610
+88558
 
 Achnatherum eminens
 76395
@@ -13778,7 +13874,7 @@ Dieteria canescens
 22917
 
 Dieteria canescens var. canescens
-88155
+81601
 
 Enceliopsis nudicaulis var. corrugata
 7224
@@ -13787,7 +13883,7 @@ Erigeron pygmaeus
 2769
 
 Eriophyllum staechadifolium var. artemisiifolium
-88174
+88181
 
 Geraea canescens
 3054
@@ -13817,7 +13913,7 @@ Lessingia filaginifolia var. filaginifolia
 76345
 
 Monolopia bahiifolia var. pinnatifida
-88205
+88212
 
 Haplopappus hirtus subsp. hirtus
 8114
@@ -13826,7 +13922,7 @@ Raillardella muirii
 4554
 
 Sericocarpus oregonensis var. californicus
-88216
+88219
 
 Wyethia ovata
 5585
@@ -13868,13 +13964,13 @@ Silene montana var. sierrae
 44494
 
 Silene laciniata subsp. californica
-88294
+88281
 
 Atriplex canescens subsp. linearis
 49376
 
 Dysphania botrys
-88318
+88304
 
 Ceratoides lanata
 30017
@@ -13910,7 +14006,7 @@ Trifolium andersonii var. andersonii
 76150
 
 Trifolium variegatum phase 1
-88382
+88367
 
 Quercus × alvordiana
 40533
@@ -14052,6 +14148,9 @@ Malus sylvestris
 
 Salix ligulifolia
 42866
+
+Sarracenia purpurea subsp. venosa
+52813
 
 Saxifraga punctata
 76982
@@ -14201,7 +14300,7 @@ Erigeron sanctarum
 2778
 
 Heterotheca sessiliflora var. sessiliflora
-88197
+88204
 
 Haplopappus venetus subsp. furfuraceus
 7751
@@ -14273,7 +14372,7 @@ Calystegia sepium subsp. binghamiae
 49566
 
 Crassula argentea
-88327
+81702
 
 Dudleya saxosa subsp. aloides
 50245
@@ -14294,7 +14393,7 @@ Mercurialis annua
 33300
 
 Acacia cultriformis
-88348
+81233
 
 Amorpha fruticosa var. occidentalis
 13060
@@ -14447,7 +14546,7 @@ Collinsia antonina subsp. purpurea
 49943
 
 Diplacus flemingii
-88534
+88489
 
 Penstemon davidsonii
 36914
@@ -14504,7 +14603,7 @@ Brodiaea laxa
 47359
 
 Platanthera hyperborea var. purpurascens
-88627
+88574
 
 Bromus orcuttianus var. hallii
 16271
@@ -14558,7 +14657,7 @@ Mimulus arvensis
 33620
 
 Phacelia tanacetifolia var. tenuisecta
-88686
+88632
 
 Potentilla elata var. dissita
 78635
@@ -14624,7 +14723,7 @@ Brickellia incana
 1814
 
 Chorisiva nevadensis
-88138
+88148
 
 Cirsium fontinale var. campylon
 77400
@@ -14654,7 +14753,7 @@ Eriophyllum mohavense
 2820
 
 Helianthus maximilianii
-88185
+88191
 
 Lessingia lemmonii var. lemmonii
 7800
@@ -14696,13 +14795,13 @@ Lepidium densiflorum var. ramosum
 60707
 
 Physaria occidentalis subsp. occidentalis
-88254
+88258
 
 Polyctenium williamsiae
 39030
 
 Herniaria hirsuta var. hirsuta
-88287
+81544
 
 Arenaria douglasii
 33747
@@ -14724,6 +14823,9 @@ Calystegia purpurata
 
 Calystegia silvatica
 16874
+
+Dudleya arizonica
+23638
 
 Arctostaphylos pumila
 13972
@@ -14804,7 +14906,7 @@ Eriogonum vimineum var. brachyanthum
 24709
 
 Eriogonum prociduum var. prociduum
-88470
+88434
 
 Eriogonum biumbellatum
 58783
@@ -14843,7 +14945,7 @@ Rubus vitifolius var. vitifolius
 65418
 
 Spiraea × hitchcockii
-88524
+88480
 
 Galium californicum subsp. californicum
 50606
@@ -14885,7 +14987,7 @@ Tamarix chinensis
 46071
 
 Celtis australis
-88544
+88496
 
 Parietaria hespera
 36253
@@ -14918,7 +15020,7 @@ Juncus arcticus var. balticus
 60315
 
 Agapanthus praecox
-88593
+88541
 
 Brodiaea terrestris
 16154
@@ -15112,6 +15214,9 @@ Sedum praealtum
 Forsellesia stipulifera
 27061
 
+Cuscuta californica var. squamigera
+57209
+
 Cuscuta suksdorfii
 21473
 
@@ -15140,7 +15245,7 @@ Hoffmannseggia
 9356
 
 Lathyrus nevadensis var. nuttallii
-88361
+88344
 
 Lathyrus vestitus
 30347
@@ -15158,7 +15263,7 @@ Gentiana affinis var. parvidentata
 59423
 
 Zeltnera trichantha
-88395
+88380
 
 Phacelia hastata
 37476
@@ -15176,7 +15281,7 @@ Hesperolinon bicarpellatum
 28037
 
 Malva linnaei
-88409
+88394
 
 Sidalcea malviflora subsp. patula
 52989
@@ -15221,7 +15326,7 @@ Eriogonum inflatum
 24811
 
 Eriogonum marifolium var. cupulatum
-88466
+88430
 
 Oxytheca luteola
 35731
@@ -15327,6 +15432,9 @@ Scirpus cernuus var. californicus
 
 Scirpus maritimus var. paludosus
 43714
+
+Juncus gerardii
+29657
 
 Juncus phaeocephalus var. phaeocephalus
 60393
@@ -15554,7 +15662,7 @@ Echinocereus coccineus var. coccineus
 58017
 
 Opuntia microdasys
-88269
+81371
 
 Downingia elegans var. brachypetala
 57813
@@ -15568,14 +15676,17 @@ Cleome serrulata
 Lonicera subspicata var. johnstonii
 61090
 
+Sambucus microbotrys
+76057
+
 Arenaria congesta var. subcongesta
 54335
 
 Eremogone cliftonii
-88275
+88276
 
 Eremogone congesta var. suffrutescens
-88281
+81549
 
 Silene latifolia subsp. alba
 53028
@@ -15584,10 +15695,10 @@ Chenopodium macrospermum
 19179
 
 Dysphania ambrosioides
-88316
+88302
 
 Micromonolepis pusilla
-88323
+88309
 
 Sedella congdonii
 43950
@@ -15635,7 +15746,7 @@ Trifolium productum
 47161
 
 Trifolium variegatum phase 5
-88386
+88371
 
 Nama hispidum
 34376
@@ -15767,7 +15878,7 @@ Phoradendron densum
 37894
 
 Phoradendron serotinum subsp. macrophyllum
-88548
+81376
 
 Machaerocarpus californicus
 22313
@@ -15780,6 +15891,9 @@ Fimbristylis thermalis
 
 Luzula piperi
 32166
+
+[Appendix III] Wolffia punctata Griseb. [according to FNANM, IPNI-IK, Wolffia punctata was published in 1864 and is a superfluous name for Wolffia borealis published in 1849.]
+48585
 
 Fritillaria micrantha
 26154
@@ -15866,7 +15980,7 @@ Sanicula crassicaulis var. tripartita
 65982
 
 Hedera canariensis
-88117
+81236
 
 Asclepias capricornu
 14353
@@ -15902,7 +16016,7 @@ Echinops
 417
 
 Encelia californica × Encelia farinosa
-88160
+88163
 
 Erigeron
 429
@@ -15962,7 +16076,7 @@ Sinapis alba
 44608
 
 Bursera hindsiana
-88256
+88260
 
 Sagina
 10854
@@ -15972,6 +16086,9 @@ Silene scouleri subsp. grandis
 
 Atriplex patula subsp. hastata
 15263
+
+Cistus villosus var. tauricus
+19512
 
 Convolvulus arvensis
 20203
@@ -15983,7 +16100,7 @@ Sedum laxum
 43983
 
 Cuscuta campestris
-21459
+21462
 
 Arctostaphylos manzanita subsp. elegans
 76564
@@ -16022,7 +16139,7 @@ Trifolium barbigerum
 47049
 
 Trifolium variegatum phase 4
-88385
+88370
 
 Geranium richardsonii
 26741
@@ -16076,7 +16193,7 @@ Phlox gracilis subsp. humilis
 52195
 
 Saltugilia splendens
-88444
+81152
 
 Polygala
 9160
@@ -16184,7 +16301,7 @@ Solanum gayanum
 44857
 
 Phoradendron flavens var. macrophyllum
-88548
+81376
 
 Wolffia arrhiza
 48584
@@ -16217,10 +16334,10 @@ Panicum acuminatum
 35923
 
 Phalaris coerulescens
-88662
+88608
 
 Sporobolus creber
-88674
+81363
 
 Sporobolus poiretii
 45308
@@ -16261,6 +16378,9 @@ Pentagramma triangularis subsp. semipallida
 Pteris cretica
 40243
 
+Cupressus goveniana subsp. locatellii
+88104
+
 Cupressus forbesii
 21398
 
@@ -16295,7 +16415,7 @@ Coreopsis tinctoria var. tinctoria
 7124
 
 Erigeron glacialis var. glacialis
-88167
+88174
 
 Erigeron strigosus var. strigosus
 7350
@@ -16385,7 +16505,7 @@ Atriplex hortensis
 15221
 
 Chenopodium album var. striatum
-88313
+88299
 
 Dichondra occidentalis
 22865
@@ -16438,14 +16558,11 @@ Trifolium longipes var. hansenii
 Gentiana holopetala
 26675
 
-Phacelia eisenii var. brandegeana
-63422
-
 Phacelia imbricata subsp. imbricata
 52117
 
 Lavandula stoechas
-88400
+81255
 
 Monardella douglasii subsp. douglasii
 51602
@@ -16493,7 +16610,7 @@ Microsteris gracilis var. humilior
 61955
 
 Acanthoscyphus parishii
-88448
+88415
 
 Bistorta
 68128
@@ -16517,7 +16634,10 @@ Oxytheca dendroidea subsp. dendroidea
 76337
 
 Eriogonum trilobatum
-88497
+81336
+
+Dodecatheon pulchellum var. spilantherum
+23209
 
 Anemone deltoidea
 13355
@@ -16606,6 +16726,9 @@ Rhynchospora alba
 Juncus bufonius var. occidentalis
 60334
 
+Wolffia punctata
+48585
+
 Calochortus elegans var. elegans
 55463
 
@@ -16622,7 +16745,7 @@ Elymus macounii
 24087
 
 Elytrigia juncea subsp. boreo-atlantica
-88644
+88590
 
 Pleuropogon
 11144
@@ -16634,7 +16757,7 @@ Puccinellia nuttalliana
 40329
 
 Rytidosperma richardsonii
-88670
+81241
 
 Vulpia octoflora
 48473
@@ -16689,6 +16812,9 @@ Dryopteris arguta
 
 Equisetum telmateia var. braunii
 58356
+
+Callitropsis goveniana
+88107
 
 Acer negundo var. arizonicum
 53506
@@ -16841,7 +16967,7 @@ Sidalcea setosa var. setosa
 53000
 
 Fraxinus parryi
-88423
+81535
 
 Camissonia intermedia
 16922
@@ -16856,7 +16982,7 @@ Oxalis corniculata
 35609
 
 Ehrendorferia ochroleuca
-88430
+88405
 
 Eschscholzia elegans
 25216
@@ -16898,7 +17024,7 @@ Persicaria hydropiper
 37286
 
 Persicaria wallichii
-88485
+88446
 
 Polygonum bistortoides
 39172
@@ -17060,7 +17186,7 @@ Lithrea molleoides
 31277
 
 Cyclospermum leptophyllum
-88115
+88128
 
 Cymopterus aboriginum
 21654
@@ -17141,7 +17267,7 @@ Isomeris arborea var. insularis
 60270
 
 Eremogone macradenia var. arcuifolia
-88284
+81556
 
 Tunica prolifera
 37373
@@ -17278,6 +17404,9 @@ Ceanothus palmeri
 Rhamnus tomentella subsp. crassifolia
 76792
 
+Cotoneaster simonsii
+20518
+
 Geum triflorum
 26847
 
@@ -17350,11 +17479,14 @@ Iris macrosiphon
 Juncus laccatus
 79530
 
+Juncus leseurii; Juncus lesueurii
+88539
+
 Smilacina racemosa
 44779
 
 Platanthera foetida
-88625
+88572
 
 Distichlis spicata var. stricta
 23161
@@ -17588,10 +17720,10 @@ Dudleya saxosa
 23670
 
 Rhododendron neoglandulosum
-88340
+88326
 
 Vaccinium arbuscula
-88341
+88327
 
 Amorpha californica var. californica
 53916
@@ -17609,7 +17741,7 @@ Astragalus lentiformis
 14889
 
 Dolichos lignosus
-88358
+88342
 
 Lupinus arbustus subsp. arbustus
 51361
@@ -17624,7 +17756,7 @@ Lupinus sparsiflorus var. sparsiflorus
 75783
 
 Vicia bithynica
-88388
+88373
 
 Quercus garryana var. semota
 64729
@@ -17635,11 +17767,14 @@ Ribes lasianthum
 Wigandia urens
 48535
 
+Lepechinia rossii
+81648
+
 Stachys
 10540
 
 Pinguicula macroceras subsp. nortensis
-88404
+88388
 
 Limnanthes alba
 30968
@@ -17693,7 +17828,7 @@ Phlox longifolia
 37830
 
 Eriogonum abramsii
-88449
+88416
 
 Chorizanthe nortonii
 77941
@@ -17762,7 +17897,7 @@ Celtis laevigata var. reticulata
 56130
 
 Verbena venosa
-88546
+88498
 
 Viola adunca
 77001
@@ -17813,7 +17948,7 @@ Melica bulbosa
 33073
 
 Panicum alatum
-88656
+88602
 
 Paspalum notatum
 36418
@@ -18020,7 +18155,10 @@ Agastache urticifolia
 12124
 
 Eucalyptus lehmannii
-88413
+88397
+
+Mirabilis retrorsa
+33786
 
 Oenothera andina
 16894
@@ -18205,9 +18343,6 @@ Lotus douglasii var. congestus
 Lythrum sanfordii
 78707
 
-Mirabilis retrorsa
-33786
-
 Equisetum × ferrissii
 24419
 
@@ -18227,7 +18362,7 @@ Agoseris apargioides
 776
 
 Aster bicolor
-88132
+88143
 
 Calycadenia truncata subsp. truncata
 5865
@@ -18242,7 +18377,7 @@ Deinandra pentactis
 77600
 
 Glebionis coronaria var. coronaria
-88181
+88187
 
 Hemizonia corymbosa
 3368
@@ -18257,7 +18392,7 @@ Packera breweri
 77383
 
 Pseudognaphalium microcephalum
-88210
+81265
 
 Haplopappus racemosus subsp. pinetorum
 8121
@@ -18299,7 +18434,7 @@ Draba cuneifolia var. cuneifolia
 57848
 
 Noccaea fendleri
-88251
+88255
 
 Rorippa curvipes var. truncata
 76499
@@ -18326,7 +18461,7 @@ Silene campanulata
 44499
 
 Silene dichotoma subsp. dichotoma
-88293
+88280
 
 Silene parishii var. viscida
 66408
@@ -18371,7 +18506,7 @@ Astragalus kentrophyta var. elatus
 54771
 
 Sophora secundiflora
-88354
+88338
 
 Lathyrus glandulosus
 30300
@@ -18545,7 +18680,7 @@ Carex retroflexa
 17776
 
 Eleocharis coloradoenis
-88561
+88510
 
 Hemicarpha micrantha
 31194
@@ -18572,10 +18707,10 @@ Smilacina stellata var. sessilifolia
 44782
 
 Platanthera × estesii
-88624
+88571
 
 Platanthera × lassenii
-88626
+88573
 
 Aristida schiedeana var. orcuttiana
 80467
@@ -18637,6 +18772,9 @@ Stephanomeria runcinata var. parishii
 Equisetum
 9816
 
+Botrychium boreale var. obtusilobum
+15941
+
 Pellaea breweri
 36778
 
@@ -18659,7 +18797,7 @@ Centromadia parryi subsp. rudis
 80186
 
 Chrysothamnus viscidiflorus subsp. viscidiflorus var. latifolius
-88144
+88154
 
 Erigeron formosissimus
 2677
@@ -18771,6 +18909,9 @@ Lupinus concinnus
 
 Lupinus densiflorus var. aureus
 61283
+
+Senna marilandica
+44150
 
 Trifolium albopurpureum subsp. columbinum
 76634
@@ -18995,7 +19136,7 @@ Chloris truncata
 19271
 
 Dichanthelium oligosanthes subsp. scribnerianum
-88639
+88586
 
 Eleusine tristachya
 24039
@@ -19051,6 +19192,9 @@ Woodsia oregana
 Pityrogramma triangularis var. pallida
 77118
 
+Callitropsis nevadensis
+88110
+
 Ephedra fasciculata
 24278
 
@@ -19061,7 +19205,7 @@ Pseudotsuga menziesii var. menziesii
 64553
 
 Schinus terebinthifolius var. raddianus
-88113
+88126
 
 Lomatium dissectum var. dissectum
 61030
@@ -19109,7 +19253,7 @@ Orochaenactis
 539
 
 Psilocarphus globiferus
-88213
+81308
 
 Solidago canadensis subsp. elongata
 6200
@@ -19139,7 +19283,7 @@ Draba paysonii var. treleasii
 57908
 
 Noccaea fendleri subsp. glauca
-88253
+88257
 
 Opuntia parishii
 35301
@@ -19544,7 +19688,7 @@ Echinocereus mojavensis
 23786
 
 Opuntia stanlyi var. parishii
-88265
+88268
 
 Opuntia kunzei
 35271
@@ -19562,7 +19706,7 @@ Silene conoidea
 44507
 
 Silene serpentinicola
-81003
+80896
 
 Atriplex canescens
 15193
@@ -19700,7 +19844,10 @@ Eriogonum minutiflorum
 24949
 
 Polygonum multiflorum
-88488
+88449
+
+Dodecatheon tetrandum
+23189
 
 Dodecatheon subalpinum
 23216
@@ -19864,9 +20011,6 @@ Chaenactis tanacetifolia
 Crepis bakeri subsp. cusickii
 5957
 
-Erechtites hieraciifolia
-2574
-
 Gamochaeta pensylvanica
 3040
 
@@ -19913,7 +20057,7 @@ Raillardiopsis muirii
 4554
 
 Symphyotrichum chilense var. invenustum
-88224
+88227
 
 Trichocoronis wrightii var. wrightii
 79193
@@ -19949,7 +20093,7 @@ Streptanthus glandulosus var. secundus
 80615
 
 Cleomella hillmanii var. hillmanii
-88270
+88272
 
 Paronychia echinulata var. echinulata
 76965
@@ -20023,6 +20167,9 @@ Lupinus bicolor subsp. bicolor
 Dalea schottii var. puberula
 40164
 
+Trifolium minutissimum
+47049
+
 Trifolium macraei
 47122
 
@@ -20040,6 +20187,9 @@ Monardella linoides subsp. stricta
 
 Floerkea proserpinacoides
 25965
+
+Mirabilis froebelii
+62095
 
 Fraxinus anomala
 26094
@@ -20195,7 +20345,7 @@ Danthonia unispicata
 22333
 
 Eremochloa leersioides
-88645
+88591
 
 Leersia
 11095
@@ -20282,7 +20432,7 @@ Chrysothamnus viscidiflorus
 2084
 
 Erechtites arguta
-2570
+88165
 
 Ericameria nauseosa var. washoensis
 80508
@@ -20372,7 +20522,10 @@ Cistus incanus subsp. incanus
 49883
 
 Dudleya caespitosa
-88330
+88316
+
+Dudleya pumila
+77936
 
 Sedum obtusatum
 43994
@@ -20390,7 +20543,7 @@ Arctostaphylos manzanita subsp. roofii
 49187
 
 Arctostaphylos parryana subsp. deserticum
-88338
+81170
 
 Bernardia incana
 15609
@@ -20423,7 +20576,7 @@ Trigonella foenum-graecum
 47208
 
 Zeltnera muhlenbergii
-88394
+88379
 
 Geranium bicknellii
 26701
@@ -20466,6 +20619,9 @@ Eremalche
 
 Eremalche exilis
 24546
+
+Mirabilis froebelii var. glabrata
+62095
 
 Clarkia speciosa
 19599
@@ -20611,6 +20767,12 @@ Eleocharis montevidensis var. decumbens
 Trichophorum clementis
 80299
 
+Lemna perpusilla
+30453
+
+Lemna valdiviana var. valdiviana
+30468
+
 Allium bisceptrum
 12515
 
@@ -20618,7 +20780,7 @@ Brodiaea purdyi
 16152
 
 Bulbine semibarbata
-88602
+88550
 
 Erythronium hendersonii
 25179
@@ -20676,9 +20838,6 @@ Amsinckia lancifolia
 
 Dalea johnsonii var. minutifoliolata
 78075
-
-Dudleya pumila
-77936
 
 Fritillaria gracillima
 26137
@@ -20804,7 +20963,7 @@ Subularia aquatica
 45856
 
 Cylindropuntia wigginsii
-88262
+88265
 
 Ferocactus
 10633
@@ -20831,7 +20990,7 @@ Silene parishii
 44551
 
 Silene verecunda var. verecunda
-88300
+88286
 
 Spergularia marina
 45094
@@ -20921,7 +21080,7 @@ Eschscholzia glyptosperma
 25208
 
 Plantago juncoides var. califormica
-88435
+88408
 
 Collomia grandiflora
 20021
@@ -20936,7 +21095,7 @@ Linanthus inyoensis
 80356
 
 Navarretia capillaris
-88442
+81180
 
 Gilia splendens subsp. australis
 50814
@@ -21011,13 +21170,16 @@ Ailanthus
 9895
 
 Lycianthes rantonnettii
-88537
+88492
 
 Quincula lobata
 40783
 
 Solanum torreyi
 44842
+
+Styrax officinalis var. fulvescens
+80616
 
 ceuthobium tsugense (Rosend.) G. N. Jones subsp. mertensianae Hawksw. & Nickrent
 13881
@@ -21053,7 +21215,7 @@ Brodiaea uniflora
 29021
 
 Tulipa clusiana
-88619
+81354
 
 Corallorhiza striata var. striata
 56800
@@ -21065,7 +21227,7 @@ Briza maxima
 16135
 
 Hordeum marinum subsp. gussoneanum
-88652
+88597
 
 Melica imperfecta
 33080
@@ -21077,7 +21239,7 @@ Setaria pumila
 44260
 
 Urochloa arizonica
-88677
+88621
 
 Arabis cognata
 77757
@@ -21133,6 +21295,9 @@ Woodwardia fimbriata
 Selaginella scopulorum
 44050
 
+Callitropsis stephensonii
+88114
+
 Juniperus communis var. jackii
 29753
 
@@ -21161,7 +21326,7 @@ Anthemis fuscata
 2010
 
 Chrysothamnus nauseosus subsp. viscosus
-88141
+88151
 
 Cirsium andersonii
 2093
@@ -21179,7 +21344,7 @@ Ericameria parryi var. imula
 80516
 
 Erigeron robustior
-88173
+88180
 
 Eucephalus brickellioides
 80412
@@ -21272,7 +21437,7 @@ Euphorbia melanadenia
 18970
 
 Astragalus gambelianus var. gambelianus
-88351
+88335
 
 Lupinus lapidicola
 31923
@@ -21311,7 +21476,7 @@ Sphaeralcea emoryi var. emoryi
 76116
 
 Proboscidea parviflora var. parviflora
-88411
+88396
 
 Mollugo cerviana
 33880
@@ -21464,7 +21629,7 @@ Eriochloa
 11061
 
 Grapheporum wolfii
-88651
+88596
 
 Pennisetum glaucum
 36830
@@ -21548,7 +21713,7 @@ Erigeron foliosus var. mendocinus
 58409
 
 Erigeron klamathensis
-88170
+88177
 
 Filago pyramidata var. pyramidata
 77425
@@ -21575,7 +21740,7 @@ Madia madioides
 4050
 
 Nestotus stenophyllus
-88206
+88213
 
 Picris echioides
 4365
@@ -21668,7 +21833,7 @@ Astragalus lentiginosus var. platyphyllidius
 54785
 
 Dalea occidentalis
-88356
+88340
 
 Lotus neo-incanus
 31574
@@ -21782,7 +21947,7 @@ Dodecatheon pulchellum subsp. monanthum
 50198
 
 Rhamnus rubra var. rubra
-88509
+88465
 
 Agrimonia eupatoria
 12170
@@ -21794,7 +21959,7 @@ Chamaebatiaria millefolium
 18827
 
 Crataegus castlegarensis
-88515
+88471
 
 Holodiscus boursieri
 28344
@@ -21929,7 +22094,7 @@ Agoseris elata
 783
 
 Ancistrocarphus keilii
-88125
+81269
 
 Antennaria media subsp. media
 69877
@@ -21944,7 +22109,7 @@ Corethrogyne filaginifolia var. incana
 7140
 
 Cotula mexicana
-88149
+81572
 
 Erigeron algidus
 2612
@@ -21980,7 +22145,7 @@ Pluchea
 563
 
 Xanthisma spinulosum var. gooddingii
-88239
+88242
 
 Pectocarya peninsularis
 76582
@@ -22010,7 +22175,7 @@ Callitriche trochlearis
 16702
 
 Eremogone kingii var. glabrescens
-88283
+81550
 
 Minuartia decumbens
 33746
@@ -22077,9 +22242,6 @@ Myriophyllum sibiricum
 
 Emmenanthe penduliflora var. rosea
 58257
-
-Lepechina rossii
-88401
 
 Monardella linoides subsp. viminea
 51609
@@ -22159,6 +22321,9 @@ Polygonum polygaloides subsp. confertiflorum
 Lewisia stebbinsii
 30845
 
+Dodecatheon clevelandii var. gracile
+50179
+
 Anemone oregana
 13371
 
@@ -22237,6 +22402,9 @@ Eleocharis geniculata
 Juncus exiguus
 80234
 
+Juncus lescurii
+88539
+
 Brodiaea elegans subsp. elegans
 49461
 
@@ -22271,7 +22439,7 @@ Eragrostis minor
 24492
 
 Festuca californica subsp. hitchcockiana
-88648
+88594
 
 Glyceria
 11071
@@ -22367,7 +22535,7 @@ Erigeron filifolius
 2671
 
 Erigeron pumilus var. gracilior
-88172
+88179
 
 Erigeron strigosus var. septentrionalis
 7349
@@ -22382,7 +22550,7 @@ Packera eurycephala var. lewisrosei
 77395
 
 Senecio ammophilus
-88214
+88217
 
 Senecio eurycephalus var. lewisrosei
 8216
@@ -22450,6 +22618,9 @@ Silene menziesii
 Chenopodium strictum var. glaucophyllum
 56455
 
+Cuscuta indecora var. bifida
+57197
+
 Arctostaphylos mewukka subsp. mewukka
 74689
 
@@ -22476,6 +22647,9 @@ Lupinus pusillus
 
 Lupinus truncatus
 32101
+
+Medicago muricata
+88362
 
 Sesbania herbacea
 80319
@@ -22616,7 +22790,7 @@ Galium tricornutum
 26413
 
 Salix eriocephala var. watsonii
-88528
+88484
 
 Parnassia californica
 36272
@@ -22679,10 +22853,10 @@ Nolina bigelovii
 34681
 
 Pancratium maritimum
-88606
+88554
 
 Platanthera purpurascens
-88627
+88574
 
 Bouteloua trifida var. trifida
 80473
@@ -22694,7 +22868,7 @@ Elytrigia pontica subsp. pontica
 77054
 
 Hordeum marinum subsp. gussonianum
-88652
+88597
 
 Leersia oryzoides
 30431
@@ -22721,7 +22895,7 @@ Pilularia americana
 38232
 
 Selaginella arizonica subsp. eremophila
-88101
+88102
 
 Cupressus guadalupensis
 69510
@@ -22745,13 +22919,13 @@ Asarum caudatum var. caudatum
 54507
 
 Funastrum utahense
-88121
+81803
 
 Carthamus baeticus
 1914
 
 Centaurea × pratensis
-88136
+88146
 
 Chaenactis glabriuscula var. lanosa
 6957
@@ -22850,7 +23024,7 @@ Dianthus barbatus
 22734
 
 Eremogone macradenia var. macradenia
-88285
+81557
 
 Loeflingia
 10843
@@ -22865,7 +23039,7 @@ Sagina decumbens subsp. occidentalis
 52717
 
 Atriplex coronata var. vallicola
-88307
+88293
 
 Atriplex patula subsp. spicata
 15253
@@ -23126,7 +23300,7 @@ Luzula comosa var. congesta
 32148
 
 Agave consociata
-88595
+88543
 
 Amaryllis belladonna
 12964
@@ -23177,7 +23351,7 @@ Muhlenbergia appressa
 34056
 
 Urochloa maxima var. maxima
-88679
+88623
 
 Zizania palustris var. interior
 67914
@@ -23273,13 +23447,13 @@ Petradoria pumila
 4352
 
 Pseudognaphalium biolettii
-88209
+81666
 
 Haplopappus racemosus subsp. sessiliflorus
 77411
 
 Senecio bicolor subsp. cineraria
-88215
+88218
 
 Senecio triangularis
 4860
@@ -23346,6 +23520,9 @@ Dudleya abramsii subsp. bettinae
 
 Bryonia cretica
 16324
+
+Cuscuta californica var. apodanthera
+79313
 
 Arctostaphylos glauca
 13926
@@ -23432,7 +23609,7 @@ Eriogonum fasciculatum subsp. flavovirde
 58544
 
 Eriogonum oblongifolium
-88469
+88433
 
 Eriogonum nudum subsp. saxicola
 58662
@@ -23453,7 +23630,7 @@ Polygonum punctatum var. punctatum
 64200
 
 Sidotheca caryophylloides
-88495
+88455
 
 Cistanthe pulchella
 19506
@@ -23590,9 +23767,6 @@ Comarostaphylis diversifolia var. planifolia
 Cotyledon plattiana
 77935
 
-Cuscuta californica var. apodanthera
-79313
-
 Elymus saundersii var. californicus
 78059
 
@@ -23617,11 +23791,11 @@ Pteridium aquilinum
 Polystichum munitum
 39422
 
-Chamaecyparis nootkatensis
-18866
-
 Cupressus macnabiana
 21402
+
+Chamaecyparis nootkatensis
+18866
 
 Pinus torreyana subsp. torreyana
 52311
@@ -23648,7 +23822,7 @@ Aster engelmannii
 1338
 
 Chrysothamnus parryi subsp. bolanderi
-88143
+88153
 
 Cirsium fontinale var. obispoense
 7057
@@ -23657,7 +23831,7 @@ Crepis intermedia
 2403
 
 Machaeranthera shastensis var. montana
-88155
+81601
 
 Eastwoodia
 414
@@ -23888,7 +24062,7 @@ Adenostoma fasciculatum var. fasciculatum
 53568
 
 Chaenomeles sinensis
-88513
+88469
 
 Fragaria chiloensis
 26018
@@ -23972,7 +24146,7 @@ Calamagrostis canadensis var. langsdorfii
 55393
 
 Echinochloa crus-galli subsp. spiralis
-88640
+88587
 
 Festuca kingii
 25812
@@ -24074,7 +24248,7 @@ Cacaliopsis
 354
 
 Dieteria canescens var. leucanthemifolia
-88157
+81600
 
 Erigeron tener
 2795
@@ -24098,7 +24272,7 @@ Hulsea vestita subsp. callicarpha
 6109
 
 Leontodon muelleri
-88199
+88206
 
 Lepidospartum
 506
@@ -24146,7 +24320,7 @@ Arenaria
 10427
 
 Eremogone congesta var. charlestonensis
-88276
+88277
 
 Minuartia cismontana
 77842
@@ -24440,7 +24614,7 @@ Crepis runcinata subsp. andersonii
 5973
 
 Gamochaeta stachydifolia
-88179
+88185
 
 Glyptopleura
 448
@@ -24458,7 +24632,7 @@ Stephanomeria blairii
 5143
 
 Symphyotrichum expansum
-88226
+88229
 
 Trixis californica
 5473
@@ -24500,7 +24674,7 @@ Mammillaria vivipara
 25241
 
 Stellaria lagunensis
-88273
+81552
 
 Silene nuda subsp. insectivora
 53033
@@ -24587,7 +24761,7 @@ Boschniakia
 9465
 
 Passiflora tarminiana
-88433
+81250
 
 Aliciella humillima
 79235
@@ -24683,7 +24857,7 @@ Rhynchospora
 8919
 
 Schoenoplectus × oblongatus
-88566
+88515
 
 Chasmanthe floribunda
 19045
@@ -24800,7 +24974,7 @@ Pinus balfouriana
 38259
 
 Pinus monophylla var. fallax
-88105
+88119
 
 Justicia californica
 29815
@@ -24886,8 +25060,14 @@ Beta macrocarpa
 Cistus incanus subsp. creticus
 80481
 
+Helianthemum scoparium var. vulgare
+59902
+
 Calystegia malacophylla
 76594
+
+Dudleya caespitosa var. paniculata
+50239
 
 Dudleya virens
 23678
@@ -25049,13 +25229,16 @@ Frangula rubra subsp. yosemitana
 50573
 
 Rhamnus rubra var. modocensis
-88506
+88462
 
 Cercocarpus montanus var. minutiflorus
 56226
 
 Potentilla hickmanii
 39735
+
+Prunus ilicifolia subsp. lyonii
+76987
 
 Rosa nutkana var. setosa
 65296
@@ -25100,13 +25283,13 @@ Parthenocissus
 10286
 
 Cyperus esculentus var. heermannii
-88557
+88506
 
 Eleocharis suksdorfiana
 24007
 
 Agave deserti var. deserti
-88595
+88543
 
 Calochortus clavatus subsp. recurvifolius
 49517
@@ -25162,9 +25345,6 @@ Amsinckia latifolia
 Eleocharis disciformis
 23998
 
-Helianthemum scoparium var. vulgare
-59902
-
 Heuchera rubescens f. ambigua
 79030
 
@@ -25202,7 +25382,7 @@ Caucalis microcarpa
 48745
 
 Ambrosia bipinnatifida
-88123
+88134
 
 Franseria chamissonis
 812
@@ -25283,7 +25463,7 @@ Chorispora
 10488
 
 Erysimum insulare var. insulare
-88249
+88253
 
 Erysimum menziesii subsp. eurekense
 50478
@@ -25630,8 +25810,11 @@ Polystichum
 Isoetes bolanderi var. bolanderi
 60233
 
+Botrychium coulteri
+77127
+
 Ephedra distachya
-88104
+88118
 
 Abies magnifica var. magnifica
 71178
@@ -25709,7 +25892,7 @@ Alyssum minus subsp. micranthum
 79118
 
 Arabis × divaricarpa
-13704
+88247
 
 Arabis maxima var. hoffmannii
 13731
@@ -25804,6 +25987,9 @@ Trichostema micranthum
 Sidalcea oregana subsp. oregana var. oregana
 66363
 
+Melaleuca citrina
+81698
+
 Nuphar lutea
 34739
 
@@ -25835,7 +26021,7 @@ Navarretia prostrata
 34470
 
 Acanthoscyphus
-88447
+88414
 
 Chorizanthe polygonoides
 19348
@@ -25954,9 +26140,6 @@ Sisyrinchium boreale
 Juncus ambiguus
 29601
 
-Juncus lesueurii
-29675
-
 Spirodela
 10564
 
@@ -26048,7 +26231,7 @@ Ericameria
 428
 
 Erigeron greenei
-88169
+88176
 
 Erigeron pumilus var. intermedius
 7338
@@ -26117,7 +26300,7 @@ Ferocactus cylindraceus var. cylindraceus
 59107
 
 Opuntia curvispina
-88267
+88270
 
 Opuntia wolfii
 35366
@@ -26128,6 +26311,9 @@ Githopsis pulchella
 Cleomella plocasperma var. stricta
 56663
 
+Symphoricarpos parishii
+66920
+
 Arenaria pumicola var. pumicola
 54383
 
@@ -26135,7 +26321,7 @@ Cerastium diffusum
 18666
 
 Arenaria nuttallii subsp. gregaria
-88290
+81543
 
 Silene laciniata subsp. major
 53027
@@ -26164,8 +26350,11 @@ Dudleya lanceolata
 Parvisedum congdonii
 36349
 
+Cuscuta formosana
+88320
+
 Arctostaphylos nissenana
-88337
+88324
 
 Arctostaphylos uva-ursi
 13990
@@ -26243,7 +26432,7 @@ Mentzelia dispersa var. dispersa
 61856
 
 Malva assurgentiflora
-88407
+88392
 
 Camissonia californica
 16902
@@ -26264,7 +26453,7 @@ Linanthus parryae
 31070
 
 Microsteris gracilis subsp. humilior
-88441
+88412
 
 Navarretia nigelliformis subsp. nigelliformis
 51676
@@ -26304,6 +26493,9 @@ Lewisia glandulosa
 
 Montia
 8895
+
+Dodecatheon pulchellum var. macrocarpum
+23209
 
 Delphinium × inflexum
 22481
@@ -26387,7 +26579,7 @@ Veronica catenata
 47944
 
 Solanum villosum
-88542
+81606
 
 Fremontodendron californicum
 26127
@@ -26416,6 +26608,9 @@ Fimbristylis autumnalis
 Schoenoplectus maritimus
 43575
 
+Lemna minor var. obscura
+60688
+
 Asparagus officinalis
 14483
 
@@ -26423,7 +26618,7 @@ Fritillaria ojaiensis
 26158
 
 Narcissus papyraceus
-88604
+88552
 
 Nothoscordum gracile
 34732
@@ -26500,6 +26695,9 @@ Lycopodiella inundata
 Astrolepis cochisensis subsp. cochisensis
 49361
 
+Cupressus goveniana subsp. butanoensis
+88104
+
 Araujia
 9995
 
@@ -26525,7 +26723,7 @@ Deinandra minthornii
 80176
 
 Dieteria canescens var. incana
-88156
+88161
 
 Enceliopsis nudicaulis var. nudicaulis
 7225
@@ -26693,7 +26891,7 @@ Sphaeralcea rusbyi var. eremicola
 79172
 
 Fraxinus jonesii
-88422
+88400
 
 Oenothera cheiranthifolia
 16906
@@ -26864,7 +27062,7 @@ Kniphofia uvaria
 29921
 
 Pseudotrillium rivale
-88607
+88555
 
 Piperia elegans subsp. decurtata
 76440
@@ -26879,13 +27077,13 @@ Agropyron
 10110
 
 Aira pulchella
-88628
+88575
 
 Ammophila breviligulata
 13043
 
 Arrhenatherum elatius subsp. bulbosum
-88630
+88577
 
 Bromus tectorum var. glabratus
 16290
@@ -26996,7 +27194,7 @@ Asclepias curassavica
 14363
 
 Funastrum cynanchoides subsp. heterophyllum
-88120
+88132
 
 Artemisia arctica
 1165
@@ -27023,7 +27221,7 @@ Palafoxia arida var. arida
 8000
 
 Symphyotrichum foliaceum var. apricum
-88227
+88230
 
 Viguiera
 655
@@ -27089,7 +27287,7 @@ Arctostaphylos parryana subsp. tumescens
 80195
 
 Vaccinium nivictum
-88341
+88327
 
 Euphorbia fendleri
 18940
@@ -27176,7 +27374,7 @@ Sphaeralcea ambigua subsp. rosacea
 53073
 
 Acleisanthes diffusa
-88418
+88399
 
 Oenothera longissima subsp. clutei
 35019
@@ -27590,7 +27788,7 @@ Oxalis latifolia
 35638
 
 Pittosporum ralphii
-88434
+88407
 
 Allophyllum
 8863
@@ -27599,7 +27797,7 @@ Gilia leptantha subsp. purpusii
 50793
 
 Leptosiphon bicolor
-88440
+81148
 
 Linanthus aureus subsp. decorus
 51280
@@ -27656,7 +27854,7 @@ Rumex
 8801
 
 Montia fontana subsp. chondrosperma
-88500
+81237
 
 Trientalis europaea subsp. arctica
 53225
@@ -27719,7 +27917,7 @@ Scirpus olneyi
 43664
 
 Sisyrinchium oreophilum var. occidentale
-88587
+88536
 
 Juncus effusus subsp. pacificus
 79529
@@ -27749,7 +27947,7 @@ Melica frutescens
 33076
 
 Piptatherum exiguum
-88664
+88610
 
 Polypogon australis
 39373
@@ -27815,7 +28013,7 @@ Calycoseris wrightii
 1892
 
 Centaurea × moncktonii
-88135
+88145
 
 Centaurea triumfettii
 1950
@@ -27900,6 +28098,9 @@ Monolepis
 
 Calystegia macrostegia subsp. amplissima
 49548
+
+Dudleya bettinae
+50224
 
 Sedum laxum subsp. latifolium
 52930
@@ -27986,7 +28187,7 @@ Plantago major var. pilgeri
 38570
 
 Limonium ramosissimum subsp. provinciale
-88437
+88410
 
 Allophyllum gilioides subsp. gilioides
 49079
@@ -28109,7 +28310,7 @@ Eriophorum
 8908
 
 Rhynchospora kunthii
-88563
+88512
 
 Schoenoplectus acutus
 79928
@@ -28130,7 +28331,7 @@ Agrostis alba
 12287
 
 Amphibromus neesii
-88629
+88576
 
 Andropogon glomeratus var. pumilus
 53968
@@ -28304,10 +28505,10 @@ Downingia bicornuta
 23274
 
 Agrostemma githago var. githago
-88272
+88274
 
 Eremogone macradenia var. ferrisiae
-88282
+81553
 
 Stellaria
 10852
@@ -28340,7 +28541,7 @@ Astragalus oophorous
 14973
 
 Calia secundiflora
-88354
+88338
 
 Cytisus scoparius var. scoparius
 57416
@@ -28415,7 +28616,7 @@ Phlox longifolia subsp. brevifolia
 52209
 
 Bistorta officinalis
-88460
+88427
 
 Chorizanthe fimbriata var. laciniata
 56490
@@ -28439,7 +28640,7 @@ Eriogonum ferrissii
 58783
 
 Sidotheca emarginata
-88496
+88456
 
 Ranunculus orthorhynchus var. orthorhynchus
 64957
@@ -28499,7 +28700,7 @@ Verbena bonariensis var. conglomerata
 67518
 
 Aponogeton distachyos
-88551
+88501
 
 Phoenix canariensis
 37878
@@ -28508,7 +28709,7 @@ Fimbristylis capillaris
 16367
 
 Carex livida var. radicalis
-88556
+88505
 
 Carex simulata
 17834
@@ -28520,7 +28721,7 @@ Iris
 9434
 
 Sisyrinchium flavidum
-88582
+88531
 
 Wolffia globosa
 48591
@@ -28639,6 +28840,9 @@ Tauschia arguta
 Asclepias fascicularis
 14375
 
+Solanoa purpurescens
+14421
+
 Achillea millefolium var. borealis
 678
 
@@ -28667,7 +28871,7 @@ Dicoria canescens subsp. canescens
 5985
 
 Dieteria asteroides var. lagunensis
-88154
+88160
 
 Ericameria fasciculata
 2593
@@ -28766,7 +28970,7 @@ Petrorhagia
 10850
 
 Silene pseudatocion
-88295
+88282
 
 Spergularia canadensis
 45080
@@ -28781,7 +28985,7 @@ Chenopodium atrovirens
 19140
 
 Kochia scoparia subsp. scoparia
-88322
+88308
 
 Convolvulus aridus subsp. tenuifolius
 49554
@@ -28811,7 +29015,7 @@ Astragalus whitneyi var. whitneyi
 54973
 
 Genista monosperma
-88360
+81710
 
 Lotus stipularis var. stipularis
 61150
@@ -29015,7 +29219,7 @@ Carex vesicaria var. vesicaria
 55939
 
 Ixia polystachya
-88574
+88523
 
 Juncus drummondii
 29642
@@ -29080,6 +29284,9 @@ Nemophila menziesii var. minima
 Peucedanum erosum
 78352
 
+Botrychium simplex var. fontanum
+88101
+
 Pellaea × glaciogena
 36787
 
@@ -29087,7 +29294,7 @@ Cupressus sargentii
 21405
 
 Alternanthera ficoidea var. bettzickiana
-88109
+88123
 
 Cymopterus globosus
 21671
@@ -29243,7 +29450,7 @@ Chamaesyce serpens
 19003
 
 Acacia elata
-11678
+11635
 
 Astragalus anxius
 15132
@@ -29303,7 +29510,7 @@ Mirabilis albida
 33782
 
 Mirabilis jalapa var. jalapa
-88421
+81819
 
 Oenothera cheiranthifolia var. nitida
 16906
@@ -29414,10 +29621,10 @@ Toxicoscordion
 69362
 
 Toxicoscordion micranthum
-88612
+88560
 
 Triantha occidentalis
-88613
+88561
 
 Trillium ovatum subsp. ovatum
 53276
@@ -29432,7 +29639,7 @@ Echinochloa colona
 23790
 
 Elytrigia juncea subsp. boreali-atlantica
-88644
+88590
 
 Eriochloa contracta
 24652
@@ -29494,6 +29701,9 @@ Nemophila menziesii var. incana
 Pyrrocoma gossypina
 4547
 
+Cupressus goveniana var. pygmaea
+88112
+
 Abies venusta
 11522
 
@@ -29522,7 +29732,7 @@ Cirsium
 384
 
 Cirsium scariosum var. robustum
-88148
+88156
 
 Deinandra bacigalupii
 77607
@@ -29732,7 +29942,7 @@ Eriogonum vestitum
 24968
 
 Persicaria bistortoides
-88483
+88444
 
 Polygonum majus
 39209
@@ -29742,6 +29952,9 @@ Montia fontana subsp. variabilis
 
 Myosurus apetalus
 77533
+
+Ranunculus alveolatus
+64848
 
 Ranunculus gormanii
 40895
@@ -29789,7 +30002,7 @@ Triphysaria floribunda
 47294
 
 Solanum scabrum
-88541
+88495
 
 Verbena litoralis
 47909
@@ -29816,7 +30029,7 @@ Scirpus robustus
 43734
 
 Marica californica
-88576
+88525
 
 Juncus leiospermus
 29673
@@ -29832,6 +30045,9 @@ Veratrum fimbriatum
 
 Yucca brevifolia
 48766
+
+Listera retusa
+81820
 
 Achnatherum aridum
 76391
@@ -29870,7 +30086,7 @@ Piptochaetium stipoides var. purpurascens
 63812
 
 Pleuraphis mutica
-88665
+88611
 
 Pleuropogon californicus var. davyi
 74815
@@ -29879,7 +30095,7 @@ Torreyochloa pallida
 46755
 
 Tribolium obliterum
-88676
+88620
 
 Potamogeton gramineus
 39574
@@ -29919,6 +30135,9 @@ Azolla filiculoides
 
 Pteridium aquilinum var. pubescens
 64626
+
+Botrychium onondagense
+15925
 
 Abies lasiocarpa
 11527
@@ -30070,6 +30289,9 @@ Lupinus concinnus var. desertorum
 Lupinus lyallii subsp. lyallii
 51423
 
+Medicago scutellata
+32947
+
 Oxytropis
 9391
 
@@ -30083,7 +30305,7 @@ Gentiana bisetaea
 26611
 
 Zeltnera abramsii
-88391
+88376
 
 Geranium attenuilobum
 26700
@@ -30108,6 +30330,9 @@ Monardella pringlei
 
 Monardella villosa var. subglabra
 62148
+
+Utricularia exoleta
+47599
 
 Linum lewisii
 31156
@@ -30140,7 +30365,7 @@ Leptodactylon pungens subsp. pulchriflorum
 30621
 
 Oxytheca abramsii
-88449
+88416
 
 Centrostegia thurberi
 18606
@@ -30179,7 +30404,7 @@ Glaux
 10707
 
 Delphinium inflexum
-88501
+88458
 
 Ivesia santolinoides
 29461
@@ -30269,7 +30494,7 @@ Aristida ternipes
 14223
 
 × Elyhordeum californicum
-88643
+88589
 
 Eriochloa acuminata var. acuminata
 58444
@@ -30293,7 +30518,7 @@ Puccinellia
 11153
 
 Zostera asiatica
-48951
+88625
 
 Amsinckia californica
 77697
@@ -30339,6 +30564,12 @@ Pentagramma triangularis subsp. maxonii
 
 Selaginella densa
 44048
+
+Cupressus macrocarpa subsp. lobosensis
+88109
+
+Cupressus sargentii var. duttonii
+78003
 
 Juniperus communis
 29753
@@ -30389,7 +30620,7 @@ Stylocline
 623
 
 Stylocline gnaphalioides
-88220
+88223
 
 Impatiens glandulifera
 28961
@@ -30428,7 +30659,7 @@ Paronychia echinulata
 76964
 
 Spergularia bocconi
-88301
+88287
 
 Stellaria longifolia var. longifolia
 66768
@@ -30688,9 +30919,6 @@ Ammoselinum occidentale
 Astragalus antisellii var. gaviotus
 77822
 
-Cupressus sargentii var. duttonii
-78003
-
 Eunanus layneae
 25380
 
@@ -30725,7 +30953,7 @@ Almutaster pauciflorus
 12710
 
 Aster intricatus
-88128
+88139
 
 Arnica sororia
 1148
@@ -30743,7 +30971,7 @@ Erigeron nevadensis var. pygmaeus
 78985
 
 Franseria bipinnatifida
-88177
+88184
 
 Gutierrezia microcephala
 3142
@@ -30758,7 +30986,7 @@ Lessingia occidentalis
 76348
 
 Logfia californica
-88201
+88208
 
 Madia rammii
 4054
@@ -30809,7 +31037,7 @@ Arenaria ursina
 14048
 
 Arenaria nuttallii subsp. fragilis
-88288
+81387
 
 Moenchia erecta subsp. erecta
 77173
@@ -30851,7 +31079,7 @@ Calliandra
 9299
 
 Genista aetnensis
-88359
+88343
 
 Genista canariensis
 26556
@@ -30935,7 +31163,7 @@ Polygala verticillata
 39108
 
 Acanthoscyphus parishii var. goodmaniana
-88451
+88418
 
 Chorizanthe leptoceras
 23188
@@ -31020,6 +31248,9 @@ Castilleja praeterita
 
 Orthocarpus hispidus
 18324
+
+Synthyris cordata
+80666
 
 Datura inoxia
 22384
@@ -31120,9 +31351,6 @@ Drosanthemum floribundum
 Cymopterus cinerarius
 21661
 
-Agoseris grandiflora var. leptophlla
-88122
-
 Cirsium canovirens
 2126
 
@@ -31132,6 +31360,9 @@ Coreopsis douglasii
 Corethrogyne californica var. californica
 7132
 
+Erechtites hieraciifolius
+88166
+
 Ericameria brachylepis
 2585
 
@@ -31140,6 +31371,9 @@ Ericameria parryi var. vulcanica
 
 Erigeron disparipilus
 2661
+
+Gamochaeta coarctata
+81706
 
 Haplopappus whitneyi
 3188
@@ -31197,6 +31431,9 @@ Convolvulus aridus subsp. intermedius
 
 Tillaea erecta
 20582
+
+Cuscuta pentagona var. calycina
+21462
 
 Arctostaphylos × benitoensis
 13907
@@ -31283,7 +31520,7 @@ Sphaeralcea grossulariifolia var. grossulariifolia
 76118
 
 Chamelaucium uncinatum
-88412
+81817
 
 Eucalyptus corynocalyx
 25260
@@ -31316,7 +31553,7 @@ Phlox covillei
 37796
 
 Eriogonum apiculatum var. subvirgatum
-88461
+88428
 
 Eriogonum baileyi var. divaricatum
 58470
@@ -31337,7 +31574,7 @@ Polygonum sawatchense
 39206
 
 Rumex britannica
-88491
+88452
 
 Systenotheca
 8803
@@ -31387,6 +31624,9 @@ Salix laevigata var. congesta
 Salix lasiolepis var. lasiolepis
 65754
 
+Chrysamphora californica
+22340
+
 Heuchera hirsutissima
 28119
 
@@ -31412,7 +31652,7 @@ Physalis longifolia var. subglabrata
 63697
 
 Valeriana hookeri
-88545
+88497
 
 Verbena gooddingii
 47861
@@ -31504,11 +31744,14 @@ Agoseris heterophylla var. turgida
 Arctium lappa
 1082
 
+Artemisia absinthium
+1158
+
 Artemisia arbuscula subsp. longiloba
 5756
 
 Artemisia campestris var. scouleriana
-88131
+88142
 
 Carduus pycnocephalus
 1901
@@ -31568,7 +31811,7 @@ Buddleja
 10373
 
 Opuntia × curvispina
-88268
+88271
 
 Lonicera cauriana
 31492
@@ -31589,7 +31832,7 @@ Chenopodium simplex
 19204
 
 Salsola kali subsp. pontica
-88324
+88310
 
 Suaeda calceoliformis
 45831
@@ -31646,7 +31889,7 @@ Frasera umpquaensis
 45890
 
 Zeltnera exaltata
-88393
+88378
 
 Phacelia bicolor
 37418
@@ -31658,7 +31901,7 @@ Scutellaria bolanderi
 43880
 
 Teucrium fruticans
-88403
+88387
 
 Linum grandiflorum
 31151
@@ -31853,13 +32096,16 @@ Festuca minutiflora
 25817
 
 Pennisetum ciliare var. ciliare
-88661
+88607
 
 Potamogeton pectinatus
 39601
 
 Stuckenia filiformis subsp. alpina
 80318
+
+Zostera japonica
+48947
 
 Amsinckia appressa
 77693
@@ -31904,7 +32150,7 @@ Artemisia ludoviciana subsp. incompta
 5777
 
 Chrysothamnus nauseosus subsp. viridulus
-88140
+88150
 
 Chrysothamnus viscidiflorus subsp. lanceolatus
 5927
@@ -31916,7 +32162,7 @@ Hymenoxys hoopesii
 80407
 
 Encelia farinosa × Encelia frutescens
-88161
+88164
 
 Erigeron eatonii var. plantagineus
 7277
@@ -31925,7 +32171,7 @@ Euthamia
 433
 
 Glebionis coronaria var. discolor
-88182
+88188
 
 Glyptopleura setulosa
 3057
@@ -32138,7 +32384,7 @@ Eriogonum mohavense subsp. ampullaceum
 24687
 
 Eriogonum clavatum
-88463
+81392
 
 Eriogonum ovalifolium var. nivale
 58678
@@ -32147,7 +32393,7 @@ Eriogonum reniforme var. playanum
 24915
 
 Eriogonum rupicola
-88472
+88435
 
 Eriogonum spergulinum subsp. reddingianum
 58720
@@ -32189,13 +32435,13 @@ Frangula californica subsp. occidentalis
 50566
 
 Rhamnus purshiana var. annonifolia
-88504
+88460
 
 Agrimonia gryposepala
 12171
 
 Amelanchier utahensis var. utahensis
-88512
+88468
 
 Cercocarpus intricatus
 18737
@@ -32255,7 +32501,7 @@ Fritillaria grayana
 26148
 
 Platanthera × correllii
-88623
+88570
 
 Avena fatua
 15321
@@ -32264,7 +32510,7 @@ Briza
 11002
 
 Dichanthelium acuminatum subsp. thermale
-88638
+88585
 
 Potamogeton pusillus
 39612
@@ -32363,7 +32609,7 @@ Symphyotrichum
 69305
 
 Symphyotrichum hendersonii
-88232
+88235
 
 Tolpis
 637
@@ -32384,7 +32630,7 @@ Arabis platysperma var. platysperma
 54237
 
 Boechera selbyi var. inyoensis
-88247
+88251
 
 Camelina microcarpa
 16888
@@ -32471,7 +32717,7 @@ Fraxinus latifolia
 26105
 
 Fraxinus trifoliata
-88424
+88401
 
 Boisduvalia glabella var. campestris
 76887
@@ -32498,7 +32744,7 @@ Eriogonum ursinum var. nervulosum
 58788
 
 Johanneshowellia puberula
-88481
+88442
 
 Lastarriaea chilensis subsp. californica
 30284
@@ -32516,7 +32762,7 @@ Rhamnus californica
 41060
 
 Rhamnus purshiana var. purshiana
-88505
+88461
 
 Prunus dulcis
 39976
@@ -32591,7 +32837,7 @@ Calochortus weedii var. vestus
 55489
 
 Trillium ovatum var. oettingeri
-88615
+88563
 
 Zigadenus fremontii var. minor
 48900
@@ -32777,16 +33023,16 @@ Arenaria congesta var. congesta
 54328
 
 Herniaria cinerea
-88286
+81545
 
 Chenopodium berlandieri var. zschackei
-88314
+88300
 
 Chenopodium strictum
 19208
 
 Convolvulus tricolor
-88326
+88312
 
 Cornus nuttallii
 20397
@@ -32858,7 +33104,7 @@ Leptospermum laevigatum
 30642
 
 Acleisanthes nevadensis
-88419
+81818
 
 Oenothera arenaria
 16895
@@ -33260,7 +33506,7 @@ Polygonum amphibium var. stipulaceum
 64133
 
 Rumex × erubescens
-88492
+88453
 
 Rumex triangulivalvis
 42428
@@ -33383,7 +33629,7 @@ Bouteloua eriopoda
 15977
 
 Brachypodium phoenicoides
-88631
+88578
 
 Bromus tectorum
 16290
@@ -33506,7 +33752,7 @@ Erigeron breweri var. bisanctus
 58390
 
 Erigeron glacialis
-88166
+88173
 
 Erigeron linearis
 2715
@@ -33515,7 +33761,7 @@ Erigeron reductus
 24616
 
 Eriophyllum stoechadifolium
-88174
+88181
 
 Heteranthemis viscidehirta
 77428
@@ -33524,7 +33770,7 @@ Heterotheca sessiliflora
 3436
 
 Heterotheca sessiliflora var. fastigiata
-88195
+88203
 
 Hieracium argutum var. parishii
 3477
@@ -33562,6 +33808,9 @@ Cryptantha micromeres
 Cryptantha subretusa
 21300
 
+Berteroa incana
+15612
+
 Cusickiella douglasii
 21477
 
@@ -33572,7 +33821,10 @@ Lepidium densiflorum var. pubicarpum
 76488
 
 Cylindropuntia bigelovii var. bigelovii
-88258
+88261
+
+Symphoricarpos rivularis
+66912
 
 Cerastium semidecandrum
 18687
@@ -33632,7 +33884,7 @@ Lupinus densiflorus var. persecundus
 61298
 
 Lupinus propinquus
-88372
+88358
 
 Lupinus subvexus var. albilanatus
 61473
@@ -33719,7 +33971,7 @@ Chorizanthe coriacea
 30284
 
 Persicaria wallichii var. wallichii
-88486
+88447
 
 Calyptridium monandrum
 16845
@@ -33732,6 +33984,9 @@ Lewisia pygmaea
 
 Montia chamissoi
 33989
+
+Androsace arizonica
+13323
 
 Dodecatheon hendersonii subsp. cruciatum
 50185
@@ -33746,7 +34001,7 @@ Aruncus dioicus var. pubescens
 54500
 
 Pyracantha crenulata
-88520
+88476
 
 Galium nuttallii subsp. nuttallii
 50642
@@ -33755,7 +34010,7 @@ Salix arctica
 42682
 
 Salix eriocephala var. ligulifolia
-88527
+88483
 
 Anemopsis californica var. subglabra
 13392
@@ -33974,7 +34229,7 @@ Stephanomeria parryi
 5155
 
 Symphyotrichum foliaceum var. canbyi
-88228
+88231
 
 Wyethia angustifolia
 5572
@@ -34145,7 +34400,7 @@ Eriogonum arachnoideum
 24832
 
 Eriogonum cupulatum
-88466
+88430
 
 Eriogonum microthecum subsp. spathulare
 58637
@@ -34163,7 +34418,7 @@ Pterostegia drymarioides
 40273
 
 Eriogonum emarginatum
-88496
+88456
 
 Lewisia cantelowii
 30825
@@ -34364,7 +34619,7 @@ Cirsium mohavense
 2198
 
 Erechtites prenanthoides
-2578
+88168
 
 Erigeron eatonii
 2663
@@ -34403,7 +34658,7 @@ Conringia
 10493
 
 Cylindropuntia × wigginsii
-88263
+88266
 
 Triodanis biflora
 47267
@@ -34424,7 +34679,7 @@ Silene sargentii
 44566
 
 Spergularia platensis var. platensis
-88303
+88289
 
 Chenopodium incanum
 19177
@@ -34451,7 +34706,7 @@ Leucothoe davisiae
 30815
 
 Vaccinium caespitosum
-88341
+88327
 
 Chamaesyce polycarpa var. hirtella
 56325
@@ -34744,6 +34999,9 @@ Ranunculus canus var. blankinshipii
 Notholaena
 10418
 
+Cupressus goveniana subsp. neolomondensis
+88104
+
 Cupressus goveniana
 21400
 
@@ -34781,7 +35039,7 @@ Erigeron bloomeri var. nudatus
 7250
 
 Euchiton japonicus
-88175
+88182
 
 Grindelia nana
 3121
@@ -34879,6 +35137,9 @@ Cotyledon
 Crassula connata var. connata
 56882
 
+Cuscuta squamigera
+57209
+
 Arctostaphylos glandulosa subsp. adamsii
 49168
 
@@ -34948,6 +35209,9 @@ Eucalyptus cladocalyx
 Mirabilis oblongifolia
 33819
 
+Mirabilis bigelovii var. aspera
+80120
+
 Forestiera pubescens var. pubescens
 59190
 
@@ -34988,7 +35252,7 @@ Eriogonum ursinum var. confine
 24948
 
 Eriogonum ericifolium subsp. thornei
-88474
+81197
 
 Polygonum punctatum var. confertiflorum
 64197
@@ -35003,7 +35267,7 @@ Ceanothus megacarpus var. megacarpus
 75444
 
 Cydonia sinensis
-88516
+88472
 
 Geum macrophyllum
 26835
@@ -35012,7 +35276,7 @@ Heteromeles
 11236
 
 Rosa serafinii
-88521
+88477
 
 Heuchera micrantha var. pacifica
 59981
@@ -35069,10 +35333,10 @@ Freesia alba
 79183
 
 Sisyrinchium oreophilum
-88586
+88535
 
 Sisyrinchium thurowi
-88588
+88537
 
 Juncus falcatus
 29652
@@ -35159,7 +35423,7 @@ Pinus contorta subsp. contorta
 75096
 
 Tidestromia lanuginosa subsp. eliassoniana
-88111
+88125
 
 Nerium oleander
 34616
@@ -35198,7 +35462,7 @@ Hesperevax acaulis var. acaulis
 59933
 
 Lasiospermum bipinnatum
-88198
+88205
 
 Layia glandulosa
 3749
@@ -35291,7 +35555,7 @@ Beta
 11493
 
 Dysphania pumilio
-88321
+88307
 
 Convolvulus simulans
 20208
@@ -35426,7 +35690,10 @@ Lewisia serrata
 30843
 
 Montia fontana subsp. amporitana
-88499
+81326
+
+Androsace septentrionalis subsp. puberulenta
+13325
 
 Aconitum
 10120
@@ -35501,7 +35768,7 @@ Narcissus tazetta
 34404
 
 Triteleia grandiflora subsp. howellii
-88617
+88565
 
 Calypso bulbosa subsp. occidentalis
 16828
@@ -35786,10 +36053,10 @@ Ceanothus hearstiorum
 18455
 
 Rhamnus rubra var. nevadensis
-88507
+88463
 
 Photinia davidsoniae
-88517
+88473
 
 Prunus virginiana var. melanocarpa
 64547
@@ -35852,7 +36119,7 @@ Sisyrinchium idahoense
 44711
 
 Juncus anthelatus
-88589
+88538
 
 Juncus balticus var. vallicola
 60326
@@ -35946,6 +36213,9 @@ Pteris multifida
 
 Araucaria columnaris
 77335
+
+Callitropsis abramsiana
+88104
 
 Justicia
 10682
@@ -36044,7 +36314,7 @@ Streptanthus cordatus var. cordatus
 66849
 
 Cylindropuntia × fosbergii
-88260
+88263
 
 Cleome isomeris
 19726
@@ -36074,7 +36344,7 @@ Ipomoea purpurea
 29085
 
 Drosera aliciae
-88335
+88322
 
 Arctostaphylos gabrielensis
 76581
@@ -36230,13 +36500,13 @@ Spiraea douglasii var. douglasii
 66661
 
 Salix eriocephala var. eriocephala
-88526
+88482
 
 Salix orestera
 42914
 
 Diplacus longiflorus subsp. lompocensis
-88535
+88490
 
 Penstemon clevelandii subsp. clevelandii
 51985
@@ -36272,7 +36542,7 @@ Phoradendron juniperinum var. ligatum
 37902
 
 Aponogeton distachyon
-88551
+88501
 
 Lysichiton americanum
 32349
@@ -36349,11 +36619,14 @@ Stanleya pinnata subsp. inyoensis
 Isoetes lacustris var. paupercula
 29404
 
+Botrychium multifidum subsp. californicum
+77127
+
 Cupressus arizonica
 21395
 
 Juniperus communis var. saxatilis
-29753
+60424
 
 Abies grandis var. grandis
 79229
@@ -36369,6 +36642,9 @@ Ligusticum apiifolium
 
 Oreonana clementis
 35431
+
+Astephanus utahense
+81803
 
 Amblyopappus
 305
@@ -36503,7 +36779,7 @@ Lupinus subvexus
 32093
 
 Otholobium fruticans
-88377
+88364
 
 Trifolium buckwestiorum
 47057
@@ -36516,6 +36792,9 @@ Gentianella amarella
 
 Hippuris vulgaris
 28291
+
+Utricularia vulgaris subsp. macrorhiza
+47607
 
 Ammannia coccinea
 13031
@@ -36560,7 +36839,7 @@ Eschscholzia lobbii
 25211
 
 Passiflora cerulea
-88431
+88406
 
 Whipplea modesta
 48534
@@ -36608,7 +36887,7 @@ Nigella damascena
 34664
 
 Amelanchier utahensis var. covillei
-88511
+88467
 
 Ivesia cryptocaulis
 29444
@@ -36649,6 +36928,9 @@ Triphysaria micrantha
 Calibrachoa parviflora
 16635
 
+Ampelopsis brevipedunculata
+13090
+
 Carex parryana var. hallii
 79122
 
@@ -36680,7 +36962,7 @@ Eriochloa aristata var. aristata
 79178
 
 Festuca ammobia
-88646
+88592
 
 Lamarckia aurea
 30147
@@ -36755,13 +37037,13 @@ Sanicula crassicaulis
 43169
 
 Hedera helix subsp. helix
-88119
+88131
 
 Asclepias tuberosa
 14434
 
 Ambrosia × platyspina
-88124
+88135
 
 Amphipappus
 308
@@ -36800,7 +37082,7 @@ Haplopappus eastwoodiae
 2593
 
 Ericameria nauseosa var. arta
-88163
+88170
 
 Grindelia hirsutula var. davyi
 77346
@@ -36974,7 +37256,7 @@ Eriogonum maculatum
 24860
 
 Eriogonum microthecum var. lacus-ursi
-88467
+88431
 
 Eriogonum gramineum
 24881
@@ -37099,8 +37381,14 @@ Sisyrinchium occidentale
 Juncus nevadensis
 29689
 
+see also Landolt 1986"
+30468
+
 Allium atrorubens var. cristatum
 53759
+
+Allium fimbriatum subsp. parryi
+12616
 
 Calochortus pulchellus
 16755
@@ -37112,7 +37400,7 @@ Narthecium
 9544
 
 Triteleia × versicolor
-88618
+88566
 
 Listera cordata
 31225
@@ -37121,10 +37409,10 @@ Achnatherum caudatum
 79221
 
 Dichanthelium acuminatum subsp. acuminatum
-88635
+88582
 
 Dichanthelium acuminatum subsp. lindheimeri
-88637
+88584
 
 Koeleria
 11091
@@ -37181,7 +37469,10 @@ Selaginella
 8877
 
 Cedrus libani
-88102
+88115
+
+Juniperus grandis
+88116
 
 Taxus
 9925
@@ -37193,7 +37484,7 @@ Brayulinea densa
 16114
 
 Tidestromia suffruticosa var. oblongifolia
-88112
+81586
 
 Lomatium dasycarpum subsp. dasycarpum
 51334
@@ -37325,7 +37616,7 @@ Sedum purdyi
 44016
 
 Cucurbita pepo var. medullosa
-88332
+88318
 
 Cuscuta indecora
 21448
@@ -37382,7 +37673,7 @@ Mentzelia lindleyi subsp. crocea
 33231
 
 Eucalyptus pulchella
-88414
+81244
 
 Luma apiculata
 31673
@@ -37591,11 +37882,14 @@ Balsamorhiza hookeri var. neglecta
 Chrysanthemum
 378
 
+Erechtites minimus
+88168
+
 Eriophyllum nubigenum
 2823
 
 Heterotheca echioides var. bolanderi
-88187
+88193
 
 Lagophylla ramosissima subsp. ramosissima
 51132
@@ -37628,7 +37922,7 @@ Caulanthus major var. nevadensis
 76471
 
 Erysimum insulare var. grandifolium
-88248
+88252
 
 Lepidium dictyotum var. acutidens
 60708
@@ -37646,7 +37940,7 @@ Sclerocactus johnsonii
 43803
 
 Arenaria lanuginosa var. saxosa
-88273
+81552
 
 Cerastium beeringianum subsp. earlei
 49813
@@ -37661,7 +37955,7 @@ Paxistima
 9806
 
 Atriplex cordulata var. erecticaulis
-88306
+88292
 
 Atriplex gmelinii var. gmelinii
 71458
@@ -37691,7 +37985,7 @@ Trifolium mucronatum subsp. lacerum
 53262
 
 Trifolium tridentatum
-88387
+88372
 
 Gentiana newberryi
 26591
@@ -37784,7 +38078,7 @@ Eriogonum diclinum
 24756
 
 Eriogonum douglasii var. meridionale
-88464
+81386
 
 Eriogonum delicatulum
 24867
@@ -37799,7 +38093,7 @@ Eriogonum polycladon
 24909
 
 Eriogonum caryophylloides
-88495
+88455
 
 Claytonia parviflora
 19631
@@ -37896,6 +38190,9 @@ Romulea rosea var. australis
 
 Luzula orestera
 32150
+
+Chevall. publication not seen by Editor]
+30468
 
 Fritillaria biflora var. biflora
 72344
@@ -38096,7 +38393,7 @@ Ipomoea aquatica
 29024
 
 Rhododendron × columbianum
-88339
+88325
 
 Astragalus asymmetricus
 14702
@@ -38372,7 +38669,7 @@ Helianthus gracilentus
 3280
 
 Heterotheca sessiliflora var. sanjacintensis
-88196
+74852
 
 Hieracium scouleri var. nudicaule
 7691
@@ -38447,7 +38744,7 @@ Silene laciniata var. latifolia
 80596
 
 Halimium lasianthum
-88325
+88311
 
 Calystegia atriplicifolia subsp. buttensis
 49538
@@ -38573,7 +38870,7 @@ Eriogonum affine
 58656
 
 Eriogonum ursinum var. erubescens
-88477
+88438
 
 Eriogonum trachygonum subsp. subscaposum
 58800
@@ -38583,6 +38880,9 @@ Polygonum amphibium
 
 Polygonum capitatum
 39184
+
+Androsace acuta
+49111
 
 Androsace filiformis
 13321
@@ -38656,6 +38956,9 @@ Valeriana dioica
 Viola sempervirens
 48307
 
+Phoradendron longispicum var. cyclophyllum
+79940
+
 Carex abrupta
 17207
 
@@ -38675,7 +38978,7 @@ Scirpus diffusus
 43686
 
 Bermudiana bella
-88568
+88517
 
 Sisyrinchium douglasii
 44667
@@ -38749,9 +39052,6 @@ Lupinus subvexus var. insularis
 Obione lentiformis
 78575
 
-Phoradendron longispicum var. cyclophyllum
-79940
-
 Selaginella eremophila
 44055
 
@@ -38822,10 +39122,10 @@ Pseudobahia bahiifolia var. pinnatifida
 64550
 
 Stylocline gnaphaloides
-88220
+88223
 
 Youngia japonica var. japonica
-88240
+88243
 
 Berberis aquifolium var. aquifolium
 71483
@@ -38862,6 +39162,9 @@ Campanula medium
 
 Eremogone ursina
 24568
+
+Helianthemum scoparium var. aldersonii
+27883
 
 Congdonia pinetorum
 20124
@@ -38906,7 +39209,7 @@ Psoralidium
 9407
 
 Retama monosperma
-88378
+81200
 
 Thermopsis californica
 46464
@@ -38996,13 +39299,16 @@ Eriogonum nudum var. pineum
 76445
 
 Eriogonum ochrocephalum subsp. agnellum
-88471
+81750
 
 Eriogonum speciosum
 77945
 
 Montia hallii
 33992
+
+Dodecatheon jeffreyi var. alpinum
+23189
 
 Fragaria virginiana
 26026
@@ -39047,7 +39353,7 @@ Physalis subglabrata
 38073
 
 Styrax rediviva
-88543
+80616
 
 Pinellia ternata
 38242
@@ -39062,13 +39368,13 @@ Scirpus microcarpus
 43718
 
 Bermudiana californica
-88569
+88518
 
 Crocosmia × crocosmiiflora
 77150
 
 Hydastylus rivularis
-88572
+88521
 
 Iris longipetala
 29293
@@ -39086,7 +39392,7 @@ Nolina interrata
 34687
 
 Nothoscordum borbonicum
-88605
+88553
 
 Listera caurina
 31222
@@ -39170,7 +39476,7 @@ Centaurea virgata var. squarrosa
 77424
 
 Cirsium arizonicum var. tenuisectum
-88145
+81503
 
 Cirsium congdonii
 2138
@@ -39221,7 +39527,7 @@ Scorzonera
 603
 
 Symphyotrichum foliaceum var. foliaceum
-88229
+88232
 
 Tetradymia
 629
@@ -39272,7 +39578,7 @@ Lonicera etrusca
 31500
 
 Arenaria confusa
-88273
+81552
 
 Atriplex argentea subsp. argentea
 49371
@@ -39341,7 +39647,7 @@ Trifolium repens
 47164
 
 Trifolium willdenowii
-88387
+88372
 
 Ribes aureum var. aureum
 65125
@@ -39455,7 +39761,7 @@ Rumex salicifolius
 42421
 
 Sidotheca
-88494
+81335
 
 Ceanothus megacarpus
 18471
@@ -39625,9 +39931,6 @@ Dyssodia tenuiloba var. tenuiloba
 Encelia
 423
 
-Erechtites minima
-2578
-
 Erigeron jacinteus
 77875
 
@@ -39656,7 +39959,7 @@ Madia elegans
 4044
 
 Symphyotrichum campestre var. bloomeri
-88221
+88224
 
 Heliotropium procumbens
 27931
@@ -39767,7 +40070,7 @@ Leptodactylon californicum subsp. brevitrichomum
 51186
 
 Leptosiphon androsaceus
-88439
+81151
 
 Navarretia hamata subsp. leptantha
 51665
@@ -39932,7 +40235,7 @@ Vancouveria parviflora
 81069
 
 Ephedra altissima
-88103
+88117
 
 Pinus attenuata
 38257
@@ -39968,7 +40271,7 @@ Chrysothamnus nauseosus subsp. hololeucus
 5894
 
 Dieteria canescens var. ziegleri
-88159
+81602
 
 Erigeron compositus var. discoideus
 2650
@@ -39989,7 +40292,7 @@ Malacothrix stebbinsii
 4087
 
 Pseudognaphalium thermale
-88211
+88215
 
 Senecio californicus
 4691
@@ -40061,7 +40364,7 @@ Lychnis alba
 44530
 
 Silene salmonacea
-88296
+81720
 
 Spergularia macrotheca var. leucantha
 66606
@@ -40089,6 +40392,9 @@ Cornus sericea
 
 Sedum obtusatum subsp. retusum
 52937
+
+Cuscuta salina var. acuminata
+21473
 
 Drosera tracyi
 23482
@@ -40121,7 +40427,7 @@ Lotus argophyllus var. adsurgens
 61108
 
 Lupinus × alpestris
-31701
+88347
 
 Lupinus lepidus var. constancei
 80536
@@ -40205,7 +40511,7 @@ Polygala acanthoclada
 39031
 
 Aconogonon phytolaccifolium var. phytolaccifolium
-88459
+88426
 
 Eriogonum baileyi var. baileyi
 58469
@@ -40292,7 +40598,7 @@ Nicotiana bigelovii
 34650
 
 Styrax redivivus
-88543
+80616
 
 Viola praemorsa subsp. praemorsa
 53398
@@ -40310,7 +40616,7 @@ Egeria densa
 23849
 
 Ixia speciosa
-88575
+88524
 
 Agave nevadensis
 53649
@@ -40373,7 +40679,7 @@ Arabis paupercula
 77755
 
 Atriplex covillei
-88682
+88627
 
 Corylus rostrata var. tracyi
 77999
@@ -40442,7 +40748,7 @@ Galinsoga
 443
 
 Grindelia papposa
-88184
+88190
 
 Haplopappus squarrosus subsp. obtusus
 7527
@@ -40535,7 +40841,7 @@ Salsola tragus
 43032
 
 Crassula tetragona
-88329
+88314
 
 Crossosoma bigelovii
 21073
@@ -40646,7 +40952,7 @@ Eriogonum bifurcatum
 24707
 
 Eriogonum umbellatum var. nelsonii
-88476
+88437
 
 Eriogonum vimineum var. divergens
 24970
@@ -40664,7 +40970,7 @@ Ranunculus californicus var. gratus
 64854
 
 Ranunculus cortusifolius
-88502
+81252
 
 Ranunculus lobbii
 40925
@@ -40856,7 +41162,7 @@ Ambrosia monogyra
 80421
 
 Arida carnosa
-88128
+88139
 
 Artemisia borealis
 1173
@@ -40946,7 +41252,7 @@ Symphoricarpos rotundifolius
 45933
 
 Eremogone congesta var. congesta
-88277
+81546
 
 Arenaria howellii
 33756
@@ -40991,7 +41297,7 @@ Trifolium monanthum
 47132
 
 Trifolium tridentatum var. aciculare
-88387
+88372
 
 Quercus chrysolepis var. nana
 64710
@@ -41030,7 +41336,7 @@ Tripterocalyx
 8795
 
 Olea africana
-88426
+88402
 
 Clarkia williamsonii
 19608
@@ -41150,7 +41456,7 @@ Brodiaea appendiculata
 16139
 
 Brodiaea californica subsp. leptandra
-88601
+88549
 
 Leucojum aestivum
 30796
@@ -41165,7 +41471,7 @@ Calamagrostis muiriana
 79436
 
 Dinebra retroflexa var. retroflexa
-88634
+88581
 
 Dichanthelium villosissimum var. villosissimum
 57661
@@ -41177,7 +41483,7 @@ Agropyron repens
 24214
 
 Festuca californica subsp. californica
-88647
+88593
 
 Festuca parishii
 80521
@@ -41402,7 +41708,7 @@ Trifolium variegatum var. melananthum
 47179
 
 Trifolium willdenovii
-88387
+88372
 
 Quercus agrifolia var. frutescens
 64704
@@ -41570,7 +41876,7 @@ Hordeum arizonicum
 28378
 
 Nassella manicata
-88655
+88601
 
 Paspalum
 11133
@@ -41598,6 +41904,9 @@ Lappula californica var. mundula
 
 Ribes divaricatum var. amictum
 78524
+
+Botrychium californicum
+77127
 
 Pinus ponderosa var. ponderosa
 63805
@@ -41645,7 +41954,7 @@ Erigeron inornatus var. reductus
 58420
 
 Symphyotrichum chilense var. medium
-88225
+88228
 
 Symphyotrichum divaricatum
 80312
@@ -41753,7 +42062,7 @@ Lupinus lyallii
 31960
 
 Centaurium arizonicum
-88389
+88374
 
 Centaurium namophilum var. namophilum
 71725
@@ -41786,7 +42095,7 @@ Mentzelia nitens
 33266
 
 Abronia umbellata var. breviflora
-88417
+81822
 
 Clarkia borealis subsp. borealis
 49894
@@ -41816,10 +42125,10 @@ Navarretia setiloba
 34474
 
 Saltugilia splendens subsp. grantii
-88446
+81154
 
 Aconogonon davisiae var. glabrum
-88456
+88423
 
 Eriogonum verticillatum
 58563
@@ -41891,7 +42200,7 @@ Viola bakeri subsp. grandis
 48162
 
 Phoradendron serotinum subsp. tomentosum
-88549
+81374
 
 Viscum album
 48378
@@ -41903,7 +42212,7 @@ Eleocharis montevidensis var. bolanderi
 23939
 
 Sisyrinchium brachypus
-88581
+88530
 
 Lemna aequinoctialis
 30453
@@ -41915,7 +42224,7 @@ Calochortus macrocarpus var. macrocarpus
 55475
 
 Toxicoscordion exaltatum
-88609
+88557
 
 Yucca whipplei subsp. whipplei
 75165
@@ -41939,7 +42248,7 @@ Elymus triticoides
 30867
 
 Panicum alatum var. minus
-88659
+88605
 
 Poa atropurpurea
 38798
@@ -42002,7 +42311,7 @@ Chaenactis mexicana
 1987
 
 Erechtites hieracifolia var. hieracifolia
-7227
+88167
 
 Ericameria parryi
 80454
@@ -42050,7 +42359,7 @@ Cerastium beeringianum var. capillare
 56184
 
 Dianthus plumarius subsp. plumarius
-88274
+88275
 
 Gypsophila elegans var. elegans
 77170
@@ -42059,7 +42368,7 @@ Stellaria sitchana var. bongardiana
 53119
 
 Atriplex canescens var. angustifolia
-88304
+88290
 
 Convolvulaceae
 105
@@ -42140,7 +42449,7 @@ Stachys pilosa
 45384
 
 Lavatera olbia
-88406
+88391
 
 Eucalyptus sideroxylon
 25282
@@ -42197,7 +42506,7 @@ Rhamnus alnifolia
 41067
 
 Cotoneaster pannosa
-88514
+88470
 
 Ivesia purpurascens subsp. congdonis
 77210
@@ -42440,7 +42749,7 @@ Arabis arcuata var. rubicundula
 54166
 
 Boechera hirshbergiae
-88245
+88249
 
 Brassica tournefortii
 16085
@@ -42473,10 +42782,10 @@ Stellaria calycantha subsp. interior
 45466
 
 Atriplex parishii var. parishii
-88310
+88296
 
 Atriplex parishii var. subtilis
-88312
+88298
 
 Atriplex patula var. patula
 75367
@@ -42596,7 +42905,7 @@ Leptosiphon pygmaeus subsp. pygmaeus
 80365
 
 Saltugilia splendens subsp. splendens
-88445
+81155
 
 Polygala subspinosa
 39107
@@ -42926,7 +43235,7 @@ Atriplex lentiformis
 15228
 
 Atriplex parishii var. persistens
-88311
+88297
 
 Chenopodium gigantospermum
 19204
@@ -43118,7 +43427,7 @@ Kallstroemia californica
 29857
 
 Syagrus romanzoffiana
-88553
+81358
 
 Carex rostrata
 17917
@@ -43139,7 +43448,7 @@ Moraea collina
 79046
 
 Aloe saponaria × Aloe striata
-88598
+88546
 
 Calochortus vestae
 16773
@@ -43249,6 +43558,9 @@ Lomatium ravenii
 Perideridia bolanderi
 37247
 
+Araujia sericofera
+13870
+
 Ambrosia psilostachya
 12969
 
@@ -43262,10 +43574,10 @@ Conyza canadensis var. glabrata
 7094
 
 Dieteria asteroides var. asteroides
-88153
+88159
 
 Dieteria canescens var. shastensis
-88158
+88162
 
 Erigeron lassenianus var. lassenianus
 70970
@@ -43354,6 +43666,12 @@ Rhodiola
 Sedum roseum subsp. integrifolium
 76627
 
+Cuscuta neuropetala
+57197
+
+Cuscuta salina var. squamigera
+57209
+
 Pleuricospora
 10159
 
@@ -43361,7 +43679,7 @@ Chamaesyce pediculifera
 18991
 
 Acmispon wrangelianus
-88349
+88333
 
 Astragalus accidens var. hendersonii
 54612
@@ -43571,7 +43889,7 @@ Streptopus amplexifolius var. amplexifolius
 66864
 
 Corallorrhiza
-88622
+88569
 
 Distichlis spicata var. nana
 57740
@@ -43659,9 +43977,6 @@ Artemisia ludoviciana subsp. mexicana
 
 Coreopsis calliopsidea
 2326
-
-Erechtites hieraciifolia var. hieraciifolia
-7227
 
 Haplopappus cuneatus
 2590
@@ -43813,6 +44128,9 @@ Stachys ajugoides var. rigida
 Sphaeralcea angustifolia
 45131
 
+Oxybaphus laevis
+33788
+
 Camissonia claviformis subsp. cruciformis
 49610
 
@@ -43952,7 +44270,7 @@ Elymus glaucus subsp. jepsonii
 50265
 
 Phragmites australis subsp. americanus
-88663
+88609
 
 Coleogeton filiformis
 80451
@@ -43997,7 +44315,7 @@ Pellaea mucronata subsp. californica
 51955
 
 Amaranthus blitum subsp. emarginatus
-88110
+88124
 
 Lomatium torreyi
 31467
@@ -44042,7 +44360,7 @@ Stephanomeria tenuifolia
 5164
 
 Tragopogon hybridus
-88234
+88237
 
 Verbesina encelioides var. exauriculata
 6252
@@ -44051,7 +44369,7 @@ Vancouveria hexandra
 47782
 
 Echium strictum
-88243
+88246
 
 Plagiobothrys glomeratus
 38499
@@ -44153,7 +44471,7 @@ Eriogonum ursinum var. covillei
 58759
 
 Polygonum ramosissimum subsp. prolificum
-88489
+88450
 
 Calyptridium roseum
 16851
@@ -44180,7 +44498,7 @@ S. sitchensis Bong var. angustifolia Bebb, S. sitchensis Bong var. ralphiana (Je
 42849
 
 Sarracenia af f. rubra
-88531
+88486
 
 Saxifraga debilis
 43412
@@ -44252,10 +44570,10 @@ Orcuttia californica
 35379
 
 Panicum alatum var. alatum
-88657
+88603
 
 Panicum capillare subsp. hillmanii
-88660
+88606
 
 Piptochaetium ovatum var. purpurascens
 63811
@@ -44321,10 +44639,10 @@ Antennaria marginata
 932
 
 Argyranthemum foeniculum
-88126
+88137
 
 Arnica chamissonis var. andina
-88129
+88140
 
 Arnica discoidea var. alata
 1123
@@ -44393,7 +44711,7 @@ Polyctenium
 10613
 
 Coryphantha chlorantha
-88257
+81175
 
 Opuntia acanthocarpa
 35195
@@ -44456,7 +44774,7 @@ Astragalus agrestis
 14668
 
 Astragalus tegetarioides var. anxius
-88353
+88337
 
 Caesalpinia gilliesii
 16498
@@ -44498,7 +44816,7 @@ Epilobium ciliatum subsp. watsonii
 50309
 
 Orobanche hederae
-88427
+81253
 
 Pittosporum undulatum
 38464
@@ -44507,7 +44825,7 @@ Plantago purshii var. oblonga
 38590
 
 Plantago sempervirens
-88436
+88409
 
 Linanthus dichotomus
 31052
@@ -44692,11 +45010,11 @@ Isoetes nuttallii
 Cheilanthes wootonii
 19095
 
+Cupressus bakeri subsp. bakeri
+88105
+
 Calocedrus decurrens
 16709
-
-Cupressus bakeri subsp. bakeri
-21396
 
 Cypselea humifusa
 21994
@@ -44756,7 +45074,7 @@ Helianthus petiolaris subsp. petiolaris
 6070
 
 Helipterum roseum
-88186
+88192
 
 Heterotheca sessiliflora subsp. fastigiata
 74446
@@ -44780,7 +45098,7 @@ Senecio astephanus
 4675
 
 Xanthisma spinulosum
-88238
+88241
 
 Chilopsis
 10503
@@ -44828,7 +45146,7 @@ Cucumis anguria
 21354
 
 Drosera capensis
-88336
+88323
 
 Arctostaphylos parryana
 13963
@@ -44840,7 +45158,7 @@ Bernardia myricifolia
 15610
 
 Euphorbia characias
-88346
+81235
 
 Alhagi
 9282
@@ -44861,7 +45179,7 @@ Psoralea physodes
 42446
 
 Trifolium tomentosum var. tomentosum
-88381
+88366
 
 Trifolium appendiculatum var. appendiculatum
 47179
@@ -45020,7 +45338,7 @@ Physalis philadelphica var. immaculata
 63704
 
 Cissus antarctica
-88550
+88500
 
 Carex leptalea subsp. leptalea
 49689
@@ -45137,7 +45455,7 @@ Torilis arvensis
 46743
 
 Ilex attenuata
-88116
+88129
 
 Anthemis
 314
@@ -45296,7 +45614,7 @@ Monotropa
 10156
 
 Vaccinium caespitosum var. paludicola
-88343
+88329
 
 Astragalus jaegerianus
 14876
@@ -45374,7 +45692,7 @@ Gilia clivorum
 26880
 
 Gilia grinellii
-88438
+88411
 
 Navarretia atractyloides
 34444
@@ -45440,7 +45758,7 @@ Prunus virginiana
 40026
 
 S. tracyi C. R. Ball
-88530
+88485
 
 Collinsia parryi
 19999
@@ -45539,7 +45857,7 @@ Poa piperi
 38867
 
 Zoysia pacifica
-88680
+88624
 
 Amsinckia abbreviata
 77689
@@ -45570,6 +45888,9 @@ Athyrium alpestre var. americanum
 
 Pentagramma pallida
 77118
+
+Cupressus arizonica var. nevadensis
+88110
 
 Mesembryanthemum nodiflorum
 33363
@@ -45617,7 +45938,7 @@ Cirsium quercetorum var. xerolepis
 2232
 
 Cuniculotinus gramineus
-88150
+81727
 
 Erigeron uncialis var. uncialis
 75234
@@ -45629,7 +45950,7 @@ Guizotia abyssinica
 3136
 
 Heterotheca echioides var. bolanderioides
-88188
+88194
 
 Leucanthemum
 510
@@ -45647,7 +45968,7 @@ Solidago
 612
 
 Solidago simplex var. spathulata
-88219
+88222
 
 Townsendia
 639
@@ -45668,7 +45989,7 @@ Descurainia
 10574
 
 Erysimum suffrutescens var. grandiflorum
-88250
+88254
 
 Rapistrum rugosum subsp. rugosum
 52622
@@ -45689,7 +46010,7 @@ Opuntia chlorotica
 35213
 
 Spergularia bocconii, Spergularia bocconei
-88301
+88287
 
 Spergularia marina var. tenuis
 45094
@@ -45718,8 +46039,11 @@ Calystegia occidentalis
 Ipomoea lacunosa
 29061
 
+Dudleya goldmanii
+23664
+
 Cucurbita ficifolia
-88331
+88317
 
 Arctostaphylos columbiana var. tracyi
 13918
@@ -45875,7 +46199,7 @@ Chamaesaracha
 11443
 
 Petunia parviflora
-81111
+37378
 
 Urtica dioica subsp. holosericea
 53303
@@ -45917,7 +46241,7 @@ Sisyrinchium idahoense var. idahoense
 66441
 
 Agave americana var. expansa
-88594
+88542
 
 Allium monticola
 12603
@@ -45935,7 +46259,7 @@ Triteleia hendersonii var. hendersonii
 67413
 
 Ehrharta longiflora
-88642
+81260
 
 Festuca trachyphylla
 25840
@@ -45954,9 +46278,6 @@ Carex festiva var. gracilis
 
 Carex interrupta var. impressa
 79110
-
-Dudleya goldmanii
-23664
 
 Godetia blasdalei
 78806
@@ -46226,7 +46547,7 @@ Eriogonum umbellatum subsp. covillei
 58759
 
 Polygonum ramosissimum subsp. ramosissimum
-88490
+88451
 
 Claytonia parviflora subsp. parviflora
 74695
@@ -46424,7 +46745,7 @@ Eucephalus ledophyllus
 80413
 
 Glebionis coronaria
-88180
+88186
 
 Hemizonia
 470
@@ -46484,7 +46805,7 @@ Paronychia pusilla
 79963
 
 Minuartia nuttallii var. fragilis
-88288
+81387
 
 Minuartia stolonifera
 33772
@@ -46496,7 +46817,7 @@ Atriplex muelleri
 15237
 
 Atriplex parishii var. minuscula
-88309
+88295
 
 Monolepis pusilla
 33963
@@ -46556,7 +46877,7 @@ Phacelia ivesiana var. ivesiana
 63444
 
 Hypericum hookerianum
-88399
+88385
 
 Utricularia gibba
 47599
@@ -46751,7 +47072,7 @@ Distichlis spicata var. divaricata
 57739
 
 Festuca californica subsp. parishii
-88649
+88595
 
 Festuca subulata
 25835
@@ -46761,6 +47082,9 @@ Heteropogon
 
 Leymus × multiflorus
 30861
+
+Muhlenbergia alopecuroides
+88600
 
 Muhlenbergia californica
 34065
@@ -46799,7 +47123,7 @@ Castilleja clementis
 77954
 
 Collomia tinctoria var. luxuriosa
-88683
+88628
 
 Cornus californica var. nevadensis
 78077
@@ -46834,6 +47158,12 @@ Swertia covillei
 Zostera marina f. sulcatifolia
 79058
 
+Cupressus goveniana subsp. opleri
+88104
+
+Cupressus nevadensis
+88110
+
 Pinus californiarum
 78337
 
@@ -46846,11 +47176,14 @@ Conioselinum
 Perideridia parishii subsp. parishii
 52102
 
+Apocynum pumilum var. rhomboideum
+13635
+
 Aristolochia californica
 14232
 
 Arida arizonica
-88127
+88138
 
 Aster peirsonii
 1482
@@ -46949,7 +47282,7 @@ Streptanthus cordatus var. duranii
 76501
 
 Tropidocarpum californicum
-88255
+88259
 
 Sclerocactus polyancistrus
 43809
@@ -46961,7 +47294,7 @@ Nemacladus longiflorus var. breviflorus
 62272
 
 Arenaria kingi var. glabrescens
-88283
+81550
 
 Polycarpon depressum
 39015
@@ -46978,6 +47311,9 @@ Calystegia soldanella
 Crossosoma californicum
 21075
 
+Cuscuta hispidula
+57197
+
 Scabiosa stellata
 43448
 
@@ -46991,7 +47327,7 @@ Pterospora andromedea
 40272
 
 Astragalus pulsiferae var. coronensis
-88352
+88336
 
 Lotus nuttallianus
 31585
@@ -47021,7 +47357,7 @@ Geranium lucidum
 26726
 
 Geranium pyrenaicum subsp. pyrenaicum
-88397
+88382
 
 Geranium rotundifolium
 26743
@@ -47122,11 +47458,14 @@ Montia linearis
 A. arvensis subsp. foemina (Mill.) Schinz & Thell.
 13197
 
+Androsace occidentalis var. acuta
+49111
+
 Aquilegia formosa var. formosa
 54148
 
 Rhamnus rubra var. yosemitana
-88510
+88466
 
 Ivesia
 11239
@@ -47171,7 +47510,7 @@ Physalis crassifolia
 38054
 
 Physalis angulata var. lancifolia
-88540
+88494
 
 Solanum xanti var. hoffmannii
 66528
@@ -47186,13 +47525,13 @@ Kobresia myosuroides
 29928
 
 Sisyrinchium grandiflorum
-88583
+88532
 
 Luzula
 9149
 
 Agave shawii var. shawii
-88597
+88545
 
 Agave utahensis var. nevadensis
 53649
@@ -47294,25 +47633,25 @@ Chaenactis macrantha
 1982
 
 Chrysothamnus californicus
-88139
+88149
 
 Chrysothamnus viscidiflorus subsp. humilis
 2070
 
 Cirsium occidentale var. lucianum
-88146
+81502
 
 Cirsium scariosum
 2249
 
 Deinandra ramosissima
-88151
+88157
 
 Erigeron compactus
 2649
 
 Eriophyllum staechadifolium
-88174
+88181
 
 Grindelia squarrosa var. quasiperennis
 7514
@@ -47375,13 +47714,13 @@ Arenaria macradenia var. macradenia
 75340
 
 Eremogone congesta var. crassula
-88278
+81547
 
 Atriplex confertifolia
 15195
 
 Dysphania anthelmintica
-88317
+88303
 
 Convolvulus malacophyllus subsp. collinus
 76608
@@ -47630,7 +47969,7 @@ Freesia corymbosa
 26120
 
 Olsynium grandiflorum
-88578
+88527
 
 Sparaxis grandiflora
 45018
@@ -47642,7 +47981,7 @@ Allium fimbriatum var. denticulatum
 53787
 
 Triantha occidentalis subsp. occidentalis
-88614
+88562
 
 Zigadenus venenosus
 48907
@@ -47714,7 +48053,7 @@ Pteris tremula
 40259
 
 Cupressus bakeri subsp. matthewsii
-21396
+88105
 
 Picea engelmannii
 38180
@@ -47725,6 +48064,12 @@ Acer glabrum
 Conicosia pugioniformis
 20126
 
+Cycladenia humilis var. tomentosa
+57255
+
+not Asclepias mexicana Cav., of Mex.
+14375
+
 Achillea borealis subsp. arenicola
 678
 
@@ -47733,6 +48078,12 @@ Adenocaulon
 
 Agoseris glauca var. monticola
 6321
+
+Agoseris grandiflora var. leptophylla
+88133
+
+Arctotis fastuosa
+88136
 
 Centaurea maculosa
 79163
@@ -47762,7 +48113,7 @@ Pseudognaphalium leucocephalum
 80576
 
 Psilocarphus chilensis
-88212
+88216
 
 Senecio macounii
 4775
@@ -47795,13 +48146,13 @@ Githopsis diffusa subsp. robusta
 50832
 
 Herniaria hirsuta var. cinerea
-88286
+81545
 
 Minuartia nuttallii var. gracilis
-88289
+81389
 
 Minuartia nuttallii var. gregaria
-88290
+81543
 
 Minuartia pusilla var. pusilla
 62076
@@ -48146,7 +48497,7 @@ Chaenactis glabriuscula var. glabriuscula
 6951
 
 Chrysothamnus nauseosus var. macrophyllus
-88142
+88152
 
 Chrysothamnus viscidiflorus subsp. puberulus
 5930
@@ -48200,7 +48551,7 @@ Brassicaceae
 70
 
 Boechera demissa var. pendulina
-88244
+88248
 
 Draba nemorosa
 23380
@@ -48309,6 +48660,9 @@ Monardella hypoleuca subsp. hypoleuca
 
 Pogogyne
 9481
+
+Utricularia stygia
+88389
 
 Malacothamnus palmeri var. palmeri
 72826
@@ -48431,7 +48785,7 @@ Carex montereyensis
 17474
 
 Carex infirminervia
-88555
+88504
 
 Carex scabriuscula
 17444
@@ -48461,7 +48815,7 @@ Maianthemum racemosum
 32495
 
 Toxicoscordion fremontii
-88611
+88559
 
 Dactylis glomerata subsp. glomerata
 50053
@@ -48520,6 +48874,9 @@ Adiantum pedatum var. subpumilum
 Cheilanthes viscida
 19094
 
+Cupressus goveniana var. abramsiana
+88104
+
 Eryngium vaseyi
 25100
 
@@ -48536,7 +48893,7 @@ Chrysothamnus viscidiflorus subsp. stenophyllus
 5932
 
 Ericameria × bolanderi
-88162
+88169
 
 Helianthus nuttallii subsp. parishii
 6061
@@ -48674,7 +49031,7 @@ Jussiaea repens var. montevidensis
 51358
 
 Ehrendorferia chrysantha
-88429
+88404
 
 Papaver argemone
 36203
@@ -48701,7 +49058,7 @@ Phlox pulvinata
 37852
 
 Aconogonon davisiae
-88454
+88421
 
 Chorizanthe palmeri var. biloba
 56478
@@ -48794,7 +49151,7 @@ Clintonia uniflora
 19854
 
 Toxicoscordion brevibracteatus
-88608
+88556
 
 Triteleia versicolor
 47365
@@ -48989,7 +49346,7 @@ Astragalus casei
 14744
 
 Astragalus gambelianus var. elmeri
-88350
+88334
 
 Astragalus tener var. tener
 54950
@@ -49028,7 +49385,7 @@ Centaurium trichanthum
 18590
 
 Zeltnera davyi
-88392
+88377
 
 California macrophylla
 80427
@@ -49115,7 +49472,7 @@ Eriogonum umbellatum var. subaridum
 58783
 
 Persicaria maculosa
-88484
+88445
 
 Polygonum davisiae
 39196
@@ -49193,7 +49550,7 @@ Carex vesicaria var. major
 55933
 
 Scirpus prolifer
-88567
+88516
 
 Juncus oreganus
 29723
@@ -49241,7 +49598,7 @@ Phragmites
 11140
 
 Rytidosperma clavatum
-88668
+88614
 
 Trisetum cernuum
 47325
@@ -49317,6 +49674,9 @@ Cirsium undulatum
 
 Cynara cardunculus
 2433
+
+Erechtites glomeratus
+88165
 
 Erigeron concinnus var. eremicus
 77889
@@ -49583,7 +49943,7 @@ Veronica copelandii
 47957
 
 Lycium ferocissimum
-88538
+88493
 
 Petunia axillaris
 37379
@@ -49595,7 +49955,7 @@ Plectritis macrocera var. collina
 38684
 
 Viola adunca var. kirkii
-88547
+88499
 
 Viola bakeri subsp. shastensis
 53368
@@ -49628,7 +49988,7 @@ Allium denticulatum
 76527
 
 Aloe × schoenlandii
-88599
+88547
 
 Triteleia dudleyi
 47349
@@ -49664,7 +50024,7 @@ Saccharum ravennae
 42554
 
 Setaria pumila subsp. pallidefusca
-88672
+88617
 
 Spartina foliosa
 45044
@@ -49710,6 +50070,9 @@ Polystichum scopulinum
 
 Isoetes maritima
 29398
+
+Cupressus goveniana subsp. gibsonensis
+88107
 
 Tidestromia lanuginosa
 46571
@@ -49865,7 +50228,7 @@ Caesalpinia
 9297
 
 Dipogon lignosus
-88357
+88341
 
 Lotus crassifolius var. otayensis
 61116
@@ -49894,11 +50257,17 @@ Phacelia ivesiana var. pediculoides
 Phacelia oreopola
 37530
 
+Utricularia inflata
+47603
+
 Mentzelia polita
 33276
 
 Ficus
 9680
+
+Selinocarpus diffusus subsp. nevadensis
+81818
 
 Quamoclidion greenei
 33805
@@ -49967,7 +50336,7 @@ Aruncus dioicus var. acuminatus
 54498
 
 Cotoneaster pannosus
-88514
+88470
 
 Rosa spithamea var. sonomensis
 65305
@@ -50009,7 +50378,7 @@ Phoradendron juniperinum
 37902
 
 Ixia campanulata
-88573
+88522
 
 Sisyrinchium angustifolium
 44676
@@ -50020,8 +50389,11 @@ Juncus supiniformis
 Lemna minor
 30458
 
+Lemna valdiviana var. abbreviata
+30468
+
 Brodiaea californica subsp. californica
-88600
+88548
 
 Brodiaea terrestris subsp. terrestris
 49464
@@ -50089,6 +50461,9 @@ Equisetum laevigatum
 Cupressus bakeri
 21396
 
+Callitropsis sargentii
+88113
+
 Alternanthera
 9076
 
@@ -50147,7 +50522,7 @@ Mahonia nevinii
 32484
 
 Echium lusitanicum
-88242
+88245
 
 Tiquilia canescens var. canescens
 67184
@@ -50210,7 +50585,7 @@ Euphorbia arizonica
 18904
 
 Euphorbia rigida
-88347
+88332
 
 Astragalus gambelianus
 14840
@@ -50225,7 +50600,7 @@ Astragalus pulsiferae
 15014
 
 Cercis orbiculata
-88355
+88339
 
 Lathyrus cicera
 30297
@@ -50243,7 +50618,7 @@ Lupinus latifolius var. latifolius
 75772
 
 Lupinus polyphyllus var. grandifolius
-88371
+88357
 
 Lupinus vallicola subsp. vallicola
 51462
@@ -50262,6 +50637,9 @@ Trifolium appendiculatum var. rostratum
 
 Ulex europaeus
 47469
+
+Phacelia eisenii var. brandegeeana
+88384
 
 Monardella nana subsp. arida
 51613
@@ -50327,10 +50705,10 @@ Eriogonum ochrocephalum var. agnellum
 78027
 
 Eriogonum sarmentosum
-88473
+81709
 
 Fallopia japonica
-88478
+88439
 
 Persicaria
 69038
@@ -50366,7 +50744,7 @@ Rubus ursinus subsp. macropetalus
 52690
 
 Salix lasiolepis var. tracyi
-88530
+88485
 
 Heuchera chlorantha
 28101
@@ -50399,7 +50777,7 @@ Viola glabella
 48214
 
 Phoradendron flavens var. villosum
-88549
+81374
 
 Carex sonomensis
 77896
@@ -50414,7 +50792,7 @@ Schoenoplectus acutus var. occidentalis
 79929
 
 Hydastylus longipes
-88571
+88520
 
 Iris douglasiana var. altissima
 29188
@@ -50466,6 +50844,9 @@ Equisetum palustre
 
 Astrolepis
 10410
+
+Callitropsis forbesii
+88106
 
 Juniperus occidentalis var. australis
 60436
@@ -50753,7 +51134,7 @@ Juncus dubius
 29643
 
 Landoltia
-88590
+81821
 
 Lemna gibba
 30457
@@ -50762,7 +51143,7 @@ Lemna minuscula
 30463
 
 Agave orcuttiana
-88597
+88545
 
 Brodiaea multiflora
 22853
@@ -50897,7 +51278,7 @@ Lepidium oxycarpum
 30553
 
 Noccaea fendleri subsp. californica
-88252
+88256
 
 Coryphantha vivipara
 20497
@@ -50927,7 +51308,7 @@ Chenopodium glaucum var. salinum
 56430
 
 Corispermum americanum var. americanum
-88315
+88301
 
 Gaultheria shallon
 26490
@@ -50994,6 +51375,9 @@ Mentzelia pterosperma
 
 Abronia latifolia
 11552
+
+Boerhavia diffusa
+15817
 
 Oenothera kernensis
 16923
@@ -51062,7 +51446,7 @@ Petrophyton caespitosum
 37367
 
 Rubus armeniacus
-88522
+88478
 
 Salix drummondiana var. subcoerulea
 42763
@@ -51182,7 +51566,7 @@ Phacelia curvipes var. yosemitana
 78480
 
 Phacelia imbricata var. hansenii
-88685
+88631
 
 Phlox douglasii var. modocensis
 78493
@@ -51248,7 +51632,7 @@ Erigeron acris var. debilis
 8552
 
 Erigeron clokeyi var. pinzliae
-88165
+88172
 
 Gnaphalium
 449
@@ -51350,7 +51734,7 @@ Lotus argyraeus
 31559
 
 Nemophila rotata
-88398
+88383
 
 Phacelia minor
 37517
@@ -51378,6 +51762,9 @@ Abronia villosa
 
 Boerhavia triquetra
 15834
+
+Quamoclidion froebelii
+62095
 
 Oenothera chamaenerioides
 16905
@@ -51422,7 +51809,7 @@ Chorizanthe perfoliata
 34045
 
 Muehlenbeckia hastulata var. hastulata
-88482
+88443
 
 A. caerulea Schreb.
 13197
@@ -51517,6 +51904,9 @@ Calochortus nudus var. shastensis
 Calypso bulbosa var. occidentalis
 55520
 
+Listera banksiana
+81820
+
 Beckmannia syzigachne
 15549
 
@@ -51524,7 +51914,7 @@ Bothriochloa exaristata
 15898
 
 Gastridium phleoides
-88650
+81267
 
 Hierochloe hirta
 28265
@@ -51564,6 +51954,9 @@ Dryopteris filix-mas
 
 Equisetum hyemale subsp. affine
 50315
+
+Callitropsis nootkatensis
+88111
 
 Acer campestre
 11732
@@ -51605,7 +51998,7 @@ Matricaria matricarioides
 80966
 
 Chamomilla suffruticosa
-88137
+88147
 
 Chrysothamnus nauseosus var. nauseosus
 75214
@@ -51653,7 +52046,7 @@ Petasites frigidus
 4331
 
 Pseudognaphalium beneolens
-88208
+81674
 
 Senecio fremontii var. fremontii
 8226
@@ -51665,7 +52058,7 @@ Trimorpha acris var. debilis
 8551
 
 Viguiera purisimae
-88235
+88238
 
 Wyethia longicaulis
 5582
@@ -51686,10 +52079,10 @@ Cylindropuntia ganderi
 80397
 
 Grusonia parishii
-88265
+88268
 
 Cleomella plocasperma var. mohavensis
-88271
+88273
 
 Viburnum tinus
 48050
@@ -51740,7 +52133,7 @@ Cytisus proliferus
 77226
 
 Lathyrus nevadensis var. pilosellus
-88362
+88345
 
 Lupinus holmgrenanus
 31904
@@ -51788,7 +52181,7 @@ Malacothamnus abbottii
 32512
 
 Boerhavia coulteri var. palmeri
-88420
+81377
 
 Mirabilis linearis var. linearis
 72913
@@ -51914,7 +52307,7 @@ Juncus triformis
 29733
 
 Agave deserti var. simplex
-88596
+88544
 
 Allium shevockii
 12642
@@ -51935,7 +52328,7 @@ Tofieldia
 9559
 
 Trillium ovatum var. ovatum
-88616
+88564
 
 Brodiaea clementina
 47346
