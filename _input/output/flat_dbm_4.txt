@@ -2983,6 +2983,9 @@ Bromus briziformis
 Calochortus caeruleus
 16719
 
+Calochortus rustvoldii
+101120
+
 Calystegia atriplicifolia
 16856
 
@@ -3887,7 +3890,7 @@ Phacelia leucophylla
 63426
 
 Physalis lancifolia
-89084
+#89084
 
 Polygonum aviculare subsp. neglectum
 80992
@@ -29693,7 +29696,7 @@ Clematis biflora
 77914
 
 Crucianella
-11276
+100980
 
 Danthonia racemosa
 80492
@@ -32374,6 +32377,9 @@ Erythranthe filicifolia
 Festuca rubra subsp. arenaria
 50529
 
+Ficus microcarpa
+25888
+
 Frasera albomarginata var. albomarginata
 59220
 
@@ -32494,9 +32500,6 @@ Monardella exilis
 Monardella purpurea
 33944
 
-Navarretia hamata subsp. leptantha
-51665
-
 Obione polycarpa
 15258
 
@@ -32527,6 +32530,9 @@ Phacelia mohavensis var. exilis
 Phacelia saxicola
 37568
 
+Phlox douglasii subsp. rigida
+52181
+
 Platanthera limosa
 38637
 
@@ -32547,9 +32553,6 @@ Puccinellia pumila
 
 Quercus macdonaldii
 40667
-
-Rhamnus crocea
-41069
 
 Rhynchospora californica
 41248
@@ -32632,14 +32635,17 @@ Holodiscus dumosus var. cedrorum
 Hookera bridgesii
 47345
 
-Phlox douglasii subsp. rigida
-52181
+Navarretia hamata subsp. leptantha
+51665
 
 Polygonum aviculare subsp. rectum
 98405
 
 Potentilla pensylvanica
 39770
+
+Rhamnus crocea
+41069
 
 Salix bakeri
 42858
@@ -41312,7 +41318,7 @@ Phyllospadix scouleri
 37989
 
 Physalis angulata var. lancifolia
-89084
+#89084
 
 Physalis crassifolia
 38054
@@ -47168,7 +47174,7 @@ Androsace occidentalis
 13323
 
 Arabis X divaricarpa
-98473
+#98473
 
 Arceuthobium cyanocarpum
 13882
@@ -51292,6 +51298,9 @@ Agrostis scabra var. geminata
 Allenrolfea occidentalis
 12469
 
+Antennaria sawyeri
+101119
+
 Anthriscus scandicina
 13523
 
@@ -53450,7 +53459,7 @@ Passiflora manicata
 36480
 
 Pedicularis aurantiaca
-36567
+95379
 
 Penstemon rydbergii var. oreocharis
 63317
@@ -54122,7 +54131,7 @@ Isocoma arguta
 3633
 
 Juncus elliottii
-29650
+101077
 
 Lavatera assurgentiflora
 30375
@@ -55794,6 +55803,9 @@ Amsinckia lunaris
 
 Anemone tuberosa
 13381
+
+Angelica capitellata
+101118
 
 Arctostaphylos nummularia var. myrtifolia
 13952
