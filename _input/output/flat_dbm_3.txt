@@ -1,41 +1,8 @@
-3137
-CN_T: Atriplex dioica	t
-
-752
-Oreostemma alpigenum var. andersonii
-
-756
-Eucephalus brickellioides
-
-758
-Symphyotrichum chilense
-
-761
-Symphyotrichum foliaceum
-
-763
-Symphyotrichum foliaceum var. parryi
-
-765
-Symphyotrichum greatae
-
-767
-Symphyotrichum lanceolatum subsp. hesperium
-
-769
-Symphyotrichum lentum
-
-776
-Eurybia radulina
-
-778
-CN: Symphyotrichum subulatum (Michx.) G. L. Nesom var. ligulatum (Shinners) S. D. Sundb.
-
-794
-Amauriopsis dissecta
+1247
+CN: Euchiton gymnocephalus (DC.) Holub
 
 1252
-CN: Gamochaeta purpurea
+CN: Gamochaeta purpurea (L.) Cabrera
 
 1328
 Deinandra clementina
@@ -97,9 +64,6 @@ Monolopia congdonii
 1524
 CN: Leontodon saxatilis Lam.
 
-1526
-CN_T: Leontodon saxatilis Lam. subsp. saxatilis	t
-
 1711
 CN: Grindelia ciliata (Nutt.) Spreng.
 
@@ -128,7 +92,7 @@ Packera eurycephala var. eurycephala
 Packera ganderi
 
 1809
-CN: Pericallis hybrida
+CN: Pericallis hybrida B. Nord.
 
 1812
 Packera indecora
@@ -137,25 +101,43 @@ Packera indecora
 Packera macounii
 
 1827
-Packera pseudaurea var. pseudaurea
+Senecio pseudaureus var. pseudaureus
 
 2244
-CN: Alyssum simplex
+CN: Alyssum simplex Rudolphi
+
+2316
+CN: Boechera horizontalis (Greene) Windham & Al-Shehbaz
+
+2475
+CN: Erysimum suffrutescens (Abrams) Rossbach
+
+2477
+CN: Erysimum concinnum Eastw.
+
+2479
+CN: Erysimum menziesii (Hook.) Wettst.
+
+2480
+CN: Erysimum menziesii (Hook.) Wettst.
 
 2488
 CN: Caulanthus anceps
 
+2499
+CN: Hornungia procumbens (L.) Hayek
+
 2587
 Nasturtium gambelii
-
-2743
-CN: Cylindropuntia munzii (C. B. Wolf) Backeb.
 
 3364
 CN: Sedum obtusatum A. Gray subsp. paradisum Denton
 
 4376
-CN: Zelterna calycosa
+CN: Zeltnera calycosa
+
+4406
+CN: Frasera albicaulis Griseb. var. albicaulis
 
 4961
 CN: Limnanthes alba subsp. gracilis (Howell) Morin
@@ -167,10 +149,7 @@ Malva dendromorpha
 Malva linnaei
 
 5632
-CN: Plantago arenaria
-
-8824
-CN: Aristida ternipes Cav. var. gentilis (Henrard) Allred
+CN: Plantago arenaria Waldst. & Kit.
 
 5698
 Saltugilia australis
@@ -179,25 +158,25 @@ Saltugilia australis
 Linanthus campanulatus
 
 5726
-Aliciella hutchinsifolia	t
+Aliciella hutchinsifolia
 
 5735
-Aliciella latifolia	t
+Aliciella latifolia
 
 5744
-CN_T: Aliciella leptomeria	t
+Aliciella leptomeria
 
 5746
 Linanthus maculatus
 
 5748
-Aliciella micromeria	t
+Aliciella micromeria
 
 5759
-Aliciella ripleyi	t
+Aliciella ripleyi
 
 5771
-Lathrocasis tenerrima	t
+Lathrocasis tenerrima
 
 5803
 Linanthus californicus
@@ -244,59 +223,74 @@ Leptosiphon rattanii
 5850
 Leptosiphon septentrionalis
 
-9360
-Coleogeton filiformis
-
 6651
-CN: Ceanothus velutinus var. laevigatus Torr. & A. Gray
+CN: Ceanothus velutinus Douglas
 
 6891
 CN: Rosa rubiginosa L.
 
-2894
-CN: Sambucus nigra L. subsp. canadensis (L.) Bolli
+691
+CN: Cota tinctoria (L.) Guss.
 
-5
-CN: Asplenium viride Huds.
+752
+Aster alpigenus var. andersonii
 
-753
-Symphyotrichum ascendens
+756
+Eucephalus brickellioides
 
-755
-Eucephalus breweri
+758
+Symphyotrichum chilense
 
-757
-Symphyotrichum campestre
+761
+Symphyotrichum foliaceum
 
-759
-Symphyotrichum eatonii
+763
+Symphyotrichum foliaceum var. parryi
 
-760
-Eucephalus engelmannii
+765
+Symphyotrichum greatae
 
-762
-CN: Symphyotrichum hendersonii
+767
+Aster lanceolatus subsp. hesperius
 
-764
-Symphyotrichum frondosum
+769
+Symphyotrichum lentum
 
-766
-Eurybia integrifolia
+776
+Eurybia radulina
 
-768
-Eucephalus ledophyllus
+778
+CN: Symphyotrichum subulatum (Michx.) G. L. Nesom var. ligulatum (Shinners) S. D. Sundb.
 
-775
-Oreostemma peirsonii
+794
+Amauriopsis dissecta
 
-922
-CN: Matricaria matricarioides
+8563
+CN: Fritillaria affinis (Schult. & Schult. filius) Sealy
+
+8824
+CN: Aristida ternipes Cav. var. gentilis (Henrard) Allred
+
+8972
+CN: Elymus elymoides (Raf.) Swezey var. hordeoides (Suksd.) J. P. Sm.
+
+9140
+CN: Stipa formicarum Delile
+
+9360
+Coleogeton filiformis
 
 1109
 CN: Erigeron greenei
 
 1211
 Constancea nevinii
+
+1240
+CN: Pseudognaphalium biolettii Anderb.
+
+1248
+CN: Euchiton japonicus (Thunb.) Holub
 
 1327
 Deinandra arida
@@ -305,16 +299,13 @@ Deinandra arida
 Deinandra conjugens
 
 1338
-Deinandra corymbosa subsp. corymbosa
+Deinandra corymbosa
 
 1341
 Centromadia fitchii
 
 1343
 Deinandra halliana
-
-1345
-Deinandra increscens subsp. foliosa
 
 1347
 Deinandra increscens subsp. villosa
@@ -352,11 +343,8 @@ Ambrosia salsola
 1431
 Ambrosia salsola var. salsola
 
-1525
-CN_T: Leontodon saxatilis Lam. subsp. longirostris (Finch & P. D. Sell) P. Silva	t
-
 1790
-Packera bolanderi var. bolanderi
+Senecio bolanderi var. bolanderi
 
 1796
 Packera subnuda
@@ -388,32 +376,44 @@ Packera streptanthifolia
 1835
 Packera werneriifolia
 
+1947
+CN: Erigeron acris L.
+
 1958
 CN: Arctotis fastuosa Jacq.
 
 1967
 Arnica dealbata
 
-2245
-CN: Alyssum simplex
+2038
+CN: Amsinckia intermedia Fisch. & C. A. Mey.
 
-2436
-Draba breweri var. cana
+21
+CN: Athyrium distentifolium Opiz var. americanum (Butters) Cronquist
 
-2740
-CN: Cylindropuntia × fosbergii C. B. Wolf) Rebman et al.
+2478
+CN: Erysimum menziesii (Hook.) Wettst.
+
+2894
+CN: Sambucus nigra L. subsp. canadensis (L.) Bolli
 
 3271
 CN: Ipomoea indica (Burm.) Merr.
 
+3381
+CN: Citrullus lanatus (Thunb.) Matsum. & Nakai var. lanatus
+
 3893
 CN: Cytisus proliferus L. filius
+
+4409
+CN: Frasera fastigiata Pursh
 
 4427
 CN: Geranium palmatum
 
-8225
-Olsynium douglasii var. douglasii
+5071
+Malva assurgentiflora
 
 5721
 Saltugilia caruifolia
@@ -425,13 +425,13 @@ Linanthus filiformis
 Linanthus inyoensis
 
 5745
-Aliciella lottiae	t
+Aliciella lottiae
 
 5770
-CN_T: Aliciella subacaulis	t
+CN: Aliciella subacaulis (Rydb.) J.M. Porter & L.A. Johnson
 
 5781
-Aliciella triodon	t
+Aliciella triodon
 
 5804
 Linanthus jaegeri
@@ -472,15 +472,72 @@ Leptosiphon pygmaeus subsp. pygmaeus
 5851
 Leptosiphon serrulatus
 
+5
+CN: Asplenium viride Huds.
+
 6007
 CN: Eriogonum rosense A. Nelson & P. B. Kenn. var. beatleyae (Reveal) Reveal
+
+6135
+CN: Eriogonum alexanderae (Reveal) Grady & Reveal
 
 6256
 Persicaria bistortoides
 
+6913
+CN: Poteridium annuum (Nutt.) Spach
+
+7372
+CN: Nuttallanthus canadensis (L.) D.A.Sutton
+
+753
+Symphyotrichum ascendens
+
+755
+Eucephalus breweri
+
+757
+Symphyotrichum campestre
+
+759
+Symphyotrichum eatonii
+
+760
+Eucephalus engelmannii
+
+762
+CN: Symphyotrichum hendersonii (Fernald) G.L. Nesom
+
+764
+Symphyotrichum frondosum
+
+766
+Eurybia integrifolia
+
+768
+Eucephalus ledophyllus
+
+775
+Oreostemma peirsonii
+
+8047
+CN: Carex texensis (Torr. ex L. H. Bailey) L. H. Bailey
+
+8191
+CN: Freesia leichtlinii Klatt subsp. alba (G.L.Mey.) J.C. Manning & Goldblatt
+
+8225
+Sisyrinchium douglasii var. douglasii
+
+8562
+CN: Fritillaria affinis (Schult. & Schult. filius) Sealy
+
+8762
+CN: Aegilops geniculata Roth
+
+928
+CN: Ismelia carinata (Schousb.) Sch. Bip.
+
 9369
 Coleogeton pectinatus
-
-21
-CN: Athyrium distentifolium Opiz var. americanum (Butters) Cronquist
 

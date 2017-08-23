@@ -1,0 +1,7 @@
+#content
+
+#generated files
+output/
+
+#from Mac OS X
+.DS_Store
