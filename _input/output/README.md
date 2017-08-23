@@ -8,14 +8,13 @@
 
 ## ICPN file parsing
 
-```print "     5 parsing the plant name index\n";
-&parse_cpn();```
+```print "     5 parsing the plant name index\n";```
+```&parse_cpn();```
 
 ###### made by line in ```make_interchange.pl```:
 
-```#from new_parse_cpn.pl
-sub parse_cpn {
-```
+```#from new_parse_cpn.pl```
+```sub parse_cpn {```
 
 ## Script Status definitions:
 ```
@@ -139,12 +138,11 @@ sub parse_cpn {
 ## JM_parseq.txt
 ###### Paragraph sequence index to be appended to CGI script ```get_JM_treatment.pl```
 ###### Made by line in ```make_interchange.pl```
-```	&open_output_file($file_JM_parseq);
-		print OUT <<EOP;
-#Append this to  IJM.pl and upload it to /cgi-bin on Annie. It is the index to treatment paragraph offsets
-EOP
-	print OUT "1\n";
-```
+```	&open_output_file($file_JM_parseq);```
+		```print OUT <<EOP;```
+```#Append this to  IJM.pl and upload it to /cgi-bin on Annie. It is the index to treatment paragraph offsets```
+```EOP```
+	```print OUT "1\n";```
 
 ## LN2C.txt:	
 ###### List of taxon IDs associated with each name element; appended to CGI script ```LN2C.pl```
@@ -156,14 +154,12 @@ EOP
 ###### Taxon SMASCH IDs to Interchange contents from ```$file_cpn_out```
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```capn_db.hash``` from ```flat_dbm_1.txt```
-```
-sub flatten_dbm {
-	%flat_dbm=(...
+```sub flatten_dbm {```
+```	%flat_dbm=(...```
 
-$hashfile_capn_db => "flat_dbm_1.txt", ...
+```$hashfile_capn_db => "flat_dbm_1.txt", ...```
 
-$hashfile_capn_db = $tempdir."capn_db.hash";
-```
+```$hashfile_capn_db = $tempdir."capn_db.hash";```
 
 
 ## flat_dbm_2.txt 
