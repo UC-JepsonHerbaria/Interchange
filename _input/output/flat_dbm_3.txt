@@ -484,6 +484,9 @@ CN: Eriogonum alexanderae (Reveal) Grady & Reveal
 6256
 Persicaria bistortoides
 
+6395
+CN: Lysimachia arvensis (L.) U. Manns & Anderb.
+
 6913
 CN: Poteridium annuum (Nutt.) Spach
 
