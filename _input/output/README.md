@@ -157,9 +157,9 @@ EOP
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```capn_db.hash``` from ```flat_dbm_1.txt```
 ```sub flatten_dbm {
-	%flat_dbm=(
-$hashfile_capn_db => "flat_dbm_1.txt",```
-```$hashfile_capn_db = $tempdir."capn_db.hash";``` 
+	%flat_dbm=(...
+$hashfile_capn_db => "flat_dbm_1.txt", ...
+$hashfile_capn_db = $tempdir."capn_db.hash";``` 
 
 
 ## flat_dbm_2.txt 
@@ -167,9 +167,9 @@ $hashfile_capn_db => "flat_dbm_1.txt",```
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```tid_par.hash``` from ```flat_dbm_2.txt```
 ```sub flatten_dbm {
-	%flat_dbm=(
-$hashfile_tid_par => "flat_dbm_2.txt",```
-```$hashfile_tid_par = $tempdir."tid_par.hash";``` 
+	%flat_dbm=( ...
+$hashfile_tid_par => "flat_dbm_2.txt", ...
+$hashfile_tid_par = $tempdir."tid_par.hash";``` 
 
 
 ##flat_dbm_3.txt 
@@ -177,9 +177,9 @@ $hashfile_tid_par => "flat_dbm_2.txt",```
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```jmname_newname.hash``` from ```flat_dbm_3.txt```
 ```sub flatten_dbm {
-	%flat_dbm=(
-$hashfile_jmname_newname => "flat_dbm_3.txt",```
-```$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; ```
+	%flat_dbm=( ...
+$hashfile_jmname_newname => "flat_dbm_3.txt", ...
+$hashfile_jmname_newname = $tempdir."jmname_newname.hash"; ```
 
 
 ## flat_dbm_4.txt 
@@ -187,8 +187,8 @@ $hashfile_jmname_newname => "flat_dbm_3.txt",```
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```name_to_code.hash``` from ```flat_dbm_4.txt```
 ```sub flatten_dbm {
-	%flat_dbm=(
-$hashfile_name_to_code => "flat_dbm_4.txt"```,
+	%flat_dbm=( ...
+$hashfile_name_to_code => "flat_dbm_4.txt", ...
 ```$hashfile_name_to_code = $tempdir."name_to_code.hash";``` 
 
 
@@ -197,9 +197,9 @@ $hashfile_name_to_code => "flat_dbm_4.txt"```,
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```JM_namehash.hash``` from ```flat_dbm_5.txt``` and places the hash in the temp directory
 ```sub flatten_dbm {
-	%flat_dbm=(```
-```$hashfile_JM_namehash => "flat_dbm_5.txt",```
-```$hashfile_JM_namehash = $tempdir."JM_namehash.hash"; ```
+	%flat_dbm=( ...
+$hashfile_JM_namehash => "flat_dbm_5.txt", ...
+$hashfile_JM_namehash = $tempdir."JM_namehash.hash"; ```
 
 
 ## flat_dbm_6.txt  
@@ -207,9 +207,9 @@ $hashfile_name_to_code => "flat_dbm_4.txt"```,
 ###### Made by line in make_interchange.pl:
 ###### makes ```JM_treatment_h.hash``` from ```flat_dbm_6.txt```
 ```sub flatten_dbm {
-	%flat_dbm=(```
-```$hashfile_JM_treatment => "flat_dbm_6.txt");```
-```$hashfile_JM_treatment = $tempdir."JM_treatment_h.hash";``` 
+	%flat_dbm=( ...
+$hashfile_JM_treatment => "flat_dbm_6.txt"); ...
+$hashfile_JM_treatment = $tempdir."JM_treatment_h.hash";``` 
 
 
 ## I_common.txt
