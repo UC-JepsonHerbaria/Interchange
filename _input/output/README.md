@@ -156,10 +156,14 @@ EOP
 ###### Taxon SMASCH IDs to Interchange contents from ```$file_cpn_out```
 ###### Made by line in ```make_interchange.pl```:
 ###### makes ```capn_db.hash``` from ```flat_dbm_1.txt```
-```sub flatten_dbm {
+```
+sub flatten_dbm {
 	%flat_dbm=(...
+
 $hashfile_capn_db => "flat_dbm_1.txt", ...
-$hashfile_capn_db = $tempdir."capn_db.hash";``` 
+
+$hashfile_capn_db = $tempdir."capn_db.hash";
+```
 
 
 ## flat_dbm_2.txt 
