@@ -230,7 +230,8 @@
 
 
 ## I_treat_index_XXX.html, I_treat_indexes.html
-###### HTML treatment files for the search and index pages for the interchange
+###### HTML index files for the search and index pages for the interchange, this is the old JM edition 1 format
+###### Format abandoned sometime in late 2011? (not in current output), only the I_index_XXX.html format was continued in 2012 onward
 ###### made by lines in make_interchange.pl:
 ```print "     4 making name hash\n";```
 ```&make_namehash();```
@@ -240,7 +241,7 @@
 
 
 ## I_index_XXX.html, and others
-###### HTML index files for the index pages for the interchange
+###### HTML index files for the index pages for the interchange, these are the updated,
 ###### made by line in make_interchange.pl:
 ```#from new_parse_cpn.pl```
 ```sub parse_cpn {```
