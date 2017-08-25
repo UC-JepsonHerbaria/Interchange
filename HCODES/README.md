@@ -397,7 +397,7 @@ s/excSN/exc SN/;
 
 ## alter_treat_path.pl
 #### Script used to process names and hcodes from the hash file ```JM_treatments_h```, which is created from the text file ```flat_dbm_6``` by ```make_interchange.pl``` (or its predecessors)  
-#### This script allows the user to add, modify, or delete a small number of entries in this hash file.  It does not create this file from the ICPN or eFlora text files.
+##### This script allows the user to add, modify, or delete a small number of entries in this hash file.  It does not create this file from the ICPN or eFlora text files.
 #### Script recovered from archive.  Last updated by David Baxter. Superceded by XXXXXXXXX.
 
 ## expand_hcode.pl 
@@ -421,7 +421,7 @@ s/excSN/exc SN/;
 #### Script recovered from archive, no longer updated.  Superseded by flatten.pm
 
 ## get_bioregion_from_markup.pl
-#### #### Script used to get names and hcodes from the ICPN text file ```flat_dbm_6``` in the ```_input/output``` directory.  A portion of this script now resides in the module ```flatten.pm```
+#### Script used to get names and hcodes from the ICPN text file ```flat_dbm_6``` in the ```_input/output``` directory.  A portion of this script now resides in the module ```flatten.pm```
 #### Script recovered from archive, no longer updated.  Superseded by ```flatten.pm```
 ###### Script also includes an older version of the subroutine ```strip_name```, which now resides in the module ```CCH.pm```
 
