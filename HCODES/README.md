@@ -1,30 +1,70 @@
 # HCODE Generating Scripts
 
-Hcodes or DIST codes are strings that describe the biogeographical regions that a taxon is reported from by the treatment author.  These are strings derived from the BIOREGIONAL DISTRIBUTION tag in the eflora_treatments.txt file.
+## Introduction
 
-Proper defining and coding of the hcodes are essential for the proper map distributions to be displayed online.
+### HCODES or DIST codes are strings that describe the biogeographical regions that a taxon is reported from by the treatment author.  These are strings derived from the BIOREGIONAL DISTRIBUTION tag in the eflora_treatments.txt file.
 
-In the beginning, only county level distributions were displayed in the Interchange.  That function is still present.  Now that 1.5 million specimens are mapped on the CCH, that distributional information is processed and passed down to maps in the eFlora and ICPN
+### Proper defining and coding of the hcodes are essential for the proper map distributions to be displayed online.
 
-The bioregion boundaries are filled in on gif maps in the Interchange through the passage of hexadecimal versions of the hcode string and the unique numerical taxon id.
+### In the beginning, only county level distributions were displayed in the Interchange.  That function is still present.  Now that 1.5 million specimens are mapped on the CCH, that distributional information is processed and passed down to maps in the eFlora and ICPN
 
-It is possible that ilder versions of the Interchange website passed along this information via standardized text version of the taxon name, instead of the numerical code.  
-Older versions of the hcode has files have only the taxon name and the hexadecimal code, which the current Interchange web site cannot parse. 
-As per David's notes below, the creation scripts for the taxon ID and hexadecimal code hash file was lost and a general script, alter_treat_path.pl, was recommended to be used to add new codes.
-However, this script does not recreae the entire hcode hash.  It only modifies or deleted a limited number of records.  A new process was needed to be developed to recrreate the has file for use by the eflora and interchange, each time either was refreshed.
-Thus deleteing and old data from the hash, and populating the hash with new taxon data each time the files are modfied.  Thus eliminating the need for a sepereate, peice by peice addition and subtraction of a set of taxa and codes from the hash file.
+### The bioregion boundaries are filled in on gif maps in the Interchange through the passage of hexadecimal versions of the hcode string and the unique numerical taxon id.
 
-Gif-drawing scripts are in the cgi-bin on Annie. 
-draw_jmap.pl (smaller version) 
-the eflora page uses new_jmap.pl. new_jmap.pl can take a URL variable "no_legend=1" to hide the legend.
-Examples:
-http://ucjeps.berkeley.edu/cgi-bin/draw_jmap.pl?0b40db5c01
-http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01
-http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01&no_legend=1
+### It is possible that older versions of the Interchange website passed along this information via standardized text version of the taxon name, instead of the numerical code.  
+
+### Older versions of the hcode has files have only the taxon name and the hexadecimal code, which the current Interchange web site cannot parse. As per David's notes below, the creation scripts for the taxon ID and hexadecimal code hash file was lost and a general script, alter_treat_path.pl, was recommended to be used to add new codes. However, this script does not recreae the entire hcode hash.  It only modifies or deleted a limited number of records.  A new process was needed to be developed to recrreate the has file for use by the eflora and interchange, each time either was refreshed. Thus deleteing and old data from the hash, and populating the hash with new taxon data each time the files are modfied.  Thus eliminating the need for a separate, peice by peice addition and subtraction of a set of taxa and codes from the hash file.
+
+### Older versions of the ICPN used the hash file bioregion.hcode6 to store the accepted names/synonym names and HCODE data.  This morphed into other hash file names until 2012 when the updating of the hash file appeared to be abandoned for the ICPN (probably unintentionally just "left-in-the-dust").
+
+### For the maps, and other features of the JOI website as a whole, this needs to be updated whenever the eFlora HCODEs are updated.
+
+## GIF-DRAWING
+### Gif-drawing scripts are in the cgi-bin on Annie. 
+
+### smaller version:
+```draw_jmap.pl```  
+
+### the eflora page uses ```new_jmap.pl```. ```new_jmap.pl``` can take a URL variable ```no_legend=1``` to hide the legend.
+### Examples:
+```http://ucjeps.berkeley.edu/cgi-bin/draw_jmap.pl?0b40db5c01```
+```http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01```
+```http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01&no_legend=1```
+
+## Archived Older ICPN Instructions
+### notes from David Baxer (from 2015) for previous versions of the ICPN)
+
+#### Updating the distribution map codes for the eFlora
+##### Dick's 2012 version of the eFlora passes this hcode value along somehow that I haven't quite plotted out.
+##### David's 2015 version translates the bioregion string into the hcode at the very beginning of the process. 
+##### When the eFlora raw file is parsed out and loaded into the SQLite database, the bioregion information is recorded twice: one field holds the original bioregion string, to be displayed for humans to read; the other holds the hcode which is fed straight to the gif map scripts
 
 
-Regarding bioregion encoding, "flatten", and "hcodes"
-the perl module flatten.pm (probably currently exists in multiple places) has functions which take the bioregion distribution strings as written in the eFlora raw file, and translates it to an array of 1s and 0s representing presence and absence in 35 bioregions. The code positions correspond to the bioregions as follows (zero-indexed):
+#### Updating the distribution map codes for the ICPN
+##### The Jepson Online Interchange (JOI) map codes (referred to as $overlay_code, $hcode, dist codes, etc in get_cpn.pl) are updated separately from the normal JOI refresh.
+##### Dick couldn't find the script(s) that do the full update from the eFlora, however he did find alter_data/alter_treat_path.pl. 
+##### This file is now in my home directory on annie, i.e. /home/dbaxter/alter_treat_path.pl
+##### In this script, data can be added to the __END__ of the script, then rerunning the script will update the coloring maps on the JOI pages
+
+
+#### Updating the maps
+##### If distribution strings are updated, then the kml point files that power the eflora specimen pages must be refreshed.
+##### There is a hash that holds the map-drawing codes for each name.
+```/usr/local/web/ucjeps_data/TJM_treat_path```
+##### This is used by the eFlora (to draw maps and color kml point maps) and the Interchange (also to draw maps) [David states this but he must be mistaken or it was later changed by him.  The Interchange files in 2017 used entirely different hashes for the hcodes.  I have found two versions as described above].
+
+#### To modify the hash:
+##### -To modify a few, use alter_data/alter_treat_path.pl in the /home/rlmoe directory.
+##### -To redo all, run CDL_buffer/region_gif/get_all_dist.pl, which prints the codes for all eflora treatments, then add that output to the DATA section of alter_treat_path.pl
+##### [however, this updates the eFlora only and breaks the Interchange, which seems to have been "left in the dust" persay by all the changes to the eFlora in 2014-2016]
+
+#HCODE Definitions
+
+### Regarding bioregion encoding, "flatten", and "hcodes"
+### the perl module ```flatten.pm``` (probably currently exists in multiple places) has functions which take the bioregion distribution strings as written in the eFlora raw file, and translates it to an array of 1s and 0s representing presence and absence in 35 bioregions. The code positions correspond to the bioregions as follows (zero-indexed):
+### ```flatten.pm``` also has a subroutine called ```get_hcode```, which encodes the 35 binary character string into a shorter hexidecimal representation (hcode = hexidecimal code). 
+### The gif maps on the Interchange and the eFlora pages use the hcode to determine which sections should be coloured in.
+
+```
 '0'==>'CCo''
 '1'==>'CaRF'
 '2'==>'CaRH'
@@ -60,29 +100,27 @@ the perl module flatten.pm (probably currently exists in multiple places) has fu
 '32'==>'WTR'
 '33'==>'W&I''
 '34'==>'Wrn'
+```
 
-Example: Calochortus albus
-bioregion string: s CaRF, n&c SN, CW, n ChI, TR, PR
-PR = PR exc SnJt, SnJt
-TR = WTR, SnGb, SnBr
-n&c SN = n SNF, c SNF, n SNH, c SNH,
-CW = CCo, SnFrB, SCoRI, SCoRO
-bioregions included: 0,1,3,14,16,17,19,20,22,23,26,27,28,30,32
-binary representation: 11010000000000101101101100111010100
-
-flatten.pm also has a subroutine called "get_hcode", which encodes the 35 binary character string into a shorter hexidecimal representation (hcode = hexidecimal code). 
-The gif maps on the Interchange and the eFlora pages use the hcode to determine which sections should be coloured in.
-
-C. albus hex representation: 0b40db5c01
+### Example: Calochortus albus
+#### bioregion string: s CaRF, n&c SN, CW, n ChI, TR, PR
+##### PR = PR exc SnJt, SnJt
+##### TR = WTR, SnGb, SnBr
+##### n&c SN = n SNF, c SNF, n SNH, c SNH,
+##### CW = CCo, SnFrB, SCoRI, SCoRO
+#### bioregions included: 0,1,3,14,16,17,19,20,22,23,26,27,28,30,32
+#### binary representation: 11010000000000101101101100111010100
+#### C. albus hex representation: 0b40db5c01
 
 
-hcode definitions from flatten.pm:
-flatten6 (version 6 of the flatten program has been in used since atleast 2012 without chamges ntil now
-one could say due to the minor change below for Teh, this is version 6.5
+### HCODE definitions from flatten.pm:
+##### flatten6 (version 6 of the flatten program has been in used since atleast 2012 without changes until now
+##### one could say due to the minor change below for Teh, this is version 6.5
 
-assumes hierarchicality of SNE, DMoj, and MP
-adds n & s ChI
-sorts differently, ignoring latitudinal descriptors
+##### assumes hierarchicality of SNE, DMoj, and MP
+##### adds n & s ChI
+##### sorts differently, ignoring latitudinal descriptors
+```
 @NCoR = ('NCoRO','NCoRI','NCoRH');
 @CaR = ('CaRF','CaRH');
 @cSN = ('cSNF', 'cSNH');
@@ -106,15 +144,18 @@ sorts differently, ignoring latitudinal descriptors
 @D = (@DMoj,'DSon');
 @CA_FP = (@NW, @CaR, @SN, @GV, @CW, @SW);
 @CA = (@CA_FP, @D, @GB);
+```
 
-
-alternate forms from the eflora are modified as follows:
+#### alternate forms from the eflora are modified as follows:
+```
 	s/n (DMoj)/$1 (exc DMtns)/ unless m/DMtns/;
 	s/(n SNE)/$1 (exc WaI)/ unless m/W&I/;
 	s/MP \(caves in Lava[^)]+\)/MP (exc Wrn)/ unless m/Wrn/;
 	s/CA-FP/CA_FP/;
 	s/W&I/WaI/;
-
+```
+#### PR revisions
+```
 sub PRkludge{
 	if(m/PR \(/){
 		if (m/PR (\([^)]+\))/){
@@ -130,7 +171,10 @@ s/PR/PR (incl SnJt)/;
 				else{
 					s/([a-z] PR)/$1 (exc SnJt)/ unless m/SnJt/;
 				}
+```
 
+#### edge regions revision
+```
 sub edgekludge {
 local($_)=@_;
 $prev=$_;
@@ -142,14 +186,20 @@ s/PR \(D edge\)/PR (exc SnJt)/;
 s/(adjacent edges D\b)/$1 (exc DMtns)/;
 s/(edge of D\b)/$1 (exc DMtns)/;
 s/(w edge SNE)/$1 (exc WaI)/;
+```
 
+#### adjacent regions revision
+```
 sub adjkludge {
 local($_)=@_;
 $prev=$_;
 s/(adjacent [snew ]*DMoj)/$1 (exc DMtns)/;
 s/ D and adjacent CA.FP/ D, PR, TR, sSN/; #used to read /D, PR, TR, Teh, sSN/, but sSN includes Teh, so this was changed also to match above
 s/nSNE, adjacent CA.FP/nSNE, sSNH/;
+```
 
+#### SN revisions
+```
 sub SNkludge {
 local($_)=@_;
 #$key=$_;
@@ -162,11 +212,10 @@ s/([scn])&([scn])(SN[HF]?)/$1$3, $2$3/g;
 s/XXX/SNE/;
 #$SN{$key}=$_;
 s/excSN/exc SN/;
-
-Exceptions
-
-When a bioregional distribution includes an exception string 'SN exc Teh' or 'D (except DMtns)', the following code deletes the exception string from the hcode:
-
+```
+#### Exceptions
+##### When a bioregional distribution includes an exception string 'SN exc Teh' or 'D (except DMtns)', the following code deletes the exception string from the hcode:
+```
 		($exception_string = $_)=~ s/.*exc[. ]+//;
 		$exception_string =~ s/.*except //;
 
@@ -182,30 +231,17 @@ When a bioregional distribution includes an exception string 'SN exc Teh' or 'D 
 			undef($rawlocs{$exception}) if defined($qualified{$exception});
 			grep(undef($rawlocs{$_}),@$exception) if @$exception;
 		}
-Additional instructions from the Archive:
-(notes from David Baxer, from 2015)
-
-Updating the distribution map codes for the eFlora
-Dick's 2012 version of the eFlora passes this hcode value along somehow that I haven't quite plotted out.
-David's 2015 version translates the bioregion string into the hcode at the very beginning of the process. 
-When the eFlora raw file is parsed out and loaded into the SQLite database, the bioregion information is recorded twice: one field holds the original bioregion string, to be displayed for humans to read; the other holds the hcode which is fed straight to the gif map scripts
+```
 
 
-Updating the distribution map codes for the Interchange
-The Jepson Online Interchange (JOI) map codes (referred to as $overlay_code, $hcode, dist codes, etc in get_cpn.pl) are updated separately from the normal JOI refresh.
-Dick couldn't find the script(s) that do the full update from the eFlora, however he did find alter_data/alter_treat_path.pl. 
-This file is now in my home directory on annie, i.e. /home/dbaxter/alter_treat_path.pl
-In this script, data can be added to the __END__ of the script, then rerunning the script will update the coloring maps on the JOI pages
+#Definitions and History of Individual Files 
 
-
-Updating the maps
-If distribution strings are updated, then the kml point files that power the eflora specimen pages must be refreshed.
-There is a hash that holds the map-drawing codes for each name.
-/usr/local/web/ucjeps_data/TJM_treat_path
-This is used by the eFlora (to draw maps and color kml point maps) and the Interchange (also to draw maps) [David states this but he must be mistaken or it was later changed by him.  The Interchange files in 2017 used entirely different hashes for the hcodes.  I have found two versions as described above].
-
-To modify the hash:
--To modify a few, use alter_data/alter_treat_path.pl in the /home/rlmoe directory.
--To redo all, run CDL_buffer/region_gif/get_all_dist.pl, which prints the codes for all eflora treatments, then add that output to the DATA section of alter_treat_path.pl
-[however, this updates the eFlora only and breaks the Interchange, which seems to have been "left in the dust" persay by all the changes to the eFlora in 2014-2016]
+## expand_hcode.pl 
+#### Taxon name to Interchange taxon ID (some added that are not in SMASCH)
+###### Made by line in ```make_interchange.pl```:
+###### makes ```name_to_code.hash``` from ```flat_dbm_4.txt```
+```sub flatten_dbm {```
+```	%flat_dbm=( ...```
+```$hashfile_name_to_code => "flat_dbm_4.txt", ...```
+```$hashfile_name_to_code = $tempdir."name_to_code.hash";``` 
 
