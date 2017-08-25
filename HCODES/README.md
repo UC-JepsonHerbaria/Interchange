@@ -2,35 +2,84 @@
 
 ## Introduction
 
-### HCODES or DIST codes are strings that describe the biogeographical regions that a taxon is reported from by the treatment author.  These are strings derived from the BIOREGIONAL DISTRIBUTION tag in the eflora_treatments.txt file.
+#### HCODES or DIST codes are strings that describe the biogeographical regions that a taxon is reported from by the treatment author.  These are strings derived from the BIOREGIONAL DISTRIBUTION tag in the eflora_treatments.txt file.
 
-### Proper defining and coding of the hcodes are essential for the proper map distributions to be displayed online.
+#### Proper defining and coding of the hcodes are essential for the proper map distributions to be displayed online.
 
-### In the beginning, only county level distributions were displayed in the Interchange.  That function is still present.  Now that 1.5 million specimens are mapped on the CCH, that distributional information is processed and passed down to maps in the eFlora and ICPN
+#### In the beginning, only county level distributions were displayed in the Interchange.  That function is still present.  Now that 1.5 million specimens are mapped on the CCH, that distributional information is processed and passed down to maps in the eFlora and ICPN
 
-### The bioregion boundaries are filled in on gif maps in the Interchange through the passage of hexadecimal versions of the hcode string and the unique numerical taxon id.
+#### The bioregion boundaries are filled in on gif maps in the Interchange through the passage of hexadecimal versions of the hcode string and the unique numerical taxon id.
 
-### It is possible that older versions of the Interchange website passed along this information via standardized text version of the taxon name, instead of the numerical code.  
+#### It is possible that older versions of the Interchange website passed along this information via standardized text version of the taxon name, instead of the numerical code.  
 
-### Older versions of the hcode has files have only the taxon name and the hexadecimal code, which the current Interchange web site cannot parse. As per David's notes below, the creation scripts for the taxon ID and hexadecimal code hash file was lost and a general script, alter_treat_path.pl, was recommended to be used to add new codes. However, this script does not recreae the entire hcode hash.  It only modifies or deleted a limited number of records.  A new process was needed to be developed to recrreate the has file for use by the eflora and interchange, each time either was refreshed. Thus deleteing and old data from the hash, and populating the hash with new taxon data each time the files are modfied.  Thus eliminating the need for a separate, peice by peice addition and subtraction of a set of taxa and codes from the hash file.
+#### Older versions of the hcode has files have only the taxon name and the hexadecimal code, which the current Interchange web site cannot parse. As per David's notes below, the creation scripts for the taxon ID and hexadecimal code hash file was lost and a general script, alter_treat_path.pl, was recommended to be used to add new codes. However, this script does not recreae the entire hcode hash.  It only modifies or deleted a limited number of records.  A new process was needed to be developed to recrreate the has file for use by the eflora and interchange, each time either was refreshed. Thus deleteing and old data from the hash, and populating the hash with new taxon data each time the files are modfied.  Thus eliminating the need for a separate, peice by peice addition and subtraction of a set of taxa and codes from the hash file.
 
-### Older versions of the ICPN used the hash file bioregion.hcode6 to store the accepted names/synonym names and HCODE data.  This morphed into other hash file names until 2012 when the updating of the hash file appeared to be abandoned for the ICPN (probably unintentionally just "left-in-the-dust").
+#### Older versions of the ICPN used the hash file bioregion.hcode6 to store the accepted names/synonym names and HCODE data.  This morphed into other hash file names until 2012 when the updating of the hash file appeared to be abandoned for the ICPN (probably unintentionally just "left-in-the-dust").
 
-### For the maps, and other features of the JOI website as a whole, this needs to be updated whenever the eFlora HCODEs are updated.
+#### For the maps, and other features of the JOI website as a whole, this needs to be updated whenever the eFlora HCODEs are updated.
 
-## GIF-DRAWING
-### Gif-drawing scripts are in the cgi-bin on Annie. 
+# GIF-DRAWING
+## Introduction
+#### Gif-drawing scripts are in the cgi-bin on Annie. 
 
-### smaller version:
+#### smaller version:
 ```draw_jmap.pl```  
 
-### the eflora page uses ```new_jmap.pl```. ```new_jmap.pl``` can take a URL variable ```no_legend=1``` to hide the legend.
+#### the eflora page uses ```new_jmap.pl```. ```new_jmap.pl``` can take a URL variable ```no_legend=1``` to hide the legend.
 ### Examples:
 ```http://ucjeps.berkeley.edu/cgi-bin/draw_jmap.pl?0b40db5c01```
 ```http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01```
 ```http://ucjeps.berkeley.edu/cgi-bin/new_jmap.pl?0b40db5c01&no_legend=1```
 
-## Archived Older ICPN Instructions
+## Lists of HCODES and HTML Color codes and Pixel positions for each of the Bioregions
+
+#### There seems to be two lists for the coloring of the GIF image maps. I am not sure why as of August 2017 why one is used instead of the other.  For future reference each is listed herein.
+
+### Long Form
+```
+CCo	137,255	102,205,170	Central Coast
+CaRF	121,83	32,178,170	Cascade Range Foothills
+CaRH	140,80	10,125,30	High Cascade Range
+nChI	266,399	221,160,221	n Channel Islands
+sChI	266,399	221,160,221	s Channel Islands
+DMoj	320,315	255,160,122	Mojave Desert
+DMtns	308,266	255,100,0	Desert Mountains
+DSon	400,400	255,140,0	Sonoran Desert
+KR	73,33	107,142,35	Klamath Ranges
+MP	165,38	255,232,170	Modoc Plateau
+NCo	39,73	0,100,0	North Coast
+NCoRH	91,98	32,178,170	High North Coast Ranges
+NCoRI	105,90	32,178,170	Inner North Coast Ranges
+NCoRO	72,102	32,178,170	Outer North Coast Ranges
+PR	325,406	255,000,100	Peninsular Ranges
+SCo	275,369	155,48,255	South Coast Ranges
+SCoRI	165,261	69,139,116	Inner South Coast Ranges
+SCoRO	191,329	69,139,116	Outer South Coast Ranges
+ScV	137,177	127,255,25	Sacramento Valley
+SnBr	322,358	255,105,180	San Bernardino Mountains
+SnFrB	136,223	176,196,222	San Francisco Bay Area
+SnGb	288,356	255,105,180	San Gabriel Mountains
+SNE	240,196	255,255,15	East of Sierra Nevada
+SnJt	332,380	255,000,100	San Jacinto Mountains
+SnJV	184,244	154,205,50	San Joaquin Valley
+Teh	255,324	72,61,139	Tehachapi Mountain Area
+WaI	265,213	250,155,15	White and Inyo Mountains
+Wrn	181,40	255,165,0	Warner Mountains
+WTR	247,344	255,105,180	Western Transverse Ranges
+nSNF	159,159	70,130,180	n Sierra Nevada Foothills
+nSNH	179,137	30,144,255	n High Sierra Nevada
+cSNF	195,218	70,130,180	c Sierra Nevada Foothills
+cSNH	218,203	30,144,255	c High Sierra Nevada
+sSNF	230,250	70,130,180	s Sierra Nevada Foothills
+sSNH	255,255	30,144,255	s High Sierra Nevada 
+```
+
+### Short Form
+
+
+
+
+# Archived Older ICPN Instructions
 ### notes from David Baxer (from 2015) for previous versions of the ICPN)
 
 #### Updating the distribution map codes for the eFlora
@@ -59,10 +108,10 @@
 
 #HCODE Definitions
 
-### Regarding bioregion encoding, "flatten", and "hcodes"
-### the perl module ```flatten.pm``` (probably currently exists in multiple places) has functions which take the bioregion distribution strings as written in the eFlora raw file, and translates it to an array of 1s and 0s representing presence and absence in 35 bioregions. The code positions correspond to the bioregions as follows (zero-indexed):
-### ```flatten.pm``` also has a subroutine called ```get_hcode```, which encodes the 35 binary character string into a shorter hexidecimal representation (hcode = hexidecimal code). 
-### The gif maps on the Interchange and the eFlora pages use the hcode to determine which sections should be coloured in.
+#### Regarding bioregion encoding, "flatten", and "hcodes"
+#### the perl module ```flatten.pm``` (probably currently exists in multiple places) has functions which take the bioregion distribution strings as written in the eFlora raw file, and translates it to an array of 1s and 0s representing presence and absence in 35 bioregions. The code positions correspond to the bioregions as follows (zero-indexed):
+#### ```flatten.pm``` also has a subroutine called ```get_hcode```, which encodes the 35 binary character string into a shorter hexidecimal representation (hcode = hexidecimal code). 
+#### The gif maps on the Interchange and the eFlora pages use the hcode to determine which sections should be coloured in.
 
 ```
 '0'==>'CCo''
@@ -234,7 +283,8 @@ s/excSN/exc SN/;
 ```
 
 
-#Definitions and History of Individual Files 
+
+# Definitions and History of Individual Files 
 
 ## expand_hcode.pl 
 #### Taxon name to Interchange taxon ID (some added that are not in SMASCH)
