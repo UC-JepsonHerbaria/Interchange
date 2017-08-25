@@ -395,12 +395,33 @@ s/excSN/exc SN/;
 
 # Definitions and History of Individual Files 
 
+## alter_treat_path.pl
+#### Script used to process names and hcodes from the hash file ```JM_treatments_h```, which is created from the text file ```flat_dbm_6``` by ```make_interchange.pl``` (or its predecessors)  
+#### This script allows the user to add, modify, or delete a small number of entries in this hash file.  It does not create this file from the ICPN or eFlora text files.
+#### Script recovered from archive.  Last updated by David Baxter. Superceded by XXXXXXXXX.
+
 ## expand_hcode.pl 
-#### Taxon name to Interchange taxon ID (some added that are not in SMASCH)
-###### Made by line in ```make_interchange.pl```:
-###### makes ```name_to_code.hash``` from ```flat_dbm_4.txt```
-```sub flatten_dbm {```
-```	%flat_dbm=( ...```
-```$hashfile_name_to_code => "flat_dbm_4.txt", ...```
-```$hashfile_name_to_code = $tempdir."name_to_code.hash";``` 
+#### Script used to expand the hcodes in bioregion.hcode6 hash from hexadecimal to the full text string 
+###### Not used in recent versions of the JOI, but the code could be useful if updated.
+
+## endem_map.pl
+#### Script used to color in the bioregions for the number of endemic species in each bioregion.  It uses bioregion.hcode6 hash. 
+###### Not used in recent versions of the JOI, but the code could be useful if updated.
+###### Needs the codes from the updated color codes from above to be updated.
+###### This format was used to produce many types of maps in the past, before the CCH.  Maps for large family, genera, and weeds have been found that would have been created by a script similar to this
+
+## get_hcode_from_markup.pl
+#### Script used to get names and hcodes from the ICPN text file ```flat_dbm_6``` in the ```_input/output``` directory.
+###### Produces a text file with names and hexadecimal hcodes using print line below:
+```print "$complete_name\t0000000000\n";```
+#### Script recovered from archive, may not be updated
+
+## get_bioregion_without_exception.pl
+#### Script used to process names and hcodes from the eFlora text file.  A portion of this script now resides in the module flatten.pm
+#### Script recovered from archive, no longer updated.  Superseded by flatten.pm
+
+## get_bioregion_from_markup.pl
+#### #### Script used to get names and hcodes from the ICPN text file ```flat_dbm_6``` in the ```_input/output``` directory.  A portion of this script now resides in the module ```flatten.pm```
+#### Script recovered from archive, no longer updated.  Superseded by ```flatten.pm```
+###### Script also includes an older version of the subroutine ```strip_name```, which now resides in the module ```CCH.pm```
 
