@@ -283,7 +283,7 @@ sSNH	255,255	30,144,255	s High Sierra Nevada
 @CaR = ('CaRF','CaRH');
 @cSN = ('cSNF', 'cSNH');
 @nSN = ('nSNF', 'nSNH');
-@sSN = ('sSNF', 'sSNH','Teh'); #added 'Teh' to this line recommended by Tom, because sSN by definition includes Teh, and there are taxa that have yellow flags in Teh that should not be
+@sSN = ('sSNF', 'sSNH','Teh'); 
 @SNF=('nSNF','cSNF','sSNF');
 @SNH=('nSNH','cSNH','sSNH');
 @SN = (@SNF,@SNH,'Teh');
@@ -352,7 +352,7 @@ sub adjkludge {
 local($_)=@_;
 $prev=$_;
 s/(adjacent [snew ]*DMoj)/$1 (exc DMtns)/;
-s/ D and adjacent CA.FP/ D, PR, TR, sSN/; #used to read /D, PR, TR, Teh, sSN/, but sSN includes Teh, so this was changed also to match above
+s/ D and adjacent CA.FP/ D, PR, TR, sSN/; 
 s/nSNE, adjacent CA.FP/nSNE, sSNH/;
 ```
 
@@ -398,6 +398,8 @@ s/excSN/exc SN/;
 ## alter_treat_path.pl
 #### Script used to process names and hcodes from the hash file ```JM_treatments_h```, which is created from the text file ```flat_dbm_6``` by ```make_interchange.pl``` (or its predecessors)  
 ##### This script allows the user to add, modify, or delete a small number of entries in this hash file.  It does not create this file from the ICPN or eFlora text files.
+##### The 2011 version of the file modfies the hash, ```TJM_treat_path```, which seems to have superceded JM_treatments_h, for the second edition of the Jepson Manual.
+##### Unlike ```flat_dbm_6``` & ```JM_treatments_h```, ```TJM_treat_path``` is no longer updated each time the eFlora or ICPN is refreshed.  This is a problem that needs rectified in the new version.
 #### Script recovered from archive.  Last updated by David Baxter. Superceded by XXXXXXXXX.
 
 ## expand_hcode.pl 
