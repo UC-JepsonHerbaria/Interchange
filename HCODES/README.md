@@ -395,6 +395,16 @@ s/excSN/exc SN/;
 
 # Definitions and History of Individual Files 
 
+## alter_hcode.pl
+#### Script used to process names and hcodes from the hash file ```nomsyn_hcode_hash```.  The new values are added in the data section at the end of the script.  This hash file is the alternate version with the text names and their corresponding hexadecimal hcodes.
+##### ```nomsyn_hcode_hash``` is also no longer updated each time the eFlora or ICPN is refreshed.  ```TJM_treat_path``` was not used for this because the text taxon names were preferred output.
+#### Script recovered from archive.
+
+## alter_nomsyn_hcodes.pl
+#### Script used to process names and hcodes from the hash file ```nomsyn_hcode_hash```.  This script consults the old taxon id file ```TNOAN.out``` to find the taxon id's for each text name in the hash.  It then reads from a file called ```newdist``` and prints the new records in the hash file.
+##### ```nomsyn_hcode_hash``` is also no longer updated each time the eFlora or ICPN is refreshed.  I am not sure why ```TJM_treat_path``` was also not used in 2015.
+#### Script recovered from archive. Last updated by David Baxter. Superceded by XXXXXXXXX.
+
 ## alter_treat_path.pl
 #### Script used to process names and hcodes from the hash file ```JM_treatments_h```, which is created from the text file ```flat_dbm_6``` by ```make_interchange.pl``` (or its predecessors)  
 ##### This script allows the user to add, modify, or delete a small number of entries in this hash file.  It does not create this file from the ICPN or eFlora text files.
