@@ -54,12 +54,13 @@ open(IN, "new_markup") || die;
 $complete_name="";
 
 while(<IN>){
+#next unless m/\(exc .*\(exc/;
 	if(m|<family_name>\s*(.*)\s*</family_name>|){
 		$F_N=$1;
 		if(m|<common_name level="family">\s*(.*)\s*</common_name>|){
 			$F_N .= "   $1";
 		}
-		print "\n$F_N\n";
+		#print "\n$F_N\n";
 	}
 	if (m/<genus_name>([^<]+)/){
 		$genus=ucfirst(lc($1));
@@ -105,13 +106,13 @@ $raw_bior=$bior;
 		$complete_name=~s/ssp\./subsp./;
 		($old_h_code)=m/<HCODE[^>]*>\s*(.+)\s*<\/HCODE>/;
 		foreach($bior){
-#print "START: $_\n";
+#warn "\nSTART: $_\n";
 		#take care of n SN, n & c SNF etc
 if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 
 		#this added June 27,1998
 				$_ = &SNkludge($_) unless (m/exc SN/);
-#print "after SN: $_\n";
+#warn "after SN: $_\n";
 			}
 
 
@@ -119,19 +120,19 @@ if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 #edge kludges
 			if(m/edge/){
 				$_ = &edgekludge($_);
-#print "After edge: $_\n";
+#warn "After edge: $_\n";
 			}
 #############
 
 #adjacent kludges
 			elsif(m/adjacent/){
 				$_ = &adjkludge($_);
-#print "After adjacent: $_\n";
+#warn "After adjacent: $_\n";
 			}
 
 			if(m/PR/){
 				$_ = &PRkludge($_);
-#print "After PR: $_\n";
+#warn "After PR: $_\n";
 			}
 
 #############
@@ -140,17 +141,18 @@ if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 			s/([ns]) ChI/$1ChI/g;
 			s/n (DMoj)/$1 (exc DMtns)/;
 			s/(n SNE)/$1 (exc WaI)/;
+			s/e NW/NW (exc NCo)/;
 		
 			s/CA-FP/CA_FP/;
 			s/W&I/WaI/;
 			s/[?;]//g;
 
-#print "After subs: $_\n";
+#warn "After subs: $_\n";
 			@poslocs = split(/[ .;,]+/,$_);
 	#s SN, Teh, SnGb, SnBr (and adjacent SCo), e PR, s SNE, D
 ###
 			foreach $loc (@poslocs){
-#print "loc: $_\n";
+#warn "loc: $_\n";
 ###
 				$temploc=quotemeta($loc);
 				unless(m/\(exc[^)]+$temploc/){
@@ -170,7 +172,7 @@ if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 				($exception_string = $_)=~ s/.*exc[. ]+//;
 				$exception_string =~ s/.*except //;
 
-#print "ES: $exception_string\n";
+#warn "ES: $exception_string\n";
 
 				$exception_string =~ s/\).*//;
 
@@ -181,6 +183,7 @@ if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 
 
 					foreach $exception (@all_exceptions){
+#warn "Exception: $exception\n";
 						if($exception eq "coast"){
 							undef($rawlocs{"CCo"});
 							undef($rawlocs{"SCo"});
@@ -205,7 +208,7 @@ if(m/[scnwe] SN[^E]/ ||  m/[scnwe] SN$/){
 #warn "$_\n$hstr\n$bitstr\n$bitstr2\n";
 #
 
-###warn "$line" if $hstr =~ /^0+$/;
+#warn "$line" if $hstr =~ /^0+$/;
 				$name =~ s/<#cb>/E/g;
 foreach($complete_name){
 s/&mathx;/X-/g;
@@ -214,7 +217,7 @@ s/([A-Z]\.) ([A-Z]\.)/$1$2/g;
 				$h_code=  unpack("H*", pack("b*",unpack ("b*", $distvec)));
 				$bitstr2 =unpack("b*",pack("H*",$old_h_code));
 				#print  $complete_name, "\t", unpack("H*", pack("b*",unpack ("b*", $distvec))),"\n";
-				print  &strip_name($complete_name), "\t$raw_bior\t", unpack ("b*", $distvec),"\n";
+				print  &strip_name($complete_name), "\t$raw_bior\t", unpack ("b*", $distvec),"\n", "$h_code\n" if $complete_name =~/tinctoria|eurycephal/;
 				#print  $complete_name, "\nnew: $raw_bior\nnew:", unpack("H*", pack("b*",unpack ("b*", $distvec))),"old : $old_h_code\nnew$bitstr\nold$bitstr2\n\n" unless $h_code eq $old_h_code;
 				undef(%rawlocs);	
 
