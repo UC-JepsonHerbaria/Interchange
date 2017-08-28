@@ -29,11 +29,13 @@ These are the scripts that go into the cgi_bin directory of Annie.
 ## draw_tiny_jmap.pl
 #### Script used to fill in the regions on maps of California on the Interchange and the eFlora.  This is the 2013 version of this file and gif.
 ##### This script maps the HCODES onto the map gif ```calmaptrim4.gif``` This is one of many versions of the map found in the archive. ```calmaptrim4.gif``` is a 181 kb, slightly larger version of the map with black borders.
-##### This and all the other 2013 an older versions of these files use the HCODE pixel mapping definitions shown in HCODE README under "Old Form (2013 version)"
-#### Script recovered from archive. Last updated by Dick Moe. Superceded by draw_tiny2.pl. 
+##### This and all the other 2013 an older versions of these files use the HCODE pixel mapping definitions shown in HCODE README under ```Old Form (2013 version)```
+#### Script recovered from archive. Last updated by Dick Moe. Superceded by ```draw_tiny2.pl.``` 
 
 ## draw_tiny2.pl
-#### Script used to process names and hcodes from the hash file ```nomsyn_hcode_hash```.  This script consults the old taxon id file ```TNOAN.out``` to find the taxon id's for each text name in the hash.  It then reads from a file called ```newdist``` and prints the new records in the hash file.
-##### ```nomsyn_hcode_hash``` is also no longer updated each time the eFlora or ICPN is refreshed.  I am not sure why ```TJM_treat_path``` was also not used in 2015.
-##### This uses the HCODE pixel mapping definitions shown in HCODE README under "Short Form, 2015 version"
+#### Script used to fill in the regions on maps of California on the Interchange and the eFlora.  This is the 2013 version of this file and gif.
+##### The 2013 version of this script maps the HCODES onto the map gif ```calmaptrim4.gif``` Then it was changed to use the map gif ```calmap200.gif```
+##### The 2016 version of this script maps the HCODES onto the map gif ```calmap200.gif``` Then it was changed to use the map gif ```calmap300.gif```
+##### ```calmap300.gif``` is a smaller version of the map than used previously.
+##### This uses the HCODE pixel mapping definitions shown in HCODE README under ```Short Form, 2015 version``` When originally written, it used to the "Old Form (2013 version)" that corresponds to ```calmaptrim4.gif```
 #### Modified from previous versions by David Baxter to change the KR boundary. Last updated by J. Alexander.
