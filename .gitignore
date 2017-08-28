@@ -2,6 +2,7 @@
 
 #generated files
 output/
+_input/old_interchange_files
 
 #from Mac OS X
 .DS_Store
