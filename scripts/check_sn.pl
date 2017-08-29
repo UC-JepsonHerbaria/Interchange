@@ -24,6 +24,7 @@ die $! unless -e $treat_hash;
 open(IN,"$treat_hash") || die;
 $/="";
 while(<IN>){
+next if m/^Admin/;
 chomp;
 ($par,$entry)=split(/\n/);
 	if($entry=~m/family_par/){
@@ -62,7 +63,7 @@ local($/)="";
 open(OUT, ">cpn_out.txt") || die;
 while(<>){
 unless (1 .. /PTERIDO/){
-die " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
+print " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
 }
 s/^=====.*\n.//;
 
@@ -72,10 +73,10 @@ s/LINK.*Check the California Weed.*\n//;
 s/  +/ /g;
 s/ $//;
 s/ \n/\n/g;
-	if  (1 .. /PTERIDOPH/){
-print OUT;
-next;
-}
+	#if  (1 .. /PTERIDOPH/){
+#print OUT;
+#next;
+#}
 if(m/^[A-Z][A-Z][A-Z]/){
 print OUT;
 next;
@@ -94,13 +95,53 @@ next;
 s/(Editorial Comments 2) +/$1: /;
 s/Editorial Commens 1/Editorial Comments 1/;
 s/ Summary:/Summary:/;
+s/\xE2\x80\xA6/ ... /g;
+s/\xE2\x80\xA1/&aacute;/g;
+s/\xe2\x80\x93/&ntilde;/g;
+s/\xC2\xB0/&deg;/g;
+s/\xC3\xB2/&oacute;/g;
+s/\xC3\x8E/&Icircum;/g;
+s/\xC3\x89/&Eacute;/g;
+s/\xC5\xBD/&eacute;/g;
+s/\xC2\xBC/1\/4/g;
+s/\xC2\xAD/--/g;
 
-s/‘/'/g;
-s/—/--/g;
+s/\xe2\x80\x9c/"/g;
+s/\xe2\x80\x9c/--/g;
+s/\xe2\x80\x9D/"/g;
+s/\xe2\x80\x98/'/g;
+s/\xe2\x80\x99/'/g;
+s/\x9c\x80\xe2/"/g;
+s/\xC3\x96/&Ouml;/g;
+s/\xE2\x80\xA6/ ... /;
+s/\xC3\xA9/&eacute;/g;
+s/\xC3\xA7/&ccedil;/g;
+s/\xC3\xB1/&ntilde;/g;
+s/\xC3\xA1/&aacute;/g;
+s/\xC3\xBC/&uuml;/g;
+s/\xC3\xB6/&ouml;/g;
+s/\xC3\xB3/&oacute;/g;
+s/\xC3\xA4/&auml;/g;
+s/\xC3\xA6/&aelig;/g;
+s/\xC3\xA8/&egrave;/g;
+s/\xC3\x81/&Aacute;/g;
+s/\xC3\xAD/&iacute;/g;
+s/\xC3\x8c/&igrave;/g;
+s/\xC3\xA2/&acircum;/g;
+s/\xC3\x97/&times;/g;
+s/\xC3\xAB/&euml;/g;
+s/\xC5\xA0/&#138;/g;
+s/\xC5\x93/&aelig;/g;
+s/\xC3\xAB/&euml;/g;
+
+
+
+#s/‘/'/g;
+#s/—/--/g;
 s/Á/&Aacute/g;
-s/°/&deg;/g;
-s/º/&deg;/g;
-s/(\d\d)\?(\d)/$1&deg;$2/g;
+#s/°/&deg;/g;
+#s/º/&deg;/g;
+#s/(\d\d)\?(\d)/$1&deg;$2/g;
 s/é/&eacute;/g;
 s/ö/&ouml;/g;
 s/á/&aacute;/g;
@@ -114,15 +155,40 @@ s/ê/&ecirc;/g;
 s/ç/&ccedil;/g;
 s/í/'/g;
 s/–/-/g;
-s/±/&plus_minus;/g;
-s/¼/1\/4/g;
-s/½/1\/2/g;
+#s/±/&plus_minus;/g;
+#s/¼/1\/4/g;
+#s/½/1\/2/g;
 s/qqww/<sn>/g;
 s/zzxx/<\/sn>/g;
+s/<#e9>/&eacute;/g;
+s/<#e1>/&aacute;/g;
+s/<#e8>/&egrave;/g;
+s/ò/&ograve;/g;
+s/<#fc>/&uuml;/g;
+s/<#f6>/&ouml;/g;
+s/ö/&ouml;/g;
+s/<#e9>/&eacute;/g;
+s/<#e1>/&aacute;/g;
+s/<#e8>/&egrave;/g;
+s/É/&Eacute;/g;
+s/ñ/&ntilde;/g;
+s/Ö/&Ouml;/g ;
+s/é/&eacute;/g ;
+s/è/&egrave;/g ;
+s/á/&aacute;/g ;
+s/í/&iacute;/g ;
+s/ü/&uuml;/g ;
+s/ë/&euml;/g;
+s/ó/&oacute;/g;
+#s/â/&acircum;/g;
+s/ç/&ccedil;/g;
+s/ä/&auml;/g;
+s/Á/&Aacute;/g;
+
 	@lines=split(/\n/);
 foreach $j (0 .. $#lines){
 if($lines[$j] =~ /^(Family|Author Notes)/){
-die "Dying collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
+print "Dying collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
 }
 }
 
@@ -195,7 +261,9 @@ unless ($seen{$_}++){
 		s/^LINK: /LINK: /  ||
 		s/^Variant [Ss]pelling: /VS: /  ||
 s/Types Info: */TI: / ||
-		s/^Synonyms not explicitly cited in TJM: /SNTJM: /)  ||
+		s/^Synonyms not explicitly cited in TJM: /SNTJM: /  ||
+s/Synchronization with TJM2:/SNCH:/||
+s/Pending:/PND:/) ||
 push(@badtag, "$name [tag]: |$_");
 
 }
