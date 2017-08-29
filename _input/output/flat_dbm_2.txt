@@ -511,19 +511,49 @@ Achnatherum brachychaetum
 10003
 
 
+10029
+
+
+10058
+
+
+10094
+
+
 10119
 
 
 10146
 
 
+10155
+
+
+102286	2852,2853,2854
+Cleome platycarpa
+
+10270
+
+
 10308
+
+
+10410
 
 
 10472
 
 
 10520
+
+
+10537
+
+
+10564
+
+
+10586
 
 
 10595
@@ -538,19 +568,43 @@ Achnatherum brachychaetum
 10649
 
 
+10663
+
+
+10766
+
+
+10784
+
+
+10821
+
+
 10832
 
 
 10847
 
 
+10850
+
+
 11031
+
+
+11057
 
 
 11093
 
 
+11130
+
+
 11152
+
+
+11185
 
 
 11196
@@ -571,10 +625,19 @@ Achnatherum brachychaetum
 114
 
 
+121
+
+
+12973	6677,6686,6687
+Amelanchier alnifolia var. pumila
+
 13126	2030,2031,2032
 Amsinckia eastwoodiae
 
 14319	8738,8827,8828
+
+
+15133	92,104,105
 
 
 16006	7088,7093,7094
@@ -583,8 +646,29 @@ Boykinia occidentalis
 16431	2696,2697,2698
 
 
+17061	5547,5553,5554
+
+
+17109	2240,2340,2341
+
+
+183
+
+
+18571	4374,4375,4376
+Centaurium davyi
+
+18786	7625,7626,7627
+
+
+18825	6677,6706,6707
+Chamaebatia foliolosa
+
 18889	7625,7628,7629
 Chamaesaracha nana
+
+19877	7029,7030,7031
+
 
 20068	3449,3555,3556
 Comarostaphylis diversifolia subsp. diversifolia
@@ -592,17 +676,35 @@ Comarostaphylis diversifolia subsp. diversifolia
 2010	609,917,918
 Chamaemelum nobile
 
+20349	329,372,373
+
+
+21360	3375,3385,3386
+Cucurbita foetidissima
+
+217
+
+
 21979	8695,8705,8706
 Cypripedium fasciculatum
 
+22197	3691,3896,3897
+Cytisus scoparius
+
 22319	8738,8929,8930
 Danthonia californica var. americana
+
+2296	609,1000,1001
+
 
 23131	2240,2422,2423
 Diplotaxis tenuifolia
 
 23751	2702,2709,2710
 Echinocereus triglochidiatus
+
+244
+
 
 2504	609,1055,1056
 
@@ -613,16 +715,34 @@ Echinocereus triglochidiatus
 25737	7869,7870,7871
 Fagonia pachyacantha
 
+25937	7928,8126,8127
+Fimbristylis thermalis
+
+262
+
+
 27188	8695,8712,8713
 
 
+27292	7177,7340,7341
+Gratiola heterosepala
+
 27768	570,573,574
+
+
+28026	8349,8586,8587
 
 
 28058	9345,9348,9349
 Heteranthera limosa
 
+288
+
+
 29890	6927,7025,7026
+
+
+2
 
 
 30284	5936,6222,6223
@@ -630,6 +750,9 @@ Heteranthera limosa
 
 30618	5654,5802,5803
 Leptodactylon jaegeri
+
+31236	7088,7123,7124
+Lithophragma bolanderi
 
 31492	2874,2877,2878
 Lonicera ciliosa
@@ -643,8 +766,32 @@ Helianthus bolanderi
 32878	2240,2565,2566
 
 
+345
+
+
+34681	8349,8625,8626
+Nolina interrata
+
+3471	609,1394,1395
+Hieracium argutum
+
 34900	6677,6813,6814
 
+
+35530	7625,7662,7663
+
+
+36249	7177,7468,7469
+Parentucellia viscosa
+
+36818	8738,9175,9176
+Pennisetum setaceum
+
+37370	2907,2982,2983
+Petrorhagia nanteuilii
+
+37765	8738,9190,9191
+Phleum pratense
 
 378
 
@@ -655,13 +802,28 @@ Pinguicula vulgaris subsp. macroceras
 392
 
 
+40155	3691,4184,4185
+
+
+40219	7029,7032,7033
+
+
+406
+
+
 4089	609,1620,1621
 
+
+41146	3449,3602,3603
+Rhododendron occidentale
 
 41203	8738,9266,9267
 
 
 415
+
+
+428
 
 
 43134	2874,2892,2893
@@ -688,23 +850,50 @@ Sidalcea calycosa subsp. calycosa
 44763	329,535,536
 
 
+4485	609,1712,1713
+Psathyrotes ramosissima
+
+45003	8738,9290,9291
+Sorghum halepense
+
 45018	8185,8232,8233
 Sparaxis tricolor
+
+45053	3691,4212,4213
+
 
 45130	5042,5133,5134
 Sphaeralcea ambigua var. ambigua
 
+45156	3691,4214,4215
+
+
 45943	2030,2230,2231
 Symphytum officinale
+
+46026	8738,9312,9313
+
 
 46354	2240,2668,2669
 Thelypodium crispum
 
+46421	153,154,155
+Thelypteris puberula
+
+47814	2907,3070,3071
+
+
 48745	329,551,552
+
+
+48827	9394,9395,9396
 
 
 48893	8349,8686,8687
 Zigadenus exaltatus
+
+5111	609,1849,1850
+
 
 518
 
@@ -712,11 +901,23 @@ Zigadenus exaltatus
 569
 
 
+590
+
+
 604
+
+
+60
+
+
+640
 
 
 657
 
+
+76371	8738,9042,9043
+Hesperostipa comata subsp. comata
 
 77287	2030,2137,2138
 Lappula redowskii var. cupulata
@@ -724,7 +925,16 @@ Lappula redowskii var. cupulata
 8811
 
 
+8824
+
+
 8860
+
+
+8877
+
+
+8921
 
 
 8947
@@ -733,13 +943,43 @@ Lappula redowskii var. cupulata
 9001
 
 
+9012
+
+
+9067
+
+
+9179
+
+
+9197
+
+
 9391
+
+
+9416
+
+
+9449
 
 
 9463
 
 
+9513
+
+
 9566
+
+
+9654
+
+
+9698
+
+
+9751
 
 
 9764
@@ -1252,9 +1492,6 @@ Agoseris apargioides var. apargioides
 9893
 
 
-	4316,4326,4327
-Quercus agrifolia
-
 10063
 
 
@@ -1734,9 +1971,6 @@ Dichondra occidentalis
 
 9999
 
-
-	8328,8337,8338
-Spirodela punctata
 
 10048
 
@@ -2311,10 +2545,10 @@ Anthemis cotula
 11035
 
 
-11079
-
-
 110
+
+
+11134
 
 
 11145
@@ -2332,9 +2566,6 @@ Anthemis cotula
 11321
 
 
-11347
-
-
 11404
 
 
@@ -2342,6 +2573,9 @@ Anthemis cotula
 
 
 11439
+
+
+11475
 
 
 11894	6434,6437,6438
@@ -2386,9 +2620,6 @@ Aruncus dioicus var. pubescens
 16139	8349,8438,8439
 Brodiaea californica
 
-1622	609,795,0,796
-Baileya multiradiata var. multiradiata
-
 16684	2757,2758,2759
 Callitriche heterophylla
 
@@ -2398,8 +2629,14 @@ Camissonia arenaria
 17198	2907,2931,2932
 
 
+18612	6927,6928,0,6929
+Cephalanthus occidentalis var. californicus
+
 1895	609,867,868
 Carduus nutans
+
+19525	3375,3380,0,3381
+Citrullus colocynthis var. lanatus
 
 20126	265,271,272
 
@@ -2437,14 +2674,14 @@ Dryopteris expansa
 24093	8738,8964,8965
 Elymus californicus
 
-24221	5936,5991,5992
-Emex spinosa
-
 24546	5042,5051,5052
 Eremalche parryi
 
 24990	8738,9012,9013
 Erioneuron pulchellum
+
+2511	609,1061,1062
+
 
 26486	3449,3561,3562
 Gaultheria ovatifolia
@@ -2452,8 +2689,8 @@ Gaultheria ovatifolia
 26991	5936,6216,6217
 
 
-27040	6393,6416,6417
-
+27009	8185,8192,8193
+Gladiolus tristis
 
 27443	2907,2943,0,2944
 Gypsophila elegans var. elegans
@@ -2485,12 +2722,6 @@ Limonium californicum
 32177	2907,2957,2958
 
 
-32397	5029,5033,5034
-Lythrum hyssopifolia
-
-32686	2702,2722,2723
-Mammillaria grahamii
-
 327
 
 
@@ -2509,14 +2740,11 @@ Muilla coronata
 341
 
 
+34261	4503,4506,4507
+Myriophyllum hippuroides
+
 35155	72,82,83
 Ophioglossum pusillum
-
-36384	8738,9170,9171
-Paspalum distichum
-
-3647	609,1459,1460
-Iva axillaris
 
 3725	609,1483,1484
 Lasthenia californica
@@ -2578,9 +2806,6 @@ Schinus terebinthifolius
 43586	7928,8143,8144
 
 
-4548	609,1751,1752
-Rafinesquia neomexicana
-
 4577	609,1761,1762
 
 
@@ -2605,11 +2830,14 @@ Torreyochloa pallida
 48407	7862,7865,7866
 Vitis girdiana
 
-48829	7901,7912,7913
-
-
 5457	609,1946,0,1947
 Trimorpha acris var. debilis
+
+5482	609,1957,1958
+
+
+5489	609,1959,1960
+Verbesina encelioides
 
 583
 
@@ -2648,6 +2876,12 @@ Piptatherum miliaceum
 Myosurus cupulatus
 
 77538
+
+
+803	609,648,649
+Ambrosia ambrosioides
+
+8767
 
 
 8789
@@ -2731,40 +2965,40 @@ Myosurus cupulatus
 9975
 
 
-11134
+11079
 
 
-11475
+11347
 
 
-18612	6927,6928,0,6929
-Cephalanthus occidentalis var. californicus
+1622	609,795,0,796
+Baileya multiradiata var. multiradiata
 
-19525	3375,3380,0,3381
-Citrullus colocynthis var. lanatus
+24221	5936,5991,5992
+Emex spinosa
 
-2511	609,1061,1062
+27040	6393,6416,6417
 
 
-27009	8185,8192,8193
-Gladiolus tristis
+32397	5029,5033,5034
+Lythrum hyssopifolia
 
 32600	5042,5084,5085
 Malva nicaeensis
 
-34261	4503,4506,4507
-Myriophyllum hippuroides
+32686	2702,2722,2723
+Mammillaria grahamii
 
-5482	609,1957,1958
+36384	8738,9170,9171
+Paspalum distichum
 
+3647	609,1459,1460
+Iva axillaris
 
-5489	609,1959,1960
-Verbesina encelioides
+4548	609,1751,1752
+Rafinesquia neomexicana
 
-803	609,648,649
-Ambrosia ambrosioides
-
-8767
+48829	7901,7912,7913
 
 
 10129
@@ -2986,6 +3220,9 @@ Geranium bicknellii
 27397	290,310,0,311
 Guilleminea densa var. aggregata
 
+27721	7177,7344,7345
+Hebe speciosa
+
 27876	3215,3221,3222
 Helianthemum scoparium
 
@@ -3045,6 +3282,9 @@ Nassella formicarum
 
 35379	8738,9145,9146
 Orcuttia inaequalis
+
+36663	4416,4440,4441
+Pelargonium grossularioides
 
 3676	609,1466,1467
 Lactuca canadensis
@@ -3247,9 +3487,6 @@ Antennaria corymbosa
 10030
 
 
-10052
-
-
 10100
 
 
@@ -3328,9 +3565,6 @@ Arctium minus
 11284
 
 
-11437
-
-
 11495
 
 
@@ -3349,17 +3583,14 @@ Agave shawii
 12171	6677,6684,6685
 
 
-13665	6434,6448,6449
-Aquilegia formosa
+13086	8738,8801,8802
+
 
 138
 
 
 14016	2907,2912,2913
 Arenaria congesta
-
-14109	5547,5550,5551
-Argemone munita
 
 14334	575,578,579
 Asarum hartwegii
@@ -3391,6 +3622,9 @@ Bouteloua aristidoides var. aristidoides
 18147	7617,7620,7621
 
 
+18562	8738,8899,8900
+Cenchrus echinatus
+
 18742	6677,6695,6696
 Cercocarpus betuloides var. betuloides
 
@@ -3406,8 +3640,11 @@ Collomia grandiflora
 20259	8695,8700,8701
 Corallorhiza mertensiana
 
-20721	6677,6716,6717
-Crataegus suksdorfii
+20454	2016,2025,0,2026
+Corylus cornuta var. californica
+
+21073	3368,3369,3370
+Crossosoma californicum
 
 21750	2030,2110,2111
 Cynoglossum occidentale
@@ -3418,8 +3655,8 @@ Cynoglossum occidentale
 22267	3691,3900,3901
 Dalea mollissima
 
-23134	3420,3421,3422
-Dipsacus sativus
+22540	5547,5558,5559
+Dendromecon rigida
 
 23633	6677,6719,6720
 
@@ -3463,6 +3700,9 @@ Hierochloe odorata
 282
 
 
+28723	8738,9067,9068
+
+
 2933	609,1216,1217
 
 
@@ -3484,9 +3724,6 @@ Gaillardia pulchella
 30795	8349,8590,8591
 
 
-30919	329,423,424
-Lilaeopsis occidentalis
-
 31080	7177,7370,7371
 Linaria canadensis
 
@@ -3499,14 +3736,11 @@ Lobelia cardinalis var. pseudosplendens
 31676	2240,2559,2560
 
 
-3189	609,1290,1291
-
-
 32203	7625,7636,7637
 Lycium barbarum
 
-32422	609,1560,1561
-Machaeranthera asteroides
+32349	7901,7906,7907
+
 
 32747	3375,3389,3390
 Marah horridus
@@ -3571,6 +3805,9 @@ Rumex conglomeratus
 42445	3691,4201,4202
 Rupertia physodes
 
+43474	9380,9381,0,9382
+Scheuchzeria palustris subsp. americana
+
 4412	609,1701,1702
 
 
@@ -3586,11 +3823,17 @@ Silene aperta
 44
 
 
+453
+
+
 45629	3618,3681,3682
 Stillingia paucidentata
 
 4584	609,1765,1766
 Rudbeckia californica var. californica
+
+46211	3618,3685,3686
+Tetracoccus hallii
 
 46571	290,312,313
 Tidestromia oblongifolia
@@ -3604,13 +3847,13 @@ Tidestromia oblongifolia
 47028	6393,6425,6426
 Trientalis latifolia
 
-47195	8318,8321,8322
-Triglochin concinna var. concinna
-
 479
 
 
 484
+
+
+497
 
 
 505
@@ -3637,11 +3880,11 @@ Townsendia leptotes
 628
 
 
+678	609,615,616
+
+
 76341	609,1530,1531
 Lessingia filaginifolia
-
-77539	609,695,696
-
 
 80
 
@@ -3679,9 +3922,6 @@ Lessingia filaginifolia
 9173
 
 
-9216
-
-
 9245
 
 
@@ -3692,9 +3932,6 @@ Lessingia filaginifolia
 
 
 9375
-
-
-93
 
 
 9432
@@ -3733,46 +3970,40 @@ Lessingia filaginifolia
 9982
 
 
-9995
+10052
 
 
 11235
 
 
-13086	8738,8801,8802
+11437
 
 
-18562	8738,8899,8900
-Cenchrus echinatus
+13665	6434,6448,6449
+Aquilegia formosa
 
-20454	2016,2025,0,2026
-Corylus cornuta var. californica
+14109	5547,5550,5551
+Argemone munita
 
-21073	3368,3369,3370
-Crossosoma californicum
+20721	6677,6716,6717
+Crataegus suksdorfii
 
-22540	5547,5558,5559
-Dendromecon rigida
+23134	3420,3421,3422
+Dipsacus sativus
 
-28723	8738,9067,9068
+30919	329,423,424
+Lilaeopsis occidentalis
 
-
-32349	7901,7906,7907
-
-
-43474	9380,9381,0,9382
-Scheuchzeria palustris subsp. americana
-
-453
+3189	609,1290,1291
 
 
-46211	3618,3685,3686
-Tetracoccus hallii
+32422	609,1560,1561
+Machaeranthera asteroides
 
-497
+47195	8318,8321,8322
+Triglochin concinna var. concinna
 
-
-678	609,615,616
+77539	609,695,696
 
 
 851	609,669,670
@@ -3781,10 +4012,19 @@ Tetracoccus hallii
 8974
 
 
-	4416,4440,4441
-Pelargonium grossularioides
+9216
+
+
+93
+
+
+9995
+
 
 10008
+
+
+10031
 
 
 10044
@@ -3829,6 +4069,9 @@ Proboscidea louisianica
 10358
 
 
+10361
+
+
 10435
 
 
@@ -3848,6 +4091,9 @@ Proboscidea louisianica
 
 
 10633
+
+
+10651
 
 
 10707
@@ -3899,6 +4145,9 @@ Proboscidea louisianica
 
 
 11494
+
+
+11502
 
 
 11511
@@ -4057,9 +4306,6 @@ Ipomoea mutabilis
 29857	7869,7873,7874
 Kallstroemia grandiflora
 
-29880	7177,7347,7348
-Keckiella antirrhinoides var. antirrhinoides
-
 302
 
 
@@ -4076,6 +4322,9 @@ Gnaphalium californicum
 
 
 311
+
+
+32551	315,316,317
 
 
 328
@@ -4158,6 +4407,9 @@ Tuctoria mucronata
 
 47824	8349,8674,0,8675
 Veratrum californicum var. californicum
+
+478
+
 
 48666	8349,8679,8680
 
@@ -4285,6 +4537,9 @@ Guillenia lasiophylla
 9802
 
 
+9828
+
+
 9925
 
 
@@ -4297,29 +4552,8 @@ Guillenia lasiophylla
 9
 
 
-10031
-
-
-10361
-
-
-10651
-
-
-11502
-
-
-32551	315,316,317
-
-
-478
-
-
-9828
-
-
-	8185,8188,8189
-
+29880	7177,7347,7348
+Keckiella antirrhinoides var. antirrhinoides
 
 10014
 
@@ -4345,9 +4579,6 @@ Guillenia lasiophylla
 10209
 
 
-10223
-
-
 10278
 
 
@@ -4355,9 +4586,6 @@ Guillenia lasiophylla
 
 
 10292
-
-
-10362
 
 
 10371
@@ -4378,6 +4606,9 @@ Guillenia lasiophylla
 10443
 
 
+10490
+
+
 10573
 
 
@@ -4387,10 +4618,19 @@ Guillenia lasiophylla
 10641
 
 
+10652
+
+
+10696
+
+
 10704
 
 
 10858
+
+
+10865
 
 
 10955
@@ -4414,16 +4654,19 @@ Guillenia lasiophylla
 11116
 
 
-11220
-
-
 11237
 
 
-11242
+11251
 
 
 11264
+
+
+11361
+
+
+11372
 
 
 11408
@@ -4441,9 +4684,6 @@ Artemisia arbuscula
 12457	3691,3711,3712
 
 
-13197	6393,6394,6395
-
-
 13319	6393,6396,0,6397
 Androsace elongata subsp. acuta
 
@@ -4459,14 +4699,14 @@ Arabis blepharophylla
 14266	2240,2319,2320
 
 
-14303	7901,7904,7905
-
-
 14348	583,586,587
 Asclepias asperula
 
 15511	3084,3143,3144
 
+
+16498	3691,3879,3880
+Caesalpinia spinosa
 
 165
 
@@ -4495,6 +4735,9 @@ Cerastium beeringianum
 19440	4374,4383,4384
 
 
+19483	5263,5339,0,5340
+Circaea alpina subsp. pacifica
+
 19543	7928,8082,8083
 
 
@@ -4503,6 +4746,9 @@ Clarkia amoena
 
 19748	2852,2858,2859
 Cleomella obtusifolia
+
+1994	609,913,914
+
 
 20063	7077,7078,0,7079
 Comandra umbellata subsp. californica
@@ -4516,11 +4762,8 @@ Comandra umbellata subsp. californica
 21120	3618,3651,3652
 Croton wigginsii
 
-21654	329,374,375
-Cymopterus cinerarius
-
-21994	265,273,274
-
+21617	553,561,562
+Cycladenia humilis var. humilis
 
 22340	7080,7081,7082
 
@@ -4552,19 +4795,19 @@ Erodium brachycarpum
 25302	4990,4991,4992
 Eucnide urens
 
+253
+
+
 25535	3618,3662,3663
 Euphorbia dentata
 
 26442	7177,7338,7339
 
 
-26866	5654,5690,5691
-Gilia achilleifolia subsp. achilleifolia
-
-27306	3084,3179,3180
-
-
 279
+
+
+28024	2240,2492,2493
 
 
 280
@@ -4578,9 +4821,6 @@ Filago californica
 
 29749	157,175,176
 Juniperus communis
-
-297
-
 
 30869	8185,8218,8219
 
@@ -4639,23 +4879,8 @@ Parapholis strigosa
 36263	2770,2840,2841
 
 
-367
-
-
-370
-
-
 3716	609,1474,1475
 Lagophylla glandulosa
-
-3721	609,1481,1482
-
-
-37376	329,515,516
-
-
-37881	4933,4934,4935
-Pholisma sonorae
 
 38548	5625,5626,5627
 Plantago coronopus
@@ -4663,20 +4888,26 @@ Plantago coronopus
 39031	5926,5927,5928
 Polygala californica
 
+39351	85,86,87
+Polypodium calirhiza
+
 39967	6677,6866,6867
 Prunus cerasifera
 
-40159	3691,4186,4187
-Psorothamnus arborescens var. arborescens
-
 40368	6428,6429,6430
 
+
+40845	6434,6527,6528
+Ranunculus alismifolius
 
 4218	609,1665,1666
 
 
 44131	3691,4205,4206
 Senna covesii
+
+442
+
 
 44608	2240,2601,2602
 Sinapis arvensis
@@ -4687,14 +4918,17 @@ Sinapis arvensis
 451
 
 
-4526	609,1732,1733
-Pyrrocoma carthamoides
-
 45757	8349,8643,0,8644
 Streptopus amplexifolius var. americanus
 
 464
 
+
+46
+
+
+47267	2770,2844,2845
+Triodanis perfoliata
 
 47650	3449,3607,3608
 Vaccinium deliciosum
@@ -4702,11 +4936,17 @@ Vaccinium deliciosum
 47732	7754,7764,7765
 Valeriana occidentalis
 
+48378	7836,7860,7861
+
+
 48460	8738,9330,9331
 Vulpia microstachys
 
 48570	2852,2869,2870
 Wislizenia refracta subsp. californica
+
+507
+
 
 510
 
@@ -4714,13 +4954,13 @@ Wislizenia refracta subsp. californica
 5477	609,1953,1954
 
 
-5549	609,1962,1963
-Viguiera parishii
-
 55
 
 
 598
+
+
+613
 
 
 639
@@ -4735,13 +4975,22 @@ Viguiera parishii
 735	609,628,629
 Ageratina herbacea
 
+74449
+
+
 76209
 
+
+76902	4316,4326,4327
+Quercus agrifolia
 
 76970	2240,2489,2490
 Halimolobos virgata
 
 77116
+
+
+8785
 
 
 8796
@@ -4750,13 +4999,13 @@ Halimolobos virgata
 8819
 
 
+8846
+
+
 8855
 
 
 8868
-
-
-8891
 
 
 8903
@@ -4765,10 +5014,10 @@ Halimolobos virgata
 8976
 
 
-9092
-
-
 9100
+
+
+9188
 
 
 9221
@@ -4792,7 +5041,7 @@ Halimolobos virgata
 9427
 
 
-9474
+9441
 
 
 9593
@@ -4813,85 +5062,76 @@ Halimolobos virgata
 9926
 
 
+10223
+
+
+10362
+
+
+11220
+
+
+11242
+
+
+13197	6393,6394,6395
+
+
+14303	7901,7904,7905
+
+
+21654	329,374,375
+Cymopterus cinerarius
+
+21994	265,273,274
+
+
+26866	5654,5690,5691
+Gilia achilleifolia subsp. achilleifolia
+
+27306	3084,3179,3180
+
+
+297
+
+
+367
+
+
+370
+
+
+3721	609,1481,1482
+
+
+37376	329,515,516
+
+
+37881	4933,4934,4935
+Pholisma sonorae
+
+40159	3691,4186,4187
+Psorothamnus arborescens var. arborescens
+
+4526	609,1732,1733
+Pyrrocoma carthamoides
+
+5549	609,1962,1963
+Viguiera parishii
+
+77150	8185,8188,8189
+
+
+8891
+
+
+9092
+
+
+9474
+
+
 9979
-
-
-10490
-
-
-10652
-
-
-10696
-
-
-10865
-
-
-11251
-
-
-11361
-
-
-11372
-
-
-16498	3691,3879,3880
-Caesalpinia spinosa
-
-19483	5263,5339,0,5340
-Circaea alpina subsp. pacifica
-
-1994	609,913,914
-
-
-21617	553,561,562
-Cycladenia humilis var. humilis
-
-253
-
-
-28024	2240,2492,2493
-
-
-39351	85,86,87
-Polypodium calirhiza
-
-40845	6434,6527,6528
-Ranunculus alismifolius
-
-442
-
-
-46
-
-
-47267	2770,2844,2845
-Triodanis perfoliata
-
-48378	7836,7860,7861
-
-
-507
-
-
-613
-
-
-74449
-
-
-8785
-
-
-8846
-
-
-9188
-
-
-9441
 
 
 9980
@@ -4936,6 +5176,9 @@ Nuphar lutea subsp. polysepala
 10279
 
 
+10293
+
+
 10345
 
 
@@ -4949,6 +5192,9 @@ Nuphar lutea subsp. polysepala
 
 
 10468
+
+
+10486
 
 
 10572
@@ -4990,9 +5236,6 @@ Nuphar lutea subsp. polysepala
 11221
 
 
-11236
-
-
 11243
 
 
@@ -5029,9 +5272,6 @@ Alternanthera philoxeroides
 13057	3691,3713,3714
 Amorpha californica var. californica
 
-13515	8738,8806,8807
-Anthoxanthum odoratum
-
 14480	8349,8430,8431
 Asparagus officinalis
 
@@ -5060,9 +5300,6 @@ Blepharizonia plumosa subsp. plumosa
 
 
 18114	3449,3550,3551
-
-
-18609	6393,6401,6402
 
 
 18
@@ -5109,6 +5346,9 @@ Eschscholzia californica
 
 2611	609,1105,1106
 Erigeron algidus
+
+26127	7705,7708,7709
+Fremontodendron californicum subsp. californicum
 
 26472	8738,9031,9032
 
@@ -5239,6 +5479,9 @@ Psilocarphus brevissimus var. brevissimus
 45262	8695,8735,8736
 Spiranthes romanzoffiana
 
+45272	8328,8337,8338
+Spirodela punctata
+
 45286	8738,9301,9302
 Sporobolus contractus
 
@@ -5259,9 +5502,6 @@ Thysanocarpus curvipes
 
 465
 
-
-47029	3691,4222,4223
-Trifolium albopurpureum var. albopurpureum
 
 47478	7729,7732,7733
 Ulmus parvifolia
@@ -5293,6 +5533,9 @@ Tagetes minuta
 5359	609,1922,1923
 
 
+54
+
+
 573
 
 
@@ -5321,6 +5564,9 @@ Malaxis monophyllos subsp. brachypoda
 
 
 721	609,623,624
+
+
+76370
 
 
 77117
@@ -5368,9 +5614,6 @@ Malaxis monophyllos subsp. brachypoda
 9163
 
 
-9215
-
-
 9220
 
 
@@ -5416,9 +5659,6 @@ Malaxis monophyllos subsp. brachypoda
 9758
 
 
-9772
-
-
 9813
 
 
@@ -5428,22 +5668,25 @@ Malaxis monophyllos subsp. brachypoda
 9978
 
 
-10293
-
-
-10486
-
-
-26127	7705,7708,7709
-Fremontodendron californicum subsp. californicum
-
-54
-
-
-76370
-
-
 9996
+
+
+11236
+
+
+13515	8738,8806,8807
+Anthoxanthum odoratum
+
+18609	6393,6401,6402
+
+
+47029	3691,4222,4223
+Trifolium albopurpureum var. albopurpureum
+
+9215
+
+
+9772
 
 
 10012
@@ -6390,9 +6633,6 @@ Acamptopappus sphaerocephalus
 
 9932
 
-
-	7177,7344,7345
-Hebe speciosa
 
 10025
 
@@ -7811,245 +8051,5 @@ Amphipappus fremontii var. fremontii
 
 
 9903
-
-
-10029
-
-
-10058
-
-
-10094
-
-
-10155
-
-
-102286	2852,2853,2854
-Cleome platycarpa
-
-10270
-
-
-10410
-
-
-10537
-
-
-10564
-
-
-10586
-
-
-10663
-
-
-10766
-
-
-10784
-
-
-10821
-
-
-10850
-
-
-11057
-
-
-11130
-
-
-11185
-
-
-121
-
-
-12973	6677,6686,6687
-Amelanchier alnifolia var. pumila
-
-15133	92,104,105
-
-
-17061	5547,5553,5554
-
-
-17109	2240,2340,2341
-
-
-183
-
-
-18571	4374,4375,4376
-Centaurium davyi
-
-18786	7625,7626,7627
-
-
-18825	6677,6706,6707
-Chamaebatia foliolosa
-
-19877	7029,7030,7031
-
-
-20349	329,372,373
-
-
-21360	3375,3385,3386
-Cucurbita foetidissima
-
-217
-
-
-22197	3691,3896,3897
-Cytisus scoparius
-
-2296	609,1000,1001
-
-
-244
-
-
-25937	7928,8126,8127
-Fimbristylis thermalis
-
-262
-
-
-27292	7177,7340,7341
-Gratiola heterosepala
-
-28026	8349,8586,8587
-
-
-288
-
-
-2
-
-
-31236	7088,7123,7124
-Lithophragma bolanderi
-
-345
-
-
-34681	8349,8625,8626
-Nolina interrata
-
-3471	609,1394,1395
-Hieracium argutum
-
-35530	7625,7662,7663
-
-
-36249	7177,7468,7469
-Parentucellia viscosa
-
-36818	8738,9175,9176
-Pennisetum setaceum
-
-37370	2907,2982,2983
-Petrorhagia nanteuilii
-
-37765	8738,9190,9191
-Phleum pratense
-
-40155	3691,4184,4185
-
-
-40219	7029,7032,7033
-
-
-406
-
-
-41146	3449,3602,3603
-Rhododendron occidentale
-
-428
-
-
-4485	609,1712,1713
-Psathyrotes ramosissima
-
-45003	8738,9290,9291
-Sorghum halepense
-
-45053	3691,4212,4213
-
-
-45156	3691,4214,4215
-
-
-46026	8738,9312,9313
-
-
-46421	153,154,155
-Thelypteris puberula
-
-47814	2907,3070,3071
-
-
-48827	9394,9395,9396
-
-
-5111	609,1849,1850
-
-
-590
-
-
-60
-
-
-640
-
-
-76371	8738,9042,9043
-Hesperostipa comata subsp. comata
-
-8824
-
-
-8877
-
-
-8921
-
-
-9012
-
-
-9067
-
-
-9179
-
-
-9197
-
-
-9416
-
-
-9449
-
-
-9513
-
-
-9654
-
-
-9698
-
-
-9751
 
 
