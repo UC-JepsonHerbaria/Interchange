@@ -135,6 +135,10 @@
 
 # Details on Individual files
 
+## tar_interchange.sh
+###### Shell script that places all the files in the output directory of the interchange into a tar file
+###### 2009 version used a perl script ```get_one_plus_two.pl``` to do something; 2014 version of the file comments this task out
+
 ## JM_parseq.txt
 ###### Paragraph sequence index to be appended to CGI script ```get_JM_treatment.pl```
 ###### Made by line in ```make_interchange.pl```
