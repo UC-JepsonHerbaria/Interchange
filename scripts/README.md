@@ -129,3 +129,7 @@
 ###### tidsyn_hcode_hash is the synonym and accepted name taxon ID to HCODE hash file that is used now by the Interchange.
 ###### This file is created during the HCODE processing by the yellow flag scripts.  It is essential for the bioregions to display as filled in on Interchange maps.
 
+## get_one_plus_two.pl
+##### Script that used to be on the first line of tar_interchange.sh
+##### Commented out of the script by David in 2014 
+######  Superceeded in the Interchange in 2014 by more code added to tar_interchange.sh
