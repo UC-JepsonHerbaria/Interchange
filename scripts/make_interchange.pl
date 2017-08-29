@@ -254,11 +254,10 @@ print "     0 Making CPN ID\n";
 
 	#tie(%TNOAN, 'DB_File', $hashfile_taxon_no_author_name) || die "couldn't open $hashfile_taxon_no_author_name\n";
 	#tie %TNOAN, "BerkeleyDB::Hash", -Filename => $hashfile_taxon_no_author_name, -Flags    => DB_CREATE or die "Cannot open file $hashfile_taxon_no_author_name: $! $BerkeleyDB::Error\n" ;
-#open(IN, "/Users/rlmoe/CDL_buffer/buffer/tnoan.out") || die;
-open(IN, "/Users/rlmoe/data/taxon_ids/smasch_taxon_ids.txt") || die;
+open(IN, "/Users/rlmoe/CDL_buffer/buffer/tnoan.out") || die;
 while(<IN>){
 chomp;
-($code,$name,@residue)=split(/\t/);
+($code,$name)=split(/\t/);
 $TNOAN{$name}=$code;
 }
 {
@@ -317,7 +316,7 @@ sub make_cpn_id {
 	local($/)="";
 	while(<IN>){
 #		next if 1 .. /PTERIDOPH/;  Removed 12 Jun 2007 by CAM
-s/&times;/X /g;
+s/&times;/x /g;
 s/\357\273\277//;
 s/\303\201/&Aacute;/g;
 s/\303\251/&eacute;/g;
@@ -336,14 +335,7 @@ if (&next_cpn_line($_)){
 	next;
 }
 		$cpnnoan=&get_nan($_);
-		if($TNOAN{$cpnnoan}){
-		$CPNNOAN{$cpnnoan}=$TNOAN{$cpnnoan};
-		}
-		else{
-		$CPNNOAN{$cpnnoan}=++$cpn_count;
-push(@needed_names, $cpnnoan);
-		#$CPNNOAN{$cpnnoan}=($TNOAN{$cpnnoan} || ++$cpn_count);
-}
+		$CPNNOAN{$cpnnoan}=($TNOAN{$cpnnoan} || ++$cpn_count);
 	}
 	close(IN);
 
@@ -499,8 +491,8 @@ while(<IN>){
 	($fna_taxon_id,$fna_name)=split(/\t/);
 foreach($fna_name){
 s/alpinaus/alpina/;
-s/Ã— ?/ X /;
-s/ x / X /;
+s/Ã— ?/ × /;
+s/ x / × /;
 s/  / /g;
 }
 
@@ -720,7 +712,7 @@ $species_only=~s/ *$//;
 				else{
 					$infra= "$species $infra";
 				}
-				$infra=~s/^([^ ]+ [^ ]+).* (subvar\.|var\.|ssp\.|f\.|subsp\. .*)/$1 $2/;
+				$infra=~s/^([^ ]+ [^ ]+).* (var\.|ssp\.|f\.|subsp\. .*)/$1 $2/;
 				$infra=~s/([^ ]+)/\u\L$1/;
 				($infra_sub=$infra)=~s/ssp\./subsp./;
 				$infra_sub=~s/  +/ /g;
@@ -1123,7 +1115,7 @@ EOP
 ENTRY:
 	while(<IN>){
 #s/LINK:.*FNA.*\n//;
-s/&times;/X /g;
+s/&times;/x /g;
 
 s/\357\273\277//;
 s/\303\201/&Aacute;/g;
@@ -1258,7 +1250,7 @@ if(m/^-?done/){
 			s/Correspondence ([0-9]+): */CR$1: / ||
 			s!^TJM synonyms: *!TSN: ! ||
 			s!^TJM2 synonyms: *!TSN2: ! ||
-			s!^Current JFP [Ss]ynonyms: *!JFPS: ! ||
+			s!^Current JFP synonyms: *!JFPS: ! ||
 			s!^Current JFP [Mm]isapplied [Nn]ames?: *!JFPN: ! ||
 			s!^TJD?M misapplied names: *!TMN: ! ||
 			s/^Literature: */RL: / ||
@@ -1514,7 +1506,6 @@ EOP
 				if(m/$tag: +(.*)/){
 $synos=$1;
 $synos=~s/\[[^\]]+\]//g;
-$synos=~s/<\/sn>//g;
 					@synos=split(/; +/, $synos);
 					foreach(@synos){
 						$_=&strip_name($_);
@@ -1801,7 +1792,7 @@ EOP
 		}
 	}
 	foreach (sort(keys(%element))){
-		next if m/(subvar\.|var\.|subsp\.)/;
+		next if m/(var\.|subsp\.)/;
 		next if m/^×$/;
 		next if m/^A\.$/;
 		print OUT "$_: ", join(" ",sort(split(/ /,$element{$_}))), "\n";
@@ -2005,7 +1996,7 @@ tie(%IJM, "BerkeleyDB::Hash", -Filename=>"/Library/WebServer/ucjeps_data/IJM.has
 				s/^([^,]+), ([^,]+)$/$1\t$key\n$2/;
 				s/, /\t$key\n/g;
 			}
-		print OUT "$names: $key\n";
+		print OUT "$names\t$key\n";
 		}
 	}
 	close(OUT);
@@ -2190,10 +2181,6 @@ close OUT;
 print OUT @no_link;
 close OUT;
 
-open(OUT,">log/needed_names.tmp") || die;
-print OUT join("\n",@needed_names);
-close OUT;
-
 
 }
 sub get_nan{
@@ -2219,24 +2206,24 @@ sub strip_name{
 	return unless $_;
 #print "SAPONARIA: $_" if m/saponaria/;
 if(m/Encelia californica .*Encelia farinosa/){
-return("Encelia californica X Encelia farinosa");
+return("Encelia californica × Encelia farinosa");
 }
 if(m/Encelia farinosa .*Encelia frutescens/){
-return("Encelia farinosa X Encelia frutescens");
+return("Encelia farinosa × Encelia frutescens");
 }
 if(m/Aloe saponaria.*A.*striata.*/){
-return("Aloe saponaria X Aloe striata");
+return("Aloe saponaria × Aloe striata");
 }
 if(m/Spartina alterniflora .* Spartina foliosa.*/){
-return("Spartina alterniflora X Spartina foliosa");
+return("Spartina alterniflora × Spartina foliosa");
 }
 
 
 
 	s/^ *//;
-	s/ x / X /;
+	s/ x / × /;
 s/ ex [A-Z][a-z.]+$//;
-s/^x ([A-Z][a-z]+ [a-z]+).*/X $1/;
+s/^x ([A-Z][a-z]+ [a-z]+).*/× $1/;
 
 s/Ait. f\./Ait. filius/g;
 s/Bakh. f\./Bakh. filius/g;
@@ -2268,11 +2255,9 @@ s/Wendl. f\./Wendl. filius/g;
 s/Fragaria × ananassa Duchesne var. cuneifolia.*/Fragaria × ananassa var. cuneifolia/ ||
 s/Trifolium variegatum Nutt. phase (\d)/Trifolium variegatum phase $1/ ||
 	s/^([A-Z][a-z]+) (X?[-a-z]+).*(subsp.) ([-a-z]+).*(var\.) ([-a-z]+).*/$1 $2 $3 $4 $5 $6/ ||
-	s/^([A-Z][a-z]+ [a-z]+) (X [-A-Z][a-z]+ [a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+) (X [-a-z]+).*/$1 $2/ ||
 	s/^([A-Z][a-z]+ [a-z]+) (× [-A-Z][a-z]+ [a-z]+).*/$1 $2/ ||
 	s/^([A-Z][a-z]+) (× [-a-z]+).*/$1 $2/ ||
-	s/^([A-Z][a-z]+) (X?[-a-z]+).*(subvar\.|ssp\.|var\.|f\.|subsp\.) ([-a-z]+).*/$1 $2 $3 $4/ ||
+	s/^([A-Z][a-z]+) (X?[-a-z]+).*(ssp\.|var\.|f\.|subsp\.) ([-a-z]+).*/$1 $2 $3 $4/ ||
 	s/^([A-Z][a-z]+) (X?[-a-z]+).*/$1 $2/||
 	s/^([A-Z][a-z]+) [A-Z(].*/$1/;
 #print "SAPONARIA: $_" if m/saponaria/;
