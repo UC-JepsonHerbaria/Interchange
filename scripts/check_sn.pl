@@ -15,7 +15,7 @@
 
 
 
-$treat_hash="/interchange/update/flat_dbm_6";
+$treat_hash="/!proj/interchange/update - 4 Nov 2005/flat_dbm_6";
 die $! unless -e $treat_hash;
 open(IN,"$treat_hash") || die;
 $/="";
@@ -48,7 +48,7 @@ close(IN);
 {
 open(IN, "caplantnames.txt") || die;
 local($/)="";
-open(OUT, ">CPN.OUT") || die;
+open(OUT, ">cpn_out.txt") || die;
 while(<IN>){
 unless (1 .. /PTERIDO/){
 die " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
@@ -97,7 +97,7 @@ s/É/&Eacute;/g;
 s/ñ/&ntilde;/g;
 s/ó/&oacute;/g;
 s/ê/&ecirc;/g;
-s/ç/&ccedil/g;
+s/ç/&ccedil;/g;
 s/í/'/g;
 s/–/-/g;
 s/±/&plus_minus;/g;
@@ -112,7 +112,8 @@ die "Dying collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
 }
 }
 if($#lines <= 3){
-warn "Possible bad blank after $name\n$_\n";
+#warn "Possible bad blank after $name\n$_\n";
+print "Possible bad blank after $name\n$_\n";
 next;
 }
 
