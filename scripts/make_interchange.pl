@@ -126,7 +126,7 @@ EOPT
 
 use DB_File;
 
-warn "     0 Making CPN ID\n";
+print "     0 Making CPN ID\n";
 
 	tie(%TNOAN, 'DB_File', $hashfile_taxon_no_author_name) || die "couldn't open $hashfile_taxon_no_author_name\n";
 {
@@ -140,7 +140,7 @@ warn "     0 Making CPN ID\n";
 		($syn,$current)=m/^(.*)\nCurrent [Nn]ame: (....*)/;
 		if($syn){
 			if ($syn=~/\[misapplied\]/){
-				#warn "SKIPPING MISAPPLICATION: $syn\n";
+				#print "SKIPPING MISAPPLICATION: $syn\n";
 				next;
 			}
 			$syn=&strip_name($syn);
@@ -152,22 +152,22 @@ warn "     0 Making CPN ID\n";
 }
 
 &make_cpn_id();
-warn "     1 loading links\n";
+print "     1 loading links\n";
 &load_links();
-warn "     2 making treatment hash\n";
+print "     2 making treatment hash\n";
 &make_treatment_hash();
 #die "made treatment hash: dieing\n";
-warn "     3 linking taxon_id to treatments\n";
+print "     3 linking taxon_id to treatments\n";
 &link_tID_to_treatment();
-warn "     4 making name hash\n";
+print "     4 making name hash\n";
 &make_namehash();
-warn "     5 parsing the plant name index\n";
+print "     5 parsing the plant name index\n";
 &parse_cpn();
-warn "     6 making treatment indexes\n";
+print "     6 making treatment indexes\n";
 &make_treatment_indexes();
-warn "     7 making common name file\n";
+print "     7 making common name file\n";
 &make_common_index();
-warn "     8 making maps\n";
+print "     8 making maps\n";
 &flatten_dbm();
 print "     End of script";
 
@@ -185,7 +185,7 @@ sub make_cpn_id {
 	while(<IN>){
 		next if 1 .. /PTERIDOPH/;
 if (&next_cpn_line($_)){
-#warn "make_cpn_id: skipping $_\n";
+#print "make_cpn_id: skipping $_\n";
 	next;
 }
 		$cpnnoan=&get_nan($_);
@@ -201,7 +201,7 @@ foreach $cpnnoan (
 "Ulex europaea"
 ){
 		$CPNNOAN{$cpnnoan}=++$cpn_count;
-		warn join("\t",$cpnnoan, $CPNNOAN{$cpnnoan}, $cpn_count, "\n");
+		print join("\t",$cpnnoan, $CPNNOAN{$cpnnoan}, $cpn_count, "\n");
 }
 }
 
@@ -225,7 +225,7 @@ sub load_links{
 		foreach(@name_links){
 			if($CPNNOAN{$I_name}){
 				$I_XW_backlink{$L_name}{$_}= $CPNNOAN{$I_name};
-#warn <<EOP;
+#print <<EOP;
 #$name_links
 #$I_name
 #$L_name
@@ -235,7 +235,7 @@ sub load_links{
 #EOP
 			}
 			else{
-				warn "$I_name is not found in ICPN master file ($file_cpn) - perhaps the old variant is now the accepted name?\n";
+				print "$I_name is not found in ICPN master file ($file_cpn) - perhaps the old variant is now the accepted name?\n";
 			}
 		}
 	}
@@ -345,9 +345,9 @@ s/  / /g;
 	}
 				#$I_XW_backlink{$L_name}{$_}= $CPNNOAN{$I_name};
 elsif ($I_XW_backlink{$fna_name}{'FNA'}){
-#warn " backlink: $fna_name $I_XW_backlink{$fna_name}{'FNA'}\n";
+#print " backlink: $fna_name $I_XW_backlink{$fna_name}{'FNA'}\n";
 		$fna_link{$I_XW_backlink{$fna_name}{'FNA'}}= qq{<a href="${link}$fna_taxon_id">$link_text</a>};
-		#warn $fna_link{$I_XW_backlink{$fna_name}{'FNA'}};
+		#print $fna_link{$I_XW_backlink{$fna_name}{'FNA'}};
 }
 	else{
 push(@no_link, "FNA: $fna_name not found in interchange\n");
@@ -466,7 +466,7 @@ sub make_treatment_hash{
 	while(<IN>){
 $context=$_;
  if (m/^<comment/){
-#warn $_;
+#print $_;
 next;
 }
 die $_ unless m/<desc/;
@@ -605,17 +605,17 @@ sub link_tID_to_treatment {
 		@name_links=split(/; */,$name_links);
 #I_XW{12345}{SMASCH}=smasch_name
 		foreach(@name_links){
-#warn "$I_name$_\n" if $I_name=~/ferrisiae/;
+#print "$I_name$_\n" if $I_name=~/ferrisiae/;
 			if($CPNNOAN{$I_name}){
-#warn "$I_name$CPNNOAN{$I_name}\n" if $I_name=~/ferrisiae/;
+#print "$I_name$CPNNOAN{$I_name}\n" if $I_name=~/ferrisiae/;
 				$I_XW{$CPNNOAN{$I_name}}{$_}=&strip_name($L_name);
-#warn "$I_XW{$CPNNOAN{$I_name}}{$_}\n" if $I_name=~/ferrisiae/;
+#print "$I_XW{$CPNNOAN{$I_name}}{$_}\n" if $I_name=~/ferrisiae/;
 				if(m/^JM$/){
 					$JM_to_CPN{$L_name}= $CPNNOAN{$I_name};
 				}
 			}
 			else{
-				warn "$I_name is not found in ICPN master file ($file_cpn) - perhaps the old variant is now the accepted name?\n";
+				print "$I_name is not found in ICPN master file ($file_cpn) - perhaps the old variant is now the accepted name?\n";
 			}
 		}
 	}
@@ -648,7 +648,7 @@ foreach($name){
 		print OUT "$JM_to_CPN{$name}\t$pars\n";
 	}
 	else{
-		warn "no ID for $name\n";
+		print "no ID for $name\n";
 		print OUT "\t$pars\n";
 }
 }
@@ -668,7 +668,7 @@ sub make_namehash {
 	local($/)="";
 #	open(IN,"$JMtreat_index") || die;
 	&open_input_file($file_JMtreat_index) || die("Error opening $file_JMtreat_index");
-	open(OUT, ">${outdir}I_treat_indexes.html") || die;
+	open(OUT, ">${outdir}I_treat_indexes.html") || die("Error opening output file ${outdir}I_treat_indexes.html");
 	print OUT &make_family_header();
 
 	while(<IN>){
@@ -915,15 +915,15 @@ ENTRY:
 		($CS)=m/\nCurrent Status: *(.*)/;
 		$CS = '' unless $CS;
 if  (1 .. /PTERIDOPH/){
-#warn "$.: skipping initial $_\n";
+#print "$.: skipping initial $_\n";
 		next ENTRY;
 }
 if (&next_cpn_line($_)){
 		next ENTRY;
-#warn "$.: skipping next_cpn_line: $_\n";
+#print "$.: skipping next_cpn_line: $_\n";
 }
 if ($CS=~/^12/){
-#warn "$.: skipping CS12: $_\n";
+#print "$.: skipping CS12: $_\n";
 		next ENTRY;
 }
 		$open= s/<sn>/<sn>/g;
@@ -968,7 +968,7 @@ if ($CS=~/^12/){
 		$NAN=&strip_name($lines[0]);
 if ($already_seen{$NAN}++){
 ($Current_Status=$CS)=~s/,.*//;
-		warn "Orthography order problem: Already saw $NAN status $Current_Status\n" if $Current_Status =~/13/;
+		print "Orthography order problem: Already saw $NAN status $Current_Status\n" if $Current_Status =~/13/;
 }
 		($initial=$NAN)=~s/^(.).*/$1/;
 		$taxon_id = $CPNNOAN{$NAN};
@@ -986,7 +986,7 @@ if ($already_seen{$NAN}++){
 
 		foreach (@lines[1 .. $#lines]){
 if(m/^-?done/){
-#warn "$.: skipping done: $_\n";
+#print "$.: skipping done: $_\n";
 
 			next;
 }
@@ -1035,7 +1035,7 @@ if(m/^-?done/){
 			s/^Current [Nn]ame: /CN: /  ||
 			s/^Current [Nn]ame \(T\): /CN_T: /  ||
 do{
-			warn "no substitution $NAN $_\n";
+			print "no substitution $NAN $_\n";
 push(@nosub, "$NAN $_");
 };
 			if(m/^FA: +(.*)/){
@@ -1056,7 +1056,7 @@ if($this_is_current{$NAN}){
 				$add_index{$CS}.=<<EOP;
 $NAN\t$taxon_id
 EOP
-#warn "NAN: $NAN: $taxon_id\n";
+#print "NAN: $NAN: $taxon_id\n";
 			}
 			if(m/(SM[^\t]+)/){
 				$SM=$1;
@@ -1080,10 +1080,10 @@ push(@NCN, "No current name for $NAN\n");
 }
 						if(grep(/SR: TJM/,@lines)){
 							push(@supplanted, "$NAN: $taxon_id: $xs_ref");
-#warn "$NAN: $taxon_id: $xs_ref\n";
+#print "$NAN: $taxon_id: $xs_ref\n";
 						}
 					}
-				#else{warn "Rej. or Rep. but $CS\n$SM\n\n"};
+				#else{print "Rej. or Rep. but $CS\n$SM\n\n"};
 				}
 				elsif(m/SM:.*addition/){
 
@@ -1187,7 +1187,7 @@ elsif ($I_XW{$taxon_id}{JM}){
 			#	if($old_list{$NAN} ne $CAPN{$taxon_id}){
 				#	print ARCHIVE "OLD\n$old_list{$NAN}\nNEW\n$CAPN{$taxon_id}\n\n";
 				#	push(@changed_entry,"$NAN: $taxon_id");
-				#	warn "$NAN has changed\n";
+				#	print "$NAN has changed\n";
 			#	}
 		#	}
 		#	else{
@@ -1702,7 +1702,7 @@ EOP
 <P>
 $_
 EOP
-			#warn "initial: $initial\nprevious: $prev_initial\n";
+			#print "initial: $initial\nprevious: $prev_initial\n";
 		}
 		$prev_initial=$initial;
 	}
@@ -1757,7 +1757,7 @@ s/Clarkia mosquinii subsp. xerophylla/Clarkia mosquinii subsp. xerophila/;
 					elsif($cname=~/([A-Z]+) (.*) or ([A-Z]+) *$/){
 						$cname="$1 $2, $1 $3";
 					}
-					else {warn ">$_<\n"};
+					else {print ">$_<\n"};
 				}
 				#$cname=~s/'//g;
 				@cnames=split(/, /,$cname);
@@ -1910,7 +1910,7 @@ local($_)=@_;
 sub strip_name{
 	local($_) = @_;
 	return unless $_;
-#warn "SAPONARIA: $_" if m/saponaria/;
+#print "SAPONARIA: $_" if m/saponaria/;
 if(m/Encelia californica .*Encelia farinosa/){
 return("Encelia californica × Encelia farinosa");
 }
@@ -1932,7 +1932,7 @@ s/Trifolium variegatum Nutt. phase (\d)/Trifolium variegatum phase $1/ ||
 	s/^([A-Z][a-z]+) (X?[-a-z]+).*(ssp\.|var\.|f\.|subsp\.) ([-a-z]+).*/$1 $2 $3 $4/ ||
 	s/^([A-Z][a-z]+) (X?[-a-z]+).*/$1 $2/||
 	s/^([A-Z][a-z]+) [A-Z(].*/$1/;
-#warn "SAPONARIA: $_" if m/saponaria/;
+#print "SAPONARIA: $_" if m/saponaria/;
 	return ($_);
 }
 
@@ -2052,7 +2052,8 @@ EOP
 
 sub make_index {
 	local($initial)=@_;
-		open(OUT, ">${outdir}I_index_${initial}.html") || die;
+		open(OUT, ">${outdir}I_index_${initial}.html") || die 
+		"Can't open output file \"${outdir}I_index_${initial}.html\"";
 		print OUT <<EOP;
 <html>
 <head>
@@ -2099,7 +2100,7 @@ local($status)=@_;
 		@list=sort(split(/\n/,$add_index{$status}));
 		$total=scalar(@list);
 		next if $total==0;
-	#warn "$status: $add_index{$status}\n";
+	#print "$status: $add_index{$status}\n";
 		open(OUT, ">${outdir}I_status_${status}.html") || die "$outdir $status $!";
 	if($Current_Status{$status}){
 	print OUT <<EOP;
@@ -2123,7 +2124,7 @@ JFP-${status}: $Current_Status{$status} (total=$total)
 EOP
 }
 else{
-	warn "!!! Bad or missing status: $status\n";
+	print "!!! Bad or missing status: $status\n";
 }
 
 		foreach(@list){
