@@ -7,7 +7,8 @@
 
 use flatten;
 
-$drive = "/Users/jfp04/data/";
+$drive = "/Users/rlmoe/data/";
+$CDL_drive = "/Users/rlmoe/CDL_buffer/buffer/";
 $rootdir = $drive."/Interchange/_input/";
 
 $outdir = $rootdir."output/";
@@ -16,7 +17,8 @@ $logdir = $rootdir."log/";
 $linksdir = $rootdir."links/";
 
 #open (LOGERR,">$logdir/errors") || die;
-$file_smasch_taxon_id = "Smasch_tid.txt";  #SMASCH IDs for which SMASCH has specimen
+$file_smasch_taxon_id = "$CDL_drive/CDL_main.in";  #taxon IDs for which CCH has specimen
+#$file_smasch_taxon_id = "Smasch_tid.txt";  #SMASCH IDs for which SMASCH has specimen
 $file_add_updates = "add_updates.txt"; #Memo of pending changes
 $file_cpn = "cpn_out.txt"; #Rosatti's converted Interchange file
 $file_current_names = "current_names.txt"; #Synonyms accumulated; maintained by hand
@@ -34,6 +36,7 @@ $file_LN2C = $outdir."LN2C.txt"; #List of taxon IDs associated with each name el
 
 #Links files
 $file_cpc_links = $linksdir."cpc_links.txt"; #Center for Plant Conservation links
+$file_conifer = $linksdir."conifer_links.txt"; #Gymnosperm database
 $file_weed_links = $linksdir."weed_links.txt"; #California weed [check this...]
 $file_eppc_links = $linksdir."eppc_links.txt"; #Invasive species list [from?]
 $file_fna_cal_links = $linksdir."fna_calif_links.txt"; #Links from FNA website 
@@ -79,6 +82,105 @@ California plant names,
 plant names
 ">
 EOK
+
+
+#HTML page headers
+$page_header=<<EOPH;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<title>Jepson Interchange</title>
+<link href="http://ucjeps.berkeley.edu/interchange/style_interchange.css" rel="stylesheet" type="text/css" />
+<Meta Name="keywords" Content="UC Berkeley Herbarium,
+Jepson Herbarium,
+taxonomy of California plants,
+Jepson Manual,
+plant distribution,
+Jepson bioregions,
+plant taxonomy resources,
+plant nomenclature,
+plant systematics,
+California flora,
+California floristics,
+California plant names,
+plant names
+">
+</head>
+
+
+<!-- Begin banner -->
+
+<table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="5" align="center" valign="middle">&nbsp;</td>
+</tr>
+<tr>
+<td rowspan="4" width="12" align="center" valign="middle"></td>
+<td rowspan="3" width="120" align="center" valign="middle">
+<a href="http://ucjeps.berkeley.edu/jeps/"><img src="http://ucjeps.berkeley.edu/common/images/logo_jeps_80.png" alt="Jepson Interchange " width="80" height="79" border="0" /></a></td>
+<td align="center">&nbsp;</td>
+<td rowspan="3" width="120" align="center" valign="middle"></td>
+<td rowspan="4" width="12" align="center" valign="middle"></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><span class="bannerTitle">The Jepson Online Interchange<br /> California Floristics</span><br />
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top"><a href="http://www.berkeley.edu" class="bannerTagLine">University of California, Berkeley</a></td>
+</tr>
+
+<tr>
+<td colspan="3" align="center"></td>
+</tr>
+
+<tr>
+<td height="8" colspan="5" align="center">&nbsp;</td>
+</tr>
+<tr class="bannerBottomBorder">
+<td colspan="6" height="3"></td>
+</tr>
+
+<tr>
+<td colspan="6"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+</tr>
+</table>
+
+<!-- End banner -->
+
+<!-- Begin horizontal menu -->
+
+<table class=horizMenu width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="21" width="640" align="right">
+<a href="http://ucjeps.berkeley.edu/main/directory.html" class="horizMenuActive">Directory</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://ucjeps.berkeley.edu/news/" class="horizMenuActive">News</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://ucjeps.berkeley.edu/main/sitemap.html" class="horizMenuActive">Site Map</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://ucjeps.berkeley.edu/" class="horizMenuActive">Home</a>      </td>
+<td />
+</tr>
+<tr>
+<td colspan="6" bgcolor="#9FBFFF"><img src="/common/images/common_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+</tr>
+</table>
+
+<!-- End horizontal menu -->
+
+<table  width="100%">
+<tr>
+<td>
+
+<table  width="100%" border=0 cellpadding=10 cellspacing=10>
+	<tr>
+	<td>
+
+<a href="http://ucjeps.berkeley.edu/interchange/about_interchange.html"><STRONG>About the Interchange
+</STRONG></a>
+EOPH
+
 %CPNNOAN = ();
 %CP = ();
 %eppc_link = ();
@@ -96,6 +198,8 @@ sub open_output_file {
 while(<IN>){
 next unless/\d/;
 	chomp;
+s/\t.*//;
+s/.* //;
 	$SMASCH_LINK{$_}++;
 }
 close(IN);
@@ -149,7 +253,13 @@ EOPT
 print "     0 Making CPN ID\n";
 
 	#tie(%TNOAN, 'DB_File', $hashfile_taxon_no_author_name) || die "couldn't open $hashfile_taxon_no_author_name\n";
-	tie %TNOAN, "BerkeleyDB::Hash", -Filename => $hashfile_taxon_no_author_name, -Flags    => DB_CREATE or die "Cannot open file $hashfile_taxon_no_author_name: $! $BerkeleyDB::Error\n" ;
+	#tie %TNOAN, "BerkeleyDB::Hash", -Filename => $hashfile_taxon_no_author_name, -Flags    => DB_CREATE or die "Cannot open file $hashfile_taxon_no_author_name: $! $BerkeleyDB::Error\n" ;
+open(IN, "/Users/rlmoe/CDL_buffer/buffer/tnoan.out") || die;
+while(<IN>){
+chomp;
+($code,$name)=split(/\t/);
+$TNOAN{$name}=$code;
+}
 {
 #	open(IN, "current_names") || die;
 	&open_input_file($file_current_names);
@@ -177,7 +287,7 @@ print "     0 Making CPN ID\n";
 print "     1 loading links\n";
 &load_links();
 print "     2 making treatment hash\n";
-&make_treatment_hash();
+#&make_treatment_hash();
 #die "made treatment hash: dieing\n";
 print "     3 linking taxon_id to treatments\n";
 &link_tID_to_treatment();
@@ -186,7 +296,7 @@ print "     4 making name hash\n";
 print "     5 parsing the plant name index\n";
 &parse_cpn();
 print "     6 making treatment indexes\n";
-&make_treatment_indexes();
+#&make_treatment_indexes();
 print "     7 making common name file\n";
 &make_common_index();
 print "     8 making maps\n";
@@ -206,6 +316,7 @@ sub make_cpn_id {
 	local($/)="";
 	while(<IN>){
 #		next if 1 .. /PTERIDOPH/;  Removed 12 Jun 2007 by CAM
+s/&times;/x /g;
 s/\357\273\277//;
 s/\303\201/&Aacute;/g;
 s/\303\251/&eacute;/g;
@@ -409,7 +520,7 @@ s/'$//;
 @fields=split(/','/);
 $ildis_name=join(" ",@fields[0, 1]);
 	if ($CPNNOAN{$ildis_name}){
-		$ildis_link{$CPNNOAN{$ildis_name}}= qq{<a href="http://biodiversity.soton.ac.uk/cgi-bin/Araneus.pl?genus~$fields[0]&species~$fields[1]">ILDIS World Database of Legumes</a>};
+		$ildis_link{$CPNNOAN{$ildis_name}}= qq{<a href="http://www.ildis.org/LegumeWeb?version~10.01&LegumeWeb&tno~881&genus~$fields[0]&species~$fields[1]">ILDIS World Database of Legumes</a>};
 }
 else{
 push(@no_link, "ILDIS: $ildis_name not found in interchange\n");
@@ -493,6 +604,21 @@ push(@proto_link,"$name\t$link");
 }
 else{
 push(@no_link, "Protologue: $name not found in interchange\n");
+}
+}
+close(IN);
+&open_input_file($file_conifer);
+local($/)="\n";
+while(<IN>){
+next unless /\t/;
+chomp;
+($name,$link)=split(/\t/);
+push(@conifer_link,"$name\t$link");
+	if ($CPNNOAN{$name}){
+		$conifer_link{$CPNNOAN{$name}}= qq{<a href="$link">Gymnosperm Database</a>};
+}
+else{
+#push(@no_link, "Protologue: $name not found in interchange\n");
 }
 }
 close(IN);
@@ -918,6 +1044,7 @@ unlink($hashfile_tid_par) || die $!;  #Commented out 1 Sep 2005
 '8b' => 'unpublished, invalidly published, illegitimate, or rejected name for taxon not occurring in CA (erroneous reports, misapplication of names, misidentifications, other exclusions)',
 '9' => 'accepted name for plant occurring in CA only under cultivation (e.g., as crop, ornamental, or experimental plant)',
 '9a' => 'taxonomic or nomenclatural synonym for plant occurring in CA only under cultivation (e.g., as crop, ornamental, or experimental plant)',
+'9b' => 'unpublished, invalidly published, illegitimate, or rejected name for plant occurring in CA only under cultivation (e.g., as crop, ornamental, or experimental plant)',
 '10' => 'accepted name for taxonomically recognized and/or fertile hybrid; hybrid form of name',
 '10a' => 'accepted name for taxonomically recognized and/or fertile hybrid; non-hybrid form of name',
 '10b' => 'taxonomic or nomenclatural synonym for taxonomically recognized and/or fertile hybrid; hybrid form of name',
@@ -925,6 +1052,7 @@ unlink($hashfile_tid_par) || die $!;  #Commented out 1 Sep 2005
 '10c' => 'taxonomic or nomenclatural synonym for taxonomically recognized and/or fertile hybrid; non-hybrid form of name',
 '11' => 'accepted name for taxonomically not recognized and/or sterile hybrid; hybrid form of name',
 '11a' => 'accepted name for taxonomically not recognized and/or sterile hybrid; non-hybrid form of name',
+'11c' => 'taxonomic or nomenclatural synonym for taxonomically not recognized and/or sterile hybrid (non-hybrid form of name)',
 '12' => 'quadrinomial treated as trinomial elsewhere in this list',
 '13' => 'represents correction or possible correction only in spelling or rank and treated elsewhere in this list',
 '14' => 'orthographic variant of name treated elsewhere in this list',
@@ -960,6 +1088,7 @@ unlink($hashfile_tid_par) || die $!;  #Commented out 1 Sep 2005
 '11a_t' => 'accepted name for taxonomically not recognized and/or sterile hybrid; non-hybrid form of name (tentative)',
 '14_t' => 'orthographic variant of name treated elsewhere in this list (tentative)',
 'unresolved' => 'Current Status not yet established',
+'pending' => 'Current Status pending',
 	);
 
 unlink($hashfile_capn_db) || die $!;  #Commented out 1 Sep 2005
@@ -986,6 +1115,7 @@ EOP
 ENTRY:
 	while(<IN>){
 #s/LINK:.*FNA.*\n//;
+s/&times;/x /g;
 
 s/\357\273\277//;
 s/\303\201/&Aacute;/g;
@@ -1094,6 +1224,7 @@ if(m/^-?done/){
 		#print "$_\n";
 			s/^ +//;
 			(s/^Effort: */EF: / ||
+			s/Synchronization with TJM2: /STJM: / ||
 			s/^Author [Nn]otes: */AN: / ||
 			s/^Family: */FA: / ||
 			s/^Source: */SR: / ||
@@ -1133,6 +1264,7 @@ if(m/^-?done/){
 			s/^LINK: /LINK: /  ||
 			s/^Types Info: /TI: /  ||
 			s/^Current [Nn]ame: /CN: /  ||
+			s/^Pending: /PN: /  ||
 			s/^Current [Nn]ame \(T\): /CN_T: /  ||
 do{
 			print "no substitution $NAN $_\n";
@@ -1177,7 +1309,9 @@ $xs_ref="";
 							$xs_ref=&strip_name($xs_ref);
 						}
 else{
+unless(grep(/[Pp]ending:/,@lines)){
 push(@NCN, "No current name for $NAN\n");
+}
 }
 						if(grep(/SR: TJM/,@lines)){
 							push(@supplanted, "$NAN: $taxon_id: $xs_ref");
@@ -1370,7 +1504,9 @@ EOP
 		foreach (@lines[1 .. $#lines]){
 			foreach $tag ("TMN", "TSN", "SNTJM", "JFPS", "JFPN"){
 				if(m/$tag: +(.*)/){
-					@synos=split(/; +/, $1);
+$synos=$1;
+$synos=~s/\[[^\]]+\]//g;
+					@synos=split(/; +/, $synos);
 					foreach(@synos){
 						$_=&strip_name($_);
 						#print "$_\n";
@@ -1841,6 +1977,34 @@ EOP
 sub make_common_index {
 	open(OUT, ">${outdir}I_common.txt");
 		print OUT <<EOP;
+# Append this (SORTED!) to /cgi-bin/get_cn2.pl. It is the index for common name searches
+EOP
+
+tie(%IJM, "BerkeleyDB::Hash", -Filename=>"/Library/WebServer/ucjeps_data/IJM.hash")|| die "Stopped; couldnt open IJM\n";
+	foreach(keys(%IJM)){
+		$key=$_;
+		if($IJM{$_}=~/size="3">([A-Z][A-Z].*)/){
+			($names=$1)=~s/ \(Group.*//i;
+			$names=~s/ *<\/font.*//;
+			#$names=~s/, /\t$_\n/g;
+			foreach($names){
+		#print "$names\n";
+				s/^([A-Z'-]+) or (.*) (.*)/$1 $3\t$key\n$2 $3/;
+				s/^([A-Z'-]+ [A-Z'-]+) or (.*) (.*)/$1 $3\t$key\n$2 $3/;
+				s/^([A-Z'-]+), ([A-Z'-]+), ([ A-Z'-]+), or (.*) (.*)/$1 $5\t$key\n$2 $5\t$key\n$3 $5\t$key\n$4 $5/;
+				s/^([A-Z'-]+), ([ A-Z'-]+), or (.*) (.*)/$1 $4\t$key\n$2 $4\t$key\n$3 $4/;
+				s/^([^,]+), ([^,]+)$/$1\t$key\n$2/;
+				s/, /\t$key\n/g;
+			}
+		print OUT "$names\t$key\n";
+		}
+	}
+	close(OUT);
+}
+
+sub old_make_common_index {
+	open(OUT, ">${outdir}I_common.txt");
+		print OUT <<EOP;
 # Append this to /cgi-bin/get_cn2.pl. It is the index for common name searches
 EOP
 	local($/)="";
@@ -1973,7 +2137,7 @@ $par_count=scalar(keys(%FF));
 		while(($key,$value)=each(%FF)){
 			$value=~s/\n/<^>/g;
 	if($dbm_file=~/$hashfile_JM_namehash/){
-	print "NH $key\n";
+	#print "NH $key\n";
 	}
 			++$count;
 			print OUT $key,  "\n$value\n\n";
@@ -2074,6 +2238,7 @@ s/Hallier f\./Hallier filius/g;
 s/Hedw. f\./Hedw. filius/g;
 s/Hook. f\./Hook. filius/g;
 s/Jacq. f\./Jacq. filius/g;
+s/L\. f\. sulcat/f. sulcat/g;
 s/L. f\./L. filius/g;
 s/Lestib. f\./Lestib. filius/g;
 s/Lindb. f\./Lindb. filius/g;
@@ -2185,15 +2350,7 @@ EOP
 sub print_main_index{
 	open(OUT, ">${outdir}I_indexes.html") || die;
 	print OUT <<EOP;
-<html>
-<head>
-<title>
-UCJEPS: Interchange Status Categories
-</title>
-$keywords
-</head>
-<body>
-$page_top<br>&nbsp;
+$page_header
 <H2 align="center">
 Index to California Plant Names
 <br>
@@ -2228,15 +2385,7 @@ sub make_index {
 		open(OUT, ">${outdir}I_index_${initial}.html") || die 
 		"Can't open output file \"${outdir}I_index_${initial}.html\"";
 		print OUT <<EOP;
-<html>
-<head>
-<title>
-UCJEPS: Interchange index to taxa: $initial
-</title>
-$keywords
-</head>
-<body>
-$page_top<br>&nbsp;
+$page_header
 <blockquote>
 EOP
 		foreach(A .. Z){
@@ -2281,15 +2430,7 @@ local($status)=@_;
 		open(OUT, ">${outdir}I_status_${status}.html") || die "$outdir $status $!";
 	if($Current_Status{$status}){
 	print OUT <<EOP;
-<html>
-<head>
-<title>
-UCJEPS: Interchange Index to Current Status
-</title>
-$keywords
-</head>
-<body>
-$page_top<br>&nbsp;
+$page_header
 <H2 align="center">
 Index to Current Status
 </h2>
@@ -2346,6 +2487,7 @@ EOP
 foreach(@nosub){
 print OUT "$_\n";
 }
+warn "comment out ILDIS and WEED in CGI script.";
 __END__
    if($lines[0]=~s/([^(]+\([^)]+\)[^(]+\(([^)]+)\)[^(]+\))\(([^)]+)\)$/$1/){
 elsif($lines[0]=~s/([^(]+\([^)]+\)[^(]+)\(([^(]+)\)$/$1/){
