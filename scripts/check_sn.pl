@@ -12,10 +12,14 @@
 ##print "$_\n";
 #}
 #close(IN);
+warn <<EOP;
+Croton setiger -setigerus problem and Muller. Arg. accent problem
+EOP
 
 
 
-$treat_hash="/!proj/interchange/update - 4 Nov 2005/flat_dbm_6";
+#$treat_hash="/!proj/interchange/update - 4 Nov 2005/flat_dbm_6";
+$treat_hash="output/flat_dbm_6.txt";
 die $! unless -e $treat_hash;
 open(IN,"$treat_hash") || die;
 $/="";
@@ -45,14 +49,24 @@ EOP
 }
 
 close(IN);
+
+#open(IN,"ICPN_from_TJM2") || die;
+#$/="";
+#while(<IN>){
+#chomp;
+#$new_from_TJM2{
+#}
 {
-open(IN, "caplantnames.txt") || die;
+#open(IN, "caplantnames.txt") || die;
 local($/)="";
 open(OUT, ">cpn_out.txt") || die;
-while(<IN>){
+while(<>){
 unless (1 .. /PTERIDO/){
 die " Dying colon--$lastline$_\n" if m/^.{3,25}:/;
 }
+s/^=====.*\n.//;
+
+s/^\.//; #Get rid of leading periods  -  29 Sep 2006 by CAM
 s/LINK.*FNA.*\n//;
 s/LINK.*Check the California Weed.*\n//;
 s/  +/ /g;
@@ -111,9 +125,13 @@ if($lines[$j] =~ /^(Family|Author Notes)/){
 die "Dying collapsed after $name\n$_\n" unless ($j==1||$j==2||$j==3);
 }
 }
+
+#print "$name\n";
+
+
 if($#lines <= 3){
 #warn "Possible bad blank after $name\n$_\n";
-print "Possible bad blank after $name\n$_\n";
+print "\n\nPossible bad blank after $name\n$_\n";
 next;
 }
 
@@ -165,7 +183,8 @@ unless ($seen{$_}++){
 		s!^TJM synonyms: *!TSN: ! ||
 		s!^TJM2 synonyms: *!TSN2: ! ||
 		s!^Current JFP [Ss]ynonyms?: *!JFPS: ! ||
-		s!^TJD?M misapplied names: *!TMN: ! ||
+		s!^TJD?M misapplied names?: *!TMN: ! ||
+		s!^Current JFP [Mm]isapplied names?: *!JFPMN: ! ||
 		s/^Literature: */RL: / ||
 		s/^Literature ([a-z]): */RL$1: / ||
 		s/^Recent Literature ([a-z]): */RL$1: / ||
